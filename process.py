@@ -127,9 +127,7 @@ class ObjectProcessor:
         """
         col_weight_normalized = normalize(csc_matrix, norm='l1', axis=0)
         x = (col_weight_normalized.transpose().multiply(col_weight_normalized))
-        # y = sp.tril(x)
-        # return y / 2
-        return x / 2
+        return x.sqrt()
 
     @staticmethod
     def get_directory(filepath, filename):
