@@ -1,0 +1,12 @@
+Weight of the co-occurrences in data-objects: 1.0
+Weight of the co-occurrences in directories: 3.0
+Weight of the co-occurrences for current data-object: 1.0
+Weight of the co-occurrences for the directories of thecurrent data-object: 2.0
+Weight of self co-occurrences (correction parameter): 0.01
+Control parameter k of the okapi-bm25-tf-idf-formula: 1.75
+Control parameter b of the okapi-bm25-tf-idf-formula: 0.75
+Distinction plot was created
+Format-co-occurrence plots were created
+Ranking plots were created
+Readable formats of the Environments were read from save file not WikiData
+Log -messages were printed in textbox
