@@ -25,7 +25,7 @@ run_parameters.txt contains the chosen options of the run
 Select the path to the data-objects that shall be analyzed by entering the
 path to the folder in the entry field or simply use the browse button for a file dialog
 to choose the data-objects folder. Note that the data-objects need to contain
-output of the siegfried(1.7.8) program in jason format.
+output of the siegfried(1.7.8) program in json format.
 Furthermore on the first use the displayed default path is not necessarily correct.
 Just set the path once on the first use on a new machine. The program will
 remember the path afterwards.(Of course the path can be changed with every use)  
@@ -126,7 +126,7 @@ If check the program will read the readable formats for each environment from a 
 This way the program does not have to contact the WikiData servers every time to ask for the
 readable formats of the programs in the environments.  
 
-#### 14th Option - Read readable formats for each environment from a save file
+#### 14th Option - Save readable formats for each environment from a save file
 If check the program will save the readable formats for each environment in the current given path in a save file.
 If the environments will stay the same for the next runs check this option on the first run and afterwards use
 the previous mentioned option (13th option). And uncheck this option for the following runs.  
