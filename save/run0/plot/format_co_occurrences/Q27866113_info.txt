@@ -1,0 +1,14 @@
+Q27866113 -Adobe Illustrator Artwork, version 4.0 -http://www.wikidata.org/entity/Q27866113
+
+#############################################################################################
+
+Q27866121 -Adobe Illustrator Artwork, version 7.0 -http://www.wikidata.org/entity/Q27866121
+Q27866110 -Adobe Illustrator Artwork, version 8 -http://www.wikidata.org/entity/Q27866110
+Q47498500 -Adobe Illustrator file format, version 8 -http://www.wikidata.org/entity/Q47498500
+Q27866114 -Adobe Illustrator Artwork, version 5.0/5.5 -http://www.wikidata.org/entity/Q27866114
+Q27866120 -Adobe Illustrator Artwork, version 6.0 -http://www.wikidata.org/entity/Q27866120
+Q27866092 -Adobe Illustrator Artwork, version 1.0/1.1 -http://www.wikidata.org/entity/Q27866092
+Q27866112 -Adobe Illustrator Artwork, version 3.0/3.2 -http://www.wikidata.org/entity/Q27866112
+Q27866118 -Adobe Illustrator Artwork, version 5.x Japenese Edition -http://www.wikidata.org/entity/Q27866118
+Q48805492 -ChiWriter Document -http://www.wikidata.org/entity/Q48805492
+Q59962263 -ChiWriter Document -http://www.wikidata.org/entity/Q59962263

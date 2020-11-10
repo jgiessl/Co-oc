@@ -1,0 +1,17 @@
+39002073436124
+number of files:  427
+number of files with unknown format: 4
+number of files with known format: 423
+contained formats: 
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+Q43869672 -PCX, version 3 -http://www.wikidata.org/entity/Q43869672
+Q1258721 -NFO -http://www.wikidata.org/entity/Q1258721
+Q535473 -PCX -http://www.wikidata.org/entity/Q535473
+Q43870624 -PCX, version 5 -http://www.wikidata.org/entity/Q43870624
+Q817650 -COM -http://www.wikidata.org/entity/Q817650
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572
+Q28205583 -OS/2 Pointer -http://www.wikidata.org/entity/Q28205583
+Q43866871 -PCX, version 2 -http://www.wikidata.org/entity/Q43866871
+Q43870269 -PCX, version 4 -http://www.wikidata.org/entity/Q43870269

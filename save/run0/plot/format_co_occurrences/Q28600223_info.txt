@@ -1,0 +1,14 @@
+Q28600223 -APT -http://www.wikidata.org/entity/Q28600223
+
+##########################################################
+
+Q28758207 -Adaptive Prediction Trees -http://www.wikidata.org/entity/Q28758207
+Q46118545 -Lotus Approach View File -http://www.wikidata.org/entity/Q46118545
+Q28600228 -APL workspace -http://www.wikidata.org/entity/Q28600228
+Q62625630 -Structured Query Language script -http://www.wikidata.org/entity/Q62625630
+Q28206162 -GEM Raster -http://www.wikidata.org/entity/Q28206162
+Q28207469 -Vivid IMG -http://www.wikidata.org/entity/Q28207469
+Q28206373 -Interleaf image -http://www.wikidata.org/entity/Q28206373
+Q28206306 -Analyze IMG -http://www.wikidata.org/entity/Q28206306
+Q28205944 -Doré Raster -http://www.wikidata.org/entity/Q28205944
+Q27355592 -ADRG Geo Data File -http://www.wikidata.org/entity/Q27355592

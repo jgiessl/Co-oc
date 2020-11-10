@@ -1,0 +1,14 @@
+Q28205797 -Canvas Picture Format -http://www.wikidata.org/entity/Q28205797
+
+############################################################################
+
+Q29000603 -Windows Registry policy file -http://www.wikidata.org/entity/Q29000603
+Q28755730 -FDB (Legacy Family Tree) -http://www.wikidata.org/entity/Q28755730
+Q5439272 -Font Definition Block -http://www.wikidata.org/entity/Q5439272
+Q88372666 -Legacy Family Tree Database 3-9 -http://www.wikidata.org/entity/Q88372666
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q260180 -OpenType Font -http://www.wikidata.org/entity/Q260180
+Q4049344 -SFNT -http://www.wikidata.org/entity/Q4049344
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953

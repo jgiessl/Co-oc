@@ -1,0 +1,14 @@
+Q66439311 -Navy DIF -http://www.wikidata.org/entity/Q66439311
+
+###############################################################
+
+Q52425710 -VisiCalc Database -http://www.wikidata.org/entity/Q52425710
+Q28205583 -OS/2 Pointer -http://www.wikidata.org/entity/Q28205583
+Q61707607 -Microsoft Outlook Email Message -http://www.wikidata.org/entity/Q61707607
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q28858035 -Word Binary File Format, version nFib=0x00C1 -http://www.wikidata.org/entity/Q28858035
+Q61641368 -Microsoft Word for Windows Document, version 2 -http://www.wikidata.org/entity/Q61641368
+Q51801746 -Stationery for Mac OS X -http://www.wikidata.org/entity/Q51801746
+Q85621726 -PFS:First Choice Document -http://www.wikidata.org/entity/Q85621726
+Q28858042 -Word Binary File Format, version nFibNew=0x010C -http://www.wikidata.org/entity/Q28858042
+Q48915661 -Interleaf Document -http://www.wikidata.org/entity/Q48915661

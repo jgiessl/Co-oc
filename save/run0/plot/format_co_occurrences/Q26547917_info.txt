@@ -1,0 +1,14 @@
+Q26547917 -Portable Document Format/Archive, version 3 Accessible -http://www.wikidata.org/entity/Q26547917
+
+#############################################################################################################
+
+Q26541013 -Portable Document Format/Archive, version 1 Accessible -http://www.wikidata.org/entity/Q26541013
+Q29946121 -Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant -http://www.wikidata.org/entity/Q29946121
+Q26548590 -Portable Document Format/Archive, version 3 Basic -http://www.wikidata.org/entity/Q26548590
+Q29946829 -Portable Document Format/Exchange 3:2002 -http://www.wikidata.org/entity/Q29946829
+Q26543628 -Portable Document Format/Archive, version 1 Basic -http://www.wikidata.org/entity/Q26543628
+Q29946726 -Portable Document Format/Exchange 1a:2001 -http://www.wikidata.org/entity/Q29946726
+Q26547266 -Portable Document Format/Archive, version 2 Unicode -http://www.wikidata.org/entity/Q26547266
+Q26085319 -Portable Document Format, version 1.6 -http://www.wikidata.org/entity/Q26085319
+Q29946883 -Portable Document Format/Exchange 4p -http://www.wikidata.org/entity/Q29946883
+Q29946866 -Portable Document Format/Exchange 4 -http://www.wikidata.org/entity/Q29946866

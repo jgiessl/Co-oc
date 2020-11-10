@@ -1,0 +1,14 @@
+Q49798508 -Adobe Portable Document Catalog Index File, version 2 -http://www.wikidata.org/entity/Q49798508
+
+############################################################################################################
+
+Q49799747 -Adobe Portable Document Catalog Index File, version 3.2 -http://www.wikidata.org/entity/Q49799747
+Q49798739 -Adobe Portable Document Catalog Index File, version 3 -http://www.wikidata.org/entity/Q49798739
+Q49799499 -Adobe Portable Document Catalog Index File, version 3.1 -http://www.wikidata.org/entity/Q49799499
+Q5448342 -File change log -http://www.wikidata.org/entity/Q5448342
+Q29904540 -Statistical Analysis System log file -http://www.wikidata.org/entity/Q29904540
+Q5421818 -Extended Log Format -http://www.wikidata.org/entity/Q5421818
+Q50223812 -Bluetooth Snoop Packet Capture -http://www.wikidata.org/entity/Q50223812
+Q5153426 -Common Log Format -http://www.wikidata.org/entity/Q5153426
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q28206952 -PhotoDeluxe -http://www.wikidata.org/entity/Q28206952

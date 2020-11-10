@@ -1,0 +1,5 @@
+Q60342897 -Microsoft PowerPoint Show -http://www.wikidata.org/entity/Q60342897
+
+################################################################################
+
+Q24834502 -PowerPoint Binary File Format -http://www.wikidata.org/entity/Q24834502

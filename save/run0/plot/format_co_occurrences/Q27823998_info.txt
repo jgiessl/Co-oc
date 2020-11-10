@@ -1,0 +1,14 @@
+Q27823998 -Maptech Update Patch File, version 3.0 -http://www.wikidata.org/entity/Q27823998
+
+#############################################################################################
+
+Q83489235 -VisiCalc file format -http://www.wikidata.org/entity/Q83489235
+Q59535034 -Stuffit Archive File -http://www.wikidata.org/entity/Q59535034
+Q28771302 -Matlab figure -http://www.wikidata.org/entity/Q28771302
+Q28756261 -FIG -http://www.wikidata.org/entity/Q28756261
+Q66134564 -Photoshop DCS 1.0 -http://www.wikidata.org/entity/Q66134564
+Q48625328 -Encapsulated PostScript, v2 -http://www.wikidata.org/entity/Q48625328
+Q59714459 -Encapsulated PostScript File Format -http://www.wikidata.org/entity/Q59714459
+Q1817318 -X BitMap -http://www.wikidata.org/entity/Q1817318
+Q1047541 -Encapsulated PostScript -http://www.wikidata.org/entity/Q1047541
+Q5301 -TeX -http://www.wikidata.org/entity/Q5301

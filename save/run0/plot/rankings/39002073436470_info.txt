@@ -1,0 +1,28 @@
+39002073436470
+number of files:  215
+number of files with unknown format: 49
+number of files with known format: 166
+contained formats: 
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q64858274 -Corel Presentations Master file format -http://www.wikidata.org/entity/Q64858274
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q28206125 -Flexible Line Interpretation -http://www.wikidata.org/entity/Q28206125
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q217570 -Waveform Audio File Format -http://www.wikidata.org/entity/Q217570
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q67377613 -CaseWare 2005 Compressed file -http://www.wikidata.org/entity/Q67377613
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q59962623 -Autodesk Animator (FlicLib) -http://www.wikidata.org/entity/Q59962623
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q939636 -CorelDRAW Document -http://www.wikidata.org/entity/Q939636
+Q27967444 -AutoDesk FLIC Animation -http://www.wikidata.org/entity/Q27967444
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412

@@ -1,0 +1,14 @@
+Q1546911 -Cross-Platform Installer Module -http://www.wikidata.org/entity/Q1546911
+
+####################################################################################
+
+Q29000616 -Google Chrome Extension -http://www.wikidata.org/entity/Q29000616
+Q1093556 -eXtensible ARchive format -http://www.wikidata.org/entity/Q1093556
+Q751800 -TrueType Font -http://www.wikidata.org/entity/Q751800
+Q95994804 -Spatial Data Transfer Standard format -http://www.wikidata.org/entity/Q95994804
+Q29644119 -ISO/IEC 8211 Data Descriptive File -http://www.wikidata.org/entity/Q29644119
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484

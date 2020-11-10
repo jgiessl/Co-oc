@@ -1,0 +1,14 @@
+Q27967085 -Jason Page -http://www.wikidata.org/entity/Q27967085
+
+#################################################################
+
+Q28532082 -CAChe MolStruct -http://www.wikidata.org/entity/Q28532082
+Q28206538 -Magick Persistent Cache (.cache file) -http://www.wikidata.org/entity/Q28206538
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q1952708 -FILE_ID.DIZ -http://www.wikidata.org/entity/Q1952708
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572
+Q66662117 -Lotus Ami Pro Styles -http://www.wikidata.org/entity/Q66662117
+Q50308790 -DirectMusic Style File Format -http://www.wikidata.org/entity/Q50308790
+Q3888665 -Package interchange format -http://www.wikidata.org/entity/Q3888665
+Q382011 -Program information file -http://www.wikidata.org/entity/Q382011

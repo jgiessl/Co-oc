@@ -1,0 +1,27 @@
+39002070651204
+number of files:  133
+number of files with unknown format: 2
+number of files with known format: 131
+contained formats: 
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q28205488 -Windows Cursor -http://www.wikidata.org/entity/Q28205488
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q43869672 -PCX, version 3 -http://www.wikidata.org/entity/Q43869672
+Q535473 -PCX -http://www.wikidata.org/entity/Q535473
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q43866871 -PCX, version 2 -http://www.wikidata.org/entity/Q43866871
+Q66439261 -WordPerfect Merge Forms file format -http://www.wikidata.org/entity/Q66439261
+Q43870624 -PCX, version 5 -http://www.wikidata.org/entity/Q43870624
+Q59653966 -MySQL Table Definition Format -http://www.wikidata.org/entity/Q59653966
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q43870269 -PCX, version 4 -http://www.wikidata.org/entity/Q43870269
+Q28206381 -VisualBasic form -http://www.wikidata.org/entity/Q28206381
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q1569639 -Interchange File Format -http://www.wikidata.org/entity/Q1569639
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412

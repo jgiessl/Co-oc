@@ -1,0 +1,78 @@
+39002074070864
+number of files:  1213
+number of files with unknown format: 486
+number of files with known format: 727
+contained formats: 
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q61727569 -PrimeOCR file format, version 4.2 -http://www.wikidata.org/entity/Q61727569
+Q29944783 -Rich Text Format, version 1.7 -http://www.wikidata.org/entity/Q29944783
+Q29944779 -Rich Text Format, version 1.4 -http://www.wikidata.org/entity/Q29944779
+Q55721640 -AmiraMesh ASCII file format -http://www.wikidata.org/entity/Q55721640
+Q61727602 -PrimeOCR file format, version 4.3 -http://www.wikidata.org/entity/Q61727602
+Q29650305 -PSI-MI XML -http://www.wikidata.org/entity/Q29650305
+Q27826464 -Cascading Style Sheets Level 1 -http://www.wikidata.org/entity/Q27826464
+Q29944777 -Rich Text Format, version 1.3 -http://www.wikidata.org/entity/Q29944777
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q27826469 -Cascading Style Sheets Level 3 -http://www.wikidata.org/entity/Q27826469
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q29944782 -Rich Text Format, version 1.6 -http://www.wikidata.org/entity/Q29944782
+Q34746472 -STATISTICA Spreadsheet File -http://www.wikidata.org/entity/Q34746472
+Q29944773 -Rich Text Format, version 1.1 -http://www.wikidata.org/entity/Q29944773
+Q27925718 -DTED Level 1 Gazetteer Key file -http://www.wikidata.org/entity/Q27925718
+Q47012486 -MultiMate Text File -http://www.wikidata.org/entity/Q47012486
+Q29944987 -Rich Text Format, version 0 -http://www.wikidata.org/entity/Q29944987
+Q29944780 -Rich Text Format, version 1.5 -http://www.wikidata.org/entity/Q29944780
+Q29944786 -Rich Text Format, version 1.9 -http://www.wikidata.org/entity/Q29944786
+Q15955723 -Python script -http://www.wikidata.org/entity/Q15955723
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q61727559 -PrimeOCR file format, version 4 -http://www.wikidata.org/entity/Q61727559
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q61727114 -PrimeOCR file format, version 3 -http://www.wikidata.org/entity/Q61727114
+Q28445577 -Advanced Authoring System -http://www.wikidata.org/entity/Q28445577
+Q98815369 -Microsoft Access Database Link -http://www.wikidata.org/entity/Q98815369
+Q34273353 -Keynote -http://www.wikidata.org/entity/Q34273353
+Q29650343 -PEM encoded RSA private key -http://www.wikidata.org/entity/Q29650343
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q27826468 -Cascading Style Sheets Level 2 Revision 1 -http://www.wikidata.org/entity/Q27826468
+Q27826466 -Cascading Style Sheets Level 2 -http://www.wikidata.org/entity/Q27826466
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q55721708 -AmiraMesh Binary Little Endian 2.1 file format -http://www.wikidata.org/entity/Q55721708
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q49243071 -Java language source code file -http://www.wikidata.org/entity/Q49243071
+Q62625561 -Bash script -http://www.wikidata.org/entity/Q62625561
+Q921122 -Java archive -http://www.wikidata.org/entity/Q921122
+Q3563777 -MicroDVD -http://www.wikidata.org/entity/Q3563777
+Q55721671 -AmiraMesh 3D ASCII 2.0 file format -http://www.wikidata.org/entity/Q55721671
+Q29944785 -Rich Text Format, version 1.8 -http://www.wikidata.org/entity/Q29944785
+Q29944758 -Rich Text Format, version 1.0 -http://www.wikidata.org/entity/Q29944758
+Q59537335 -Apple iWorks Keynote -http://www.wikidata.org/entity/Q59537335
+Q28206822 -PaintShop Pro image -http://www.wikidata.org/entity/Q28206822
+Q5616826 -ChordPro -http://www.wikidata.org/entity/Q5616826
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572
+Q1068805 -.properties -http://www.wikidata.org/entity/Q1068805
+Q61727514 -PrimeOCR file format, version 3.9 -http://www.wikidata.org/entity/Q61727514
+Q2193155 -Java class file -http://www.wikidata.org/entity/Q2193155
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q58007215 -Visual Basic File -http://www.wikidata.org/entity/Q58007215
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q55721702 -AmiraMesh 3D Binary 2.0 file format -http://www.wikidata.org/entity/Q55721702
+Q27979377 -VobSub subtitle -http://www.wikidata.org/entity/Q27979377
+Q55721705 -AmiraMesh 3D Binary Little Endian 2.0 file format -http://www.wikidata.org/entity/Q55721705
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q29944776 -Rich Text Format, version 1.2 -http://www.wikidata.org/entity/Q29944776
+Q7395247 -SYBYL line notation -http://www.wikidata.org/entity/Q7395247
+Q28600470 -DER encoded RSA private key -http://www.wikidata.org/entity/Q28600470
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q28757986 -IPS manifest -http://www.wikidata.org/entity/Q28757986
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q61727504 -PrimeOCR file format, version 3.8 -http://www.wikidata.org/entity/Q61727504
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q73514615 -KiCad Project -http://www.wikidata.org/entity/Q73514615

@@ -1,0 +1,14 @@
+Q28770339 -Lynx archive -http://www.wikidata.org/entity/Q28770339
+
+###################################################################
+
+Q28205708 -Applixware Bitmap -http://www.wikidata.org/entity/Q28205708
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q3459655 -StuffIt X archive -http://www.wikidata.org/entity/Q3459655
+Q66686421 -Microsoft Works Word Processor 1-3 for DOS and 2 for Windows -http://www.wikidata.org/entity/Q66686421
+Q28771324 -Microsoft Works Spreadsheet -http://www.wikidata.org/entity/Q28771324
+Q63344874 -Microsoft Works Word Processor 5-6 -http://www.wikidata.org/entity/Q63344874
+Q63391715 -Microsoft Works Word Processor Macintosh, version 4 -http://www.wikidata.org/entity/Q63391715
+Q63106742 -Microsoft Works Word Processor 3-4 for Windows -http://www.wikidata.org/entity/Q63106742
+Q63391711 -Microsoft Works Word Processor Macintosh, version 3 -http://www.wikidata.org/entity/Q63391711
+Q27826464 -Cascading Style Sheets Level 1 -http://www.wikidata.org/entity/Q27826464

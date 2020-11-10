@@ -1,0 +1,14 @@
+Q27967140 -Digitrakker instrument -http://www.wikidata.org/entity/Q27967140
+
+#############################################################################
+
+Q66004695 -ImageStyler File -http://www.wikidata.org/entity/Q66004695
+Q901031 -device independent file format -http://www.wikidata.org/entity/Q901031
+Q52063393 -TeX Binary File -http://www.wikidata.org/entity/Q52063393
+Q5301 -TeX -http://www.wikidata.org/entity/Q5301
+Q60414423 -TAP (Commodore 64) -http://www.wikidata.org/entity/Q60414423
+Q34748140 -TAP -http://www.wikidata.org/entity/Q34748140
+Q28207359 -TAP -http://www.wikidata.org/entity/Q28207359
+Q6717333 -Mathematical Programming System -http://www.wikidata.org/entity/Q6717333
+Q6717026 -MOI -http://www.wikidata.org/entity/Q6717026
+Q47538631 -AutoCAD Custom Dictionary -http://www.wikidata.org/entity/Q47538631

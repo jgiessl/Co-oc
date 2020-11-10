@@ -1,0 +1,14 @@
+Q1075962 -RealMedia -http://www.wikidata.org/entity/Q1075962
+
+##############################################################
+
+Q95733139 -RealAudio version 3 -http://www.wikidata.org/entity/Q95733139
+Q95733178 -RealAudio version 4 -http://www.wikidata.org/entity/Q95733178
+Q28206497 -Lossless JPEG -http://www.wikidata.org/entity/Q28206497
+Q26385770 -Still Picture Interchange File Format -http://www.wikidata.org/entity/Q26385770
+Q17092932 -JPEG-XT -http://www.wikidata.org/entity/Q17092932
+Q1952321 -Multi Picture Object -http://www.wikidata.org/entity/Q1952321
+Q26329648 -JPEG File Interchange Format, version 1.0 -http://www.wikidata.org/entity/Q26329648
+Q28206262 -HSI JPEG -http://www.wikidata.org/entity/Q28206262
+Q28206359 -Intergraph Raster -http://www.wikidata.org/entity/Q28206359
+Q74021019 -RealMedia meta file -http://www.wikidata.org/entity/Q74021019

@@ -1,0 +1,14 @@
+Q7555481 -sol -http://www.wikidata.org/entity/Q7555481
+
+########################################################
+
+Q17138473 -Sun Raster -http://www.wikidata.org/entity/Q17138473
+Q44044 -N-Triples -http://www.wikidata.org/entity/Q44044
+Q28770728 -MAT-file, Level 5, version 6 -http://www.wikidata.org/entity/Q28770728
+Q28771107 -MAT-file, Level 4 -http://www.wikidata.org/entity/Q28771107
+Q28771220 -MAT-file, Level 5, version 7 -http://www.wikidata.org/entity/Q28771220
+Q28771221 -MAT-file, Level 5, version 7.3 -http://www.wikidata.org/entity/Q28771221
+Q2858737 -Apple Icon Image format -http://www.wikidata.org/entity/Q2858737
+Q27979388 -AAE sidecar format -http://www.wikidata.org/entity/Q27979388
+Q27967223 -StarTrekker/Star Tracker module -http://www.wikidata.org/entity/Q27967223
+Q34284525 -Perl script -http://www.wikidata.org/entity/Q34284525

@@ -1,0 +1,32 @@
+39002074346728
+number of files:  28
+number of files with unknown format: 1
+number of files with known format: 27
+contained formats: 
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q61727569 -PrimeOCR file format, version 4.2 -http://www.wikidata.org/entity/Q61727569
+Q61727602 -PrimeOCR file format, version 4.3 -http://www.wikidata.org/entity/Q61727602
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q61727559 -PrimeOCR file format, version 4 -http://www.wikidata.org/entity/Q61727559
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q61727114 -PrimeOCR file format, version 3 -http://www.wikidata.org/entity/Q61727114
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q5616826 -ChordPro -http://www.wikidata.org/entity/Q5616826
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q61727514 -PrimeOCR file format, version 3.9 -http://www.wikidata.org/entity/Q61727514
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q61727504 -PrimeOCR file format, version 3.8 -http://www.wikidata.org/entity/Q61727504
+Q73514615 -KiCad Project -http://www.wikidata.org/entity/Q73514615

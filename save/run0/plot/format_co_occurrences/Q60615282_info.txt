@@ -1,0 +1,14 @@
+Q60615282 -Write for Windows Document, version 3 -http://www.wikidata.org/entity/Q60615282
+
+############################################################################################
+
+Q27526866 -Write for Windows Document, version 3.1 -http://www.wikidata.org/entity/Q27526866
+Q28207202 -QuickTime Image Format -http://www.wikidata.org/entity/Q28207202
+Q29650301 -Pack -http://www.wikidata.org/entity/Q29650301
+Q28758103 -InstallShield Z -http://www.wikidata.org/entity/Q28758103
+Q29209269 -Z -http://www.wikidata.org/entity/Q29209269
+Q19599377 -AppleLink Package Compression Format -http://www.wikidata.org/entity/Q19599377
+Q28344713 -Package File -http://www.wikidata.org/entity/Q28344713
+Q28771319 -Microsoft Library -http://www.wikidata.org/entity/Q28771319
+Q6043826 -Intellifont -http://www.wikidata.org/entity/Q6043826
+Q29000498 -OrCAD library -http://www.wikidata.org/entity/Q29000498

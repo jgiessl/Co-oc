@@ -1,0 +1,14 @@
+Q66662117 -Lotus Ami Pro Styles -http://www.wikidata.org/entity/Q66662117
+
+###########################################################################
+
+Q50308790 -DirectMusic Style File Format -http://www.wikidata.org/entity/Q50308790
+Q53844499 -BibTeX style file -http://www.wikidata.org/entity/Q53844499
+Q5301 -TeX -http://www.wikidata.org/entity/Q5301
+Q901031 -device independent file format -http://www.wikidata.org/entity/Q901031
+Q52063393 -TeX Binary File -http://www.wikidata.org/entity/Q52063393
+Q29651228 -Personal Storage Table, Unicode 2003-2007 variant -http://www.wikidata.org/entity/Q29651228
+Q29651210 -Personal Storage Table, ANSI 1997-2002 variant -http://www.wikidata.org/entity/Q29651210
+Q1480633 -Personal Storage Table -http://www.wikidata.org/entity/Q1480633
+Q27967217 -Scream Tracker Music Interface Kit module -http://www.wikidata.org/entity/Q27967217
+Q29905159 -Statistical Analysis System transport file -http://www.wikidata.org/entity/Q29905159

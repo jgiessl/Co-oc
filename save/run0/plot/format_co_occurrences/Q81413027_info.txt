@@ -1,0 +1,14 @@
+Q81413027 -Capella sheet data file -http://www.wikidata.org/entity/Q81413027
+
+##############################################################################
+
+Q50604600 -Phase One Raw Image -http://www.wikidata.org/entity/Q50604600
+Q47245444 -Microsoft Network Monitor Packet Capture -http://www.wikidata.org/entity/Q47245444
+Q29000609 -Java Card CAP -http://www.wikidata.org/entity/Q29000609
+Q47245245 -Microsoft Network Monitor Packet Capture, version 1 -http://www.wikidata.org/entity/Q47245245
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030

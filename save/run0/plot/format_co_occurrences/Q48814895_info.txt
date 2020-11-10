@@ -1,0 +1,14 @@
+Q48814895 -ESRI ArcView Project -http://www.wikidata.org/entity/Q48814895
+
+###########################################################################
+
+Q59999653 -ESRI Arc/View Project -http://www.wikidata.org/entity/Q59999653
+Q46118194 -Lotus Approach View File, version 97 -http://www.wikidata.org/entity/Q46118194
+Q28600492 -Data Resource File -http://www.wikidata.org/entity/Q28600492
+Q27960023 -Tom's lossless Audio Kompressor -http://www.wikidata.org/entity/Q27960023
+Q68480634 -Magic: The Gathering cards Deck file format -http://www.wikidata.org/entity/Q68480634
+Q28777700 -Mozilla Archive -http://www.wikidata.org/entity/Q28777700
+Q29168314 -Microsoft Archive -http://www.wikidata.org/entity/Q29168314
+Q66663925 -OS/2 Metafile -http://www.wikidata.org/entity/Q66663925
+Q29904450 -Presentation Manager Metafile -http://www.wikidata.org/entity/Q29904450
+Q47538951 -AutoCAD Compiled Menu -http://www.wikidata.org/entity/Q47538951

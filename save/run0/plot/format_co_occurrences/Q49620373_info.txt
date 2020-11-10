@@ -1,0 +1,14 @@
+Q49620373 -Revit Workspace -http://www.wikidata.org/entity/Q49620373
+
+######################################################################
+
+Q28919155 -Rhino Worksession -http://www.wikidata.org/entity/Q28919155
+Q29000614 -Resource File -http://www.wikidata.org/entity/Q29000614
+Q29650305 -PSI-MI XML -http://www.wikidata.org/entity/Q29650305
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q28770260 -Hugo -http://www.wikidata.org/entity/Q28770260
+Q572649 -Intel HEX -http://www.wikidata.org/entity/Q572649
+Q2119595 -Wavefront .obj file -http://www.wikidata.org/entity/Q2119595
+Q28344021 -Imagine Object File -http://www.wikidata.org/entity/Q28344021
+Q7311459 -Relocatable Object Module Format -http://www.wikidata.org/entity/Q7311459
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580

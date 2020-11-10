@@ -1,0 +1,14 @@
+Q1056154 -M4V -http://www.wikidata.org/entity/Q1056154
+
+########################################################
+
+Q188199 -Ogg -http://www.wikidata.org/entity/Q188199
+Q28600764 -Electronic Arts MOV -http://www.wikidata.org/entity/Q28600764
+Q942350 -QuickTime File Format -http://www.wikidata.org/entity/Q942350
+Q1353763 -WMV HD -http://www.wikidata.org/entity/Q1353763
+Q27895063 -Windows Media Video -http://www.wikidata.org/entity/Q27895063
+Q28018470 -MPEG-1 program stream -http://www.wikidata.org/entity/Q28018470
+Q28018471 -MPEG-2 program stream -http://www.wikidata.org/entity/Q28018471
+Q28205653 -Abekas YUV -http://www.wikidata.org/entity/Q28205653
+Q77046033 -Extensible 3D vector graphics (VRML) -http://www.wikidata.org/entity/Q77046033
+Q27967488 -FLV -http://www.wikidata.org/entity/Q27967488

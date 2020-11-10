@@ -1,0 +1,14 @@
+Q28205583 -OS/2 Pointer -http://www.wikidata.org/entity/Q28205583
+
+###################################################################
+
+Q52425710 -VisiCalc Database -http://www.wikidata.org/entity/Q52425710
+Q66439311 -Navy DIF -http://www.wikidata.org/entity/Q66439311
+Q61707607 -Microsoft Outlook Email Message -http://www.wikidata.org/entity/Q61707607
+Q27967405 -Master Tracker module -http://www.wikidata.org/entity/Q27967405
+Q47539001 -AutoCAD Linetype Definition File -http://www.wikidata.org/entity/Q47539001
+Q28975662 -SLiCe format -http://www.wikidata.org/entity/Q28975662
+Q58960003 -Microsoft Excel Chart, version 3 -http://www.wikidata.org/entity/Q58960003
+Q28205788 -Compact Picture Format -http://www.wikidata.org/entity/Q28205788
+Q34743161 -Softdisk Publishing UDF -http://www.wikidata.org/entity/Q34743161
+Q5013743 -Corel Photo-Paint Image -http://www.wikidata.org/entity/Q5013743

@@ -1,0 +1,14 @@
+Q57978083 -ASP Application Directive File -http://www.wikidata.org/entity/Q57978083
+
+#####################################################################################
+
+Q7395247 -SYBYL line notation -http://www.wikidata.org/entity/Q7395247
+Q76142694 -VisualBasic Project -http://www.wikidata.org/entity/Q76142694
+Q98815369 -Microsoft Access Database Link -http://www.wikidata.org/entity/Q98815369
+Q85415606 -Sonic Scenarist Closed Caption Format -http://www.wikidata.org/entity/Q85415606
+Q61963304 -Microsoft Front Page Binary Tree Index -http://www.wikidata.org/entity/Q61963304
+Q48805099 -Btrieve Database -http://www.wikidata.org/entity/Q48805099
+Q59999786 -Dreamweaver Lock File -http://www.wikidata.org/entity/Q59999786
+Q61752300 -Microsoft FrontPage file format -http://www.wikidata.org/entity/Q61752300
+Q55758993 -Microsoft Program Database file format, version 7 -http://www.wikidata.org/entity/Q55758993
+Q58799889 -PowerProject Teamplan -http://www.wikidata.org/entity/Q58799889

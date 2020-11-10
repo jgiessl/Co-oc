@@ -1,0 +1,21 @@
+39002034130949
+number of files:  10
+number of files with unknown format: 0
+number of files with known format: 10
+contained formats: 
+Q51753252 -AutoCAD Compiled Shape/Font File -http://www.wikidata.org/entity/Q51753252
+Q27486884 -Shapefile main file -http://www.wikidata.org/entity/Q27486884
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q28771107 -MAT-file, Level 4 -http://www.wikidata.org/entity/Q28771107
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q28207085 -PrintMaster Graphics file -http://www.wikidata.org/entity/Q28207085
+Q28771221 -MAT-file, Level 5, version 7.3 -http://www.wikidata.org/entity/Q28771221
+Q51753051 -3D Studio Shapes -http://www.wikidata.org/entity/Q51753051
+Q28771220 -MAT-file, Level 5, version 7 -http://www.wikidata.org/entity/Q28771220
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q28770728 -MAT-file, Level 5, version 6 -http://www.wikidata.org/entity/Q28770728
+Q27487109 -Shapefile index file -http://www.wikidata.org/entity/Q27487109

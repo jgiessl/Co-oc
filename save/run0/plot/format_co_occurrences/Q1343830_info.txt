@@ -1,0 +1,14 @@
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830
+
+###################################################################################
+
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400
+Q27979410 -Binary Text -http://www.wikidata.org/entity/Q27979410
+Q28055391 -Printfox bitmap -http://www.wikidata.org/entity/Q28055391
+Q28777715 -NSIS -http://www.wikidata.org/entity/Q28777715
+Q66244789 -ScreenCam stand-alone Movies format -http://www.wikidata.org/entity/Q66244789
+Q28758002 -Inno Setup self-extracting archive -http://www.wikidata.org/entity/Q28758002
+Q623334 -.exe -http://www.wikidata.org/entity/Q623334
+Q28758102 -InstallShield CAB -http://www.wikidata.org/entity/Q28758102
+Q1882110 -DOS MZ executable -http://www.wikidata.org/entity/Q1882110
+Q48106551 -DataFlex Query Tag Name -http://www.wikidata.org/entity/Q48106551

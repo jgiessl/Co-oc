@@ -1,0 +1,14 @@
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+
+###############################################################
+
+Q51916170 -Pagemaker TableEditor Graphics -http://www.wikidata.org/entity/Q51916170
+Q7671270 -TRANS.TBL -http://www.wikidata.org/entity/Q7671270
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q79241659 -Lotus Accessory -http://www.wikidata.org/entity/Q79241659
+Q51913488 -Fractal Design Painter RIFF Bitmap Graphics -http://www.wikidata.org/entity/Q51913488
+Q76158553 -MegaPaint VIN -http://www.wikidata.org/entity/Q76158553
+Q28205771 -BigTIFF -http://www.wikidata.org/entity/Q28205771
+Q7670377 -Tagged Image File Format/Electronic Photography -http://www.wikidata.org/entity/Q7670377
+Q28207384 -TIFF/IT -http://www.wikidata.org/entity/Q28207384
+Q28207379 -TIFF for Fax eXtended -http://www.wikidata.org/entity/Q28207379

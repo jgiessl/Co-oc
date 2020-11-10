@@ -1,0 +1,14 @@
+Q63177290 -Microsoft Works Spreadsheet for Macintosh, version 3 -http://www.wikidata.org/entity/Q63177290
+
+###########################################################################################################
+
+Q45347100 -Lotus 1-2-3 Worksheet file format, version 1 -http://www.wikidata.org/entity/Q45347100
+Q63177401 -Microsoft Works Spreadsheet for Macintosh, version 4 -http://www.wikidata.org/entity/Q63177401
+Q29000565 -SuperCard Pro dump -http://www.wikidata.org/entity/Q29000565
+Q71858982 -CorelDraw Drawing, version 10 -http://www.wikidata.org/entity/Q71858982
+Q71832451 -CorelDraw Drawing, version 1 -http://www.wikidata.org/entity/Q71832451
+Q71828821 -CorelDraw Drawing, version 4 -http://www.wikidata.org/entity/Q71828821
+Q71831258 -CorelDraw Drawing, version 2 -http://www.wikidata.org/entity/Q71831258
+Q71432876 -CorelDraw Drawing, version 6 -http://www.wikidata.org/entity/Q71432876
+Q71275233 -CorelDraw Drawing, version 7 -http://www.wikidata.org/entity/Q71275233
+Q71973058 -CorelDraw Drawing, version X5 -http://www.wikidata.org/entity/Q71973058

@@ -1,0 +1,14 @@
+Q95994804 -Spatial Data Transfer Standard format -http://www.wikidata.org/entity/Q95994804
+
+############################################################################################
+
+Q29644119 -ISO/IEC 8211 Data Descriptive File -http://www.wikidata.org/entity/Q29644119
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q66141873 -MDE file format -http://www.wikidata.org/entity/Q66141873
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q61976072 -FoxPro Report -http://www.wikidata.org/entity/Q61976072
+Q61976139 -Microsoft Visual FoxPro Report -http://www.wikidata.org/entity/Q61976139
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355

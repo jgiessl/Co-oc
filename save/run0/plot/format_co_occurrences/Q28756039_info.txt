@@ -1,0 +1,14 @@
+Q28756039 -FLA -http://www.wikidata.org/entity/Q28756039
+
+##########################################################
+
+Q13012348 -Adobe Flash project -http://www.wikidata.org/entity/Q13012348
+Q27526739 -Graphics Interchange Format, version 89a -http://www.wikidata.org/entity/Q27526739
+Q2192 -Graphics Interchange Format -http://www.wikidata.org/entity/Q2192
+Q673906 -Simple Standards-Based Slide Show System -http://www.wikidata.org/entity/Q673906
+Q29151645 -Research Articles in Simplified HTML -http://www.wikidata.org/entity/Q29151645
+Q17073241 -Opera Show Format -http://www.wikidata.org/entity/Q17073241
+Q288405 -hOCR -http://www.wikidata.org/entity/Q288405
+Q28206497 -Lossless JPEG -http://www.wikidata.org/entity/Q28206497
+Q26385770 -Still Picture Interchange File Format -http://www.wikidata.org/entity/Q26385770
+Q17092932 -JPEG-XT -http://www.wikidata.org/entity/Q17092932

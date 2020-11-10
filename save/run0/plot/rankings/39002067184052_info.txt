@@ -1,0 +1,25 @@
+39002067184052
+number of files:  244
+number of files with unknown format: 8
+number of files with known format: 236
+contained formats: 
+Q61971919 -Microsoft Visual FoxPro Database Table File -http://www.wikidata.org/entity/Q61971919
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q27960082 -DCT -http://www.wikidata.org/entity/Q27960082
+Q61971917 -FoxPro Database, version 2x -http://www.wikidata.org/entity/Q61971917
+Q60628005 -FoxPro Database, version 2 -http://www.wikidata.org/entity/Q60628005
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q44933672 -dBASE IV -http://www.wikidata.org/entity/Q44933672
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q52834849 -dBASE for Windows database, version 5 -http://www.wikidata.org/entity/Q52834849
+Q61984341 -Microsoft Visual FoxPro database container (memo files) -http://www.wikidata.org/entity/Q61984341
+Q28756196 -FWKCS NDX file -http://www.wikidata.org/entity/Q28756196
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q27487130 -Shapefile dBASE table -http://www.wikidata.org/entity/Q27487130

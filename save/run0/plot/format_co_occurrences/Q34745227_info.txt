@@ -1,0 +1,14 @@
+Q34745227 -Spline Font Database -http://www.wikidata.org/entity/Q34745227
+
+###########################################################################
+
+Q5243773 -DcVD -http://www.wikidata.org/entity/Q5243773
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q217570 -Waveform Audio File Format -http://www.wikidata.org/entity/Q217570
+Q48106551 -DataFlex Query Tag Name -http://www.wikidata.org/entity/Q48106551
+Q28758102 -InstallShield CAB -http://www.wikidata.org/entity/Q28758102
+Q27967388 -Adlib Tracker instrument -http://www.wikidata.org/entity/Q27967388
+Q194831 -Cabinet -http://www.wikidata.org/entity/Q194831

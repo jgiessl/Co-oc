@@ -1,0 +1,14 @@
+Q27967445 -Autodesk Animator Pro FLIC -http://www.wikidata.org/entity/Q27967445
+
+#################################################################################
+
+Q28206125 -Flexible Line Interpretation -http://www.wikidata.org/entity/Q28206125
+Q27967444 -AutoDesk FLIC Animation -http://www.wikidata.org/entity/Q27967444
+Q59962623 -Autodesk Animator (FlicLib) -http://www.wikidata.org/entity/Q59962623
+Q939636 -CorelDRAW Document -http://www.wikidata.org/entity/Q939636
+Q28018470 -MPEG-1 program stream -http://www.wikidata.org/entity/Q28018470
+Q28018471 -MPEG-2 program stream -http://www.wikidata.org/entity/Q28018471
+Q336284 -MPEG-1 -http://www.wikidata.org/entity/Q336284
+Q28206318 -Img Software Set Colormapped Image -http://www.wikidata.org/entity/Q28206318
+Q34284450 -Pawn script -http://www.wikidata.org/entity/Q34284450
+Q27967406 -Reality AdLib Tracker module -http://www.wikidata.org/entity/Q27967406

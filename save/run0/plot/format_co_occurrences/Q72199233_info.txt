@@ -1,0 +1,14 @@
+Q72199233 -LilyPond music score -http://www.wikidata.org/entity/Q72199233
+
+###########################################################################
+
+Q28975664 -AC3D -http://www.wikidata.org/entity/Q28975664
+Q28207158 -Puzzle image -http://www.wikidata.org/entity/Q28207158
+Q28207416 -VDC BitMap -http://www.wikidata.org/entity/Q28207416
+Q28207564 -Bennet Yee's face format -http://www.wikidata.org/entity/Q28207564
+Q17081599 -Smile -http://www.wikidata.org/entity/Q17081599
+Q48106028 -Unisys (Sperry) System Data File -http://www.wikidata.org/entity/Q48106028
+Q34745947 -Starlink Data Format -http://www.wikidata.org/entity/Q34745947
+Q7520656 -Simple Data Format -http://www.wikidata.org/entity/Q7520656
+Q28530510 -Structure-data file -http://www.wikidata.org/entity/Q28530510
+Q18653981 -Standard Delay Format -http://www.wikidata.org/entity/Q18653981

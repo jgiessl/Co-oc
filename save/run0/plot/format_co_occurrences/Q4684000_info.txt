@@ -1,0 +1,14 @@
+Q4684000 -ShockWave Component -http://www.wikidata.org/entity/Q4684000
+
+########################################################################
+
+Q47539012 -AutoCAD Drawing Template -http://www.wikidata.org/entity/Q47539012
+Q27967203 -NoiseTracker module -http://www.wikidata.org/entity/Q27967203
+Q1370814 -Amiga Module -http://www.wikidata.org/entity/Q1370814
+Q49414097 -CATIA Model, version 4 -http://www.wikidata.org/entity/Q49414097
+Q27967223 -StarTrekker/Star Tracker module -http://www.wikidata.org/entity/Q27967223
+Q2276274 -System.map -http://www.wikidata.org/entity/Q2276274
+Q28771288 -Mapsforge Binary Map -http://www.wikidata.org/entity/Q28771288
+Q28009488 -Tibia map file -http://www.wikidata.org/entity/Q28009488
+Q29167914 -PCRaster Map -http://www.wikidata.org/entity/Q29167914
+Q921122 -Java archive -http://www.wikidata.org/entity/Q921122

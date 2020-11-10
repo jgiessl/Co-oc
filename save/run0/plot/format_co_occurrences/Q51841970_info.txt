@@ -1,0 +1,14 @@
+Q51841970 -Microsoft FoxPro Library -http://www.wikidata.org/entity/Q51841970
+
+###############################################################################
+
+Q65990735 -Adobe Premiere Library -http://www.wikidata.org/entity/Q65990735
+Q62625183 -PowerShell script -http://www.wikidata.org/entity/Q62625183
+Q34743436 -Softlib -http://www.wikidata.org/entity/Q34743436
+Q51756571 -AutoCAD Slide Library -http://www.wikidata.org/entity/Q51756571
+Q27967218 -Scream Tracker 1 & 2 module -http://www.wikidata.org/entity/Q27967218
+Q50375253 -Extensible Metadata Platform Format -http://www.wikidata.org/entity/Q50375253
+Q43992098 -Extensible Metadata Platform Packet -http://www.wikidata.org/entity/Q43992098
+Q1122075 -Computable Document Format -http://www.wikidata.org/entity/Q1122075
+Q28975670 -Cyberspace Description Format -http://www.wikidata.org/entity/Q28975670
+Q95985299 -Affymetrix CDF file format -http://www.wikidata.org/entity/Q95985299

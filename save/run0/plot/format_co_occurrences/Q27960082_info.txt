@@ -1,0 +1,14 @@
+Q27960082 -DCT -http://www.wikidata.org/entity/Q27960082
+
+##########################################################
+
+Q61984341 -Microsoft Visual FoxPro database container (memo files) -http://www.wikidata.org/entity/Q61984341
+Q2138624 -registry file -http://www.wikidata.org/entity/Q2138624
+Q29650305 -PSI-MI XML -http://www.wikidata.org/entity/Q29650305
+Q27526471 -Broadcast Wave Format, version 1 -http://www.wikidata.org/entity/Q27526471
+Q61707565 -Waveform Audio (WAVEFORMATEX) -http://www.wikidata.org/entity/Q61707565
+Q27526426 -Broadcast Wave Format, version 0 -http://www.wikidata.org/entity/Q27526426
+Q27526504 -Broadcast Wave Format, version 2 -http://www.wikidata.org/entity/Q27526504
+Q63082675 -Waveform Audio (WAVEFORMATEXTENSIBLE) -http://www.wikidata.org/entity/Q63082675
+Q43976633 -Exchangeable Image File Format (Audio) -http://www.wikidata.org/entity/Q43976633
+Q3928266 -RF64 -http://www.wikidata.org/entity/Q3928266

@@ -1,0 +1,14 @@
+Q45347570 -Lotus 1-2-3 Worksheet file format, version 4-5 -http://www.wikidata.org/entity/Q45347570
+
+#####################################################################################################
+
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q29465146 -Valve Vertex Data -http://www.wikidata.org/entity/Q29465146
+Q45350500 -Lotus 1-2-3 Spreadsheet Formatting File, version 3 -http://www.wikidata.org/entity/Q45350500
+Q45347388 -Lotus 1-2-3 Worksheet file format, version 3 -http://www.wikidata.org/entity/Q45347388
+Q2693033 -ARJ -http://www.wikidata.org/entity/Q2693033
+Q45347222 -Lotus 1-2-3 Worksheet file format, version 2 -http://www.wikidata.org/entity/Q45347222
+Q3596396 -MDX -http://www.wikidata.org/entity/Q3596396
+Q27966906 -MDX -http://www.wikidata.org/entity/Q27966906
+Q29000614 -Resource File -http://www.wikidata.org/entity/Q29000614
+Q51035227 -Paradox Database Table, version 4 -http://www.wikidata.org/entity/Q51035227

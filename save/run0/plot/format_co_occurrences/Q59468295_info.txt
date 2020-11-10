@@ -1,0 +1,14 @@
+Q59468295 -Statistical Analysis System Data XPT (Windows) -http://www.wikidata.org/entity/Q59468295
+
+#####################################################################################################
+
+Q47516383 -Statistical Analysis System Catalog XPT (Windows) v.9.1 -http://www.wikidata.org/entity/Q47516383
+Q47516360 -Statistical Analysis System Catalog XPT (Unix) v.9.1 -http://www.wikidata.org/entity/Q47516360
+Q59468329 -Statistical Analysis System Data XPT (Unix) -http://www.wikidata.org/entity/Q59468329
+Q28600401 -Assembly manifest (Windows) -http://www.wikidata.org/entity/Q28600401
+Q5924007 -JavaScript -http://www.wikidata.org/entity/Q5924007
+Q28532082 -CAChe MolStruct -http://www.wikidata.org/entity/Q28532082
+Q28206538 -Magick Persistent Cache (.cache file) -http://www.wikidata.org/entity/Q28206538
+Q28975873 -OOGL LIST file -http://www.wikidata.org/entity/Q28975873
+Q27967085 -Jason Page -http://www.wikidata.org/entity/Q27967085
+Q27996239 -Faster than Light saved game -http://www.wikidata.org/entity/Q27996239

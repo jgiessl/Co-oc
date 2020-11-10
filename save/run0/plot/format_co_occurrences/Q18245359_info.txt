@@ -1,0 +1,14 @@
+Q18245359 -Control Panel Applet -http://www.wikidata.org/entity/Q18245359
+
+###########################################################################
+
+Q27826340 -Auxiliary file, AUX variant -http://www.wikidata.org/entity/Q27826340
+Q27826389 -Proxy AUX file, AUX variant -http://www.wikidata.org/entity/Q27826389
+Q59820886 -Corel CMX Compressed -http://www.wikidata.org/entity/Q59820886
+Q28206343 -ImgStar -http://www.wikidata.org/entity/Q28206343
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q34284525 -Perl script -http://www.wikidata.org/entity/Q34284525
+Q66310989 -Pantry Files -http://www.wikidata.org/entity/Q66310989
+Q380665 -PLS -http://www.wikidata.org/entity/Q380665
+Q380319 -dynamic-link library -http://www.wikidata.org/entity/Q380319
+Q2043681 -PAK -http://www.wikidata.org/entity/Q2043681

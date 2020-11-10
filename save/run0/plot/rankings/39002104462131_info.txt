@@ -1,0 +1,12 @@
+39002104462131
+number of files:  2
+number of files with unknown format: 0
+number of files with known format: 2
+contained formats: 
+Q2192 -Graphics Interchange Format -http://www.wikidata.org/entity/Q2192
+Q49989019 -Macromedia (Adobe) Director Compressed Resource file -http://www.wikidata.org/entity/Q49989019
+Q28205367 -DCR -http://www.wikidata.org/entity/Q28205367
+Q34312565 -Macromedia Director, compressed PC variant -http://www.wikidata.org/entity/Q34312565
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q34312718 -Macromedia Director, compressed Macintosh variant -http://www.wikidata.org/entity/Q34312718
+Q27526739 -Graphics Interchange Format, version 89a -http://www.wikidata.org/entity/Q27526739

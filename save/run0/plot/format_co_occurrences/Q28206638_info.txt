@@ -1,0 +1,14 @@
+Q28206638 -MTV ray tracer bitmap -http://www.wikidata.org/entity/Q28206638
+
+############################################################################
+
+Q2389386 -Interleaved Bitmap -http://www.wikidata.org/entity/Q2389386
+Q28106149 -PIC -http://www.wikidata.org/entity/Q28106149
+Q28205773 -BioRad confocal image -http://www.wikidata.org/entity/Q28205773
+Q28207016 -Pixar picture -http://www.wikidata.org/entity/Q28207016
+Q28106166 -Psion PIC -http://www.wikidata.org/entity/Q28106166
+Q28207293 -Softimage PIC -http://www.wikidata.org/entity/Q28207293
+Q28207503 -WinMiPS -http://www.wikidata.org/entity/Q28207503
+Q28770336 -Lotus 1-2-3 Chart -http://www.wikidata.org/entity/Q28770336
+Q7119344 -PICtor PIC image format -http://www.wikidata.org/entity/Q7119344
+Q28206876 -PCPaint PIC -http://www.wikidata.org/entity/Q28206876

@@ -1,0 +1,20 @@
+39002090260937
+number of files:  13
+number of files with unknown format: 2
+number of files with known format: 11
+contained formats: 
+Q47524710 -Mach-O file format (32bit) -http://www.wikidata.org/entity/Q47524710
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q27979388 -AAE sidecar format -http://www.wikidata.org/entity/Q27979388
+Q28344736 -Macintosh resource file -http://www.wikidata.org/entity/Q28344736
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q283579 -tar -http://www.wikidata.org/entity/Q283579
+Q50375236 -NIB File Format -http://www.wikidata.org/entity/Q50375236
+Q2858737 -Apple Icon Image format -http://www.wikidata.org/entity/Q2858737
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q28445577 -Advanced Authoring System -http://www.wikidata.org/entity/Q28445577
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246

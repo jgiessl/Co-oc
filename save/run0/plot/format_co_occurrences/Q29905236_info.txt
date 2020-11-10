@@ -1,0 +1,14 @@
+Q29905236 -StarOffice Draw, version 4.x -http://www.wikidata.org/entity/Q29905236
+
+###################################################################################
+
+Q29905206 -Self-Dissolving Archive -http://www.wikidata.org/entity/Q29905206
+Q29905223 -StarOffice Draw, version 3.x -http://www.wikidata.org/entity/Q29905223
+Q29905245 -StarOffice Draw, version 5.x -http://www.wikidata.org/entity/Q29905245
+Q47916123 -Frame Vector Metafile -http://www.wikidata.org/entity/Q47916123
+Q1134089 -world file -http://www.wikidata.org/entity/Q1134089
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030

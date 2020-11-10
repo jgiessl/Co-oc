@@ -1,0 +1,14 @@
+Q73019664 -WordPerfect for MS-DOS/Windows Document, version 5.1 -http://www.wikidata.org/entity/Q73019664
+
+###########################################################################################################
+
+Q61641450 -WordPerfect for MS-DOS Document -http://www.wikidata.org/entity/Q61641450
+Q48551303 -Word Perfect for Windows Document file format -http://www.wikidata.org/entity/Q48551303
+Q73019618 -WordStar for MS-DOS Document, version 7.0 -http://www.wikidata.org/entity/Q73019618
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572
+Q71858982 -CorelDraw Drawing, version 10 -http://www.wikidata.org/entity/Q71858982
+Q71832451 -CorelDraw Drawing, version 1 -http://www.wikidata.org/entity/Q71832451
+Q71828821 -CorelDraw Drawing, version 4 -http://www.wikidata.org/entity/Q71828821
+Q71831258 -CorelDraw Drawing, version 2 -http://www.wikidata.org/entity/Q71831258
+Q71432876 -CorelDraw Drawing, version 6 -http://www.wikidata.org/entity/Q71432876
+Q71275233 -CorelDraw Drawing, version 7 -http://www.wikidata.org/entity/Q71275233

@@ -1,0 +1,14 @@
+Q52426787 -XYWrite Document, version III+ -http://www.wikidata.org/entity/Q52426787
+
+#####################################################################################
+
+Q67124713 -Print Artist postcard file format -http://www.wikidata.org/entity/Q67124713
+Q34287064 -Professor Calhoon quiz file -http://www.wikidata.org/entity/Q34287064
+Q368782 -LHA -http://www.wikidata.org/entity/Q368782
+Q28206218 -GRF -http://www.wikidata.org/entity/Q28206218
+Q67124083 -Print Artist label file format -http://www.wikidata.org/entity/Q67124083
+Q72198666 -dBASE IV Label design file format -http://www.wikidata.org/entity/Q72198666
+Q28975647 -POV-Ray RAW triangle format -http://www.wikidata.org/entity/Q28975647
+Q59608283 -KryoFlux -http://www.wikidata.org/entity/Q59608283
+Q28205418 -Panasonic RAW/RW2 -http://www.wikidata.org/entity/Q28205418
+Q59608340 -KryoFlux -http://www.wikidata.org/entity/Q59608340

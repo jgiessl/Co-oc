@@ -1,0 +1,14 @@
+Q264627 -Glulx -http://www.wikidata.org/entity/Q264627
+
+########################################################
+
+Q4928413 -Blorb -http://www.wikidata.org/entity/Q4928413
+Q50375253 -Extensible Metadata Platform Format -http://www.wikidata.org/entity/Q50375253
+Q43992098 -Extensible Metadata Platform Packet -http://www.wikidata.org/entity/Q43992098
+Q28600258 -ATR -http://www.wikidata.org/entity/Q28600258
+Q28206218 -GRF -http://www.wikidata.org/entity/Q28206218
+Q28975647 -POV-Ray RAW triangle format -http://www.wikidata.org/entity/Q28975647
+Q59608283 -KryoFlux -http://www.wikidata.org/entity/Q59608283
+Q28205418 -Panasonic RAW/RW2 -http://www.wikidata.org/entity/Q28205418
+Q59608340 -KryoFlux -http://www.wikidata.org/entity/Q59608340
+Q29650303 -PSRFITS -http://www.wikidata.org/entity/Q29650303

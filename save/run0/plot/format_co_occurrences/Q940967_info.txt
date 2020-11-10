@@ -1,0 +1,14 @@
+Q940967 -Musepack -http://www.wikidata.org/entity/Q940967
+
+###########################################################
+
+Q28206535 -Magick Persistent Cache (.mpc file) -http://www.wikidata.org/entity/Q28206535
+Q60414423 -TAP (Commodore 64) -http://www.wikidata.org/entity/Q60414423
+Q34748140 -TAP -http://www.wikidata.org/entity/Q34748140
+Q28207359 -TAP -http://www.wikidata.org/entity/Q28207359
+Q3853674 -MDF and MDS file pair -http://www.wikidata.org/entity/Q3853674
+Q50604394 -SNAP Main Data File -http://www.wikidata.org/entity/Q50604394
+Q66689263 -Access (SQL Server) detached database -http://www.wikidata.org/entity/Q66689263
+Q5301 -TeX -http://www.wikidata.org/entity/Q5301
+Q66134564 -Photoshop DCS 1.0 -http://www.wikidata.org/entity/Q66134564
+Q48625328 -Encapsulated PostScript, v2 -http://www.wikidata.org/entity/Q48625328

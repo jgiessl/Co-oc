@@ -1,0 +1,14 @@
+Q3888665 -Package interchange format -http://www.wikidata.org/entity/Q3888665
+
+###############################################################################
+
+Q382011 -Program information file -http://www.wikidata.org/entity/Q382011
+Q3943569 -SEG-Y -http://www.wikidata.org/entity/Q3943569
+Q1952708 -FILE_ID.DIZ -http://www.wikidata.org/entity/Q1952708
+Q27355579 -ADRG Overview Image File -http://www.wikidata.org/entity/Q27355579
+Q27473293 -CADRG Overview Image -http://www.wikidata.org/entity/Q27473293
+Q27826386 -OVR pyramid file -http://www.wikidata.org/entity/Q27826386
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q27967202 -Nerdtracker II module -http://www.wikidata.org/entity/Q27967202
+Q817650 -COM -http://www.wikidata.org/entity/Q817650
+Q28346230 -IMD -http://www.wikidata.org/entity/Q28346230

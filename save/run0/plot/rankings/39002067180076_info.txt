@@ -1,0 +1,101 @@
+39002067180076
+number of files:  1266
+number of files with unknown format: 520
+number of files with known format: 746
+contained formats: 
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q935809 -comma-separated values -http://www.wikidata.org/entity/Q935809
+Q28786544 -Netscape bookmarks -http://www.wikidata.org/entity/Q28786544
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q8811 -HyperText Markup Language -http://www.wikidata.org/entity/Q8811
+Q3359832 -Product Representation Compact -http://www.wikidata.org/entity/Q3359832
+Q194831 -Cabinet -http://www.wikidata.org/entity/Q194831
+Q47233167 -LDR -http://www.wikidata.org/entity/Q47233167
+Q1888930 -Vector Markup Language -http://www.wikidata.org/entity/Q1888930
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q28755606 -Exact Yearbook DAT file -http://www.wikidata.org/entity/Q28755606
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q26211874 -ZIP archive file format, version 6.3.1 -http://www.wikidata.org/entity/Q26211874
+Q28009496 -Zelda Solarus DX saved game -http://www.wikidata.org/entity/Q28009496
+Q60886323 -Microsoft Excel 2000-2003 Workbook -http://www.wikidata.org/entity/Q60886323
+Q32097899 -Fallout v2 DAT -http://www.wikidata.org/entity/Q32097899
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q47455968 -SafeGuard Encrypted Virtual Disk -http://www.wikidata.org/entity/Q47455968
+Q2053 -HTML5 -http://www.wikidata.org/entity/Q2053
+Q10394822 -ZIP archive file format, version 6.3.2 -http://www.wikidata.org/entity/Q10394822
+Q81526237 -MapInfo MapBasic tabular DataBase -http://www.wikidata.org/entity/Q81526237
+Q29151645 -Research Articles in Simplified HTML -http://www.wikidata.org/entity/Q29151645
+Q34747804 -Supaplex Level format -http://www.wikidata.org/entity/Q34747804
+Q26211840 -ZIP archive file format, ISO/IEC 21320–1:2015 -http://www.wikidata.org/entity/Q26211840
+Q81526528 -MicroStation Resource data -http://www.wikidata.org/entity/Q81526528
+Q60873199 -Excel 95 Workbook -http://www.wikidata.org/entity/Q60873199
+Q81526664 -Palm Desktop DateBook -http://www.wikidata.org/entity/Q81526664
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q50308743 -WordPerfect file format, v4 -http://www.wikidata.org/entity/Q50308743
+Q32097740 -Fallout DAT -http://www.wikidata.org/entity/Q32097740
+Q6912474 -Mork -http://www.wikidata.org/entity/Q6912474
+Q62626012 -HyperText Markup Language -http://www.wikidata.org/entity/Q62626012
+Q27979410 -Binary Text -http://www.wikidata.org/entity/Q27979410
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830
+Q26211940 -ZIP archive file format, version 5.1 -http://www.wikidata.org/entity/Q26211940
+Q28207108 -The Print Shop Graphics file -http://www.wikidata.org/entity/Q28207108
+Q28758102 -InstallShield CAB -http://www.wikidata.org/entity/Q28758102
+Q26211957 -ZIP archive file format, version 4.5 -http://www.wikidata.org/entity/Q26211957
+Q26211948 -ZIP archive file format, version 5.0 -http://www.wikidata.org/entity/Q26211948
+Q3928271 -RGBE image format -http://www.wikidata.org/entity/Q3928271
+Q26211927 -ZIP archive file format, version 6.2.0 -http://www.wikidata.org/entity/Q26211927
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q28055391 -Printfox bitmap -http://www.wikidata.org/entity/Q28055391
+Q66439259 -WordPerfect Merge Data file format -http://www.wikidata.org/entity/Q66439259
+Q48106551 -DataFlex Query Tag Name -http://www.wikidata.org/entity/Q48106551
+Q27996279 -MOBI -http://www.wikidata.org/entity/Q27996279
+Q28858068 -Binary Interchange File Format, version 8 -http://www.wikidata.org/entity/Q28858068
+Q26211915 -ZIP archive file format, version 6.2.1 -http://www.wikidata.org/entity/Q26211915
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q28758112 -Internet Explorer history file -http://www.wikidata.org/entity/Q28758112
+Q1601331 -Transport-Neutral Encapsulation Format -http://www.wikidata.org/entity/Q1601331
+Q29650304 -PRT scene description -http://www.wikidata.org/entity/Q29650304
+Q17073241 -Opera Show Format -http://www.wikidata.org/entity/Q17073241
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q27995540 -Canon EOS C300 Custom Picture Profile -http://www.wikidata.org/entity/Q27995540
+Q60806257 -Microsoft Excel 4.0 Worksheet (xls) -http://www.wikidata.org/entity/Q60806257
+Q26211905 -ZIP archive file format, version 6.2.2 -http://www.wikidata.org/entity/Q26211905
+Q26211954 -ZIP archive file format, version 4.6 -http://www.wikidata.org/entity/Q26211954
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q26211936 -ZIP archive file format, version 5.2 -http://www.wikidata.org/entity/Q26211936
+Q48551303 -Word Perfect for Windows Document file format -http://www.wikidata.org/entity/Q48551303
+Q288405 -hOCR -http://www.wikidata.org/entity/Q288405
+Q29650308 -Palm Resource Compiler -http://www.wikidata.org/entity/Q29650308
+Q27967388 -Adlib Tracker instrument -http://www.wikidata.org/entity/Q27967388
+Q26211975 -ZIP archive file format, version 2.1 -http://www.wikidata.org/entity/Q26211975
+Q5532250 -General Transit Feed Specification -http://www.wikidata.org/entity/Q5532250
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q673906 -Simple Standards-Based Slide Show System -http://www.wikidata.org/entity/Q673906
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q26211983 -ZIP archive file format, version 1.0 -http://www.wikidata.org/entity/Q26211983
+Q166074 -Extensible HyperText Markup Language -http://www.wikidata.org/entity/Q166074
+Q28049770 -DKBTrace scene description -http://www.wikidata.org/entity/Q28049770
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q27967187 -Future Composer v1.x module -http://www.wikidata.org/entity/Q27967187
+Q26211965 -ZIP archive file format, version 2.5 -http://www.wikidata.org/entity/Q26211965
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q60886160 -Microsoft Excel 97 Workbook -http://www.wikidata.org/entity/Q60886160
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q26211931 -ZIP archive file format, version 6.1.0 -http://www.wikidata.org/entity/Q26211931
+Q52834888 -Microsoft Excel 2.x Worksheet -http://www.wikidata.org/entity/Q52834888
+Q26211958 -ZIP archive file format, version 2.7 -http://www.wikidata.org/entity/Q26211958
+Q26211977 -ZIP archive file format, version 2.0 -http://www.wikidata.org/entity/Q26211977
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400
+Q26211978 -ZIP archive file format, version 1.1 -http://www.wikidata.org/entity/Q26211978
+Q27473691 -BIL/BIP/BSQ Header File -http://www.wikidata.org/entity/Q27473691
+Q60806040 -Microsoft Excel 3.0 Worksheet (xls) -http://www.wikidata.org/entity/Q60806040
+Q26211891 -ZIP archive file format, version 6.3.0 -http://www.wikidata.org/entity/Q26211891
+Q61641450 -WordPerfect for MS-DOS Document -http://www.wikidata.org/entity/Q61641450
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q29151494 -Quantum compressed archive -http://www.wikidata.org/entity/Q29151494
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q28206310 -Analyze HDR -http://www.wikidata.org/entity/Q28206310

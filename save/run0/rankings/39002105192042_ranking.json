@@ -1,0 +1,1 @@
+{"name": "39002105192042", "type": "rank", "number_files": 4, "number_unknown": 0, "formats": ["Q1353763", "Q27895063", "Q24834502"], "environments": {"one": {"co-oc": 0.5, "tf-idf": 0.5, "combined": 0.5}, "three": {"co-oc": 0.5, "tf-idf": 0.5, "combined": 0.5}, "four": {"co-oc": 0.0, "tf-idf": 0.0, "combined": 0.0}, "two": {"co-oc": 0.0, "tf-idf": 0.0, "combined": 0.0}}}

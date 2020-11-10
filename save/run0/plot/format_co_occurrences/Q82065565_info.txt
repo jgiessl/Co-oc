@@ -1,0 +1,14 @@
+Q82065565 -PhotoShop Extended Digital Book -http://www.wikidata.org/entity/Q82065565
+
+######################################################################################
+
+Q82065563 -Euphoria Database System -http://www.wikidata.org/entity/Q82065563
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q34273353 -Keynote -http://www.wikidata.org/entity/Q34273353
+Q27925718 -DTED Level 1 Gazetteer Key file -http://www.wikidata.org/entity/Q27925718
+Q28600470 -DER encoded RSA private key -http://www.wikidata.org/entity/Q28600470
+Q59537335 -Apple iWorks Keynote -http://www.wikidata.org/entity/Q59537335
+Q29650343 -PEM encoded RSA private key -http://www.wikidata.org/entity/Q29650343
+Q61752184 -Adobe InDesign Document -http://www.wikidata.org/entity/Q61752184
+Q47493628 -Adobe InDesign Document, version CS5 -http://www.wikidata.org/entity/Q47493628
+Q47493509 -Adobe InDesign Document, version CS2 -http://www.wikidata.org/entity/Q47493509

@@ -1,0 +1,14 @@
+Q66663022 -Lotus Freelance 2.x for OS/2 -http://www.wikidata.org/entity/Q66663022
+
+###################################################################################
+
+Q48551601 -Microsoft Word for Windows Macro -http://www.wikidata.org/entity/Q48551601
+Q29904535 -Statistical Analysis System program -http://www.wikidata.org/entity/Q29904535
+Q47538629 -AutoCAD Colour-Dependant Plot Style Table -http://www.wikidata.org/entity/Q47538629
+Q28445581 -ADRIFT -http://www.wikidata.org/entity/Q28445581
+Q27960023 -Tom's lossless Audio Kompressor -http://www.wikidata.org/entity/Q27960023
+Q68480634 -Magic: The Gathering cards Deck file format -http://www.wikidata.org/entity/Q68480634
+Q28777700 -Mozilla Archive -http://www.wikidata.org/entity/Q28777700
+Q27966979 -Organya -http://www.wikidata.org/entity/Q27966979
+Q66662128 -Lotus Organizer -http://www.wikidata.org/entity/Q66662128
+Q94990624 -Org-mode markup -http://www.wikidata.org/entity/Q94990624

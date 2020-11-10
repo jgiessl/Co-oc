@@ -1,0 +1,14 @@
+Q1068805 -.properties -http://www.wikidata.org/entity/Q1068805
+
+################################################################
+
+Q27979388 -AAE sidecar format -http://www.wikidata.org/entity/Q27979388
+Q62522682 -SPARQL update -http://www.wikidata.org/entity/Q62522682
+Q921122 -Java archive -http://www.wikidata.org/entity/Q921122
+Q74690581 -TomeRaider e-book/document -http://www.wikidata.org/entity/Q74690581
+Q66310986 -Shopping List file format -http://www.wikidata.org/entity/Q66310986
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q49243071 -Java language source code file -http://www.wikidata.org/entity/Q49243071
+Q2193155 -Java class file -http://www.wikidata.org/entity/Q2193155
+Q34737296 -Skencil SK -http://www.wikidata.org/entity/Q34737296

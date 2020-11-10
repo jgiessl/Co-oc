@@ -1,0 +1,14 @@
+Q8229684 -Elf -http://www.wikidata.org/entity/Q8229684
+
+########################################################
+
+Q731135 -Microsoft Management Console -http://www.wikidata.org/entity/Q731135
+Q28600258 -ATR -http://www.wikidata.org/entity/Q28600258
+Q817650 -COM -http://www.wikidata.org/entity/Q817650
+Q85415853 -SureThing Project File -http://www.wikidata.org/entity/Q85415853
+Q29944206 -OpenOffice Draw template, version 1.0 -http://www.wikidata.org/entity/Q29944206
+Q1601835 -Standard Test Data Format -http://www.wikidata.org/entity/Q1601835
+Q73675958 -3M Printscape -http://www.wikidata.org/entity/Q73675958
+Q178051 -Portable Network Graphics -http://www.wikidata.org/entity/Q178051
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830

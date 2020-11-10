@@ -1,0 +1,29 @@
+39002086234554
+number of files:  67
+number of files with unknown format: 24
+number of files with known format: 43
+contained formats: 
+Q49798508 -Adobe Portable Document Catalog Index File, version 2 -http://www.wikidata.org/entity/Q49798508
+Q50223812 -Bluetooth Snoop Packet Capture -http://www.wikidata.org/entity/Q50223812
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q49799747 -Adobe Portable Document Catalog Index File, version 3.2 -http://www.wikidata.org/entity/Q49799747
+Q29000651 -WLD -http://www.wikidata.org/entity/Q29000651
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q49799499 -Adobe Portable Document Catalog Index File, version 3.1 -http://www.wikidata.org/entity/Q49799499
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q34310996 -Security Catalog -http://www.wikidata.org/entity/Q34310996
+Q58335773 -Verity Collection Stop List -http://www.wikidata.org/entity/Q58335773
+Q29904540 -Statistical Analysis System log file -http://www.wikidata.org/entity/Q29904540
+Q3509055 -STEP file -http://www.wikidata.org/entity/Q3509055
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q49798739 -Adobe Portable Document Catalog Index File, version 3 -http://www.wikidata.org/entity/Q49798739
+Q5448342 -File change log -http://www.wikidata.org/entity/Q5448342
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q5421818 -Extended Log Format -http://www.wikidata.org/entity/Q5421818
+Q58335745 -Acrobat Catalog Cat File -http://www.wikidata.org/entity/Q58335745
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q28206952 -PhotoDeluxe -http://www.wikidata.org/entity/Q28206952
+Q29000741 -WorldBuilder -http://www.wikidata.org/entity/Q29000741
+Q5153426 -Common Log Format -http://www.wikidata.org/entity/Q5153426

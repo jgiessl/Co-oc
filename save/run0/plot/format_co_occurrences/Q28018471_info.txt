@@ -1,0 +1,14 @@
+Q28018471 -MPEG-2 program stream -http://www.wikidata.org/entity/Q28018471
+
+############################################################################
+
+Q28018470 -MPEG-1 program stream -http://www.wikidata.org/entity/Q28018470
+Q336284 -MPEG-1 -http://www.wikidata.org/entity/Q336284
+Q42591 -MP3g -http://www.wikidata.org/entity/Q42591
+Q939636 -CorelDRAW Document -http://www.wikidata.org/entity/Q939636
+Q942350 -QuickTime File Format -http://www.wikidata.org/entity/Q942350
+Q28600764 -Electronic Arts MOV -http://www.wikidata.org/entity/Q28600764
+Q24834502 -PowerPoint Binary File Format -http://www.wikidata.org/entity/Q24834502
+Q27960038 -Windows Media Audio Lossless -http://www.wikidata.org/entity/Q27960038
+Q1067761 -Windows Media Audio 9 Lossless -http://www.wikidata.org/entity/Q1067761
+Q2194 -Windows Media Audio -http://www.wikidata.org/entity/Q2194

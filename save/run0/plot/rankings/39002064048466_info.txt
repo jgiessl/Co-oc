@@ -1,0 +1,40 @@
+39002064048466
+number of files:  4578
+number of files with unknown format: 1
+number of files with known format: 4577
+contained formats: 
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q28344713 -Package File -http://www.wikidata.org/entity/Q28344713
+Q27826464 -Cascading Style Sheets Level 1 -http://www.wikidata.org/entity/Q27826464
+Q28786544 -Netscape bookmarks -http://www.wikidata.org/entity/Q28786544
+Q8811 -HyperText Markup Language -http://www.wikidata.org/entity/Q8811
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q27826469 -Cascading Style Sheets Level 3 -http://www.wikidata.org/entity/Q27826469
+Q28771319 -Microsoft Library -http://www.wikidata.org/entity/Q28771319
+Q34746472 -STATISTICA Spreadsheet File -http://www.wikidata.org/entity/Q34746472
+Q29000498 -OrCAD library -http://www.wikidata.org/entity/Q29000498
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q28755621 -Exact Yearbook ID file -http://www.wikidata.org/entity/Q28755621
+Q1888930 -Vector Markup Language -http://www.wikidata.org/entity/Q1888930
+Q27826468 -Cascading Style Sheets Level 2 Revision 1 -http://www.wikidata.org/entity/Q27826468
+Q27826466 -Cascading Style Sheets Level 2 -http://www.wikidata.org/entity/Q27826466
+Q62626012 -HyperText Markup Language -http://www.wikidata.org/entity/Q62626012
+Q27967388 -Adlib Tracker instrument -http://www.wikidata.org/entity/Q27967388
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572
+Q6043826 -Intellifont -http://www.wikidata.org/entity/Q6043826
+Q5924007 -JavaScript -http://www.wikidata.org/entity/Q5924007
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q2053 -HTML5 -http://www.wikidata.org/entity/Q2053
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q166074 -Extensible HyperText Markup Language -http://www.wikidata.org/entity/Q166074
+Q19599377 -AppleLink Package Compression Format -http://www.wikidata.org/entity/Q19599377
+Q28347555 -IBM Audio Visual Connection (AVC) Still Video Image -http://www.wikidata.org/entity/Q28347555

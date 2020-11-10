@@ -1,0 +1,14 @@
+Q29904449 -Psion Series 3 Word -http://www.wikidata.org/entity/Q29904449
+
+##########################################################################
+
+Q27925714 -DTED Level 1 Gazetteer Hash file -http://www.wikidata.org/entity/Q27925714
+Q7073077 -OTA bitmap -http://www.wikidata.org/entity/Q7073077
+Q29435 -Dolby TrueHD -http://www.wikidata.org/entity/Q29435
+Q61752184 -Adobe InDesign Document -http://www.wikidata.org/entity/Q61752184
+Q47493628 -Adobe InDesign Document, version CS5 -http://www.wikidata.org/entity/Q47493628
+Q47493509 -Adobe InDesign Document, version CS2 -http://www.wikidata.org/entity/Q47493509
+Q47493633 -Adobe InDesign Document, version CS6 -http://www.wikidata.org/entity/Q47493633
+Q47493619 -Adobe InDesign Document, version CS4 -http://www.wikidata.org/entity/Q47493619
+Q47493614 -Adobe InDesign Document, version CS3 -http://www.wikidata.org/entity/Q47493614
+Q72724699 -Newsletters And More document -http://www.wikidata.org/entity/Q72724699

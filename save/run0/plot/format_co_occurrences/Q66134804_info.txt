@@ -1,0 +1,14 @@
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+
+#################################################################################
+
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q7395247 -SYBYL line notation -http://www.wikidata.org/entity/Q7395247
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229

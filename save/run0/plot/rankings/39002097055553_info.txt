@@ -1,0 +1,356 @@
+39002097055553
+number of files:  4677
+number of files with unknown format: 1515
+number of files with known format: 3162
+contained formats: 
+Q3564764 -Word Perfect Graphics -http://www.wikidata.org/entity/Q3564764
+Q29209269 -Z -http://www.wikidata.org/entity/Q29209269
+Q7514956 -Silicon Graphics Image -http://www.wikidata.org/entity/Q7514956
+Q8811 -HyperText Markup Language -http://www.wikidata.org/entity/Q8811
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q61639409 -Microsoft Word for Windows Document, version 1 -http://www.wikidata.org/entity/Q61639409
+Q28777712 -NFF -http://www.wikidata.org/entity/Q28777712
+Q55089059 -Drawing Interchange Format, version 2013/2014 -http://www.wikidata.org/entity/Q55089059
+Q29905267 -Self-Extracting Archive -http://www.wikidata.org/entity/Q29905267
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q28207384 -TIFF/IT -http://www.wikidata.org/entity/Q28207384
+Q48782238 -Microsoft Word for MS-DOS Document, version 5 -http://www.wikidata.org/entity/Q48782238
+Q1601835 -Standard Test Data Format -http://www.wikidata.org/entity/Q1601835
+Q6043826 -Intellifont -http://www.wikidata.org/entity/Q6043826
+Q27229642 -Portable Network Graphics, version 1.2 -http://www.wikidata.org/entity/Q27229642
+Q691652 -Drawing Interchange Format -http://www.wikidata.org/entity/Q691652
+Q28205670 -Alias PIX -http://www.wikidata.org/entity/Q28205670
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q28858037 -Word Binary File Format, version nFib=0x00C0 -http://www.wikidata.org/entity/Q28858037
+Q28206306 -Analyze IMG -http://www.wikidata.org/entity/Q28206306
+Q10287816 -GZIP -http://www.wikidata.org/entity/Q10287816
+Q28207474 -Very Ordinary Rendering Toolkit file -http://www.wikidata.org/entity/Q28207474
+Q10394822 -ZIP archive file format, version 6.3.2 -http://www.wikidata.org/entity/Q10394822
+Q28770728 -MAT-file, Level 5, version 6 -http://www.wikidata.org/entity/Q28770728
+Q34747804 -Supaplex Level format -http://www.wikidata.org/entity/Q34747804
+Q28344713 -Package File -http://www.wikidata.org/entity/Q28344713
+Q28206671 -Portable Bitmap, text variant -http://www.wikidata.org/entity/Q28206671
+Q43975668 -Drawing Interchange File Format (Binary), version 2000-2002 -http://www.wikidata.org/entity/Q43975668
+Q28205846 -ColoRIX -http://www.wikidata.org/entity/Q28205846
+Q61053371 -Drawing Interchange File Format (ASCII), version 1.4 -http://www.wikidata.org/entity/Q61053371
+Q17138473 -Sun Raster -http://www.wikidata.org/entity/Q17138473
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q81526528 -MicroStation Resource data -http://www.wikidata.org/entity/Q81526528
+Q85415853 -SureThing Project File -http://www.wikidata.org/entity/Q85415853
+Q336284 -MPEG-1 -http://www.wikidata.org/entity/Q336284
+Q28205801 -IMG Picture Format -http://www.wikidata.org/entity/Q28205801
+Q85712350 -Calendar Creator File 7-8 -http://www.wikidata.org/entity/Q85712350
+Q27231651 -Tag Image File Format, version 5.0 -http://www.wikidata.org/entity/Q27231651
+Q62626012 -HyperText Markup Language -http://www.wikidata.org/entity/Q62626012
+Q29904540 -Statistical Analysis System log file -http://www.wikidata.org/entity/Q29904540
+Q28600258 -ATR -http://www.wikidata.org/entity/Q28600258
+Q27967445 -Autodesk Animator Pro FLIC -http://www.wikidata.org/entity/Q27967445
+Q16965621 -Video Image Communication And Retrieval -http://www.wikidata.org/entity/Q16965621
+Q28975874 -OOGL TLIST Group file -http://www.wikidata.org/entity/Q28975874
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q60615282 -Write for Windows Document, version 3 -http://www.wikidata.org/entity/Q60615282
+Q368782 -LHA -http://www.wikidata.org/entity/Q368782
+Q63061396 -Microsoft Word Document -http://www.wikidata.org/entity/Q63061396
+Q43975877 -Drawing Interchange File Format (Binary), version 2004-2005 -http://www.wikidata.org/entity/Q43975877
+Q67124083 -Print Artist label file format -http://www.wikidata.org/entity/Q67124083
+Q66134564 -Photoshop DCS 1.0 -http://www.wikidata.org/entity/Q66134564
+Q1886335 -Maker Interchange Format -http://www.wikidata.org/entity/Q1886335
+Q178051 -Portable Network Graphics -http://www.wikidata.org/entity/Q178051
+Q28055391 -Printfox bitmap -http://www.wikidata.org/entity/Q28055391
+Q60886472 -Drawing Interchange File Format (ASCII), version 1 -http://www.wikidata.org/entity/Q60886472
+Q29167914 -PCRaster Map -http://www.wikidata.org/entity/Q29167914
+Q61135623 -Drawing Interchange File Format (ASCII), version 2.1 -http://www.wikidata.org/entity/Q61135623
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q1601331 -Transport-Neutral Encapsulation Format -http://www.wikidata.org/entity/Q1601331
+Q28206679 -Portable Bitmap, binary variant -http://www.wikidata.org/entity/Q28206679
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q43869672 -PCX, version 3 -http://www.wikidata.org/entity/Q43869672
+Q26211905 -ZIP archive file format, version 6.2.2 -http://www.wikidata.org/entity/Q26211905
+Q28206318 -Img Software Set Colormapped Image -http://www.wikidata.org/entity/Q28206318
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q34284450 -Pawn script -http://www.wikidata.org/entity/Q34284450
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572
+Q85413270 -PTGui Project File 11 -http://www.wikidata.org/entity/Q85413270
+Q66439286 -DisplayWrite Document file format, version 5 -http://www.wikidata.org/entity/Q66439286
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q27988078 -ST disk image -http://www.wikidata.org/entity/Q27988078
+Q28049770 -DKBTrace scene description -http://www.wikidata.org/entity/Q28049770
+Q26211983 -ZIP archive file format, version 1.0 -http://www.wikidata.org/entity/Q26211983
+Q48782394 -Microsoft Word for MS-DOS Document, version 5.5 -http://www.wikidata.org/entity/Q48782394
+Q29209036 -Windows Installer Package -http://www.wikidata.org/entity/Q29209036
+Q3146723 -Raw disk image -http://www.wikidata.org/entity/Q3146723
+Q28206125 -Flexible Line Interpretation -http://www.wikidata.org/entity/Q28206125
+Q2192 -Graphics Interchange Format -http://www.wikidata.org/entity/Q2192
+Q29000561 -Kryoflux Stream -http://www.wikidata.org/entity/Q29000561
+Q535473 -PCX -http://www.wikidata.org/entity/Q535473
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q28755621 -Exact Yearbook ID file -http://www.wikidata.org/entity/Q28755621
+Q28049747 -CMU Andrew Toolkit image -http://www.wikidata.org/entity/Q28049747
+Q28791524 -Parchive, version 1 -http://www.wikidata.org/entity/Q28791524
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q26211978 -ZIP archive file format, version 1.1 -http://www.wikidata.org/entity/Q26211978
+Q1428303 -Flexible Image Transport System -http://www.wikidata.org/entity/Q1428303
+Q7670377 -Tagged Image File Format/Electronic Photography -http://www.wikidata.org/entity/Q7670377
+Q28207379 -TIFF for Fax eXtended -http://www.wikidata.org/entity/Q28207379
+Q27526739 -Graphics Interchange Format, version 89a -http://www.wikidata.org/entity/Q27526739
+Q28205965 -Digital Video Interactive Green Channel -http://www.wikidata.org/entity/Q28205965
+Q28206756 -NIST IHead -http://www.wikidata.org/entity/Q28206756
+Q28207452 -Vista Data File Format -http://www.wikidata.org/entity/Q28207452
+Q61641450 -WordPerfect for MS-DOS Document -http://www.wikidata.org/entity/Q61641450
+Q28206381 -VisualBasic form -http://www.wikidata.org/entity/Q28206381
+Q1570391 -Uuencoding -http://www.wikidata.org/entity/Q1570391
+Q28206615 -Microsoft Paint, version 1 -http://www.wikidata.org/entity/Q28206615
+Q28975647 -POV-Ray RAW triangle format -http://www.wikidata.org/entity/Q28975647
+Q219983 -Zoo -http://www.wikidata.org/entity/Q219983
+Q29000677 -Yet Another Object Description Language -http://www.wikidata.org/entity/Q29000677
+Q61641368 -Microsoft Word for Windows Document, version 2 -http://www.wikidata.org/entity/Q61641368
+Q47233167 -LDR -http://www.wikidata.org/entity/Q47233167
+Q73019664 -WordPerfect for MS-DOS/Windows Document, version 5.1 -http://www.wikidata.org/entity/Q73019664
+Q1888930 -Vector Markup Language -http://www.wikidata.org/entity/Q1888930
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q28206162 -GEM Raster -http://www.wikidata.org/entity/Q28206162
+Q26211874 -ZIP archive file format, version 6.3.1 -http://www.wikidata.org/entity/Q26211874
+Q1502796 -GeoTIFF -http://www.wikidata.org/entity/Q1502796
+Q26719966 -Computer Graphics Metafile, version 1 -http://www.wikidata.org/entity/Q26719966
+Q28205839 -CMU Window Manager bitmap -http://www.wikidata.org/entity/Q28205839
+Q28206883 -Planetary Data System -http://www.wikidata.org/entity/Q28206883
+Q73675958 -3M Printscape -http://www.wikidata.org/entity/Q73675958
+Q28205807 -Palette Format -http://www.wikidata.org/entity/Q28205807
+Q2053 -HTML5 -http://www.wikidata.org/entity/Q2053
+Q29650301 -Pack -http://www.wikidata.org/entity/Q29650301
+Q28205955 -Dr. Halo Palette -http://www.wikidata.org/entity/Q28205955
+Q28347555 -IBM Audio Visual Connection (AVC) Still Video Image -http://www.wikidata.org/entity/Q28347555
+Q28207437 -Khoros Visualization image, version 1.0 -http://www.wikidata.org/entity/Q28207437
+Q28207469 -Vivid IMG -http://www.wikidata.org/entity/Q28207469
+Q27866063 -Digital Negative, version 1.4 -http://www.wikidata.org/entity/Q27866063
+Q6731061 -Magick Image File Format -http://www.wikidata.org/entity/Q6731061
+Q28206708 -Portable Pixmap, binary variant -http://www.wikidata.org/entity/Q28206708
+Q34746472 -STATISTICA Spreadsheet File -http://www.wikidata.org/entity/Q34746472
+Q50182987 -Interleaved ADX Audio Format -http://www.wikidata.org/entity/Q50182987
+Q382011 -Program information file -http://www.wikidata.org/entity/Q382011
+Q59962623 -Autodesk Animator (FlicLib) -http://www.wikidata.org/entity/Q59962623
+Q28205948 -Dr. Halo Bitmap -http://www.wikidata.org/entity/Q28205948
+Q51916170 -Pagemaker TableEditor Graphics -http://www.wikidata.org/entity/Q51916170
+Q28206620 -Microsoft Paint, version 2 -http://www.wikidata.org/entity/Q28206620
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q32097740 -Fallout DAT -http://www.wikidata.org/entity/Q32097740
+Q51801746 -Stationery for Mac OS X -http://www.wikidata.org/entity/Q51801746
+Q27979410 -Binary Text -http://www.wikidata.org/entity/Q27979410
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830
+Q71001254 -Gameboy Sound Format -http://www.wikidata.org/entity/Q71001254
+Q48782202 -Microsoft Word for MS-DOS Document, version 4 -http://www.wikidata.org/entity/Q48782202
+Q1063976 -Truevision TGA -http://www.wikidata.org/entity/Q1063976
+Q5448342 -File change log -http://www.wikidata.org/entity/Q5448342
+Q5421818 -Extended Log Format -http://www.wikidata.org/entity/Q5421818
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q28975796 -Drawing Interchange Format, version 10 -http://www.wikidata.org/entity/Q28975796
+Q28731049 -Dyalog APL Transfer File format -http://www.wikidata.org/entity/Q28731049
+Q26211927 -ZIP archive file format, version 6.2.0 -http://www.wikidata.org/entity/Q26211927
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q1228757 -Apple Disk Image -http://www.wikidata.org/entity/Q1228757
+Q283579 -tar -http://www.wikidata.org/entity/Q283579
+Q87816075 -Broderbund Print Shop Deluxe 5-6 -http://www.wikidata.org/entity/Q87816075
+Q28758112 -Internet Explorer history file -http://www.wikidata.org/entity/Q28758112
+Q61315377 -Drawing Interchange File Format (ASCII), version 2.6 -http://www.wikidata.org/entity/Q61315377
+Q34311311 -Sense8 Neutral File Format, plain text variant -http://www.wikidata.org/entity/Q34311311
+Q817650 -COM -http://www.wikidata.org/entity/Q817650
+Q28205785 -BRender PIX -http://www.wikidata.org/entity/Q28205785
+Q43866871 -PCX, version 2 -http://www.wikidata.org/entity/Q43866871
+Q28206593 -MSX Interchange Format -http://www.wikidata.org/entity/Q28206593
+Q1952708 -FILE_ID.DIZ -http://www.wikidata.org/entity/Q1952708
+Q48551303 -Word Perfect for Windows Document file format -http://www.wikidata.org/entity/Q48551303
+Q61135953 -Drawing Interchange File Format (ASCII), version 2.2 -http://www.wikidata.org/entity/Q61135953
+Q61315785 -Drawing Interchange File Format (ASCII), version R10 -http://www.wikidata.org/entity/Q61315785
+Q26211975 -ZIP archive file format, version 2.1 -http://www.wikidata.org/entity/Q26211975
+Q28771288 -Mapsforge Binary Map -http://www.wikidata.org/entity/Q28771288
+Q48915661 -Interleaf Document -http://www.wikidata.org/entity/Q48915661
+Q166074 -Extensible HyperText Markup Language -http://www.wikidata.org/entity/Q166074
+Q28207232 -RLA -http://www.wikidata.org/entity/Q28207232
+Q5153426 -Common Log Format -http://www.wikidata.org/entity/Q5153426
+Q61053201 -Drawing Interchange File Format (ASCII), version 1.3 -http://www.wikidata.org/entity/Q61053201
+Q43974596 -Drawing Interchange File Format (Binary), version R13 -http://www.wikidata.org/entity/Q43974596
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q29000498 -OrCAD library -http://www.wikidata.org/entity/Q29000498
+Q61692923 -Drawing Interchange File Format (Binary), version R10 -http://www.wikidata.org/entity/Q61692923
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q28344736 -Macintosh resource file -http://www.wikidata.org/entity/Q28344736
+Q28771107 -MAT-file, Level 4 -http://www.wikidata.org/entity/Q28771107
+Q61578345 -Drawing Interchange File Format (ASCII), version 2000-2002 -http://www.wikidata.org/entity/Q61578345
+Q26211977 -ZIP archive file format, version 2.0 -http://www.wikidata.org/entity/Q26211977
+Q28975654 -Recon Points -http://www.wikidata.org/entity/Q28975654
+Q28018471 -MPEG-2 program stream -http://www.wikidata.org/entity/Q28018471
+Q34285550 -Perl header -http://www.wikidata.org/entity/Q34285550
+Q731135 -Microsoft Management Console -http://www.wikidata.org/entity/Q731135
+Q218170 -PostScript -http://www.wikidata.org/entity/Q218170
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q26719970 -Computer Graphics Metafile, version 3 -http://www.wikidata.org/entity/Q26719970
+Q60628185 -Wordperfect Secondary File, version 5 -http://www.wikidata.org/entity/Q60628185
+Q5532344 -General feature format -http://www.wikidata.org/entity/Q5532344
+Q72198666 -dBASE IV Label design file format -http://www.wikidata.org/entity/Q72198666
+Q26719973 -Computer Graphics Metafile, version 4 -http://www.wikidata.org/entity/Q26719973
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q50223812 -Bluetooth Snoop Packet Capture -http://www.wikidata.org/entity/Q50223812
+Q28786544 -Netscape bookmarks -http://www.wikidata.org/entity/Q28786544
+Q27866059 -Digital Negative, version 1.1 -http://www.wikidata.org/entity/Q27866059
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q28771220 -MAT-file, Level 5, version 7 -http://www.wikidata.org/entity/Q28771220
+Q51839234 -Inset Systems Bitmap -http://www.wikidata.org/entity/Q51839234
+Q2276274 -System.map -http://www.wikidata.org/entity/Q2276274
+Q28755606 -Exact Yearbook DAT file -http://www.wikidata.org/entity/Q28755606
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q59851255 -Drawing Interchange File Format (ASCII) -http://www.wikidata.org/entity/Q59851255
+Q27967223 -StarTrekker/Star Tracker module -http://www.wikidata.org/entity/Q27967223
+Q61315973 -Drawing Interchange File Format (ASCII), version R11/R12 -http://www.wikidata.org/entity/Q61315973
+Q34747168 -STATISTICA Scrollsheet File -http://www.wikidata.org/entity/Q34747168
+Q28206373 -Interleaf image -http://www.wikidata.org/entity/Q28206373
+Q686498 -doc -http://www.wikidata.org/entity/Q686498
+Q27229608 -Portable Network Graphics, version 1.1 -http://www.wikidata.org/entity/Q27229608
+Q32097899 -Fallout v2 DAT -http://www.wikidata.org/entity/Q32097899
+Q28207441 -Khoros Visualization image, version 2.0 -http://www.wikidata.org/entity/Q28207441
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q51839187 -NAP Metafile -http://www.wikidata.org/entity/Q51839187
+Q28858039 -Word Binary File Format, version nFibNew=0x00D9 -http://www.wikidata.org/entity/Q28858039
+Q61576485 -Drawing Interchange File Format (ASCII), version R13 -http://www.wikidata.org/entity/Q61576485
+Q19599377 -AppleLink Package Compression Format -http://www.wikidata.org/entity/Q19599377
+Q26211840 -ZIP archive file format, ISO/IEC 21320–1:2015 -http://www.wikidata.org/entity/Q26211840
+Q28206625 -MSX BASIC graphics -http://www.wikidata.org/entity/Q28206625
+Q29904535 -Statistical Analysis System program -http://www.wikidata.org/entity/Q29904535
+Q28858041 -Word Binary File Format, version nFibNew=0x0101 -http://www.wikidata.org/entity/Q28858041
+Q4545331 -3D Studio mesh-file format -http://www.wikidata.org/entity/Q4545331
+Q2044200 -PICT -http://www.wikidata.org/entity/Q2044200
+Q51751573 -AutoCAD Script -http://www.wikidata.org/entity/Q51751573
+Q34284437 -Pascal script -http://www.wikidata.org/entity/Q34284437
+Q28205583 -OS/2 Pointer -http://www.wikidata.org/entity/Q28205583
+Q28858042 -Word Binary File Format, version nFibNew=0x010C -http://www.wikidata.org/entity/Q28858042
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q6912474 -Mork -http://www.wikidata.org/entity/Q6912474
+Q59714459 -Encapsulated PostScript File Format -http://www.wikidata.org/entity/Q59714459
+Q66439261 -WordPerfect Merge Forms file format -http://www.wikidata.org/entity/Q66439261
+Q61976072 -FoxPro Report -http://www.wikidata.org/entity/Q61976072
+Q1887604 -X PixMap -http://www.wikidata.org/entity/Q1887604
+Q28207194 -QRT Ray Tracer bitmap -http://www.wikidata.org/entity/Q28207194
+Q28858035 -Word Binary File Format, version nFib=0x00C1 -http://www.wikidata.org/entity/Q28858035
+Q29000614 -Resource File -http://www.wikidata.org/entity/Q29000614
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q26211957 -ZIP archive file format, version 4.5 -http://www.wikidata.org/entity/Q26211957
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q26211948 -ZIP archive file format, version 5.0 -http://www.wikidata.org/entity/Q26211948
+Q29650303 -PSRFITS -http://www.wikidata.org/entity/Q29650303
+Q28206700 -Portable Pixmap, text variant -http://www.wikidata.org/entity/Q28206700
+Q27966894 -GSF -http://www.wikidata.org/entity/Q27966894
+Q66439259 -WordPerfect Merge Data file format -http://www.wikidata.org/entity/Q66439259
+Q43975347 -Drawing Interchange File Format (Binary), version R14 -http://www.wikidata.org/entity/Q43975347
+Q2138624 -registry file -http://www.wikidata.org/entity/Q2138624
+Q63061514 -Microsoft Word Document, version 97-2003 -http://www.wikidata.org/entity/Q63061514
+Q26211915 -ZIP archive file format, version 6.2.1 -http://www.wikidata.org/entity/Q26211915
+Q28975794 -Drawing Interchange Format, version 12 -http://www.wikidata.org/entity/Q28975794
+Q27596184 -Windows Bitmap, version 2 -http://www.wikidata.org/entity/Q27596184
+Q59608283 -KryoFlux -http://www.wikidata.org/entity/Q59608283
+Q28346237 -TTDDD -http://www.wikidata.org/entity/Q28346237
+Q27979508 -RIFF Palette File -http://www.wikidata.org/entity/Q27979508
+Q1949770 -X Window dump -http://www.wikidata.org/entity/Q1949770
+Q28205779 -Bob ray tracer bitmap -http://www.wikidata.org/entity/Q28205779
+Q27967388 -Adlib Tracker instrument -http://www.wikidata.org/entity/Q27967388
+Q28205879 -CUT -http://www.wikidata.org/entity/Q28205879
+Q28205944 -Doré Raster -http://www.wikidata.org/entity/Q28205944
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q28600476 -DOS device driver -http://www.wikidata.org/entity/Q28600476
+Q85621806 -PFS:First Choice Document 3 -http://www.wikidata.org/entity/Q85621806
+Q5532250 -General Transit Feed Specification -http://www.wikidata.org/entity/Q5532250
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q60887256 -Drawing Interchange File Format (ASCII), version 1.1 -http://www.wikidata.org/entity/Q60887256
+Q6746668 -Management Information Format -http://www.wikidata.org/entity/Q6746668
+Q1817318 -X BitMap -http://www.wikidata.org/entity/Q1817318
+Q3888665 -Package interchange format -http://www.wikidata.org/entity/Q3888665
+Q50419770 -WordPerfect Graphics Metafile -http://www.wikidata.org/entity/Q50419770
+Q27526866 -Write for Windows Document, version 3.1 -http://www.wikidata.org/entity/Q27526866
+Q62664735 -Wordperfect Secondary File, version 5.1 and 5.2 -http://www.wikidata.org/entity/Q62664735
+Q28344021 -Imagine Object File -http://www.wikidata.org/entity/Q28344021
+Q28018470 -MPEG-1 program stream -http://www.wikidata.org/entity/Q28018470
+Q28206343 -ImgStar -http://www.wikidata.org/entity/Q28206343
+Q26211931 -ZIP archive file format, version 6.1.0 -http://www.wikidata.org/entity/Q26211931
+Q26211958 -ZIP archive file format, version 2.7 -http://www.wikidata.org/entity/Q26211958
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400
+Q27925705 -DTED Readme file -http://www.wikidata.org/entity/Q27925705
+Q26211891 -ZIP archive file format, version 6.3.0 -http://www.wikidata.org/entity/Q26211891
+Q89029185 -American Greetings Project 10-23 -http://www.wikidata.org/entity/Q89029185
+Q28771221 -MAT-file, Level 5, version 7.3 -http://www.wikidata.org/entity/Q28771221
+Q28207516 -Word for DOS screen capture -http://www.wikidata.org/entity/Q28207516
+Q28207447 -VIPS -http://www.wikidata.org/entity/Q28207447
+Q7671270 -TRANS.TBL -http://www.wikidata.org/entity/Q7671270
+Q777561 -BinHex -http://www.wikidata.org/entity/Q777561
+Q28206049 -ERDAS Imagine IMG -http://www.wikidata.org/entity/Q28206049
+Q751800 -TrueType Font -http://www.wikidata.org/entity/Q751800
+Q29000745 -MultiGen Flight -http://www.wikidata.org/entity/Q29000745
+Q28207252 -SCR -http://www.wikidata.org/entity/Q28207252
+Q2119595 -Wavefront .obj file -http://www.wikidata.org/entity/Q2119595
+Q61976139 -Microsoft Visual FoxPro Report -http://www.wikidata.org/entity/Q61976139
+Q85413178 -PTGui Project File 10 -http://www.wikidata.org/entity/Q85413178
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q62625561 -Bash script -http://www.wikidata.org/entity/Q62625561
+Q60000066 -Microsoft Office Owner File -http://www.wikidata.org/entity/Q60000066
+Q59653966 -MySQL Table Definition Format -http://www.wikidata.org/entity/Q59653966
+Q28009496 -Zelda Solarus DX saved game -http://www.wikidata.org/entity/Q28009496
+Q28206272 -HTC splashscreen -http://www.wikidata.org/entity/Q28206272
+Q43870269 -PCX, version 4 -http://www.wikidata.org/entity/Q43870269
+Q59608340 -KryoFlux -http://www.wikidata.org/entity/Q59608340
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q433224 -APNG -http://www.wikidata.org/entity/Q433224
+Q81526237 -MapInfo MapBasic tabular DataBase -http://www.wikidata.org/entity/Q81526237
+Q61315572 -Drawing Interchange File Format (ASCII), version R9 -http://www.wikidata.org/entity/Q61315572
+Q61315206 -Drawing Interchange File Format (ASCII), version 2.5 -http://www.wikidata.org/entity/Q61315206
+Q28771319 -Microsoft Library -http://www.wikidata.org/entity/Q28771319
+Q61131191 -Drawing Interchange File Format (ASCII), version 2 -http://www.wikidata.org/entity/Q61131191
+Q28206284 -IBM KIPS palette -http://www.wikidata.org/entity/Q28206284
+Q8229684 -Elf -http://www.wikidata.org/entity/Q8229684
+Q28858038 -Word Binary File Format, version nFib=0x00C2 -http://www.wikidata.org/entity/Q28858038
+Q81526664 -Palm Desktop DateBook -http://www.wikidata.org/entity/Q81526664
+Q29944206 -OpenOffice Draw template, version 1.0 -http://www.wikidata.org/entity/Q29944206
+Q27866062 -Digital Negative, version 1.3 -http://www.wikidata.org/entity/Q27866062
+Q7311459 -Relocatable Object Module Format -http://www.wikidata.org/entity/Q7311459
+Q27979394 -DVM -http://www.wikidata.org/entity/Q27979394
+Q1047541 -Encapsulated PostScript -http://www.wikidata.org/entity/Q1047541
+Q28206528 -MacPaint -http://www.wikidata.org/entity/Q28206528
+Q27231654 -Tag Image File Format, version 6.0 -http://www.wikidata.org/entity/Q27231654
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q26211940 -ZIP archive file format, version 5.1 -http://www.wikidata.org/entity/Q26211940
+Q34745761 -StarCraft group file -http://www.wikidata.org/entity/Q34745761
+Q28205824 -CgBI -http://www.wikidata.org/entity/Q28205824
+Q28205372 -Kodak TIFF -http://www.wikidata.org/entity/Q28205372
+Q28207108 -The Print Shop Graphics file -http://www.wikidata.org/entity/Q28207108
+Q27229565 -Portable Network Graphics, version 1.0 -http://www.wikidata.org/entity/Q27229565
+Q28858044 -Word Binary File Format, version nFibNew=0x0112 -http://www.wikidata.org/entity/Q28858044
+Q27231634 -Tag Image File Format, version 4.0 -http://www.wikidata.org/entity/Q27231634
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q856364 -Common Object File Format -http://www.wikidata.org/entity/Q856364
+Q29650304 -PRT scene description -http://www.wikidata.org/entity/Q29650304
+Q85621726 -PFS:First Choice Document -http://www.wikidata.org/entity/Q85621726
+Q26211954 -ZIP archive file format, version 4.6 -http://www.wikidata.org/entity/Q26211954
+Q26211936 -ZIP archive file format, version 5.2 -http://www.wikidata.org/entity/Q26211936
+Q28205771 -BigTIFF -http://www.wikidata.org/entity/Q28205771
+Q28206351 -Inset PIX -http://www.wikidata.org/entity/Q28206351
+Q27967085 -Jason Page -http://www.wikidata.org/entity/Q27967085
+Q27967444 -AutoDesk FLIC Animation -http://www.wikidata.org/entity/Q27967444
+Q44044 -N-Triples -http://www.wikidata.org/entity/Q44044
+Q877050 -ISO image -http://www.wikidata.org/entity/Q877050
+Q1569639 -Interchange File Format -http://www.wikidata.org/entity/Q1569639
+Q629039 -JBIG -http://www.wikidata.org/entity/Q629039
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q28205418 -Panasonic RAW/RW2 -http://www.wikidata.org/entity/Q28205418
+Q29650305 -PSI-MI XML -http://www.wikidata.org/entity/Q29650305
+Q27355592 -ADRG Geo Data File -http://www.wikidata.org/entity/Q27355592
+Q28206265 -HSI Raw -http://www.wikidata.org/entity/Q28206265
+Q26211965 -ZIP archive file format, version 2.5 -http://www.wikidata.org/entity/Q26211965
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q48782098 -Microsoft Word for MS-DOS Document, version 3 -http://www.wikidata.org/entity/Q48782098
+Q48625328 -Encapsulated PostScript, v2 -http://www.wikidata.org/entity/Q48625328
+Q28009488 -Tibia map file -http://www.wikidata.org/entity/Q28009488
+Q1381134 -MapInfo Interchange Format -http://www.wikidata.org/entity/Q1381134
+Q43870624 -PCX, version 5 -http://www.wikidata.org/entity/Q43870624
+Q942350 -QuickTime File Format -http://www.wikidata.org/entity/Q942350
+Q61576757 -Drawing Interchange File Format (ASCII), version R14 -http://www.wikidata.org/entity/Q61576757
+Q51917759 -SDSC Image Tool X Window Dump Format -http://www.wikidata.org/entity/Q51917759
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+Q28758103 -InstallShield Z -http://www.wikidata.org/entity/Q28758103
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084

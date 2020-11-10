@@ -1,0 +1,14 @@
+Q27995540 -Canon EOS C300 Custom Picture Profile -http://www.wikidata.org/entity/Q27995540
+
+############################################################################################
+
+Q3359832 -Product Representation Compact -http://www.wikidata.org/entity/Q3359832
+Q27996279 -MOBI -http://www.wikidata.org/entity/Q27996279
+Q29650308 -Palm Resource Compiler -http://www.wikidata.org/entity/Q29650308
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q27967187 -Future Composer v1.x module -http://www.wikidata.org/entity/Q27967187
+Q29151494 -Quantum compressed archive -http://www.wikidata.org/entity/Q29151494
+Q50308743 -WordPerfect file format, v4 -http://www.wikidata.org/entity/Q50308743
+Q935809 -comma-separated values -http://www.wikidata.org/entity/Q935809
+Q60806257 -Microsoft Excel 4.0 Worksheet (xls) -http://www.wikidata.org/entity/Q60806257
+Q52834888 -Microsoft Excel 2.x Worksheet -http://www.wikidata.org/entity/Q52834888

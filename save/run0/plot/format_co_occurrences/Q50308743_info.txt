@@ -1,0 +1,14 @@
+Q50308743 -WordPerfect file format, v4 -http://www.wikidata.org/entity/Q50308743
+
+##################################################################################
+
+Q61641450 -WordPerfect for MS-DOS Document -http://www.wikidata.org/entity/Q61641450
+Q48551303 -Word Perfect for Windows Document file format -http://www.wikidata.org/entity/Q48551303
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q27959886 -Cubase song -http://www.wikidata.org/entity/Q27959886
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q4545331 -3D Studio mesh-file format -http://www.wikidata.org/entity/Q4545331
+Q28206412 -Jovian Logic VI -http://www.wikidata.org/entity/Q28206412
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246

@@ -1,0 +1,14 @@
+Q27487359 -ArcView GIS 3.x attribute index -http://www.wikidata.org/entity/Q27487359
+
+######################################################################################
+
+Q27487388 -Shapefile geocoding index -http://www.wikidata.org/entity/Q27487388
+Q27487398 -Shapefile geocoding index, ODB format -http://www.wikidata.org/entity/Q27487398
+Q28445577 -Advanced Authoring System -http://www.wikidata.org/entity/Q28445577
+Q29943901 -StarOffice Writer, version 5.x -http://www.wikidata.org/entity/Q29943901
+Q29943903 -StarOffice Writer, version 3.x -http://www.wikidata.org/entity/Q29943903
+Q52005598 -AMI Draw Vector Image -http://www.wikidata.org/entity/Q52005598
+Q29943902 -StarOffice Writer, version 4.x -http://www.wikidata.org/entity/Q29943902
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521

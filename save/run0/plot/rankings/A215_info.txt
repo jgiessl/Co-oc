@@ -1,0 +1,25 @@
+A215
+number of files:  369
+number of files with unknown format: 135
+number of files with known format: 234
+contained formats: 
+Q27967213 -Real Tracker module -http://www.wikidata.org/entity/Q27967213
+Q27959996 -OptimFROG -http://www.wikidata.org/entity/Q27959996
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q51718267 -Schedule+ Contacts -http://www.wikidata.org/entity/Q51718267
+Q194831 -Cabinet -http://www.wikidata.org/entity/Q194831
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q28755730 -FDB (Legacy Family Tree) -http://www.wikidata.org/entity/Q28755730
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q88372666 -Legacy Family Tree Database 3-9 -http://www.wikidata.org/entity/Q88372666
+Q5134985 -CloneCD Control File -http://www.wikidata.org/entity/Q5134985
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q1258721 -NFO -http://www.wikidata.org/entity/Q1258721
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q96635159 -scdoc -http://www.wikidata.org/entity/Q96635159
+Q5439272 -Font Definition Block -http://www.wikidata.org/entity/Q5439272
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q27967143 -DigiTrekker module -http://www.wikidata.org/entity/Q27967143
+Q17484151 -Scribus Document -http://www.wikidata.org/entity/Q17484151
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084

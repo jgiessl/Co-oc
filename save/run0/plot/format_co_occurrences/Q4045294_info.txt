@@ -1,0 +1,14 @@
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+
+###################################################################
+
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693

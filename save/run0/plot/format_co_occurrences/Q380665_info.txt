@@ -1,0 +1,14 @@
+Q380665 -PLS -http://www.wikidata.org/entity/Q380665
+
+######################################################
+
+Q34743436 -Softlib -http://www.wikidata.org/entity/Q34743436
+Q51756571 -AutoCAD Slide Library -http://www.wikidata.org/entity/Q51756571
+Q28206683 -Portable Graymap, text variant -http://www.wikidata.org/entity/Q28206683
+Q28206579 -MetaMorph Stack -http://www.wikidata.org/entity/Q28206579
+Q28206695 -Portable Graymap, binary variant -http://www.wikidata.org/entity/Q28206695
+Q27967144 -DisorderTracker 2 module -http://www.wikidata.org/entity/Q27967144
+Q28205659 -Ability Office PhotoPaint -http://www.wikidata.org/entity/Q28205659
+Q45350403 -Lotus 1-2-3 Spreadsheet Formatting File, version 2.3-2.4 -http://www.wikidata.org/entity/Q45350403
+Q28206504 -Lotus Manuscript graphics -http://www.wikidata.org/entity/Q28206504
+Q28205653 -Abekas YUV -http://www.wikidata.org/entity/Q28205653

@@ -1,0 +1,14 @@
+Q29650319 -PIM -http://www.wikidata.org/entity/Q29650319
+
+##########################################################
+
+Q28344723 -Turbo Pascal chain file -http://www.wikidata.org/entity/Q28344723
+Q28452000 -TERSE -http://www.wikidata.org/entity/Q28452000
+Q28207302 -True Colour Sprite -http://www.wikidata.org/entity/Q28207302
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q61901831 -Peak Graphical Waveform File -http://www.wikidata.org/entity/Q61901831
+Q29650316 -Packed Font File Format -http://www.wikidata.org/entity/Q29650316
+Q28206493 -Lightning Strike -http://www.wikidata.org/entity/Q28206493
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q48004607 -Microsoft Access Database, version 2 -http://www.wikidata.org/entity/Q48004607
+Q48004869 -Microsoft Access Database, version 95 -http://www.wikidata.org/entity/Q48004869

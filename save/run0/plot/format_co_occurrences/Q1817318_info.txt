@@ -1,0 +1,14 @@
+Q1817318 -X BitMap -http://www.wikidata.org/entity/Q1817318
+
+#############################################################
+
+Q1887604 -X PixMap -http://www.wikidata.org/entity/Q1887604
+Q28206679 -Portable Bitmap, binary variant -http://www.wikidata.org/entity/Q28206679
+Q28206671 -Portable Bitmap, text variant -http://www.wikidata.org/entity/Q28206671
+Q1570391 -Uuencoding -http://www.wikidata.org/entity/Q1570391
+Q34285652 -Perl Common Gateway Interface script -http://www.wikidata.org/entity/Q34285652
+Q28205604 -RIPscrip version 1 Icon Mask -http://www.wikidata.org/entity/Q28205604
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q218170 -PostScript -http://www.wikidata.org/entity/Q218170
+Q47246032 -PowerVR Object Data -http://www.wikidata.org/entity/Q47246032

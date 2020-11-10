@@ -1,0 +1,14 @@
+Q50182987 -Interleaved ADX Audio Format -http://www.wikidata.org/entity/Q50182987
+
+###################################################################################
+
+Q7514956 -Silicon Graphics Image -http://www.wikidata.org/entity/Q7514956
+Q17138473 -Sun Raster -http://www.wikidata.org/entity/Q17138473
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q28205788 -Compact Picture Format -http://www.wikidata.org/entity/Q28205788
+Q5013743 -Corel Photo-Paint Image -http://www.wikidata.org/entity/Q5013743
+Q27979394 -DVM -http://www.wikidata.org/entity/Q27979394
+Q28049747 -CMU Andrew Toolkit image -http://www.wikidata.org/entity/Q28049747
+Q28205839 -CMU Window Manager bitmap -http://www.wikidata.org/entity/Q28205839
+Q28205879 -CUT -http://www.wikidata.org/entity/Q28205879

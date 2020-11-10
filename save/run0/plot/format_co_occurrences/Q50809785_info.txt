@@ -1,0 +1,14 @@
+Q50809785 -Portable Database, version 3 -http://www.wikidata.org/entity/Q50809785
+
+###################################################################################
+
+Q55758993 -Microsoft Program Database file format, version 7 -http://www.wikidata.org/entity/Q55758993
+Q58799889 -PowerProject Teamplan -http://www.wikidata.org/entity/Q58799889
+Q28207256 -ScreenShot Hack PDB -http://www.wikidata.org/entity/Q28207256
+Q50809751 -Portable Database, version 1 -http://www.wikidata.org/entity/Q50809751
+Q28207363 -TealPaint PDB -http://www.wikidata.org/entity/Q28207363
+Q28206843 -Palm Database ImageViewer -http://www.wikidata.org/entity/Q28206843
+Q50809753 -Portable Database, version 2 -http://www.wikidata.org/entity/Q50809753
+Q3406936 -Program database -http://www.wikidata.org/entity/Q3406936
+Q29650793 -PalmOS Database -http://www.wikidata.org/entity/Q29650793
+Q55758988 -Microsoft Program Database file format, version 2 -http://www.wikidata.org/entity/Q55758988

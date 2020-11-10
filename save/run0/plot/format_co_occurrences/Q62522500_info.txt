@@ -1,0 +1,14 @@
+Q62522500 -SPARQL query -http://www.wikidata.org/entity/Q62522500
+
+###################################################################
+
+Q51799492 -Quattro Pro Spreadsheet for DOS, versions 1-4 -http://www.wikidata.org/entity/Q51799492
+Q47018292 -PageMaker Document file format, version 3 -http://www.wikidata.org/entity/Q47018292
+Q47018470 -PageMaker Document file format, version 4 -http://www.wikidata.org/entity/Q47018470
+Q71858982 -CorelDraw Drawing, version 10 -http://www.wikidata.org/entity/Q71858982
+Q71832451 -CorelDraw Drawing, version 1 -http://www.wikidata.org/entity/Q71832451
+Q71828821 -CorelDraw Drawing, version 4 -http://www.wikidata.org/entity/Q71828821
+Q71831258 -CorelDraw Drawing, version 2 -http://www.wikidata.org/entity/Q71831258
+Q71432876 -CorelDraw Drawing, version 6 -http://www.wikidata.org/entity/Q71432876
+Q71275233 -CorelDraw Drawing, version 7 -http://www.wikidata.org/entity/Q71275233
+Q71973058 -CorelDraw Drawing, version X5 -http://www.wikidata.org/entity/Q71973058

@@ -1,0 +1,14 @@
+Q28207359 -TAP -http://www.wikidata.org/entity/Q28207359
+
+##########################################################
+
+Q60414423 -TAP (Commodore 64) -http://www.wikidata.org/entity/Q60414423
+Q34748140 -TAP -http://www.wikidata.org/entity/Q34748140
+Q940967 -Musepack -http://www.wikidata.org/entity/Q940967
+Q66134564 -Photoshop DCS 1.0 -http://www.wikidata.org/entity/Q66134564
+Q48625328 -Encapsulated PostScript, v2 -http://www.wikidata.org/entity/Q48625328
+Q59714459 -Encapsulated PostScript File Format -http://www.wikidata.org/entity/Q59714459
+Q1047541 -Encapsulated PostScript -http://www.wikidata.org/entity/Q1047541
+Q5301 -TeX -http://www.wikidata.org/entity/Q5301
+Q6717333 -Mathematical Programming System -http://www.wikidata.org/entity/Q6717333
+Q6717026 -MOI -http://www.wikidata.org/entity/Q6717026

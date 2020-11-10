@@ -1,0 +1,28 @@
+39002074357899
+number of files:  1112
+number of files with unknown format: 1
+number of files with known format: 1111
+contained formats: 
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q751800 -TrueType Font -http://www.wikidata.org/entity/Q751800
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q48021763 -Microsoft Access Database, version 2002 -http://www.wikidata.org/entity/Q48021763
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q48004607 -Microsoft Access Database, version 2 -http://www.wikidata.org/entity/Q48004607
+Q27979278 -TheDraw Fonts File -http://www.wikidata.org/entity/Q27979278
+Q48021588 -Microsoft Access Database, version 2000 -http://www.wikidata.org/entity/Q48021588
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q939636 -CorelDRAW Document -http://www.wikidata.org/entity/Q939636
+Q48005022 -Microsoft Access Database, version 95 -http://www.wikidata.org/entity/Q48005022
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q10852293 -RPT -http://www.wikidata.org/entity/Q10852293
+Q83964875 -Microsoft Access Workgroup Information File -http://www.wikidata.org/entity/Q83964875
+Q48004869 -Microsoft Access Database, version 95 -http://www.wikidata.org/entity/Q48004869

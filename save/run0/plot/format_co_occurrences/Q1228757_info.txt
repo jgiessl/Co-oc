@@ -1,0 +1,14 @@
+Q1228757 -Apple Disk Image -http://www.wikidata.org/entity/Q1228757
+
+#####################################################################
+
+Q28206162 -GEM Raster -http://www.wikidata.org/entity/Q28206162
+Q28207469 -Vivid IMG -http://www.wikidata.org/entity/Q28207469
+Q28206373 -Interleaf image -http://www.wikidata.org/entity/Q28206373
+Q28206306 -Analyze IMG -http://www.wikidata.org/entity/Q28206306
+Q28205944 -Doré Raster -http://www.wikidata.org/entity/Q28205944
+Q27355592 -ADRG Geo Data File -http://www.wikidata.org/entity/Q27355592
+Q3146723 -Raw disk image -http://www.wikidata.org/entity/Q3146723
+Q16965621 -Video Image Communication And Retrieval -http://www.wikidata.org/entity/Q16965621
+Q28206049 -ERDAS Imagine IMG -http://www.wikidata.org/entity/Q28206049
+Q28205965 -Digital Video Interactive Green Channel -http://www.wikidata.org/entity/Q28205965

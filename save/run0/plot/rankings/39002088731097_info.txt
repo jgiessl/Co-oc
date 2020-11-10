@@ -1,0 +1,15 @@
+39002088731097
+number of files:  298
+number of files with unknown format: 0
+number of files with known format: 298
+contained formats: 
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q28786544 -Netscape bookmarks -http://www.wikidata.org/entity/Q28786544
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q8811 -HyperText Markup Language -http://www.wikidata.org/entity/Q8811
+Q2053 -HTML5 -http://www.wikidata.org/entity/Q2053
+Q1888930 -Vector Markup Language -http://www.wikidata.org/entity/Q1888930
+Q166074 -Extensible HyperText Markup Language -http://www.wikidata.org/entity/Q166074
+Q62626012 -HyperText Markup Language -http://www.wikidata.org/entity/Q62626012

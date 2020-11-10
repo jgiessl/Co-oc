@@ -1,0 +1,14 @@
+Q28207405 -TLG -http://www.wikidata.org/entity/Q28207405
+
+##########################################################
+
+Q51916170 -Pagemaker TableEditor Graphics -http://www.wikidata.org/entity/Q51916170
+Q7671270 -TRANS.TBL -http://www.wikidata.org/entity/Q7671270
+Q27473691 -BIL/BIP/BSQ Header File -http://www.wikidata.org/entity/Q27473691
+Q28206310 -Analyze HDR -http://www.wikidata.org/entity/Q28206310
+Q47455968 -SafeGuard Encrypted Virtual Disk -http://www.wikidata.org/entity/Q47455968
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q48105549 -SAS for MS-DOS Catalog -http://www.wikidata.org/entity/Q48105549
+Q28758102 -InstallShield CAB -http://www.wikidata.org/entity/Q28758102
+Q3928271 -RGBE image format -http://www.wikidata.org/entity/Q3928271
+Q52063295 -SAS for MS-DOS Database -http://www.wikidata.org/entity/Q52063295

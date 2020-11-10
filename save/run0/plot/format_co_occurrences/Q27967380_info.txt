@@ -1,0 +1,14 @@
+Q27967380 -EVT -http://www.wikidata.org/entity/Q27967380
+
+##########################################################
+
+Q10610388 -Standard MIDI File -http://www.wikidata.org/entity/Q10610388
+Q59961105 -InstallShield Compiled Rules File -http://www.wikidata.org/entity/Q59961105
+Q51331501 -Hewlett Packard Vector Graphic Plotter File -http://www.wikidata.org/entity/Q51331501
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q34746472 -STATISTICA Spreadsheet File -http://www.wikidata.org/entity/Q34746472
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400
+Q27979410 -Binary Text -http://www.wikidata.org/entity/Q27979410
+Q28055391 -Printfox bitmap -http://www.wikidata.org/entity/Q28055391
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830

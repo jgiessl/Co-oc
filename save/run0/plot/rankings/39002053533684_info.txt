@@ -1,0 +1,60 @@
+39002053533684
+number of files:  139
+number of files with unknown format: 3
+number of files with known format: 136
+contained formats: 
+Q61971919 -Microsoft Visual FoxPro Database Table File -http://www.wikidata.org/entity/Q61971919
+Q46118194 -Lotus Approach View File, version 97 -http://www.wikidata.org/entity/Q46118194
+Q27866113 -Adobe Illustrator Artwork, version 4.0 -http://www.wikidata.org/entity/Q27866113
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521
+Q47498538 -Adobe Illustrator file format, version 9 -http://www.wikidata.org/entity/Q47498538
+Q28919071 -After Effects project, binary variant -http://www.wikidata.org/entity/Q28919071
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q51753051 -3D Studio Shapes -http://www.wikidata.org/entity/Q51753051
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q47012501 -OmniPage Pro Document file format -http://www.wikidata.org/entity/Q47012501
+Q61971917 -FoxPro Database, version 2x -http://www.wikidata.org/entity/Q61971917
+Q60628005 -FoxPro Database, version 2 -http://www.wikidata.org/entity/Q60628005
+Q27487109 -Shapefile index file -http://www.wikidata.org/entity/Q27487109
+Q27866110 -Adobe Illustrator Artwork, version 8 -http://www.wikidata.org/entity/Q27866110
+Q47498749 -Adobe Illustrator file format, version 16 -http://www.wikidata.org/entity/Q47498749
+Q51753252 -AutoCAD Compiled Shape/Font File -http://www.wikidata.org/entity/Q51753252
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q47538951 -AutoCAD Compiled Menu -http://www.wikidata.org/entity/Q47538951
+Q28600734 -ESRI Arc/Info Export File -http://www.wikidata.org/entity/Q28600734
+Q47498552 -Adobe Illustrator file format, version 11 -http://www.wikidata.org/entity/Q47498552
+Q44933672 -dBASE IV -http://www.wikidata.org/entity/Q44933672
+Q59999470 -ESRI Spatial Index File -http://www.wikidata.org/entity/Q59999470
+Q48814895 -ESRI ArcView Project -http://www.wikidata.org/entity/Q48814895
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q47498547 -Adobe Illustrator file format, version 10 -http://www.wikidata.org/entity/Q47498547
+Q47498555 -Adobe Illustrator file format, version 12 -http://www.wikidata.org/entity/Q47498555
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q27866118 -Adobe Illustrator Artwork, version 5.x Japenese Edition -http://www.wikidata.org/entity/Q27866118
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q27486884 -Shapefile main file -http://www.wikidata.org/entity/Q27486884
+Q52834849 -dBASE for Windows database, version 5 -http://www.wikidata.org/entity/Q52834849
+Q27487343 -Shapefile spatial index part 1 -http://www.wikidata.org/entity/Q27487343
+Q27866120 -Adobe Illustrator Artwork, version 6.0 -http://www.wikidata.org/entity/Q27866120
+Q47498736 -Adobe Illustrator file format, version 14 -http://www.wikidata.org/entity/Q47498736
+Q59999653 -ESRI Arc/View Project -http://www.wikidata.org/entity/Q59999653
+Q29904450 -Presentation Manager Metafile -http://www.wikidata.org/entity/Q29904450
+Q47498500 -Adobe Illustrator file format, version 8 -http://www.wikidata.org/entity/Q47498500
+Q28207085 -PrintMaster Graphics file -http://www.wikidata.org/entity/Q28207085
+Q27487348 -Shapefile spatial index part 2 -http://www.wikidata.org/entity/Q27487348
+Q47498565 -Adobe Illustrator file format, version 13 -http://www.wikidata.org/entity/Q47498565
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q27866114 -Adobe Illustrator Artwork, version 5.0/5.5 -http://www.wikidata.org/entity/Q27866114
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q27866092 -Adobe Illustrator Artwork, version 1.0/1.1 -http://www.wikidata.org/entity/Q27866092
+Q27487130 -Shapefile dBASE table -http://www.wikidata.org/entity/Q27487130
+Q47498745 -Adobe Illustrator file format, version 15 -http://www.wikidata.org/entity/Q47498745
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q27866112 -Adobe Illustrator Artwork, version 3.0/3.2 -http://www.wikidata.org/entity/Q27866112
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q56827141 -SeqBox file -http://www.wikidata.org/entity/Q56827141
+Q27866121 -Adobe Illustrator Artwork, version 7.0 -http://www.wikidata.org/entity/Q27866121
+Q66663925 -OS/2 Metafile -http://www.wikidata.org/entity/Q66663925

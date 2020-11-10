@@ -1,0 +1,131 @@
+39002073625999
+number of files:  588
+number of files with unknown format: 133
+number of files with known format: 455
+contained formats: 
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q27979370 -EBU STL -http://www.wikidata.org/entity/Q27979370
+Q49799747 -Adobe Portable Document Catalog Index File, version 3.2 -http://www.wikidata.org/entity/Q49799747
+Q47538955 -AutoLISP Menu Source File -http://www.wikidata.org/entity/Q47538955
+Q27960107 -Berkeley/IRCAM/Carl Sound Format -http://www.wikidata.org/entity/Q27960107
+Q48021763 -Microsoft Access Database, version 2002 -http://www.wikidata.org/entity/Q48021763
+Q47233167 -LDR -http://www.wikidata.org/entity/Q47233167
+Q55089059 -Drawing Interchange Format, version 2013/2014 -http://www.wikidata.org/entity/Q55089059
+Q34310996 -Security Catalog -http://www.wikidata.org/entity/Q34310996
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q48004607 -Microsoft Access Database, version 2 -http://www.wikidata.org/entity/Q48004607
+Q73514196 -MegaCAD Project -http://www.wikidata.org/entity/Q73514196
+Q28755606 -Exact Yearbook DAT file -http://www.wikidata.org/entity/Q28755606
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q605258 -Gerber format -http://www.wikidata.org/entity/Q605258
+Q59851255 -Drawing Interchange File Format (ASCII) -http://www.wikidata.org/entity/Q59851255
+Q28919067 -EBU subtitling data exchange format -http://www.wikidata.org/entity/Q28919067
+Q28731055 -Ability Spreadsheet Template -http://www.wikidata.org/entity/Q28731055
+Q61315973 -Drawing Interchange File Format (ASCII), version R11/R12 -http://www.wikidata.org/entity/Q61315973
+Q59653966 -MySQL Table Definition Format -http://www.wikidata.org/entity/Q59653966
+Q6043826 -Intellifont -http://www.wikidata.org/entity/Q6043826
+Q691652 -Drawing Interchange Format -http://www.wikidata.org/entity/Q691652
+Q49798739 -Adobe Portable Document Catalog Index File, version 3 -http://www.wikidata.org/entity/Q49798739
+Q28009496 -Zelda Solarus DX saved game -http://www.wikidata.org/entity/Q28009496
+Q32097899 -Fallout v2 DAT -http://www.wikidata.org/entity/Q32097899
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q61576485 -Drawing Interchange File Format (ASCII), version R13 -http://www.wikidata.org/entity/Q61576485
+Q47493633 -Adobe InDesign Document, version CS6 -http://www.wikidata.org/entity/Q47493633
+Q27979374 -Spruce subtitle format -http://www.wikidata.org/entity/Q27979374
+Q86996065 -PaperPort MAX 5-7 -http://www.wikidata.org/entity/Q86996065
+Q81526237 -MapInfo MapBasic tabular DataBase -http://www.wikidata.org/entity/Q81526237
+Q66663925 -OS/2 Metafile -http://www.wikidata.org/entity/Q66663925
+Q49798508 -Adobe Portable Document Catalog Index File, version 2 -http://www.wikidata.org/entity/Q49798508
+Q61315572 -Drawing Interchange File Format (ASCII), version R9 -http://www.wikidata.org/entity/Q61315572
+Q61315206 -Drawing Interchange File Format (ASCII), version 2.5 -http://www.wikidata.org/entity/Q61315206
+Q34747804 -Supaplex Level format -http://www.wikidata.org/entity/Q34747804
+Q27966984 -Actionamics Sound Tool -http://www.wikidata.org/entity/Q27966984
+Q28771319 -Microsoft Library -http://www.wikidata.org/entity/Q28771319
+Q25378623 -Font-File Format -http://www.wikidata.org/entity/Q25378623
+Q43975668 -Drawing Interchange File Format (Binary), version 2000-2002 -http://www.wikidata.org/entity/Q43975668
+Q61131191 -Drawing Interchange File Format (ASCII), version 2 -http://www.wikidata.org/entity/Q61131191
+Q61053371 -Drawing Interchange File Format (ASCII), version 1.4 -http://www.wikidata.org/entity/Q61053371
+Q47538951 -AutoCAD Compiled Menu -http://www.wikidata.org/entity/Q47538951
+Q81526528 -MicroStation Resource data -http://www.wikidata.org/entity/Q81526528
+Q382011 -Program information file -http://www.wikidata.org/entity/Q382011
+Q27925700 -DTED Level 0 Minimum Terrain Elevation Value File -http://www.wikidata.org/entity/Q27925700
+Q81526664 -Palm Desktop DateBook -http://www.wikidata.org/entity/Q81526664
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q28757747 -GEM bitmap font -http://www.wikidata.org/entity/Q28757747
+Q27967102 -Nintendo GameCube/Wii AST -http://www.wikidata.org/entity/Q27967102
+Q32097740 -Fallout DAT -http://www.wikidata.org/entity/Q32097740
+Q6912474 -Mork -http://www.wikidata.org/entity/Q6912474
+Q58335773 -Verity Collection Stop List -http://www.wikidata.org/entity/Q58335773
+Q76142694 -VisualBasic Project -http://www.wikidata.org/entity/Q76142694
+Q66439261 -WordPerfect Merge Forms file format -http://www.wikidata.org/entity/Q66439261
+Q3509055 -STEP file -http://www.wikidata.org/entity/Q3509055
+Q47493619 -Adobe InDesign Document, version CS4 -http://www.wikidata.org/entity/Q47493619
+Q27967112 -All Sound Tracker module -http://www.wikidata.org/entity/Q27967112
+Q85513175 -Cindex Document, version 2 -http://www.wikidata.org/entity/Q85513175
+Q99850841 -Picture Publisher Bitmap 6-10 -http://www.wikidata.org/entity/Q99850841
+Q28551401 -Adobe Separation Table File -http://www.wikidata.org/entity/Q28551401
+Q43975877 -Drawing Interchange File Format (Binary), version 2004-2005 -http://www.wikidata.org/entity/Q43975877
+Q28207108 -The Print Shop Graphics file -http://www.wikidata.org/entity/Q28207108
+Q28975796 -Drawing Interchange Format, version 10 -http://www.wikidata.org/entity/Q28975796
+Q45350403 -Lotus 1-2-3 Spreadsheet Formatting File, version 2.3-2.4 -http://www.wikidata.org/entity/Q45350403
+Q28206952 -PhotoDeluxe -http://www.wikidata.org/entity/Q28206952
+Q28731049 -Dyalog APL Transfer File format -http://www.wikidata.org/entity/Q28731049
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q66439259 -WordPerfect Merge Data file format -http://www.wikidata.org/entity/Q66439259
+Q43975347 -Drawing Interchange File Format (Binary), version R14 -http://www.wikidata.org/entity/Q43975347
+Q60886472 -Drawing Interchange File Format (ASCII), version 1 -http://www.wikidata.org/entity/Q60886472
+Q28975794 -Drawing Interchange Format, version 12 -http://www.wikidata.org/entity/Q28975794
+Q61135623 -Drawing Interchange File Format (ASCII), version 2.1 -http://www.wikidata.org/entity/Q61135623
+Q47012501 -OmniPage Pro Document file format -http://www.wikidata.org/entity/Q47012501
+Q28758112 -Internet Explorer history file -http://www.wikidata.org/entity/Q28758112
+Q47493628 -Adobe InDesign Document, version CS5 -http://www.wikidata.org/entity/Q47493628
+Q61315377 -Drawing Interchange File Format (ASCII), version 2.6 -http://www.wikidata.org/entity/Q61315377
+Q1601331 -Transport-Neutral Encapsulation Format -http://www.wikidata.org/entity/Q1601331
+Q28771225 -MAX (3ds Max) -http://www.wikidata.org/entity/Q28771225
+Q29650304 -PRT scene description -http://www.wikidata.org/entity/Q29650304
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q86995619 -PaperPort MAX 8-12 -http://www.wikidata.org/entity/Q86995619
+Q61984337 -Microsoft Visual FoxPro database container (table files) -http://www.wikidata.org/entity/Q61984337
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q61135953 -Drawing Interchange File Format (ASCII), version 2.2 -http://www.wikidata.org/entity/Q61135953
+Q61315785 -Drawing Interchange File Format (ASCII), version R10 -http://www.wikidata.org/entity/Q61315785
+Q86996249 -PaperPort MAX 3-4 -http://www.wikidata.org/entity/Q86996249
+Q55394748 -ChemDraw file -http://www.wikidata.org/entity/Q55394748
+Q29904450 -Presentation Manager Metafile -http://www.wikidata.org/entity/Q29904450
+Q28106114 -GRASP font -http://www.wikidata.org/entity/Q28106114
+Q61752184 -Adobe InDesign Document -http://www.wikidata.org/entity/Q61752184
+Q1023647 -Microsoft Compiled HTML Help -http://www.wikidata.org/entity/Q1023647
+Q48005022 -Microsoft Access Database, version 95 -http://www.wikidata.org/entity/Q48005022
+Q58335745 -Acrobat Catalog Cat File -http://www.wikidata.org/entity/Q58335745
+Q60887256 -Drawing Interchange File Format (ASCII), version 1.1 -http://www.wikidata.org/entity/Q60887256
+Q28757976 -IMP -http://www.wikidata.org/entity/Q28757976
+Q3888665 -Package interchange format -http://www.wikidata.org/entity/Q3888665
+Q1238229 -STereoLithography -http://www.wikidata.org/entity/Q1238229
+Q28049770 -DKBTrace scene description -http://www.wikidata.org/entity/Q28049770
+Q28207008 -Picture Publisher -http://www.wikidata.org/entity/Q28207008
+Q48004869 -Microsoft Access Database, version 95 -http://www.wikidata.org/entity/Q48004869
+Q61053201 -Drawing Interchange File Format (ASCII), version 1.3 -http://www.wikidata.org/entity/Q61053201
+Q43974596 -Drawing Interchange File Format (Binary), version R13 -http://www.wikidata.org/entity/Q43974596
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q29000498 -OrCAD library -http://www.wikidata.org/entity/Q29000498
+Q61692923 -Drawing Interchange File Format (Binary), version R10 -http://www.wikidata.org/entity/Q61692923
+Q27925703 -DTED Level 0 Maximum Terrain Elevation Value File -http://www.wikidata.org/entity/Q27925703
+Q49799499 -Adobe Portable Document Catalog Index File, version 3.1 -http://www.wikidata.org/entity/Q49799499
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q29651047 -PaperPort -http://www.wikidata.org/entity/Q29651047
+Q61578345 -Drawing Interchange File Format (ASCII), version 2000-2002 -http://www.wikidata.org/entity/Q61578345
+Q28206177 -GIMP Brush -http://www.wikidata.org/entity/Q28206177
+Q47493614 -Adobe InDesign Document, version CS3 -http://www.wikidata.org/entity/Q47493614
+Q48021588 -Microsoft Access Database, version 2000 -http://www.wikidata.org/entity/Q48021588
+Q61576757 -Drawing Interchange File Format (ASCII), version R14 -http://www.wikidata.org/entity/Q61576757
+Q47493509 -Adobe InDesign Document, version CS2 -http://www.wikidata.org/entity/Q47493509
+Q28206548 -MAKIchan Graphics MAX -http://www.wikidata.org/entity/Q28206548
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q28206381 -VisualBasic form -http://www.wikidata.org/entity/Q28206381
+Q73515618 -DAISY Protected Package File -http://www.wikidata.org/entity/Q73515618
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q27967218 -Scream Tracker 1 & 2 module -http://www.wikidata.org/entity/Q27967218

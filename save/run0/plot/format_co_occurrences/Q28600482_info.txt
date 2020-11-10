@@ -1,0 +1,14 @@
+Q28600482 -DSK (Apple II) -http://www.wikidata.org/entity/Q28600482
+
+#####################################################################
+
+Q28600483 -DSK (CPCEMU) -http://www.wikidata.org/entity/Q28600483
+Q28344823 -Debian source control file -http://www.wikidata.org/entity/Q28344823
+Q28975874 -OOGL TLIST Group file -http://www.wikidata.org/entity/Q28975874
+Q34745761 -StarCraft group file -http://www.wikidata.org/entity/Q34745761
+Q81192187 -Microsoft Border art -http://www.wikidata.org/entity/Q81192187
+Q28975654 -Recon Points -http://www.wikidata.org/entity/Q28975654
+Q85413270 -PTGui Project File 11 -http://www.wikidata.org/entity/Q85413270
+Q85413178 -PTGui Project File 10 -http://www.wikidata.org/entity/Q85413178
+Q28206625 -MSX BASIC graphics -http://www.wikidata.org/entity/Q28206625
+Q3596396 -MDX -http://www.wikidata.org/entity/Q3596396

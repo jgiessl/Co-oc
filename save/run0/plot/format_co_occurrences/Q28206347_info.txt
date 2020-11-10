@@ -1,0 +1,14 @@
+Q28206347 -IndyPaint -http://www.wikidata.org/entity/Q28206347
+
+################################################################
+
+Q28207305 -True Colour Picture -http://www.wikidata.org/entity/Q28207305
+Q28205760 -Borland Graphics Interface image -http://www.wikidata.org/entity/Q28205760
+Q34284437 -Pascal script -http://www.wikidata.org/entity/Q34284437
+Q34312361 -Macromedia Director, uncompressed Macintosh variant -http://www.wikidata.org/entity/Q34312361
+Q27923693 -DTED Cells Directory File -http://www.wikidata.org/entity/Q27923693
+Q34312151 -Macromedia Director, uncompressed PC variant -http://www.wikidata.org/entity/Q34312151
+Q27925722 -DTED Level 1 Gazetteer Directory file -http://www.wikidata.org/entity/Q27925722
+Q26211936 -ZIP archive file format, version 5.2 -http://www.wikidata.org/entity/Q26211936
+Q26211977 -ZIP archive file format, version 2.0 -http://www.wikidata.org/entity/Q26211977
+Q26211940 -ZIP archive file format, version 5.1 -http://www.wikidata.org/entity/Q26211940

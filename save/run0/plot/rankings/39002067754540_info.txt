@@ -1,0 +1,35 @@
+39002067754540
+number of files:  131
+number of files with unknown format: 4
+number of files with known format: 127
+contained formats: 
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q2138624 -registry file -http://www.wikidata.org/entity/Q2138624
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q27925718 -DTED Level 1 Gazetteer Key file -http://www.wikidata.org/entity/Q27925718
+Q53756539 -git packfile index, version 1 -http://www.wikidata.org/entity/Q53756539
+Q27979378 -VobSub index -http://www.wikidata.org/entity/Q27979378
+Q217570 -Waveform Audio File Format -http://www.wikidata.org/entity/Q217570
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q34273353 -Keynote -http://www.wikidata.org/entity/Q34273353
+Q29650343 -PEM encoded RSA private key -http://www.wikidata.org/entity/Q29650343
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q53756551 -git packfile index, version 2 -http://www.wikidata.org/entity/Q53756551
+Q59537335 -Apple iWorks Keynote -http://www.wikidata.org/entity/Q59537335
+Q27967388 -Adlib Tracker instrument -http://www.wikidata.org/entity/Q27967388
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q939636 -CorelDRAW Document -http://www.wikidata.org/entity/Q939636
+Q60615282 -Write for Windows Document, version 3 -http://www.wikidata.org/entity/Q60615282
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q28600470 -DER encoded RSA private key -http://www.wikidata.org/entity/Q28600470
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q27526866 -Write for Windows Document, version 3.1 -http://www.wikidata.org/entity/Q27526866

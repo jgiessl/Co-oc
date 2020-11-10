@@ -1,0 +1,14 @@
+Q27979382 -MPLS -http://www.wikidata.org/entity/Q27979382
+
+###########################################################
+
+Q50825548 -AVCHD Playlist File -http://www.wikidata.org/entity/Q50825548
+Q15938816 -MATLAB M-File -http://www.wikidata.org/entity/Q15938816
+Q28975650 -Recon Mesh -http://www.wikidata.org/entity/Q28975650
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q67377613 -CaseWare 2005 Compressed file -http://www.wikidata.org/entity/Q67377613
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693

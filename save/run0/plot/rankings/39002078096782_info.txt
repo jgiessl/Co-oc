@@ -1,0 +1,127 @@
+39002078096782
+number of files:  1134
+number of files with unknown format: 590
+number of files with known format: 544
+contained formats: 
+Q28206049 -ERDAS Imagine IMG -http://www.wikidata.org/entity/Q28206049
+Q55721640 -AmiraMesh ASCII file format -http://www.wikidata.org/entity/Q55721640
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q47233167 -LDR -http://www.wikidata.org/entity/Q47233167
+Q741654 -DirectDraw Surface -http://www.wikidata.org/entity/Q741654
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q28755606 -Exact Yearbook DAT file -http://www.wikidata.org/entity/Q28755606
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q62625561 -Bash script -http://www.wikidata.org/entity/Q62625561
+Q28206162 -GEM Raster -http://www.wikidata.org/entity/Q28206162
+Q55721671 -AmiraMesh 3D ASCII 2.0 file format -http://www.wikidata.org/entity/Q55721671
+Q3563777 -MicroDVD -http://www.wikidata.org/entity/Q3563777
+Q29167864 -Pittsburgh Supercomputing Center 3D Metafile -http://www.wikidata.org/entity/Q29167864
+Q26211874 -ZIP archive file format, version 6.3.1 -http://www.wikidata.org/entity/Q26211874
+Q28206373 -Interleaf image -http://www.wikidata.org/entity/Q28206373
+Q6043826 -Intellifont -http://www.wikidata.org/entity/Q6043826
+Q28205670 -Alias PIX -http://www.wikidata.org/entity/Q28205670
+Q28009496 -Zelda Solarus DX saved game -http://www.wikidata.org/entity/Q28009496
+Q28206272 -HTC splashscreen -http://www.wikidata.org/entity/Q28206272
+Q28975664 -AC3D -http://www.wikidata.org/entity/Q28975664
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q43870269 -PCX, version 4 -http://www.wikidata.org/entity/Q43870269
+Q32097899 -Fallout v2 DAT -http://www.wikidata.org/entity/Q32097899
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q47455968 -SafeGuard Encrypted Virtual Disk -http://www.wikidata.org/entity/Q47455968
+Q28206883 -Planetary Data System -http://www.wikidata.org/entity/Q28206883
+Q28206306 -Analyze IMG -http://www.wikidata.org/entity/Q28206306
+Q10394822 -ZIP archive file format, version 6.3.2 -http://www.wikidata.org/entity/Q10394822
+Q81526237 -MapInfo MapBasic tabular DataBase -http://www.wikidata.org/entity/Q81526237
+Q34747804 -Supaplex Level format -http://www.wikidata.org/entity/Q34747804
+Q26211840 -ZIP archive file format, ISO/IEC 21320–1:2015 -http://www.wikidata.org/entity/Q26211840
+Q28207469 -Vivid IMG -http://www.wikidata.org/entity/Q28207469
+Q6715113 -MD3 -http://www.wikidata.org/entity/Q6715113
+Q27826469 -Cascading Style Sheets Level 3 -http://www.wikidata.org/entity/Q27826469
+Q28771319 -Microsoft Library -http://www.wikidata.org/entity/Q28771319
+Q34746472 -STATISTICA Spreadsheet File -http://www.wikidata.org/entity/Q34746472
+Q25378623 -Font-File Format -http://www.wikidata.org/entity/Q25378623
+Q1341482 -OpenEXR -http://www.wikidata.org/entity/Q1341482
+Q81526528 -MicroStation Resource data -http://www.wikidata.org/entity/Q81526528
+Q28205801 -IMG Picture Format -http://www.wikidata.org/entity/Q28205801
+Q81526664 -Palm Desktop DateBook -http://www.wikidata.org/entity/Q81526664
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q28757747 -GEM bitmap font -http://www.wikidata.org/entity/Q28757747
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q32097740 -Fallout DAT -http://www.wikidata.org/entity/Q32097740
+Q6912474 -Mork -http://www.wikidata.org/entity/Q6912474
+Q55721708 -AmiraMesh Binary Little Endian 2.1 file format -http://www.wikidata.org/entity/Q55721708
+Q16965621 -Video Image Communication And Retrieval -http://www.wikidata.org/entity/Q16965621
+Q26211940 -ZIP archive file format, version 5.1 -http://www.wikidata.org/entity/Q26211940
+Q1063976 -Truevision TGA -http://www.wikidata.org/entity/Q1063976
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q28207108 -The Print Shop Graphics file -http://www.wikidata.org/entity/Q28207108
+Q28758102 -InstallShield CAB -http://www.wikidata.org/entity/Q28758102
+Q26211957 -ZIP archive file format, version 4.5 -http://www.wikidata.org/entity/Q26211957
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q26211948 -ZIP archive file format, version 5.0 -http://www.wikidata.org/entity/Q26211948
+Q3928271 -RGBE image format -http://www.wikidata.org/entity/Q3928271
+Q26211927 -ZIP archive file format, version 6.2.0 -http://www.wikidata.org/entity/Q26211927
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q27960028 -VocPack -http://www.wikidata.org/entity/Q27960028
+Q178051 -Portable Network Graphics -http://www.wikidata.org/entity/Q178051
+Q1228757 -Apple Disk Image -http://www.wikidata.org/entity/Q1228757
+Q66439259 -WordPerfect Merge Data file format -http://www.wikidata.org/entity/Q66439259
+Q27826464 -Cascading Style Sheets Level 1 -http://www.wikidata.org/entity/Q27826464
+Q26211915 -ZIP archive file format, version 6.2.1 -http://www.wikidata.org/entity/Q26211915
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q28758112 -Internet Explorer history file -http://www.wikidata.org/entity/Q28758112
+Q1601331 -Transport-Neutral Encapsulation Format -http://www.wikidata.org/entity/Q1601331
+Q29650304 -PRT scene description -http://www.wikidata.org/entity/Q29650304
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q43869672 -PCX, version 3 -http://www.wikidata.org/entity/Q43869672
+Q26211905 -ZIP archive file format, version 6.2.2 -http://www.wikidata.org/entity/Q26211905
+Q27826466 -Cascading Style Sheets Level 2 -http://www.wikidata.org/entity/Q27826466
+Q43866871 -PCX, version 2 -http://www.wikidata.org/entity/Q43866871
+Q26211954 -ZIP archive file format, version 4.6 -http://www.wikidata.org/entity/Q26211954
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q26211936 -ZIP archive file format, version 5.2 -http://www.wikidata.org/entity/Q26211936
+Q28205944 -Doré Raster -http://www.wikidata.org/entity/Q28205944
+Q26211975 -ZIP archive file format, version 2.1 -http://www.wikidata.org/entity/Q26211975
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q28106114 -GRASP font -http://www.wikidata.org/entity/Q28106114
+Q939636 -CorelDRAW Document -http://www.wikidata.org/entity/Q939636
+Q5532250 -General Transit Feed Specification -http://www.wikidata.org/entity/Q5532250
+Q55721702 -AmiraMesh 3D Binary 2.0 file format -http://www.wikidata.org/entity/Q55721702
+Q55721705 -AmiraMesh 3D Binary Little Endian 2.0 file format -http://www.wikidata.org/entity/Q55721705
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q877050 -ISO image -http://www.wikidata.org/entity/Q877050
+Q26211983 -ZIP archive file format, version 1.0 -http://www.wikidata.org/entity/Q26211983
+Q28049770 -DKBTrace scene description -http://www.wikidata.org/entity/Q28049770
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q3146723 -Raw disk image -http://www.wikidata.org/entity/Q3146723
+Q29000498 -OrCAD library -http://www.wikidata.org/entity/Q29000498
+Q27355592 -ADRG Geo Data File -http://www.wikidata.org/entity/Q27355592
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q1353763 -WMV HD -http://www.wikidata.org/entity/Q1353763
+Q26211965 -ZIP archive file format, version 2.5 -http://www.wikidata.org/entity/Q26211965
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q535473 -PCX -http://www.wikidata.org/entity/Q535473
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q28445577 -Advanced Authoring System -http://www.wikidata.org/entity/Q28445577
+Q4545483 -X File Format -http://www.wikidata.org/entity/Q4545483
+Q26211931 -ZIP archive file format, version 6.1.0 -http://www.wikidata.org/entity/Q26211931
+Q28207457 -Vista Plain File Format -http://www.wikidata.org/entity/Q28207457
+Q27826468 -Cascading Style Sheets Level 2 Revision 1 -http://www.wikidata.org/entity/Q27826468
+Q26211958 -ZIP archive file format, version 2.7 -http://www.wikidata.org/entity/Q26211958
+Q26211977 -ZIP archive file format, version 2.0 -http://www.wikidata.org/entity/Q26211977
+Q27895063 -Windows Media Video -http://www.wikidata.org/entity/Q27895063
+Q1381134 -MapInfo Interchange Format -http://www.wikidata.org/entity/Q1381134
+Q26211978 -ZIP archive file format, version 1.1 -http://www.wikidata.org/entity/Q26211978
+Q27473691 -BIL/BIP/BSQ Header File -http://www.wikidata.org/entity/Q27473691
+Q43870624 -PCX, version 5 -http://www.wikidata.org/entity/Q43870624
+Q34746769 -STATISTICA Report File -http://www.wikidata.org/entity/Q34746769
+Q26211891 -ZIP archive file format, version 6.3.0 -http://www.wikidata.org/entity/Q26211891
+Q28205965 -Digital Video Interactive Green Channel -http://www.wikidata.org/entity/Q28205965
+Q28205727 -AVS X image -http://www.wikidata.org/entity/Q28205727
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q27979377 -VobSub subtitle -http://www.wikidata.org/entity/Q27979377
+Q7395247 -SYBYL line notation -http://www.wikidata.org/entity/Q7395247
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q28206310 -Analyze HDR -http://www.wikidata.org/entity/Q28206310

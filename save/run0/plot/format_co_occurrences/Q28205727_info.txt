@@ -1,0 +1,14 @@
+Q28205727 -AVS X image -http://www.wikidata.org/entity/Q28205727
+
+##################################################################
+
+Q4545483 -X File Format -http://www.wikidata.org/entity/Q4545483
+Q27960138 -SPPACK -http://www.wikidata.org/entity/Q27960138
+Q28206328 -Img Software Set Red Component -http://www.wikidata.org/entity/Q28206328
+Q29650301 -Pack -http://www.wikidata.org/entity/Q29650301
+Q28758103 -InstallShield Z -http://www.wikidata.org/entity/Q28758103
+Q29209269 -Z -http://www.wikidata.org/entity/Q29209269
+Q741654 -DirectDraw Surface -http://www.wikidata.org/entity/Q741654
+Q51916170 -Pagemaker TableEditor Graphics -http://www.wikidata.org/entity/Q51916170
+Q7671270 -TRANS.TBL -http://www.wikidata.org/entity/Q7671270
+Q1381134 -MapInfo Interchange Format -http://www.wikidata.org/entity/Q1381134

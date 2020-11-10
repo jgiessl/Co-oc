@@ -1,0 +1,185 @@
+39002060323202
+number of files:  1398
+number of files with unknown format: 50
+number of files with known format: 1348
+contained formats: 
+Q6026738 -PFB -http://www.wikidata.org/entity/Q6026738
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q28049670 -Autodesk 3D Studio ASCII format -http://www.wikidata.org/entity/Q28049670
+Q27578057 -Adobe Type 1 Printer Font Metrics -http://www.wikidata.org/entity/Q27578057
+Q28786544 -Netscape bookmarks -http://www.wikidata.org/entity/Q28786544
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q61641368 -Microsoft Word for Windows Document, version 2 -http://www.wikidata.org/entity/Q61641368
+Q29946898 -Portable Document Format/Exchange 5g -http://www.wikidata.org/entity/Q29946898
+Q3359832 -Product Representation Compact -http://www.wikidata.org/entity/Q3359832
+Q29946692 -Portable Document Format/Exchange 1:1999 -http://www.wikidata.org/entity/Q29946692
+Q8811 -HyperText Markup Language -http://www.wikidata.org/entity/Q8811
+Q61639409 -Microsoft Word for Windows Document, version 1 -http://www.wikidata.org/entity/Q61639409
+Q58725633 -Adobe PostScript Font Metrics file -http://www.wikidata.org/entity/Q58725633
+Q26547266 -Portable Document Format/Archive, version 2 Unicode -http://www.wikidata.org/entity/Q26547266
+Q28206359 -Intergraph Raster -http://www.wikidata.org/entity/Q28206359
+Q47455466 -Windows Portable Executable file format, 32-bit -http://www.wikidata.org/entity/Q47455466
+Q47233167 -LDR -http://www.wikidata.org/entity/Q47233167
+Q2119595 -Wavefront .obj file -http://www.wikidata.org/entity/Q2119595
+Q26541013 -Portable Document Format/Archive, version 1 Accessible -http://www.wikidata.org/entity/Q26541013
+Q26085330 -Portable Document Format, version 1.3 -http://www.wikidata.org/entity/Q26085330
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q1888930 -Vector Markup Language -http://www.wikidata.org/entity/Q1888930
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q29946845 -Portable Document Format/Exchange 3:2003 -http://www.wikidata.org/entity/Q29946845
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q27824032 -ar, Sixth Edition Unix variant -http://www.wikidata.org/entity/Q27824032
+Q27824050 -ar, AIX big archive format variant -http://www.wikidata.org/entity/Q27824050
+Q28755606 -Exact Yearbook DAT file -http://www.wikidata.org/entity/Q28755606
+Q26546575 -Portable Document Format/Archive, version 2 Basic -http://www.wikidata.org/entity/Q26546575
+Q47498555 -Adobe Illustrator file format, version 12 -http://www.wikidata.org/entity/Q47498555
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q26085322 -Portable Document Format, version 1.5 -http://www.wikidata.org/entity/Q26085322
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q28206325 -Img Software Set Image Attributes -http://www.wikidata.org/entity/Q28206325
+Q28600256 -ASCII Encoded HP 48 Object -http://www.wikidata.org/entity/Q28600256
+Q60000066 -Microsoft Office Owner File -http://www.wikidata.org/entity/Q60000066
+Q48782238 -Microsoft Word for MS-DOS Document, version 5 -http://www.wikidata.org/entity/Q48782238
+Q47498565 -Adobe Illustrator file format, version 13 -http://www.wikidata.org/entity/Q47498565
+Q28009496 -Zelda Solarus DX saved game -http://www.wikidata.org/entity/Q28009496
+Q686498 -doc -http://www.wikidata.org/entity/Q686498
+Q5924007 -JavaScript -http://www.wikidata.org/entity/Q5924007
+Q27967116 -ASC Sound Master module -http://www.wikidata.org/entity/Q27967116
+Q32097899 -Fallout v2 DAT -http://www.wikidata.org/entity/Q32097899
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q28858039 -Word Binary File Format, version nFibNew=0x00D9 -http://www.wikidata.org/entity/Q28858039
+Q28858037 -Word Binary File Format, version nFib=0x00C0 -http://www.wikidata.org/entity/Q28858037
+Q47498745 -Adobe Illustrator file format, version 15 -http://www.wikidata.org/entity/Q47498745
+Q2053 -HTML5 -http://www.wikidata.org/entity/Q2053
+Q86996065 -PaperPort MAX 5-7 -http://www.wikidata.org/entity/Q86996065
+Q66244789 -ScreenCam stand-alone Movies format -http://www.wikidata.org/entity/Q66244789
+Q81526237 -MapInfo MapBasic tabular DataBase -http://www.wikidata.org/entity/Q81526237
+Q34747804 -Supaplex Level format -http://www.wikidata.org/entity/Q34747804
+Q47498538 -Adobe Illustrator file format, version 9 -http://www.wikidata.org/entity/Q47498538
+Q2043942 -Portable Document Format for Engineering -http://www.wikidata.org/entity/Q2043942
+Q28858041 -Word Binary File Format, version nFibNew=0x0101 -http://www.wikidata.org/entity/Q28858041
+Q63036182 -8-bit ASCII Text -http://www.wikidata.org/entity/Q63036182
+Q17092932 -JPEG-XT -http://www.wikidata.org/entity/Q17092932
+Q47498749 -Adobe Illustrator file format, version 16 -http://www.wikidata.org/entity/Q47498749
+Q29946866 -Portable Document Format/Exchange 4 -http://www.wikidata.org/entity/Q29946866
+Q34284437 -Pascal script -http://www.wikidata.org/entity/Q34284437
+Q81526528 -MicroStation Resource data -http://www.wikidata.org/entity/Q81526528
+Q28858038 -Word Binary File Format, version nFib=0x00C2 -http://www.wikidata.org/entity/Q28858038
+Q28858042 -Word Binary File Format, version nFibNew=0x010C -http://www.wikidata.org/entity/Q28858042
+Q27925700 -DTED Level 0 Minimum Terrain Elevation Value File -http://www.wikidata.org/entity/Q27925700
+Q623334 -.exe -http://www.wikidata.org/entity/Q623334
+Q81526664 -Palm Desktop DateBook -http://www.wikidata.org/entity/Q81526664
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q6912474 -Mork -http://www.wikidata.org/entity/Q6912474
+Q32097740 -Fallout DAT -http://www.wikidata.org/entity/Q32097740
+Q29946713 -Portable Document Format/Exchange 1:2001 -http://www.wikidata.org/entity/Q29946713
+Q28205983 -Radiance Scene Description -http://www.wikidata.org/entity/Q28205983
+Q62626012 -HyperText Markup Language -http://www.wikidata.org/entity/Q62626012
+Q51801746 -Stationery for Mac OS X -http://www.wikidata.org/entity/Q51801746
+Q26385770 -Still Picture Interchange File Format -http://www.wikidata.org/entity/Q26385770
+Q7311459 -Relocatable Object Module Format -http://www.wikidata.org/entity/Q7311459
+Q27967445 -Autodesk Animator Pro FLIC -http://www.wikidata.org/entity/Q27967445
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q28206262 -HSI JPEG -http://www.wikidata.org/entity/Q28206262
+Q48782202 -Microsoft Word for MS-DOS Document, version 4 -http://www.wikidata.org/entity/Q48782202
+Q51370102 -Microsoft Print File -http://www.wikidata.org/entity/Q51370102
+Q28858035 -Word Binary File Format, version nFib=0x00C1 -http://www.wikidata.org/entity/Q28858035
+Q29946914 -Portable Document Format/Exchange 5n -http://www.wikidata.org/entity/Q29946914
+Q28758002 -Inno Setup self-extracting archive -http://www.wikidata.org/entity/Q28758002
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q26085319 -Portable Document Format, version 1.6 -http://www.wikidata.org/entity/Q26085319
+Q63061396 -Microsoft Word Document -http://www.wikidata.org/entity/Q63061396
+Q29946121 -Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant -http://www.wikidata.org/entity/Q29946121
+Q28207108 -The Print Shop Graphics file -http://www.wikidata.org/entity/Q28207108
+Q26329648 -JPEG File Interchange Format, version 1.0 -http://www.wikidata.org/entity/Q26329648
+Q62619688 -7-bit ASCII Text -http://www.wikidata.org/entity/Q62619688
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q47498736 -Adobe Illustrator file format, version 14 -http://www.wikidata.org/entity/Q47498736
+Q3928271 -RGBE image format -http://www.wikidata.org/entity/Q3928271
+Q27824056 -ar, Coherent variant -http://www.wikidata.org/entity/Q27824056
+Q26085333 -Portable Document Format, version 1.2 -http://www.wikidata.org/entity/Q26085333
+Q28858044 -Word Binary File Format, version nFibNew=0x0112 -http://www.wikidata.org/entity/Q28858044
+Q66439259 -WordPerfect Merge Data file format -http://www.wikidata.org/entity/Q66439259
+Q47455565 -Windows Portable Executable file format, 64-bit -http://www.wikidata.org/entity/Q47455565
+Q27996279 -MOBI -http://www.wikidata.org/entity/Q27996279
+Q63061514 -Microsoft Word Document, version 97-2003 -http://www.wikidata.org/entity/Q63061514
+Q29946883 -Portable Document Format/Exchange 4p -http://www.wikidata.org/entity/Q29946883
+Q26085336 -Portable Document Format, version 1.1 -http://www.wikidata.org/entity/Q26085336
+Q29946829 -Portable Document Format/Exchange 3:2002 -http://www.wikidata.org/entity/Q29946829
+Q856364 -Common Object File Format -http://www.wikidata.org/entity/Q856364
+Q28758112 -Internet Explorer history file -http://www.wikidata.org/entity/Q28758112
+Q26547917 -Portable Document Format/Archive, version 3 Accessible -http://www.wikidata.org/entity/Q26547917
+Q28777715 -NSIS -http://www.wikidata.org/entity/Q28777715
+Q29946726 -Portable Document Format/Exchange 1a:2001 -http://www.wikidata.org/entity/Q29946726
+Q1601331 -Transport-Neutral Encapsulation Format -http://www.wikidata.org/entity/Q1601331
+Q28771225 -MAX (3ds Max) -http://www.wikidata.org/entity/Q28771225
+Q29650304 -PRT scene description -http://www.wikidata.org/entity/Q29650304
+Q27349828 -ESRI Arc/Info ASCII Grid -http://www.wikidata.org/entity/Q27349828
+Q4042979 -Linear Executable -http://www.wikidata.org/entity/Q4042979
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q86995619 -PaperPort MAX 8-12 -http://www.wikidata.org/entity/Q86995619
+Q75717796 -USRobotics firmware -http://www.wikidata.org/entity/Q75717796
+Q817650 -COM -http://www.wikidata.org/entity/Q817650
+Q26543628 -Portable Document Format/Archive, version 1 Basic -http://www.wikidata.org/entity/Q26543628
+Q75717634 -Corel Photo Paint User Defined Filter -http://www.wikidata.org/entity/Q75717634
+Q26085339 -Portable Document Format, version 1.0 -http://www.wikidata.org/entity/Q26085339
+Q28206318 -Img Software Set Colormapped Image -http://www.wikidata.org/entity/Q28206318
+Q29946810 -Portable Document Format/Exchange 2:2003 -http://www.wikidata.org/entity/Q29946810
+Q5533911 -GeoPDF -http://www.wikidata.org/entity/Q5533911
+Q85621726 -PFS:First Choice Document -http://www.wikidata.org/entity/Q85621726
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q28206894 -Portable Float Map -http://www.wikidata.org/entity/Q28206894
+Q29650308 -Palm Resource Compiler -http://www.wikidata.org/entity/Q29650308
+Q86996249 -PaperPort MAX 3-4 -http://www.wikidata.org/entity/Q86996249
+Q34284450 -Pawn script -http://www.wikidata.org/entity/Q34284450
+Q26085317 -Portable Document Format, version 1.7 -http://www.wikidata.org/entity/Q26085317
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q26545877 -Portable Document Format/Archive, version 2 Accessible -http://www.wikidata.org/entity/Q26545877
+Q939636 -CorelDRAW Document -http://www.wikidata.org/entity/Q939636
+Q85621806 -PFS:First Choice Document 3 -http://www.wikidata.org/entity/Q85621806
+Q29946134 -Portable Document Format/Variable Data and Transactional Printing, multi-file exchange variant -http://www.wikidata.org/entity/Q29946134
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q42332 -Portable Document Format -http://www.wikidata.org/entity/Q42332
+Q27824053 -ar, AIX small archive format variant -http://www.wikidata.org/entity/Q27824053
+Q27824019 -ar, System V variant -http://www.wikidata.org/entity/Q27824019
+Q28206497 -Lossless JPEG -http://www.wikidata.org/entity/Q28206497
+Q66439286 -DisplayWrite Document file format, version 5 -http://www.wikidata.org/entity/Q66439286
+Q48915661 -Interleaf Document -http://www.wikidata.org/entity/Q48915661
+Q29946141 -Portable Document Format/Variable Data and Transactional Printing, streamed delivery variant -http://www.wikidata.org/entity/Q29946141
+Q28049770 -DKBTrace scene description -http://www.wikidata.org/entity/Q28049770
+Q166074 -Extensible HyperText Markup Language -http://www.wikidata.org/entity/Q166074
+Q62664735 -Wordperfect Secondary File, version 5.1 and 5.2 -http://www.wikidata.org/entity/Q62664735
+Q28344021 -Imagine Object File -http://www.wikidata.org/entity/Q28344021
+Q48782394 -Microsoft Word for MS-DOS Document, version 5.5 -http://www.wikidata.org/entity/Q48782394
+Q29650330 -PGP public key -http://www.wikidata.org/entity/Q29650330
+Q26548590 -Portable Document Format/Archive, version 3 Basic -http://www.wikidata.org/entity/Q26548590
+Q27824041 -ar, Seventh Edition Unix variant -http://www.wikidata.org/entity/Q27824041
+Q2192 -Graphics Interchange Format -http://www.wikidata.org/entity/Q2192
+Q66759627 -Space-delimited formatted text file -http://www.wikidata.org/entity/Q66759627
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q27925703 -DTED Level 0 Maximum Terrain Elevation Value File -http://www.wikidata.org/entity/Q27925703
+Q47498552 -Adobe Illustrator file format, version 11 -http://www.wikidata.org/entity/Q47498552
+Q29651047 -PaperPort -http://www.wikidata.org/entity/Q29651047
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q58237034 -Adobe Multiple Master Metrics font file -http://www.wikidata.org/entity/Q58237034
+Q48782098 -Microsoft Word for MS-DOS Document, version 3 -http://www.wikidata.org/entity/Q48782098
+Q47498547 -Adobe Illustrator file format, version 10 -http://www.wikidata.org/entity/Q47498547
+Q1952321 -Multi Picture Object -http://www.wikidata.org/entity/Q1952321
+Q27824015 -ar, BSD variant -http://www.wikidata.org/entity/Q27824015
+Q29946771 -Portable Document Format/Exchange 1a:2003 -http://www.wikidata.org/entity/Q29946771
+Q28009498 -Zj-Stream -http://www.wikidata.org/entity/Q28009498
+Q27526739 -Graphics Interchange Format, version 89a -http://www.wikidata.org/entity/Q27526739
+Q29946937 -Portable Document Format/Exchange 5pg -http://www.wikidata.org/entity/Q29946937
+Q1882110 -DOS MZ executable -http://www.wikidata.org/entity/Q1882110
+Q28206548 -MAKIchan Graphics MAX -http://www.wikidata.org/entity/Q28206548
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+Q60628185 -Wordperfect Secondary File, version 5 -http://www.wikidata.org/entity/Q60628185
+Q55429627 -Portable Document Format, version 2.0 -http://www.wikidata.org/entity/Q55429627
+Q27967406 -Reality AdLib Tracker module -http://www.wikidata.org/entity/Q27967406
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q26085326 -Portable Document Format, version 1.4 -http://www.wikidata.org/entity/Q26085326

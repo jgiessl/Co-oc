@@ -1,0 +1,14 @@
+Q28206332 -Img Software Set Green Component -http://www.wikidata.org/entity/Q28206332
+
+#######################################################################################
+
+Q28049691 -BRL-CAD geometry -http://www.wikidata.org/entity/Q28049691
+Q28206336 -Img Software Set Blue Component -http://www.wikidata.org/entity/Q28206336
+Q28206101 -FaceSaver -http://www.wikidata.org/entity/Q28206101
+Q3841253 -MDL Molfile -http://www.wikidata.org/entity/Q3841253
+Q1238229 -STereoLithography -http://www.wikidata.org/entity/Q1238229
+Q18812775 -VTK -http://www.wikidata.org/entity/Q18812775
+Q4545331 -3D Studio mesh-file format -http://www.wikidata.org/entity/Q4545331
+Q1983918 -Nexus file -http://www.wikidata.org/entity/Q1983918
+Q28975662 -SLiCe format -http://www.wikidata.org/entity/Q28975662
+Q58960003 -Microsoft Excel Chart, version 3 -http://www.wikidata.org/entity/Q58960003

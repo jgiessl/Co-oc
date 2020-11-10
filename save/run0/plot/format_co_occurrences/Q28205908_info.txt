@@ -1,0 +1,14 @@
+Q28205908 -Digital Imaging and Communications in Medicine -http://www.wikidata.org/entity/Q28205908
+
+#####################################################################################################
+
+Q51802172 -Speller Custom Dictionary -http://www.wikidata.org/entity/Q51802172
+Q68480995 -Kingsoft PowerWord Dictionary -http://www.wikidata.org/entity/Q68480995
+Q50374896 -Jamcracker Tracker Module -http://www.wikidata.org/entity/Q50374896
+Q28206036 -Enhanced Simplex -http://www.wikidata.org/entity/Q28206036
+Q25345915 -Scratch Project SB -http://www.wikidata.org/entity/Q25345915
+Q2304584 -Windows Imaging Format -http://www.wikidata.org/entity/Q2304584
+Q28205604 -RIPscrip version 1 Icon Mask -http://www.wikidata.org/entity/Q28205604
+Q27960038 -Windows Media Audio Lossless -http://www.wikidata.org/entity/Q27960038
+Q1067761 -Windows Media Audio 9 Lossless -http://www.wikidata.org/entity/Q1067761
+Q2194 -Windows Media Audio -http://www.wikidata.org/entity/Q2194

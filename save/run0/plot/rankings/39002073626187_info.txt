@@ -1,0 +1,10 @@
+39002073626187
+number of files:  1
+number of files with unknown format: 0
+number of files with known format: 1
+contained formats: 
+Q1047541 -Encapsulated PostScript -http://www.wikidata.org/entity/Q1047541
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q66134564 -Photoshop DCS 1.0 -http://www.wikidata.org/entity/Q66134564
+Q48625328 -Encapsulated PostScript, v2 -http://www.wikidata.org/entity/Q48625328
+Q59714459 -Encapsulated PostScript File Format -http://www.wikidata.org/entity/Q59714459

@@ -1,0 +1,14 @@
+Q28600661 -Disk Imploder -http://www.wikidata.org/entity/Q28600661
+
+####################################################################
+
+Q29000588 -Microsoft memory dump -http://www.wikidata.org/entity/Q29000588
+Q27967212 -RASTER Music Tracker module -http://www.wikidata.org/entity/Q27967212
+Q13454995 -DVD data file and backup data file -http://www.wikidata.org/entity/Q13454995
+Q27967532 -DVD Information File -http://www.wikidata.org/entity/Q27967532
+Q67123986 -Print Artist envelope file format -http://www.wikidata.org/entity/Q67123986
+Q935809 -comma-separated values -http://www.wikidata.org/entity/Q935809
+Q28975647 -POV-Ray RAW triangle format -http://www.wikidata.org/entity/Q28975647
+Q59608283 -KryoFlux -http://www.wikidata.org/entity/Q59608283
+Q28205418 -Panasonic RAW/RW2 -http://www.wikidata.org/entity/Q28205418
+Q59608340 -KryoFlux -http://www.wikidata.org/entity/Q59608340

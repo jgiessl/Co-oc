@@ -1,0 +1,14 @@
+Q47539012 -AutoCAD Drawing Template -http://www.wikidata.org/entity/Q47539012
+
+###############################################################################
+
+Q51839192 -PHP Script Page -http://www.wikidata.org/entity/Q51839192
+Q28206957 -PhotoParade slideshow -http://www.wikidata.org/entity/Q28206957
+Q47538961 -AutoCAD Menu Resource File -http://www.wikidata.org/entity/Q47538961
+Q71301157 -WHIP! DWF Format -http://www.wikidata.org/entity/Q71301157
+Q1196547 -Design Web Format -http://www.wikidata.org/entity/Q1196547
+Q47922320 -AutoLISP File -http://www.wikidata.org/entity/Q47922320
+Q935809 -comma-separated values -http://www.wikidata.org/entity/Q935809
+Q89029185 -American Greetings Project 10-23 -http://www.wikidata.org/entity/Q89029185
+Q47539298 -AutoCAD Block Attribute Template -http://www.wikidata.org/entity/Q47539298
+Q27863117 -AutoCAD Drawing, version 2.2 -http://www.wikidata.org/entity/Q27863117

@@ -1,0 +1,14 @@
+Q817650 -COM -http://www.wikidata.org/entity/Q817650
+
+######################################################
+
+Q28600494 -Dev-Cpp project -http://www.wikidata.org/entity/Q28600494
+Q731135 -Microsoft Management Console -http://www.wikidata.org/entity/Q731135
+Q27355579 -ADRG Overview Image File -http://www.wikidata.org/entity/Q27355579
+Q27473293 -CADRG Overview Image -http://www.wikidata.org/entity/Q27473293
+Q27826386 -OVR pyramid file -http://www.wikidata.org/entity/Q27826386
+Q8229684 -Elf -http://www.wikidata.org/entity/Q8229684
+Q3563777 -MicroDVD -http://www.wikidata.org/entity/Q3563777
+Q27979377 -VobSub subtitle -http://www.wikidata.org/entity/Q27979377
+Q28205583 -OS/2 Pointer -http://www.wikidata.org/entity/Q28205583
+Q28205661 -Acorn Sprite -http://www.wikidata.org/entity/Q28205661

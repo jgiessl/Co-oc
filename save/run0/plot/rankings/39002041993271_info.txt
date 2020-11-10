@@ -1,0 +1,49 @@
+39002041993271
+number of files:  407
+number of files with unknown format: 127
+number of files with known format: 280
+contained formats: 
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q61727569 -PrimeOCR file format, version 4.2 -http://www.wikidata.org/entity/Q61727569
+Q28205604 -RIPscrip version 1 Icon Mask -http://www.wikidata.org/entity/Q28205604
+Q28206625 -MSX BASIC graphics -http://www.wikidata.org/entity/Q28206625
+Q27473654 -Band Interleaved by Pixel Image File -http://www.wikidata.org/entity/Q27473654
+Q61727602 -PrimeOCR file format, version 4.3 -http://www.wikidata.org/entity/Q61727602
+Q305976 -deb -http://www.wikidata.org/entity/Q305976
+Q70892047 -GameBoy Color ROM File -http://www.wikidata.org/entity/Q70892047
+Q29650305 -PSI-MI XML -http://www.wikidata.org/entity/Q29650305
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q61727559 -PrimeOCR file format, version 4 -http://www.wikidata.org/entity/Q61727559
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q61984337 -Microsoft Visual FoxPro database container (table files) -http://www.wikidata.org/entity/Q61984337
+Q61727114 -PrimeOCR file format, version 3 -http://www.wikidata.org/entity/Q61727114
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q50308743 -WordPerfect file format, v4 -http://www.wikidata.org/entity/Q50308743
+Q28206171 -GIMP Animated Brush -http://www.wikidata.org/entity/Q28206171
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q921122 -Java archive -http://www.wikidata.org/entity/Q921122
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q48551303 -Word Perfect for Windows Document file format -http://www.wikidata.org/entity/Q48551303
+Q28791524 -Parchive, version 1 -http://www.wikidata.org/entity/Q28791524
+Q29000599 -Windows Shortcut -http://www.wikidata.org/entity/Q29000599
+Q5616826 -ChordPro -http://www.wikidata.org/entity/Q5616826
+Q28975874 -OOGL TLIST Group file -http://www.wikidata.org/entity/Q28975874
+Q34745761 -StarCraft group file -http://www.wikidata.org/entity/Q34745761
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q28106114 -GRASP font -http://www.wikidata.org/entity/Q28106114
+Q1068805 -.properties -http://www.wikidata.org/entity/Q1068805
+Q61727514 -PrimeOCR file format, version 3.9 -http://www.wikidata.org/entity/Q61727514
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q61641450 -WordPerfect for MS-DOS Document -http://www.wikidata.org/entity/Q61641450
+Q61727504 -PrimeOCR file format, version 3.8 -http://www.wikidata.org/entity/Q61727504
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q73514615 -KiCad Project -http://www.wikidata.org/entity/Q73514615

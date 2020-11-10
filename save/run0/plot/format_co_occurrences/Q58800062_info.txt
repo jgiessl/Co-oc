@@ -1,0 +1,14 @@
+Q58800062 -PowerProject -http://www.wikidata.org/entity/Q58800062
+
+###################################################################
+
+Q58876023 -PowerProject -http://www.wikidata.org/entity/Q58876023
+Q29904453 -PowerPacker -http://www.wikidata.org/entity/Q29904453
+Q58875830 -PowerProject -http://www.wikidata.org/entity/Q58875830
+Q58799992 -PowerProject -http://www.wikidata.org/entity/Q58799992
+Q58875854 -PowerProject -http://www.wikidata.org/entity/Q58875854
+Q58800154 -PowerProject -http://www.wikidata.org/entity/Q58800154
+Q58876002 -PowerProject -http://www.wikidata.org/entity/Q58876002
+Q34284437 -Pascal script -http://www.wikidata.org/entity/Q34284437
+Q29650311 -POV-Ray scene description -http://www.wikidata.org/entity/Q29650311
+Q32061 -XSL -http://www.wikidata.org/entity/Q32061

@@ -1,0 +1,14 @@
+Q70892047 -GameBoy Color ROM File -http://www.wikidata.org/entity/Q70892047
+
+#############################################################################
+
+Q28206171 -GIMP Animated Brush -http://www.wikidata.org/entity/Q28206171
+Q27473654 -Band Interleaved by Pixel Image File -http://www.wikidata.org/entity/Q27473654
+Q61984337 -Microsoft Visual FoxPro database container (table files) -http://www.wikidata.org/entity/Q61984337
+Q28205604 -RIPscrip version 1 Icon Mask -http://www.wikidata.org/entity/Q28205604
+Q305976 -deb -http://www.wikidata.org/entity/Q305976
+Q61727114 -PrimeOCR file format, version 3 -http://www.wikidata.org/entity/Q61727114
+Q61727559 -PrimeOCR file format, version 4 -http://www.wikidata.org/entity/Q61727559
+Q73514615 -KiCad Project -http://www.wikidata.org/entity/Q73514615
+Q61727514 -PrimeOCR file format, version 3.9 -http://www.wikidata.org/entity/Q61727514
+Q61727569 -PrimeOCR file format, version 4.2 -http://www.wikidata.org/entity/Q61727569

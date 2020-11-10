@@ -1,0 +1,14 @@
+Q21834748 -Adobe Color Swatch -http://www.wikidata.org/entity/Q21834748
+
+#########################################################################
+
+Q27596184 -Windows Bitmap, version 2 -http://www.wikidata.org/entity/Q27596184
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q939636 -CorelDRAW Document -http://www.wikidata.org/entity/Q939636
+Q217570 -Waveform Audio File Format -http://www.wikidata.org/entity/Q217570
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366

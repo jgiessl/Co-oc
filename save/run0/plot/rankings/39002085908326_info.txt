@@ -1,0 +1,12 @@
+39002085908326
+number of files:  234
+number of files with unknown format: 0
+number of files with known format: 234
+contained formats: 
+Q27826464 -Cascading Style Sheets Level 1 -http://www.wikidata.org/entity/Q27826464
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q27826469 -Cascading Style Sheets Level 3 -http://www.wikidata.org/entity/Q27826469
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q34746472 -STATISTICA Spreadsheet File -http://www.wikidata.org/entity/Q34746472
+Q27826468 -Cascading Style Sheets Level 2 Revision 1 -http://www.wikidata.org/entity/Q27826468
+Q27826466 -Cascading Style Sheets Level 2 -http://www.wikidata.org/entity/Q27826466

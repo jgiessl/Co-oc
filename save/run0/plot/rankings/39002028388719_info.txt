@@ -1,0 +1,47 @@
+39002028388719
+number of files:  943
+number of files with unknown format: 158
+number of files with known format: 785
+contained formats: 
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q27826464 -Cascading Style Sheets Level 1 -http://www.wikidata.org/entity/Q27826464
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q27826469 -Cascading Style Sheets Level 3 -http://www.wikidata.org/entity/Q27826469
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q34746472 -STATISTICA Spreadsheet File -http://www.wikidata.org/entity/Q34746472
+Q26207808 -Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2012 -http://www.wikidata.org/entity/Q26207808
+Q26211528 -Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2012, with Microsoft extensions -http://www.wikidata.org/entity/Q26211528
+Q26207792 -Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2011 -http://www.wikidata.org/entity/Q26207792
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q26207712 -Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2008 -http://www.wikidata.org/entity/Q26207712
+Q26208253 -Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2008, with Microsoft extensions -http://www.wikidata.org/entity/Q26208253
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q27826468 -Cascading Style Sheets Level 2 Revision 1 -http://www.wikidata.org/entity/Q27826468
+Q27826466 -Cascading Style Sheets Level 2 -http://www.wikidata.org/entity/Q27826466
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q26205771 -Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2008 -http://www.wikidata.org/entity/Q26205771
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q26211536 -Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2012, with Microsoft extensions -http://www.wikidata.org/entity/Q26211536
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q27229642 -Portable Network Graphics, version 1.2 -http://www.wikidata.org/entity/Q27229642
+Q5924007 -JavaScript -http://www.wikidata.org/entity/Q5924007
+Q26207986 -Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2008, with Microsoft extensions -http://www.wikidata.org/entity/Q26207986
+Q26207734 -Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2011 -http://www.wikidata.org/entity/Q26207734
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q26207821 -Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2012 -http://www.wikidata.org/entity/Q26207821
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q26211510 -Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2011, with Microsoft extensions -http://www.wikidata.org/entity/Q26211510
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q3570403 -Office Open XML Spreadsheet Document, ECMA-376 1st Edition -http://www.wikidata.org/entity/Q3570403
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q26211338 -Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2011, with Microsoft extensions -http://www.wikidata.org/entity/Q26211338

@@ -1,0 +1,8 @@
+39002073605322
+number of files:  10
+number of files with unknown format: 0
+number of files with known format: 10
+contained formats: 
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669

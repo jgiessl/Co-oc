@@ -1,0 +1,14 @@
+Q28207232 -RLA -http://www.wikidata.org/entity/Q28207232
+
+##########################################################
+
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q27979394 -DVM -http://www.wikidata.org/entity/Q27979394
+Q28049747 -CMU Andrew Toolkit image -http://www.wikidata.org/entity/Q28049747
+Q28205839 -CMU Window Manager bitmap -http://www.wikidata.org/entity/Q28205839
+Q28205879 -CUT -http://www.wikidata.org/entity/Q28205879
+Q28205948 -Dr. Halo Bitmap -http://www.wikidata.org/entity/Q28205948
+Q51839187 -NAP Metafile -http://www.wikidata.org/entity/Q51839187
+Q29000677 -Yet Another Object Description Language -http://www.wikidata.org/entity/Q29000677
+Q28205779 -Bob ray tracer bitmap -http://www.wikidata.org/entity/Q28205779
+Q28346237 -TTDDD -http://www.wikidata.org/entity/Q28346237

@@ -1,0 +1,14 @@
+Q55388980 -Gasteiger group CTX file format -http://www.wikidata.org/entity/Q55388980
+
+######################################################################################
+
+Q34743262 -Softdisk Text Compressor -http://www.wikidata.org/entity/Q34743262
+Q28206930 -PGX -http://www.wikidata.org/entity/Q28206930
+Q27979402 -PGX -http://www.wikidata.org/entity/Q27979402
+Q76142694 -VisualBasic Project -http://www.wikidata.org/entity/Q76142694
+Q61976072 -FoxPro Report -http://www.wikidata.org/entity/Q61976072
+Q61976139 -Microsoft Visual FoxPro Report -http://www.wikidata.org/entity/Q61976139
+Q59653966 -MySQL Table Definition Format -http://www.wikidata.org/entity/Q59653966
+Q28206381 -VisualBasic form -http://www.wikidata.org/entity/Q28206381
+Q66439261 -WordPerfect Merge Forms file format -http://www.wikidata.org/entity/Q66439261
+Q48805492 -ChiWriter Document -http://www.wikidata.org/entity/Q48805492

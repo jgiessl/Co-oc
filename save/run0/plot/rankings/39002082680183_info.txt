@@ -1,0 +1,11 @@
+39002082680183
+number of files:  132
+number of files with unknown format: 98
+number of files with known format: 34
+contained formats: 
+Q194831 -Cabinet -http://www.wikidata.org/entity/Q194831
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628

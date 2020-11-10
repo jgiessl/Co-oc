@@ -1,0 +1,14 @@
+Q47012501 -OmniPage Pro Document file format -http://www.wikidata.org/entity/Q47012501
+
+########################################################################################
+
+Q66663925 -OS/2 Metafile -http://www.wikidata.org/entity/Q66663925
+Q29904450 -Presentation Manager Metafile -http://www.wikidata.org/entity/Q29904450
+Q47538951 -AutoCAD Compiled Menu -http://www.wikidata.org/entity/Q47538951
+Q28206057 -ERDAS IMAGINE Gray-scale Bitmap Image -http://www.wikidata.org/entity/Q28206057
+Q28207008 -Picture Publisher -http://www.wikidata.org/entity/Q28207008
+Q99850841 -Picture Publisher Bitmap 6-10 -http://www.wikidata.org/entity/Q99850841
+Q73515618 -DAISY Protected Package File -http://www.wikidata.org/entity/Q73515618
+Q73514196 -MegaCAD Project -http://www.wikidata.org/entity/Q73514196
+Q28600734 -ESRI Arc/Info Export File -http://www.wikidata.org/entity/Q28600734
+Q1134089 -world file -http://www.wikidata.org/entity/Q1134089

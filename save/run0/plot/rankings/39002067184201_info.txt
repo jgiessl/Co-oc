@@ -1,0 +1,129 @@
+39002067184201
+number of files:  547
+number of files with unknown format: 74
+number of files with known format: 473
+contained formats: 
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q61971919 -Microsoft Visual FoxPro Database Table File -http://www.wikidata.org/entity/Q61971919
+Q4928413 -Blorb -http://www.wikidata.org/entity/Q4928413
+Q28049670 -Autodesk 3D Studio ASCII format -http://www.wikidata.org/entity/Q28049670
+Q28975647 -POV-Ray RAW triangle format -http://www.wikidata.org/entity/Q28975647
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q61641368 -Microsoft Word for Windows Document, version 2 -http://www.wikidata.org/entity/Q61641368
+Q7271574 -Quetzal file format -http://www.wikidata.org/entity/Q7271574
+Q61971917 -FoxPro Database, version 2x -http://www.wikidata.org/entity/Q61971917
+Q61639409 -Microsoft Word for Windows Document, version 1 -http://www.wikidata.org/entity/Q61639409
+Q50375253 -Extensible Metadata Platform Format -http://www.wikidata.org/entity/Q50375253
+Q47233167 -LDR -http://www.wikidata.org/entity/Q47233167
+Q2276274 -System.map -http://www.wikidata.org/entity/Q2276274
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q28755606 -Exact Yearbook DAT file -http://www.wikidata.org/entity/Q28755606
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q28600256 -ASCII Encoded HP 48 Object -http://www.wikidata.org/entity/Q28600256
+Q52834849 -dBASE for Windows database, version 5 -http://www.wikidata.org/entity/Q52834849
+Q60000066 -Microsoft Office Owner File -http://www.wikidata.org/entity/Q60000066
+Q48782238 -Microsoft Word for MS-DOS Document, version 5 -http://www.wikidata.org/entity/Q48782238
+Q27996239 -Faster than Light saved game -http://www.wikidata.org/entity/Q27996239
+Q686498 -doc -http://www.wikidata.org/entity/Q686498
+Q28009496 -Zelda Solarus DX saved game -http://www.wikidata.org/entity/Q28009496
+Q27967116 -ASC Sound Master module -http://www.wikidata.org/entity/Q27967116
+Q32097899 -Fallout v2 DAT -http://www.wikidata.org/entity/Q32097899
+Q59608340 -KryoFlux -http://www.wikidata.org/entity/Q59608340
+Q47455968 -SafeGuard Encrypted Virtual Disk -http://www.wikidata.org/entity/Q47455968
+Q28858039 -Word Binary File Format, version nFibNew=0x00D9 -http://www.wikidata.org/entity/Q28858039
+Q28858037 -Word Binary File Format, version nFib=0x00C0 -http://www.wikidata.org/entity/Q28858037
+Q28206883 -Planetary Data System -http://www.wikidata.org/entity/Q28206883
+Q28205807 -Palette Format -http://www.wikidata.org/entity/Q28205807
+Q52426787 -XYWrite Document, version III+ -http://www.wikidata.org/entity/Q52426787
+Q264627 -Glulx -http://www.wikidata.org/entity/Q264627
+Q27995538 -Borderlands save file -http://www.wikidata.org/entity/Q27995538
+Q28205955 -Dr. Halo Palette -http://www.wikidata.org/entity/Q28205955
+Q81526237 -MapInfo MapBasic tabular DataBase -http://www.wikidata.org/entity/Q81526237
+Q34747804 -Supaplex Level format -http://www.wikidata.org/entity/Q34747804
+Q34287064 -Professor Calhoon quiz file -http://www.wikidata.org/entity/Q34287064
+Q61707607 -Microsoft Outlook Email Message -http://www.wikidata.org/entity/Q61707607
+Q28858041 -Word Binary File Format, version nFibNew=0x0101 -http://www.wikidata.org/entity/Q28858041
+Q63036182 -8-bit ASCII Text -http://www.wikidata.org/entity/Q63036182
+Q28206284 -IBM KIPS palette -http://www.wikidata.org/entity/Q28206284
+Q81526528 -MicroStation Resource data -http://www.wikidata.org/entity/Q81526528
+Q28205583 -OS/2 Pointer -http://www.wikidata.org/entity/Q28205583
+Q28858038 -Word Binary File Format, version nFib=0x00C2 -http://www.wikidata.org/entity/Q28858038
+Q28858042 -Word Binary File Format, version nFibNew=0x010C -http://www.wikidata.org/entity/Q28858042
+Q81526664 -Palm Desktop DateBook -http://www.wikidata.org/entity/Q81526664
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q6912474 -Mork -http://www.wikidata.org/entity/Q6912474
+Q32097740 -Fallout DAT -http://www.wikidata.org/entity/Q32097740
+Q28600258 -ATR -http://www.wikidata.org/entity/Q28600258
+Q51801746 -Stationery for Mac OS X -http://www.wikidata.org/entity/Q51801746
+Q27979410 -Binary Text -http://www.wikidata.org/entity/Q27979410
+Q47539001 -AutoCAD Linetype Definition File -http://www.wikidata.org/entity/Q47539001
+Q28207194 -QRT Ray Tracer bitmap -http://www.wikidata.org/entity/Q28207194
+Q28206528 -MacPaint -http://www.wikidata.org/entity/Q28206528
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830
+Q48782202 -Microsoft Word for MS-DOS Document, version 4 -http://www.wikidata.org/entity/Q48782202
+Q1063976 -Truevision TGA -http://www.wikidata.org/entity/Q1063976
+Q28858035 -Word Binary File Format, version nFib=0x00C1 -http://www.wikidata.org/entity/Q28858035
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q368782 -LHA -http://www.wikidata.org/entity/Q368782
+Q63061396 -Microsoft Word Document -http://www.wikidata.org/entity/Q63061396
+Q28207108 -The Print Shop Graphics file -http://www.wikidata.org/entity/Q28207108
+Q28758102 -InstallShield CAB -http://www.wikidata.org/entity/Q28758102
+Q62619688 -7-bit ASCII Text -http://www.wikidata.org/entity/Q62619688
+Q29650303 -PSRFITS -http://www.wikidata.org/entity/Q29650303
+Q67124083 -Print Artist label file format -http://www.wikidata.org/entity/Q67124083
+Q3928271 -RGBE image format -http://www.wikidata.org/entity/Q3928271
+Q28858044 -Word Binary File Format, version nFibNew=0x0112 -http://www.wikidata.org/entity/Q28858044
+Q28055391 -Printfox bitmap -http://www.wikidata.org/entity/Q28055391
+Q66439259 -WordPerfect Merge Data file format -http://www.wikidata.org/entity/Q66439259
+Q63061514 -Microsoft Word Document, version 97-2003 -http://www.wikidata.org/entity/Q63061514
+Q29167914 -PCRaster Map -http://www.wikidata.org/entity/Q29167914
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q28758112 -Internet Explorer history file -http://www.wikidata.org/entity/Q28758112
+Q59608283 -KryoFlux -http://www.wikidata.org/entity/Q59608283
+Q1601331 -Transport-Neutral Encapsulation Format -http://www.wikidata.org/entity/Q1601331
+Q29650304 -PRT scene description -http://www.wikidata.org/entity/Q29650304
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q27349828 -ESRI Arc/Info ASCII Grid -http://www.wikidata.org/entity/Q27349828
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q44933672 -dBASE IV -http://www.wikidata.org/entity/Q44933672
+Q27979508 -RIFF Palette File -http://www.wikidata.org/entity/Q27979508
+Q85621726 -PFS:First Choice Document -http://www.wikidata.org/entity/Q85621726
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q85621806 -PFS:First Choice Document 3 -http://www.wikidata.org/entity/Q85621806
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q28771288 -Mapsforge Binary Map -http://www.wikidata.org/entity/Q28771288
+Q27487130 -Shapefile dBASE table -http://www.wikidata.org/entity/Q27487130
+Q66439286 -DisplayWrite Document file format, version 5 -http://www.wikidata.org/entity/Q66439286
+Q48915661 -Interleaf Document -http://www.wikidata.org/entity/Q48915661
+Q28049770 -DKBTrace scene description -http://www.wikidata.org/entity/Q28049770
+Q28848214 -Statistical Package for the Social Sciences data file -http://www.wikidata.org/entity/Q28848214
+Q62664735 -Wordperfect Secondary File, version 5.1 and 5.2 -http://www.wikidata.org/entity/Q62664735
+Q28205418 -Panasonic RAW/RW2 -http://www.wikidata.org/entity/Q28205418
+Q48782394 -Microsoft Word for MS-DOS Document, version 5.5 -http://www.wikidata.org/entity/Q48782394
+Q29650330 -PGP public key -http://www.wikidata.org/entity/Q29650330
+Q52425710 -VisiCalc Database -http://www.wikidata.org/entity/Q52425710
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521
+Q66439311 -Navy DIF -http://www.wikidata.org/entity/Q66439311
+Q43992098 -Extensible Metadata Platform Packet -http://www.wikidata.org/entity/Q43992098
+Q60628005 -FoxPro Database, version 2 -http://www.wikidata.org/entity/Q60628005
+Q28757684 -Nintendo Game Boy cartridge SAV file -http://www.wikidata.org/entity/Q28757684
+Q28206265 -HSI Raw -http://www.wikidata.org/entity/Q28206265
+Q29000561 -Kryoflux Stream -http://www.wikidata.org/entity/Q29000561
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q48782098 -Microsoft Word for MS-DOS Document, version 3 -http://www.wikidata.org/entity/Q48782098
+Q67124713 -Print Artist postcard file format -http://www.wikidata.org/entity/Q67124713
+Q28009488 -Tibia map file -http://www.wikidata.org/entity/Q28009488
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400
+Q27925705 -DTED Readme file -http://www.wikidata.org/entity/Q27925705
+Q28206218 -GRF -http://www.wikidata.org/entity/Q28206218
+Q27473691 -BIL/BIP/BSQ Header File -http://www.wikidata.org/entity/Q27473691
+Q89029185 -American Greetings Project 10-23 -http://www.wikidata.org/entity/Q89029185
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q60628185 -Wordperfect Secondary File, version 5 -http://www.wikidata.org/entity/Q60628185
+Q72198666 -dBASE IV Label design file format -http://www.wikidata.org/entity/Q72198666
+Q28206310 -Analyze HDR -http://www.wikidata.org/entity/Q28206310
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084

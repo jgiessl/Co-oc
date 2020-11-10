@@ -1,0 +1,12 @@
+39002077285238
+number of files:  10
+number of files with unknown format: 2
+number of files with known format: 8
+contained formats: 
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q7271574 -Quetzal file format -http://www.wikidata.org/entity/Q7271574
+Q27996239 -Faster than Light saved game -http://www.wikidata.org/entity/Q27996239
+Q27995538 -Borderlands save file -http://www.wikidata.org/entity/Q27995538
+Q28848214 -Statistical Package for the Social Sciences data file -http://www.wikidata.org/entity/Q28848214
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q28757684 -Nintendo Game Boy cartridge SAV file -http://www.wikidata.org/entity/Q28757684

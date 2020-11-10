@@ -1,0 +1,14 @@
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+
+###############################################################################
+
+Q15938816 -MATLAB M-File -http://www.wikidata.org/entity/Q15938816
+Q28975650 -Recon Mesh -http://www.wikidata.org/entity/Q28975650
+Q47233167 -LDR -http://www.wikidata.org/entity/Q47233167
+Q29650304 -PRT scene description -http://www.wikidata.org/entity/Q29650304
+Q1601331 -Transport-Neutral Encapsulation Format -http://www.wikidata.org/entity/Q1601331
+Q81526237 -MapInfo MapBasic tabular DataBase -http://www.wikidata.org/entity/Q81526237
+Q28009496 -Zelda Solarus DX saved game -http://www.wikidata.org/entity/Q28009496
+Q34747804 -Supaplex Level format -http://www.wikidata.org/entity/Q34747804
+Q28049770 -DKBTrace scene description -http://www.wikidata.org/entity/Q28049770
+Q28755606 -Exact Yearbook DAT file -http://www.wikidata.org/entity/Q28755606

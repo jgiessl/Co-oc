@@ -1,0 +1,14 @@
+Q3943569 -SEG-Y -http://www.wikidata.org/entity/Q3943569
+
+##########################################################
+
+Q3888665 -Package interchange format -http://www.wikidata.org/entity/Q3888665
+Q382011 -Program information file -http://www.wikidata.org/entity/Q382011
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q47539001 -AutoCAD Linetype Definition File -http://www.wikidata.org/entity/Q47539001
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q1952708 -FILE_ID.DIZ -http://www.wikidata.org/entity/Q1952708
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693

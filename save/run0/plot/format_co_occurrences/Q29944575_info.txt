@@ -1,0 +1,14 @@
+Q29944575 -OpenOffice Calc template, version 1.0 -http://www.wikidata.org/entity/Q29944575
+
+############################################################################################
+
+Q287315 -reStructuredText -http://www.wikidata.org/entity/Q287315
+Q49243748 -Acrobat Language definition file -http://www.wikidata.org/entity/Q49243748
+Q58335773 -Verity Collection Stop List -http://www.wikidata.org/entity/Q58335773
+Q3509055 -STEP file -http://www.wikidata.org/entity/Q3509055
+Q29944551 -OpenOffice Calc, version 1.0 -http://www.wikidata.org/entity/Q29944551
+Q29944334 -OpenOffice Impress template, version 1.0 -http://www.wikidata.org/entity/Q29944334
+Q34746956 -STATISTICA In-place Database File -http://www.wikidata.org/entity/Q34746956
+Q29944393 -OpenOffice Writer template, version 1.0 -http://www.wikidata.org/entity/Q29944393
+Q28205711 -STW -http://www.wikidata.org/entity/Q28205711
+Q85415853 -SureThing Project File -http://www.wikidata.org/entity/Q85415853

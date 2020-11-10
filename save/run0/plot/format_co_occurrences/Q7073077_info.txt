@@ -1,0 +1,14 @@
+Q7073077 -OTA bitmap -http://www.wikidata.org/entity/Q7073077
+
+###############################################################
+
+Q29904449 -Psion Series 3 Word -http://www.wikidata.org/entity/Q29904449
+Q51916170 -Pagemaker TableEditor Graphics -http://www.wikidata.org/entity/Q51916170
+Q7671270 -TRANS.TBL -http://www.wikidata.org/entity/Q7671270
+Q67377613 -CaseWare 2005 Compressed file -http://www.wikidata.org/entity/Q67377613
+Q64858274 -Corel Presentations Master file format -http://www.wikidata.org/entity/Q64858274
+Q47233167 -LDR -http://www.wikidata.org/entity/Q47233167
+Q29650304 -PRT scene description -http://www.wikidata.org/entity/Q29650304
+Q1601331 -Transport-Neutral Encapsulation Format -http://www.wikidata.org/entity/Q1601331
+Q81526237 -MapInfo MapBasic tabular DataBase -http://www.wikidata.org/entity/Q81526237
+Q28009496 -Zelda Solarus DX saved game -http://www.wikidata.org/entity/Q28009496

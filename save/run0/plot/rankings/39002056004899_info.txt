@@ -1,0 +1,104 @@
+39002056004899
+number of files:  407
+number of files with unknown format: 7
+number of files with known format: 400
+contained formats: 
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q29946898 -Portable Document Format/Exchange 5g -http://www.wikidata.org/entity/Q29946898
+Q29946692 -Portable Document Format/Exchange 1:1999 -http://www.wikidata.org/entity/Q29946692
+Q194831 -Cabinet -http://www.wikidata.org/entity/Q194831
+Q26547266 -Portable Document Format/Archive, version 2 Unicode -http://www.wikidata.org/entity/Q26547266
+Q47455466 -Windows Portable Executable file format, 32-bit -http://www.wikidata.org/entity/Q47455466
+Q47233167 -LDR -http://www.wikidata.org/entity/Q47233167
+Q26541013 -Portable Document Format/Archive, version 1 Accessible -http://www.wikidata.org/entity/Q26541013
+Q26085330 -Portable Document Format, version 1.3 -http://www.wikidata.org/entity/Q26085330
+Q29946845 -Portable Document Format/Exchange 3:2003 -http://www.wikidata.org/entity/Q29946845
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q47498555 -Adobe Illustrator file format, version 12 -http://www.wikidata.org/entity/Q47498555
+Q26546575 -Portable Document Format/Archive, version 2 Basic -http://www.wikidata.org/entity/Q26546575
+Q28755606 -Exact Yearbook DAT file -http://www.wikidata.org/entity/Q28755606
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q26085322 -Portable Document Format, version 1.5 -http://www.wikidata.org/entity/Q26085322
+Q47498565 -Adobe Illustrator file format, version 13 -http://www.wikidata.org/entity/Q47498565
+Q28009496 -Zelda Solarus DX saved game -http://www.wikidata.org/entity/Q28009496
+Q5924007 -JavaScript -http://www.wikidata.org/entity/Q5924007
+Q32097899 -Fallout v2 DAT -http://www.wikidata.org/entity/Q32097899
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q47498745 -Adobe Illustrator file format, version 15 -http://www.wikidata.org/entity/Q47498745
+Q66244789 -ScreenCam stand-alone Movies format -http://www.wikidata.org/entity/Q66244789
+Q81526237 -MapInfo MapBasic tabular DataBase -http://www.wikidata.org/entity/Q81526237
+Q34747804 -Supaplex Level format -http://www.wikidata.org/entity/Q34747804
+Q47498538 -Adobe Illustrator file format, version 9 -http://www.wikidata.org/entity/Q47498538
+Q2043942 -Portable Document Format for Engineering -http://www.wikidata.org/entity/Q2043942
+Q25378623 -Font-File Format -http://www.wikidata.org/entity/Q25378623
+Q47498749 -Adobe Illustrator file format, version 16 -http://www.wikidata.org/entity/Q47498749
+Q29946866 -Portable Document Format/Exchange 4 -http://www.wikidata.org/entity/Q29946866
+Q81526528 -MicroStation Resource data -http://www.wikidata.org/entity/Q81526528
+Q623334 -.exe -http://www.wikidata.org/entity/Q623334
+Q81526664 -Palm Desktop DateBook -http://www.wikidata.org/entity/Q81526664
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q6912474 -Mork -http://www.wikidata.org/entity/Q6912474
+Q32097740 -Fallout DAT -http://www.wikidata.org/entity/Q32097740
+Q29946713 -Portable Document Format/Exchange 1:2001 -http://www.wikidata.org/entity/Q29946713
+Q27979410 -Binary Text -http://www.wikidata.org/entity/Q27979410
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q29946914 -Portable Document Format/Exchange 5n -http://www.wikidata.org/entity/Q29946914
+Q28758002 -Inno Setup self-extracting archive -http://www.wikidata.org/entity/Q28758002
+Q26085319 -Portable Document Format, version 1.6 -http://www.wikidata.org/entity/Q26085319
+Q29946121 -Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant -http://www.wikidata.org/entity/Q29946121
+Q28207108 -The Print Shop Graphics file -http://www.wikidata.org/entity/Q28207108
+Q380319 -dynamic-link library -http://www.wikidata.org/entity/Q380319
+Q28758102 -InstallShield CAB -http://www.wikidata.org/entity/Q28758102
+Q47498736 -Adobe Illustrator file format, version 14 -http://www.wikidata.org/entity/Q47498736
+Q79241659 -Lotus Accessory -http://www.wikidata.org/entity/Q79241659
+Q26085333 -Portable Document Format, version 1.2 -http://www.wikidata.org/entity/Q26085333
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q47455565 -Windows Portable Executable file format, 64-bit -http://www.wikidata.org/entity/Q47455565
+Q66439259 -WordPerfect Merge Data file format -http://www.wikidata.org/entity/Q66439259
+Q28055391 -Printfox bitmap -http://www.wikidata.org/entity/Q28055391
+Q29946883 -Portable Document Format/Exchange 4p -http://www.wikidata.org/entity/Q29946883
+Q26085336 -Portable Document Format, version 1.1 -http://www.wikidata.org/entity/Q26085336
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q29946829 -Portable Document Format/Exchange 3:2002 -http://www.wikidata.org/entity/Q29946829
+Q26547917 -Portable Document Format/Archive, version 3 Accessible -http://www.wikidata.org/entity/Q26547917
+Q28777715 -NSIS -http://www.wikidata.org/entity/Q28777715
+Q28758112 -Internet Explorer history file -http://www.wikidata.org/entity/Q28758112
+Q29946726 -Portable Document Format/Exchange 1a:2001 -http://www.wikidata.org/entity/Q29946726
+Q1601331 -Transport-Neutral Encapsulation Format -http://www.wikidata.org/entity/Q1601331
+Q29650304 -PRT scene description -http://www.wikidata.org/entity/Q29650304
+Q4042979 -Linear Executable -http://www.wikidata.org/entity/Q4042979
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q26543628 -Portable Document Format/Archive, version 1 Basic -http://www.wikidata.org/entity/Q26543628
+Q26085339 -Portable Document Format, version 1.0 -http://www.wikidata.org/entity/Q26085339
+Q28551284 -Adobe CMYK Setup File -http://www.wikidata.org/entity/Q28551284
+Q29946810 -Portable Document Format/Exchange 2:2003 -http://www.wikidata.org/entity/Q29946810
+Q5533911 -GeoPDF -http://www.wikidata.org/entity/Q5533911
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q27967388 -Adlib Tracker instrument -http://www.wikidata.org/entity/Q27967388
+Q26085317 -Portable Document Format, version 1.7 -http://www.wikidata.org/entity/Q26085317
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q26545877 -Portable Document Format/Archive, version 2 Accessible -http://www.wikidata.org/entity/Q26545877
+Q29946134 -Portable Document Format/Variable Data and Transactional Printing, multi-file exchange variant -http://www.wikidata.org/entity/Q29946134
+Q42332 -Portable Document Format -http://www.wikidata.org/entity/Q42332
+Q28756037 -FON -http://www.wikidata.org/entity/Q28756037
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q29946141 -Portable Document Format/Variable Data and Transactional Printing, streamed delivery variant -http://www.wikidata.org/entity/Q29946141
+Q28049770 -DKBTrace scene description -http://www.wikidata.org/entity/Q28049770
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q26548590 -Portable Document Format/Archive, version 3 Basic -http://www.wikidata.org/entity/Q26548590
+Q2192 -Graphics Interchange Format -http://www.wikidata.org/entity/Q2192
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q47498552 -Adobe Illustrator file format, version 11 -http://www.wikidata.org/entity/Q47498552
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q47498547 -Adobe Illustrator file format, version 10 -http://www.wikidata.org/entity/Q47498547
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400
+Q29946771 -Portable Document Format/Exchange 1a:2003 -http://www.wikidata.org/entity/Q29946771
+Q27526739 -Graphics Interchange Format, version 89a -http://www.wikidata.org/entity/Q27526739
+Q29946937 -Portable Document Format/Exchange 5pg -http://www.wikidata.org/entity/Q29946937
+Q1882110 -DOS MZ executable -http://www.wikidata.org/entity/Q1882110
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q55429627 -Portable Document Format, version 2.0 -http://www.wikidata.org/entity/Q55429627
+Q10852293 -RPT -http://www.wikidata.org/entity/Q10852293
+Q26085326 -Portable Document Format, version 1.4 -http://www.wikidata.org/entity/Q26085326

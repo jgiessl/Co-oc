@@ -1,0 +1,14 @@
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+
+############################################################
+
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q27979398 -Imagic Film/Picture, medium resolution -http://www.wikidata.org/entity/Q27979398
+Q27979399 -Imagic Film/Picture, high resolution -http://www.wikidata.org/entity/Q27979399
+Q34745227 -Spline Font Database -http://www.wikidata.org/entity/Q34745227
+Q5243773 -DcVD -http://www.wikidata.org/entity/Q5243773
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953

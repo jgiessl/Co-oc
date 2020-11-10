@@ -1,0 +1,14 @@
+Q28206053 -ERDAS LAN -http://www.wikidata.org/entity/Q28206053
+
+################################################################
+
+Q27487512 -Shapefile header index -http://www.wikidata.org/entity/Q27487512
+Q67383890 -Source Engine Compiled AI Nodegraph -http://www.wikidata.org/entity/Q67383890
+Q27487522 -Shapefile attribute index part 1 -http://www.wikidata.org/entity/Q27487522
+Q51753252 -AutoCAD Compiled Shape/Font File -http://www.wikidata.org/entity/Q51753252
+Q27487109 -Shapefile index file -http://www.wikidata.org/entity/Q27487109
+Q51753051 -3D Studio Shapes -http://www.wikidata.org/entity/Q51753051
+Q28207085 -PrintMaster Graphics file -http://www.wikidata.org/entity/Q28207085
+Q27486884 -Shapefile main file -http://www.wikidata.org/entity/Q27486884
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q28206851 -Secure Pick Ax file -http://www.wikidata.org/entity/Q28206851

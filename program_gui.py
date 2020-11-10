@@ -143,23 +143,14 @@ class OptionsFrame(tk.LabelFrame):
         self.bm25_b_lab = tk.Label(self, text="Control parameter b for the okapi-bm25-tf-idf-scheme:", anchor='w')
         self.bm25_b = tk.Entry(self, text=self.options_tk['bm25_b'])
 
-        self.create_ranking_plots_label = tk.Label(self, text="Create plots for each data object ranking"
-                                                              " the environments:", anchor='w')
-        self.create_ranking_plots = tk.Checkbutton(self, variable=self.options_tk['create_ranking_plots'],
-                                                   command=lambda: self.call_back('create_ranking_plots'))
-
-        self.create_distinction_plot_label = tk.Label(self, text="Create plot for the distinction of the highest and"
-                                                                 " the second highest ranked environments:", anchor='w')
-        self.create_distinction_plot = tk.Checkbutton(self, variable=self.options_tk['create_distinction'],
-                                                      command=lambda: self.call_back('create_distinction'))
-
-        self.create_format_co_oc_plot_label = tk.Label(self, text="Create plots depicting the format co-occurrences"
-                                                                  " for each format:", anchor='w')
-        self.create_format_co_oc_plot = tk.Checkbutton(self,
-                                                       variable=self.options_tk['create_format_co_occurrence_plots'],
-                                                       command=lambda: self.call_back('create_format_co_occurrence_'
-                                                                                      'plots')
-                                                       )
+        self.create_format_co_oc_save_file_label = tk.Label(self, text="Create save files for the format co-occurrences"
+                                                                       " for each format:", anchor='w')
+        self.create_format_co_oc_save_file = tk.Checkbutton(self,
+                                                            variable=self.options_tk['create_format_co_occurrence'
+                                                                                     '_save_files'],
+                                                            command=lambda: self.call_back('create_format_'
+                                                                                           'co_occurrence_save_files')
+                                                            )
 
         self.read_environments_from_file_lab = tk.Label(self, text="Read the readable formats for each environment "
                                                                    "from a save file:", anchor='w')
@@ -206,23 +197,17 @@ class OptionsFrame(tk.LabelFrame):
         self.bm25_b_lab.grid(row=8, column=0, rowspan=1, columnspan=4, sticky='nsew')
         self.bm25_b.grid(row=8, column=4, rowspan=1, columnspan=4, sticky='nsew')
 
-        self.create_ranking_plots_label.grid(row=9, column=0, rowspan=1, columnspan=4, sticky='nsew')
-        self.create_ranking_plots.grid(row=9, column=4, rowspan=1, columnspan=4, sticky='nsew')
+        self.create_format_co_oc_save_file_label.grid(row=9, column=0, rowspan=1, columnspan=4, sticky='nsew')
+        self.create_format_co_oc_save_file.grid(row=9, column=4, rowspan=1, columnspan=4, sticky='nsew')
 
-        self.create_distinction_plot_label.grid(row=10, column=0, rowspan=1, columnspan=4, sticky='nsew')
-        self.create_distinction_plot.grid(row=10, column=4, rowspan=1, columnspan=4, sticky='nsew')
+        self.read_environments_from_file_lab.grid(row=10, column=0, rowspan=1, columnspan=4, sticky='nsew')
+        self.read_environments_from_file.grid(row=10, column=4, rowspan=1, columnspan=4, sticky='nsew')
 
-        self.create_format_co_oc_plot_label.grid(row=11, column=0, rowspan=1, columnspan=4, sticky='nsew')
-        self.create_format_co_oc_plot.grid(row=11, column=4, rowspan=1, columnspan=4, sticky='nsew')
+        self.save_environment_readable_formats_lab.grid(row=11, column=0, rowspan=1, columnspan=4, sticky='nsew')
+        self.save_environment_readable_formats.grid(row=11, column=4, rowspan=1, columnspan=4, sticky='nsew')
 
-        self.read_environments_from_file_lab.grid(row=12, column=0, rowspan=1, columnspan=4, sticky='nsew')
-        self.read_environments_from_file.grid(row=12, column=4, rowspan=1, columnspan=4, sticky='nsew')
-
-        self.save_environment_readable_formats_lab.grid(row=13, column=0, rowspan=1, columnspan=4, sticky='nsew')
-        self.save_environment_readable_formats.grid(row=13, column=4, rowspan=1, columnspan=4, sticky='nsew')
-
-        self.create_log_lab.grid(row=14, column=0, rowspan=1, columnspan=4, sticky='nsew')
-        self.create_log.grid(row=14, column=4, rowspan=1, columnspan=4, sticky='nsew')
+        self.create_log_lab.grid(row=12, column=0, rowspan=1, columnspan=4, sticky='nsew')
+        self.create_log.grid(row=12, column=4, rowspan=1, columnspan=4, sticky='nsew')
 
     def call_back(self, key):
         """
@@ -272,7 +257,7 @@ class OptionsFrame(tk.LabelFrame):
         """
         base_path = os.path.dirname(os.path.abspath(__file__))
         if self.options['path_to_objects'] is None:
-            obj_path = os.path.join(base_path, 'sfdata')
+            obj_path = os.path.join(base_path, 'sfdata2')
             self.options['path_to_objects'] = obj_path
         if self.options['path_to_environments'] is None:
             env_path = os.path.join(base_path, 'environment_collection')
@@ -358,9 +343,7 @@ class ControlFrame(tk.Frame):
         self.sister.offset_w.config(state=tk.DISABLED)
         self.sister.bm25_k.config(state=tk.DISABLED)
         self.sister.bm25_b.config(state=tk.DISABLED)
-        self.sister.create_ranking_plots.config(state=tk.DISABLED)
-        self.sister.create_distinction_plot.config(state=tk.DISABLED)
-        self.sister.create_format_co_oc_plot.config(state=tk.DISABLED)
+        self.sister.create_format_co_oc_save_file.config(state=tk.DISABLED)
         self.sister.read_environments_from_file.config(state=tk.DISABLED)
         self.sister.save_environment_readable_formats.config(state=tk.DISABLED)
         self.sister.create_log.config(state=tk.DISABLED)
@@ -381,9 +364,7 @@ class ControlFrame(tk.Frame):
         self.sister.offset_w.config(state=tk.NORMAL)
         self.sister.bm25_k.config(state=tk.NORMAL)
         self.sister.bm25_b.config(state=tk.NORMAL)
-        self.sister.create_ranking_plots.config(state=tk.NORMAL)
-        self.sister.create_distinction_plot.config(state=tk.NORMAL)
-        self.sister.create_format_co_oc_plot.config(state=tk.NORMAL)
+        self.sister.create_format_co_oc_save_file.config(state=tk.NORMAL)
         self.sister.read_environments_from_file.config(state=tk.NORMAL)
         self.sister.save_environment_readable_formats.config(state=tk.NORMAL)
         self.sister.create_log.config(state=tk.NORMAL)

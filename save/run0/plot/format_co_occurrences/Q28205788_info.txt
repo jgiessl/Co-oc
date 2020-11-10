@@ -1,0 +1,14 @@
+Q28205788 -Compact Picture Format -http://www.wikidata.org/entity/Q28205788
+
+#############################################################################
+
+Q5013743 -Corel Photo-Paint Image -http://www.wikidata.org/entity/Q5013743
+Q27967405 -Master Tracker module -http://www.wikidata.org/entity/Q27967405
+Q28975662 -SLiCe format -http://www.wikidata.org/entity/Q28975662
+Q58960003 -Microsoft Excel Chart, version 3 -http://www.wikidata.org/entity/Q58960003
+Q28205583 -OS/2 Pointer -http://www.wikidata.org/entity/Q28205583
+Q28205846 -ColoRIX -http://www.wikidata.org/entity/Q28205846
+Q53756551 -git packfile index, version 2 -http://www.wikidata.org/entity/Q53756551
+Q53756539 -git packfile index, version 1 -http://www.wikidata.org/entity/Q53756539
+Q27979378 -VobSub index -http://www.wikidata.org/entity/Q27979378
+Q87066066 -LEADToolsCompressed Image -http://www.wikidata.org/entity/Q87066066

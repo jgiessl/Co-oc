@@ -1,0 +1,14 @@
+Q360194 -Adobe Type 1 ASCII Font Metrics -http://www.wikidata.org/entity/Q360194
+
+##################################################################################
+
+Q27979516 -Manga Studio Page -http://www.wikidata.org/entity/Q27979516
+Q27487544 -Shapefile codepage file -http://www.wikidata.org/entity/Q27487544
+Q6026738 -PFB -http://www.wikidata.org/entity/Q6026738
+Q27578057 -Adobe Type 1 Printer Font Metrics -http://www.wikidata.org/entity/Q27578057
+Q58725633 -Adobe PostScript Font Metrics file -http://www.wikidata.org/entity/Q58725633
+Q28206894 -Portable Float Map -http://www.wikidata.org/entity/Q28206894
+Q218170 -PostScript -http://www.wikidata.org/entity/Q218170
+Q260180 -OpenType Font -http://www.wikidata.org/entity/Q260180
+Q4049344 -SFNT -http://www.wikidata.org/entity/Q4049344
+Q34742508 -Softdisk Family Tree 2 Index Data -http://www.wikidata.org/entity/Q34742508

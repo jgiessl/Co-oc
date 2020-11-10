@@ -1,0 +1,14 @@
+Q58335745 -Acrobat Catalog Cat File -http://www.wikidata.org/entity/Q58335745
+
+###############################################################################
+
+Q34310996 -Security Catalog -http://www.wikidata.org/entity/Q34310996
+Q29000741 -WorldBuilder -http://www.wikidata.org/entity/Q29000741
+Q29000651 -WLD -http://www.wikidata.org/entity/Q29000651
+Q28206952 -PhotoDeluxe -http://www.wikidata.org/entity/Q28206952
+Q49799747 -Adobe Portable Document Catalog Index File, version 3.2 -http://www.wikidata.org/entity/Q49799747
+Q49798508 -Adobe Portable Document Catalog Index File, version 2 -http://www.wikidata.org/entity/Q49798508
+Q49798739 -Adobe Portable Document Catalog Index File, version 3 -http://www.wikidata.org/entity/Q49798739
+Q49799499 -Adobe Portable Document Catalog Index File, version 3.1 -http://www.wikidata.org/entity/Q49799499
+Q51802605 -OS/2 Change Control File -http://www.wikidata.org/entity/Q51802605
+Q28048413 -Cineon -http://www.wikidata.org/entity/Q28048413

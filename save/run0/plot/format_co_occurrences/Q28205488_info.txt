@@ -1,0 +1,14 @@
+Q28205488 -Windows Cursor -http://www.wikidata.org/entity/Q28205488
+
+#####################################################################
+
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q1569639 -Interchange File Format -http://www.wikidata.org/entity/Q1569639
+Q1887604 -X PixMap -http://www.wikidata.org/entity/Q1887604
+Q939636 -CorelDRAW Document -http://www.wikidata.org/entity/Q939636
+Q217570 -Waveform Audio File Format -http://www.wikidata.org/entity/Q217570
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804

@@ -1,0 +1,14 @@
+Q27979388 -AAE sidecar format -http://www.wikidata.org/entity/Q27979388
+
+#########################################################################
+
+Q1068805 -.properties -http://www.wikidata.org/entity/Q1068805
+Q50375236 -NIB File Format -http://www.wikidata.org/entity/Q50375236
+Q27979531 -Binary Property List -http://www.wikidata.org/entity/Q27979531
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q921122 -Java archive -http://www.wikidata.org/entity/Q921122
+Q47524710 -Mach-O file format (32bit) -http://www.wikidata.org/entity/Q47524710
+Q2858737 -Apple Icon Image format -http://www.wikidata.org/entity/Q2858737
+Q28445577 -Advanced Authoring System -http://www.wikidata.org/entity/Q28445577
+Q7555481 -sol -http://www.wikidata.org/entity/Q7555481

@@ -1,0 +1,14 @@
+Q73504589 -CorelFlow -http://www.wikidata.org/entity/Q73504589
+
+################################################################
+
+Q535473 -PCX -http://www.wikidata.org/entity/Q535473
+Q43870624 -PCX, version 5 -http://www.wikidata.org/entity/Q43870624
+Q43866871 -PCX, version 2 -http://www.wikidata.org/entity/Q43866871
+Q43870269 -PCX, version 4 -http://www.wikidata.org/entity/Q43870269
+Q43869672 -PCX, version 3 -http://www.wikidata.org/entity/Q43869672
+Q28756608 -FoxPro script -http://www.wikidata.org/entity/Q28756608
+Q5448342 -File change log -http://www.wikidata.org/entity/Q5448342
+Q29904540 -Statistical Analysis System log file -http://www.wikidata.org/entity/Q29904540
+Q5421818 -Extended Log Format -http://www.wikidata.org/entity/Q5421818
+Q50223812 -Bluetooth Snoop Packet Capture -http://www.wikidata.org/entity/Q50223812

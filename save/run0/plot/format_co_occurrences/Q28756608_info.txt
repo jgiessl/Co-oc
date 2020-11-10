@@ -1,0 +1,14 @@
+Q28756608 -FoxPro script -http://www.wikidata.org/entity/Q28756608
+
+####################################################################
+
+Q28207070 -Polychrome Recursive Format -http://www.wikidata.org/entity/Q28207070
+Q27967181 -Farandole Composer pattern -http://www.wikidata.org/entity/Q27967181
+Q47012412 -FoxPro Memo file format -http://www.wikidata.org/entity/Q47012412
+Q71837258 -CorelDraw Compressed Drawing file format -http://www.wikidata.org/entity/Q71837258
+Q61974843 -FoxPro Compound Index File -http://www.wikidata.org/entity/Q61974843
+Q47538013 -CDX Internet Archive Index format -http://www.wikidata.org/entity/Q47538013
+Q5010021 -CDX Format -http://www.wikidata.org/entity/Q5010021
+Q85513175 -Cindex Document, version 2 -http://www.wikidata.org/entity/Q85513175
+Q73504589 -CorelFlow -http://www.wikidata.org/entity/Q73504589
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833

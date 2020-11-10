@@ -1,0 +1,14 @@
+Q201093 -RealAudio -http://www.wikidata.org/entity/Q201093
+
+############################################################
+
+Q95733139 -RealAudio version 3 -http://www.wikidata.org/entity/Q95733139
+Q95733178 -RealAudio version 4 -http://www.wikidata.org/entity/Q95733178
+Q74021019 -RealMedia meta file -http://www.wikidata.org/entity/Q74021019
+Q95733736 -RealAudio Metafile -http://www.wikidata.org/entity/Q95733736
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q27526739 -Graphics Interchange Format, version 89a -http://www.wikidata.org/entity/Q27526739
+Q2192 -Graphics Interchange Format -http://www.wikidata.org/entity/Q2192
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q28206497 -Lossless JPEG -http://www.wikidata.org/entity/Q28206497
+Q26385770 -Still Picture Interchange File Format -http://www.wikidata.org/entity/Q26385770

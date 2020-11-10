@@ -1,0 +1,14 @@
+Q28206620 -Microsoft Paint, version 2 -http://www.wikidata.org/entity/Q28206620
+
+#################################################################################
+
+Q28206615 -Microsoft Paint, version 1 -http://www.wikidata.org/entity/Q28206615
+Q29209036 -Windows Installer Package -http://www.wikidata.org/entity/Q29209036
+Q27967216 -SCC Blaffer NT instrument kit -http://www.wikidata.org/entity/Q27967216
+Q58335687 -Asymetrix Toolbook File -http://www.wikidata.org/entity/Q58335687
+Q27979394 -DVM -http://www.wikidata.org/entity/Q27979394
+Q28049747 -CMU Andrew Toolkit image -http://www.wikidata.org/entity/Q28049747
+Q28205839 -CMU Window Manager bitmap -http://www.wikidata.org/entity/Q28205839
+Q28205879 -CUT -http://www.wikidata.org/entity/Q28205879
+Q28205948 -Dr. Halo Bitmap -http://www.wikidata.org/entity/Q28205948
+Q51839187 -NAP Metafile -http://www.wikidata.org/entity/Q51839187

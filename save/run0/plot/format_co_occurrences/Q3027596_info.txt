@@ -1,0 +1,14 @@
+Q3027596 -DGN -http://www.wikidata.org/entity/Q3027596
+
+########################################################
+
+Q47012446 -Microstation CAD Drawing file format -http://www.wikidata.org/entity/Q47012446
+Q28206455 -CKiSS -http://www.wikidata.org/entity/Q28206455
+Q28206450 -KiSS CEL 8-bit -http://www.wikidata.org/entity/Q28206450
+Q28206446 -KiSS CEL 4-bit -http://www.wikidata.org/entity/Q28206446
+Q95985268 -Affymetrix CEL file format -http://www.wikidata.org/entity/Q95985268
+Q51954279 -Autodesk Animator CEL File Format -http://www.wikidata.org/entity/Q51954279
+Q27487388 -Shapefile geocoding index -http://www.wikidata.org/entity/Q27487388
+Q27487398 -Shapefile geocoding index, ODB format -http://www.wikidata.org/entity/Q27487398
+Q1134089 -world file -http://www.wikidata.org/entity/Q1134089
+Q27487343 -Shapefile spatial index part 1 -http://www.wikidata.org/entity/Q27487343

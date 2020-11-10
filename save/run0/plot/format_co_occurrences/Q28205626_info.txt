@@ -1,0 +1,14 @@
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+
+###############################################################
+
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355

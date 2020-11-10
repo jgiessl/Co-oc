@@ -1,0 +1,14 @@
+Q66208329 -Microsoft Works communications script file -http://www.wikidata.org/entity/Q66208329
+
+#################################################################################################
+
+Q66662115 -Lotus Ami Pro Macro -http://www.wikidata.org/entity/Q66662115
+Q66424671 -WordPerfect macro file format -http://www.wikidata.org/entity/Q66424671
+Q28206523 -LuraWave -http://www.wikidata.org/entity/Q28206523
+Q66689208 -Access Database (Pocket Access for Windows CE) -http://www.wikidata.org/entity/Q66689208
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693

@@ -1,0 +1,14 @@
+Q28205554 -Nokia Logo Manager bitmap -http://www.wikidata.org/entity/Q28205554
+
+################################################################################
+
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q45350403 -Lotus 1-2-3 Spreadsheet Formatting File, version 2.3-2.4 -http://www.wikidata.org/entity/Q45350403
+Q27895063 -Windows Media Video -http://www.wikidata.org/entity/Q27895063
+Q85415606 -Sonic Scenarist Closed Caption Format -http://www.wikidata.org/entity/Q85415606
+Q3888665 -Package interchange format -http://www.wikidata.org/entity/Q3888665
+Q382011 -Program information file -http://www.wikidata.org/entity/Q382011
+Q48106551 -DataFlex Query Tag Name -http://www.wikidata.org/entity/Q48106551
+Q61777776 -Play SID Audio, version 1 -http://www.wikidata.org/entity/Q61777776

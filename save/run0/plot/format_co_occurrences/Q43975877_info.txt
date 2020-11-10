@@ -1,0 +1,14 @@
+Q43975877 -Drawing Interchange File Format (Binary), version 2004-2005 -http://www.wikidata.org/entity/Q43975877
+
+##################################################################################################################
+
+Q61576485 -Drawing Interchange File Format (ASCII), version R13 -http://www.wikidata.org/entity/Q61576485
+Q61576757 -Drawing Interchange File Format (ASCII), version R14 -http://www.wikidata.org/entity/Q61576757
+Q28731049 -Dyalog APL Transfer File format -http://www.wikidata.org/entity/Q28731049
+Q61692923 -Drawing Interchange File Format (Binary), version R10 -http://www.wikidata.org/entity/Q61692923
+Q61135953 -Drawing Interchange File Format (ASCII), version 2.2 -http://www.wikidata.org/entity/Q61135953
+Q61315973 -Drawing Interchange File Format (ASCII), version R11/R12 -http://www.wikidata.org/entity/Q61315973
+Q59851255 -Drawing Interchange File Format (ASCII) -http://www.wikidata.org/entity/Q59851255
+Q691652 -Drawing Interchange Format -http://www.wikidata.org/entity/Q691652
+Q61315206 -Drawing Interchange File Format (ASCII), version 2.5 -http://www.wikidata.org/entity/Q61315206
+Q60886472 -Drawing Interchange File Format (ASCII), version 1 -http://www.wikidata.org/entity/Q60886472

@@ -1,0 +1,14 @@
+Q29650316 -Packed Font File Format -http://www.wikidata.org/entity/Q29650316
+
+##############################################################################
+
+Q61901831 -Peak Graphical Waveform File -http://www.wikidata.org/entity/Q61901831
+Q188199 -Ogg -http://www.wikidata.org/entity/Q188199
+Q217570 -Waveform Audio File Format -http://www.wikidata.org/entity/Q217570
+Q28206493 -Lightning Strike -http://www.wikidata.org/entity/Q28206493
+Q27960038 -Windows Media Audio Lossless -http://www.wikidata.org/entity/Q27960038
+Q1067761 -Windows Media Audio 9 Lossless -http://www.wikidata.org/entity/Q1067761
+Q2194 -Windows Media Audio -http://www.wikidata.org/entity/Q2194
+Q47529246 -SuperScape Virtual Reality Format -http://www.wikidata.org/entity/Q47529246
+Q34743342 -Softimage Scene -http://www.wikidata.org/entity/Q34743342
+Q28975633 -NextEngine Scan -http://www.wikidata.org/entity/Q28975633

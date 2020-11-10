@@ -1,0 +1,14 @@
+Q64858274 -Corel Presentations Master file format -http://www.wikidata.org/entity/Q64858274
+
+#############################################################################################
+
+Q67377613 -CaseWare 2005 Compressed file -http://www.wikidata.org/entity/Q67377613
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q28205796 -Master of Orion saved game -http://www.wikidata.org/entity/Q28205796
+Q27967105 -SHO -http://www.wikidata.org/entity/Q27967105
+Q29650311 -POV-Ray scene description -http://www.wikidata.org/entity/Q29650311
+Q60414146 -Logical File Evidence Format -http://www.wikidata.org/entity/Q60414146
+Q28207194 -QRT Ray Tracer bitmap -http://www.wikidata.org/entity/Q28207194
+Q34284437 -Pascal script -http://www.wikidata.org/entity/Q34284437

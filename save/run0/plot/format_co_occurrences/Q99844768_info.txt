@@ -1,0 +1,14 @@
+Q99844768 -MicroStation Base File -http://www.wikidata.org/entity/Q99844768
+
+#############################################################################
+
+Q28206683 -Portable Graymap, text variant -http://www.wikidata.org/entity/Q28206683
+Q28206695 -Portable Graymap, binary variant -http://www.wikidata.org/entity/Q28206695
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q28206700 -Portable Pixmap, text variant -http://www.wikidata.org/entity/Q28206700
+Q28206708 -Portable Pixmap, binary variant -http://www.wikidata.org/entity/Q28206708
+Q49243071 -Java language source code file -http://www.wikidata.org/entity/Q49243071
+Q62625561 -Bash script -http://www.wikidata.org/entity/Q62625561
+Q921122 -Java archive -http://www.wikidata.org/entity/Q921122
+Q2193155 -Java class file -http://www.wikidata.org/entity/Q2193155
+Q178051 -Portable Network Graphics -http://www.wikidata.org/entity/Q178051

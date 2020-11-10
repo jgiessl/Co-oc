@@ -1,0 +1,14 @@
+Q23014810 -chr -http://www.wikidata.org/entity/Q23014810
+
+##########################################################
+
+Q27966982 -AC1D-DC1A Packer -http://www.wikidata.org/entity/Q27966982
+Q27473250 -Raster Product Format Table of Contents File -http://www.wikidata.org/entity/Q27473250
+Q27996219 -Eudora Mailbox Table of Contents -http://www.wikidata.org/entity/Q27996219
+Q28919030 -AC-3 Compressed Audio (Dolby Digital), Revision A -http://www.wikidata.org/entity/Q28919030
+Q28205760 -Borland Graphics Interface image -http://www.wikidata.org/entity/Q28205760
+Q28756196 -FWKCS NDX file -http://www.wikidata.org/entity/Q28756196
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400
+Q27979410 -Binary Text -http://www.wikidata.org/entity/Q27979410
+Q28055391 -Printfox bitmap -http://www.wikidata.org/entity/Q28055391

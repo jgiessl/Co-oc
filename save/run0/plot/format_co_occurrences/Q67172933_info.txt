@@ -1,0 +1,14 @@
+Q67172933 -Alias alpha file format -http://www.wikidata.org/entity/Q67172933
+
+##############################################################################
+
+Q28600496 -diff -http://www.wikidata.org/entity/Q28600496
+Q29465391 -Unified diff -http://www.wikidata.org/entity/Q29465391
+Q61707607 -Microsoft Outlook Email Message -http://www.wikidata.org/entity/Q61707607
+Q283579 -tar -http://www.wikidata.org/entity/Q283579
+Q29650301 -Pack -http://www.wikidata.org/entity/Q29650301
+Q28758103 -InstallShield Z -http://www.wikidata.org/entity/Q28758103
+Q29209269 -Z -http://www.wikidata.org/entity/Q29209269
+Q10287816 -GZIP -http://www.wikidata.org/entity/Q10287816
+Q66210170 -FrameMaker Book file format -http://www.wikidata.org/entity/Q66210170
+Q29650575 -Pages -http://www.wikidata.org/entity/Q29650575

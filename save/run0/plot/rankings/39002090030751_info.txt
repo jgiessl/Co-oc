@@ -1,0 +1,12 @@
+39002090030751
+number of files:  1489
+number of files with unknown format: 165
+number of files with known format: 1324
+contained formats: 
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q42591 -MP3g -http://www.wikidata.org/entity/Q42591
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836

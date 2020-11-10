@@ -1,0 +1,14 @@
+Q66134564 -Photoshop DCS 1.0 -http://www.wikidata.org/entity/Q66134564
+
+########################################################################
+
+Q48625328 -Encapsulated PostScript, v2 -http://www.wikidata.org/entity/Q48625328
+Q59714459 -Encapsulated PostScript File Format -http://www.wikidata.org/entity/Q59714459
+Q1047541 -Encapsulated PostScript -http://www.wikidata.org/entity/Q1047541
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q28206328 -Img Software Set Red Component -http://www.wikidata.org/entity/Q28206328
+Q1250383 -XYZ file format -http://www.wikidata.org/entity/Q1250383
+Q5301 -TeX -http://www.wikidata.org/entity/Q5301
+Q47019464 -PageMaker Document file format, version 5 -http://www.wikidata.org/entity/Q47019464
+Q28771302 -Matlab figure -http://www.wikidata.org/entity/Q28771302
+Q28756261 -FIG -http://www.wikidata.org/entity/Q28756261

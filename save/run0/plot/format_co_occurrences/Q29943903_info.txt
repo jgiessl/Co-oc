@@ -1,0 +1,14 @@
+Q29943903 -StarOffice Writer, version 3.x -http://www.wikidata.org/entity/Q29943903
+
+#####################################################################################
+
+Q29943901 -StarOffice Writer, version 5.x -http://www.wikidata.org/entity/Q29943901
+Q52005598 -AMI Draw Vector Image -http://www.wikidata.org/entity/Q52005598
+Q29943902 -StarOffice Writer, version 4.x -http://www.wikidata.org/entity/Q29943902
+Q1258721 -NFO -http://www.wikidata.org/entity/Q1258721
+Q59962003 -ScanIt Document -http://www.wikidata.org/entity/Q59962003
+Q27966933 -SID -http://www.wikidata.org/entity/Q27966933
+Q1422885 -MrSID -http://www.wikidata.org/entity/Q1422885
+Q61777964 -Play SID Audio, version 2 -http://www.wikidata.org/entity/Q61777964
+Q2138624 -registry file -http://www.wikidata.org/entity/Q2138624
+Q51802605 -OS/2 Change Control File -http://www.wikidata.org/entity/Q51802605

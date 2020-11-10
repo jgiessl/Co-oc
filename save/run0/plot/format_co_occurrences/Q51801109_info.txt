@@ -1,0 +1,14 @@
+Q51801109 -Microsoft Excel Toolbar -http://www.wikidata.org/entity/Q51801109
+
+##############################################################################
+
+Q67124713 -Print Artist postcard file format -http://www.wikidata.org/entity/Q67124713
+Q34287064 -Professor Calhoon quiz file -http://www.wikidata.org/entity/Q34287064
+Q28206756 -NIST IHead -http://www.wikidata.org/entity/Q28206756
+Q1569639 -Interchange File Format -http://www.wikidata.org/entity/Q1569639
+Q380319 -dynamic-link library -http://www.wikidata.org/entity/Q380319
+Q64858274 -Corel Presentations Master file format -http://www.wikidata.org/entity/Q64858274
+Q2044200 -PICT -http://www.wikidata.org/entity/Q2044200
+Q29650311 -POV-Ray scene description -http://www.wikidata.org/entity/Q29650311
+Q60615282 -Write for Windows Document, version 3 -http://www.wikidata.org/entity/Q60615282
+Q27526866 -Write for Windows Document, version 3.1 -http://www.wikidata.org/entity/Q27526866

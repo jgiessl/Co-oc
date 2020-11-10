@@ -1,0 +1,35 @@
+39002097961313
+number of files:  122
+number of files with unknown format: 0
+number of files with known format: 122
+contained formats: 
+Q61971919 -Microsoft Visual FoxPro Database Table File -http://www.wikidata.org/entity/Q61971919
+Q935809 -comma-separated values -http://www.wikidata.org/entity/Q935809
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521
+Q51753051 -3D Studio Shapes -http://www.wikidata.org/entity/Q51753051
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q61971917 -FoxPro Database, version 2x -http://www.wikidata.org/entity/Q61971917
+Q60628005 -FoxPro Database, version 2 -http://www.wikidata.org/entity/Q60628005
+Q27823195 -Binary Terrain External Projection file -http://www.wikidata.org/entity/Q27823195
+Q48021763 -Microsoft Access Database, version 2002 -http://www.wikidata.org/entity/Q48021763
+Q27487109 -Shapefile index file -http://www.wikidata.org/entity/Q27487109
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q51753252 -AutoCAD Compiled Shape/Font File -http://www.wikidata.org/entity/Q51753252
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q44933672 -dBASE IV -http://www.wikidata.org/entity/Q44933672
+Q59999470 -ESRI Spatial Index File -http://www.wikidata.org/entity/Q59999470
+Q27487424 -Shapefile projections definitions file -http://www.wikidata.org/entity/Q27487424
+Q48004607 -Microsoft Access Database, version 2 -http://www.wikidata.org/entity/Q48004607
+Q27486884 -Shapefile main file -http://www.wikidata.org/entity/Q27486884
+Q52834849 -dBASE for Windows database, version 5 -http://www.wikidata.org/entity/Q52834849
+Q27487343 -Shapefile spatial index part 1 -http://www.wikidata.org/entity/Q27487343
+Q48021588 -Microsoft Access Database, version 2000 -http://www.wikidata.org/entity/Q48021588
+Q29465378 -UltraEdit project file -http://www.wikidata.org/entity/Q29465378
+Q28207085 -PrintMaster Graphics file -http://www.wikidata.org/entity/Q28207085
+Q27487348 -Shapefile spatial index part 2 -http://www.wikidata.org/entity/Q27487348
+Q48005022 -Microsoft Access Database, version 95 -http://www.wikidata.org/entity/Q48005022
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q27487130 -Shapefile dBASE table -http://www.wikidata.org/entity/Q27487130
+Q56827141 -SeqBox file -http://www.wikidata.org/entity/Q56827141
+Q28975875 -OOGL TLIST Projective file -http://www.wikidata.org/entity/Q28975875
+Q48004869 -Microsoft Access Database, version 95 -http://www.wikidata.org/entity/Q48004869

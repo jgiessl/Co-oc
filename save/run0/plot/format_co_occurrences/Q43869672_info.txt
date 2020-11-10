@@ -1,0 +1,14 @@
+Q43869672 -PCX, version 3 -http://www.wikidata.org/entity/Q43869672
+
+#####################################################################
+
+Q535473 -PCX -http://www.wikidata.org/entity/Q535473
+Q43870624 -PCX, version 5 -http://www.wikidata.org/entity/Q43870624
+Q43866871 -PCX, version 2 -http://www.wikidata.org/entity/Q43866871
+Q43870269 -PCX, version 4 -http://www.wikidata.org/entity/Q43870269
+Q73504589 -CorelFlow -http://www.wikidata.org/entity/Q73504589
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q28206036 -Enhanced Simplex -http://www.wikidata.org/entity/Q28206036
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572
+Q25345915 -Scratch Project SB -http://www.wikidata.org/entity/Q25345915

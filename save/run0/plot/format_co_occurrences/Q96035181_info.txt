@@ -1,0 +1,14 @@
+Q96035181 -LEDA -http://www.wikidata.org/entity/Q96035181
+
+###########################################################
+
+Q3334595 -NUT Open Container Format -http://www.wikidata.org/entity/Q3334595
+Q93431491 -fdx -http://www.wikidata.org/entity/Q93431491
+Q65533627 -Food Data Exchange File format -http://www.wikidata.org/entity/Q65533627
+Q56827141 -SeqBox file -http://www.wikidata.org/entity/Q56827141
+Q27487348 -Shapefile spatial index part 2 -http://www.wikidata.org/entity/Q27487348
+Q59999470 -ESRI Spatial Index File -http://www.wikidata.org/entity/Q59999470
+Q27967125 -CMC -http://www.wikidata.org/entity/Q27967125
+Q59210786 -BIM Collaboration Format -http://www.wikidata.org/entity/Q59210786
+Q79241919 -ASCII Color Format -http://www.wikidata.org/entity/Q79241919
+Q28551319 -Adobe Custom Kernel File -http://www.wikidata.org/entity/Q28551319

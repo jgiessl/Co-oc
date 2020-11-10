@@ -1,0 +1,14 @@
+Q28771288 -Mapsforge Binary Map -http://www.wikidata.org/entity/Q28771288
+
+###########################################################################
+
+Q2276274 -System.map -http://www.wikidata.org/entity/Q2276274
+Q28009488 -Tibia map file -http://www.wikidata.org/entity/Q28009488
+Q29167914 -PCRaster Map -http://www.wikidata.org/entity/Q29167914
+Q6457314 -LBR -http://www.wikidata.org/entity/Q6457314
+Q29905095 -Statistical Analysis System multi-dimensional database file -http://www.wikidata.org/entity/Q29905095
+Q2119595 -Wavefront .obj file -http://www.wikidata.org/entity/Q2119595
+Q28344021 -Imagine Object File -http://www.wikidata.org/entity/Q28344021
+Q7311459 -Relocatable Object Module Format -http://www.wikidata.org/entity/Q7311459
+Q856364 -Common Object File Format -http://www.wikidata.org/entity/Q856364
+Q66663030 -Lotus Freelance Clip Art -http://www.wikidata.org/entity/Q66663030

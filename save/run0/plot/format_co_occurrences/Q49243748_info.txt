@@ -1,0 +1,14 @@
+Q49243748 -Acrobat Language definition file -http://www.wikidata.org/entity/Q49243748
+
+#######################################################################################
+
+Q287315 -reStructuredText -http://www.wikidata.org/entity/Q287315
+Q29944575 -OpenOffice Calc template, version 1.0 -http://www.wikidata.org/entity/Q29944575
+Q58335773 -Verity Collection Stop List -http://www.wikidata.org/entity/Q58335773
+Q3509055 -STEP file -http://www.wikidata.org/entity/Q3509055
+Q27959896 -Nuendo arrangement -http://www.wikidata.org/entity/Q27959896
+Q29435 -Dolby TrueHD -http://www.wikidata.org/entity/Q29435
+Q85415853 -SureThing Project File -http://www.wikidata.org/entity/Q85415853
+Q29944206 -OpenOffice Draw template, version 1.0 -http://www.wikidata.org/entity/Q29944206
+Q1601835 -Standard Test Data Format -http://www.wikidata.org/entity/Q1601835
+Q73675958 -3M Printscape -http://www.wikidata.org/entity/Q73675958

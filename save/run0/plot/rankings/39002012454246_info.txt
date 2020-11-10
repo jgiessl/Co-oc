@@ -1,0 +1,116 @@
+39002012454246
+number of files:  345
+number of files with unknown format: 7
+number of files with known format: 338
+contained formats: 
+Q6026738 -PFB -http://www.wikidata.org/entity/Q6026738
+Q55758993 -Microsoft Program Database file format, version 7 -http://www.wikidata.org/entity/Q55758993
+Q27578057 -Adobe Type 1 Printer Font Metrics -http://www.wikidata.org/entity/Q27578057
+Q100135637 -XDOMEA 2.1.0 -http://www.wikidata.org/entity/Q100135637
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q3359832 -Product Representation Compact -http://www.wikidata.org/entity/Q3359832
+Q28206359 -Intergraph Raster -http://www.wikidata.org/entity/Q28206359
+Q58725633 -Adobe PostScript Font Metrics file -http://www.wikidata.org/entity/Q58725633
+Q28207363 -TealPaint PDB -http://www.wikidata.org/entity/Q28207363
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q66759482 -InfoPath Form file -http://www.wikidata.org/entity/Q66759482
+Q58799889 -PowerProject Teamplan -http://www.wikidata.org/entity/Q58799889
+Q59851506 -DROID File Collection File Format -http://www.wikidata.org/entity/Q59851506
+Q28758111 -Internet Explorer favorites -http://www.wikidata.org/entity/Q28758111
+Q99976195 -XDOMEA 2.0.1 -http://www.wikidata.org/entity/Q99976195
+Q27487531 -Shapefile metadata for ArcGIS -http://www.wikidata.org/entity/Q27487531
+Q1601835 -Standard Test Data Format -http://www.wikidata.org/entity/Q1601835
+Q25339304 -Timed Text Markup Language -http://www.wikidata.org/entity/Q25339304
+Q5924007 -JavaScript -http://www.wikidata.org/entity/Q5924007
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q29944776 -Rich Text Format, version 1.2 -http://www.wikidata.org/entity/Q29944776
+Q73675958 -3M Printscape -http://www.wikidata.org/entity/Q73675958
+Q10287816 -GZIP -http://www.wikidata.org/entity/Q10287816
+Q29944575 -OpenOffice Calc template, version 1.0 -http://www.wikidata.org/entity/Q29944575
+Q87066066 -LEADToolsCompressed Image -http://www.wikidata.org/entity/Q87066066
+Q641213 -XBEL -http://www.wikidata.org/entity/Q641213
+Q29000578 -Android Resource file -http://www.wikidata.org/entity/Q29000578
+Q55758988 -Microsoft Program Database file format, version 2 -http://www.wikidata.org/entity/Q55758988
+Q27967351 -iTunes Music Library, XML variant -http://www.wikidata.org/entity/Q27967351
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q85415853 -SureThing Project File -http://www.wikidata.org/entity/Q85415853
+Q50809751 -Portable Database, version 1 -http://www.wikidata.org/entity/Q50809751
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q100136218 -XDOMEA 2.2.0 -http://www.wikidata.org/entity/Q100136218
+Q28758114 -Internet Shortcut -http://www.wikidata.org/entity/Q28758114
+Q58335773 -Verity Collection Stop List -http://www.wikidata.org/entity/Q58335773
+Q29944206 -OpenOffice Draw template, version 1.0 -http://www.wikidata.org/entity/Q29944206
+Q29435 -Dolby TrueHD -http://www.wikidata.org/entity/Q29435
+Q3509055 -STEP file -http://www.wikidata.org/entity/Q3509055
+Q87066063 -LEADTools Lead 1Bit Compressed Image -http://www.wikidata.org/entity/Q87066063
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q59851322 -DROID Signature File Format -http://www.wikidata.org/entity/Q59851322
+Q287315 -reStructuredText -http://www.wikidata.org/entity/Q287315
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q28600760 -Early Mind Manager XML format -http://www.wikidata.org/entity/Q28600760
+Q79241659 -Lotus Accessory -http://www.wikidata.org/entity/Q79241659
+Q1228757 -Apple Disk Image -http://www.wikidata.org/entity/Q1228757
+Q34306669 -Scifer archive XML header -http://www.wikidata.org/entity/Q34306669
+Q27996279 -MOBI -http://www.wikidata.org/entity/Q27996279
+Q71178742 -PIPE2 file format -http://www.wikidata.org/entity/Q71178742
+Q3551300 -Universal Subtitle Format -http://www.wikidata.org/entity/Q3551300
+Q49243488 -License file -http://www.wikidata.org/entity/Q49243488
+Q29650793 -PalmOS Database -http://www.wikidata.org/entity/Q29650793
+Q99973597 -XDOMEA 1.0 file format -http://www.wikidata.org/entity/Q99973597
+Q29944777 -Rich Text Format, version 1.3 -http://www.wikidata.org/entity/Q29944777
+Q87816075 -Broderbund Print Shop Deluxe 5-6 -http://www.wikidata.org/entity/Q87816075
+Q29944773 -Rich Text Format, version 1.1 -http://www.wikidata.org/entity/Q29944773
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q50809753 -Portable Database, version 2 -http://www.wikidata.org/entity/Q50809753
+Q29944782 -Rich Text Format, version 1.6 -http://www.wikidata.org/entity/Q29944782
+Q452197 -Systems Biology Markup Language -http://www.wikidata.org/entity/Q452197
+Q29944987 -Rich Text Format, version 0 -http://www.wikidata.org/entity/Q29944987
+Q29944786 -Rich Text Format, version 1.9 -http://www.wikidata.org/entity/Q29944786
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q796483 -DocBook -http://www.wikidata.org/entity/Q796483
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q28206894 -Portable Float Map -http://www.wikidata.org/entity/Q28206894
+Q29650308 -Palm Resource Compiler -http://www.wikidata.org/entity/Q29650308
+Q28206843 -Palm Database ImageViewer -http://www.wikidata.org/entity/Q28206843
+Q653301 -MusicXML -http://www.wikidata.org/entity/Q653301
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q72273742 -TPN -http://www.wikidata.org/entity/Q72273742
+Q2313301 -SpreadsheetML -http://www.wikidata.org/entity/Q2313301
+Q4042481 -LOGML -http://www.wikidata.org/entity/Q4042481
+Q49243748 -Acrobat Language definition file -http://www.wikidata.org/entity/Q49243748
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q166074 -Extensible HyperText Markup Language -http://www.wikidata.org/entity/Q166074
+Q28771320 -Microsoft Office File List -http://www.wikidata.org/entity/Q28771320
+Q29944783 -Rich Text Format, version 1.7 -http://www.wikidata.org/entity/Q29944783
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q29944779 -Rich Text Format, version 1.4 -http://www.wikidata.org/entity/Q29944779
+Q50378320 -INTERLIS Transfer File, version 2.2 -http://www.wikidata.org/entity/Q50378320
+Q28600421 -Ant build file -http://www.wikidata.org/entity/Q28600421
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q99973606 -XDOMEA 2.0.0 -http://www.wikidata.org/entity/Q99973606
+Q45432 -RSS -http://www.wikidata.org/entity/Q45432
+Q28207256 -ScreenShot Hack PDB -http://www.wikidata.org/entity/Q28207256
+Q29944780 -Rich Text Format, version 1.5 -http://www.wikidata.org/entity/Q29944780
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q58237034 -Adobe Multiple Master Metrics font file -http://www.wikidata.org/entity/Q58237034
+Q28445577 -Advanced Authoring System -http://www.wikidata.org/entity/Q28445577
+Q3406936 -Program database -http://www.wikidata.org/entity/Q3406936
+Q27910000 -RADARSAT-2 Product Information File -http://www.wikidata.org/entity/Q27910000
+Q28728783 -VOTable -http://www.wikidata.org/entity/Q28728783
+Q29944785 -Rich Text Format, version 1.8 -http://www.wikidata.org/entity/Q29944785
+Q29944758 -Rich Text Format, version 1.0 -http://www.wikidata.org/entity/Q29944758
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q50809785 -Portable Database, version 3 -http://www.wikidata.org/entity/Q50809785
+Q100136960 -XDOMEA 2.4.0 -http://www.wikidata.org/entity/Q100136960
+Q2819247 -ALTO -http://www.wikidata.org/entity/Q2819247
+Q959950 -eXtensible Business Reporting Language -http://www.wikidata.org/entity/Q959950
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q100136955 -XDOMEA 2.3.0 -http://www.wikidata.org/entity/Q100136955
+Q66663030 -Lotus Freelance Clip Art -http://www.wikidata.org/entity/Q66663030

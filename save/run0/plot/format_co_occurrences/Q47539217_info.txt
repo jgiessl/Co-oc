@@ -1,0 +1,14 @@
+Q47539217 -AutoCAD Batch Plot File, version 1.0-R14 -http://www.wikidata.org/entity/Q47539217
+
+###############################################################################################
+
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q27826464 -Cascading Style Sheets Level 1 -http://www.wikidata.org/entity/Q27826464
+Q27826469 -Cascading Style Sheets Level 3 -http://www.wikidata.org/entity/Q27826469
+Q27826466 -Cascading Style Sheets Level 2 -http://www.wikidata.org/entity/Q27826466
+Q27826468 -Cascading Style Sheets Level 2 Revision 1 -http://www.wikidata.org/entity/Q27826468
+Q34746472 -STATISTICA Spreadsheet File -http://www.wikidata.org/entity/Q34746472
+Q1888930 -Vector Markup Language -http://www.wikidata.org/entity/Q1888930
+Q28786544 -Netscape bookmarks -http://www.wikidata.org/entity/Q28786544
+Q8811 -HyperText Markup Language -http://www.wikidata.org/entity/Q8811
+Q2053 -HTML5 -http://www.wikidata.org/entity/Q2053

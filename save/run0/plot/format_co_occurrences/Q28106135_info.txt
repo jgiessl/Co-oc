@@ -1,0 +1,14 @@
+Q28106135 -Pi -http://www.wikidata.org/entity/Q28106135
+
+#########################################################
+
+Q51917410 -Corel Wavelet Compressed Bitmap -http://www.wikidata.org/entity/Q51917410
+Q34284525 -Perl script -http://www.wikidata.org/entity/Q34284525
+Q66310989 -Pantry Files -http://www.wikidata.org/entity/Q66310989
+Q28206318 -Img Software Set Colormapped Image -http://www.wikidata.org/entity/Q28206318
+Q34284450 -Pawn script -http://www.wikidata.org/entity/Q34284450
+Q7455595 -Server Normal Format -http://www.wikidata.org/entity/Q7455595
+Q47922320 -AutoLISP File -http://www.wikidata.org/entity/Q47922320
+Q34284437 -Pascal script -http://www.wikidata.org/entity/Q34284437
+Q28206328 -Img Software Set Red Component -http://www.wikidata.org/entity/Q28206328
+Q28206218 -GRF -http://www.wikidata.org/entity/Q28206218

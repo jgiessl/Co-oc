@@ -1,0 +1,14 @@
+Q4545331 -3D Studio mesh-file format -http://www.wikidata.org/entity/Q4545331
+
+###############################################################################
+
+Q28207227 -RIFF DIB -http://www.wikidata.org/entity/Q28207227
+Q28205862 -CompW -http://www.wikidata.org/entity/Q28205862
+Q29000715 -Unreal model data file -http://www.wikidata.org/entity/Q29000715
+Q29000718 -Unreal model aniv file -http://www.wikidata.org/entity/Q29000718
+Q28206101 -FaceSaver -http://www.wikidata.org/entity/Q28206101
+Q3841253 -MDL Molfile -http://www.wikidata.org/entity/Q3841253
+Q1238229 -STereoLithography -http://www.wikidata.org/entity/Q1238229
+Q18812775 -VTK -http://www.wikidata.org/entity/Q18812775
+Q28777712 -NFF -http://www.wikidata.org/entity/Q28777712
+Q34311311 -Sense8 Neutral File Format, plain text variant -http://www.wikidata.org/entity/Q34311311

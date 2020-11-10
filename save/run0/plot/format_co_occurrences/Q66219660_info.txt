@@ -1,0 +1,14 @@
+Q66219660 -shtml -http://www.wikidata.org/entity/Q66219660
+
+############################################################
+
+Q34284525 -Perl script -http://www.wikidata.org/entity/Q34284525
+Q66310989 -Pantry Files -http://www.wikidata.org/entity/Q66310989
+Q627554 -certificate signing request -http://www.wikidata.org/entity/Q627554
+Q29650322 -PKCS#7 certificate -http://www.wikidata.org/entity/Q29650322
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q28205667 -Public Key Cryptography Standard 10 -http://www.wikidata.org/entity/Q28205667
+Q29650342 -PEM encoded certificate -http://www.wikidata.org/entity/Q29650342
+Q8041715 -XCOFF -http://www.wikidata.org/entity/Q8041715
+Q2627217 -Mach-O -http://www.wikidata.org/entity/Q2627217
+Q1194435 -MPEG-2 transport stream -http://www.wikidata.org/entity/Q1194435

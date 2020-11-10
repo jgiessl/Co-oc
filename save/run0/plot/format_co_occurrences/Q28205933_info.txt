@@ -1,0 +1,14 @@
+Q28205933 -Doodle! uncompressed image -http://www.wikidata.org/entity/Q28205933
+
+#################################################################################
+
+Q61641450 -WordPerfect for MS-DOS Document -http://www.wikidata.org/entity/Q61641450
+Q48551303 -Word Perfect for Windows Document file format -http://www.wikidata.org/entity/Q48551303
+Q1192568 -.sys -http://www.wikidata.org/entity/Q1192568
+Q28600476 -DOS device driver -http://www.wikidata.org/entity/Q28600476
+Q47455565 -Windows Portable Executable file format, 64-bit -http://www.wikidata.org/entity/Q47455565
+Q47455466 -Windows Portable Executable file format, 32-bit -http://www.wikidata.org/entity/Q47455466
+Q4042979 -Linear Executable -http://www.wikidata.org/entity/Q4042979
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465

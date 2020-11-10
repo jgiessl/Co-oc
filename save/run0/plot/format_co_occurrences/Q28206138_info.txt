@@ -1,0 +1,14 @@
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+
+############################################################################
+
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572
+Q60662390 -Inkwriter Template -http://www.wikidata.org/entity/Q60662390
+Q27967091 -Funcom ISS -http://www.wikidata.org/entity/Q27967091
+Q1886335 -Maker Interchange Format -http://www.wikidata.org/entity/Q1886335
+Q6746668 -Management Information Format -http://www.wikidata.org/entity/Q6746668
+Q28206593 -MSX Interchange Format -http://www.wikidata.org/entity/Q28206593
+Q6731061 -Magick Image File Format -http://www.wikidata.org/entity/Q6731061
+Q19599377 -AppleLink Package Compression Format -http://www.wikidata.org/entity/Q19599377
+Q28344713 -Package File -http://www.wikidata.org/entity/Q28344713

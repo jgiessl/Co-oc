@@ -1,0 +1,14 @@
+Q5205563 -Downloadable Sounds -http://www.wikidata.org/entity/Q5205563
+
+########################################################################
+
+Q66663714 -Hewlett Packard Graphics Gallery -http://www.wikidata.org/entity/Q66663714
+Q7455595 -Server Normal Format -http://www.wikidata.org/entity/Q7455595
+Q5921560 -Synthetic music mobile application format -http://www.wikidata.org/entity/Q5921560
+Q48106028 -Unisys (Sperry) System Data File -http://www.wikidata.org/entity/Q48106028
+Q34745947 -Starlink Data Format -http://www.wikidata.org/entity/Q34745947
+Q7520656 -Simple Data Format -http://www.wikidata.org/entity/Q7520656
+Q28530510 -Structure-data file -http://www.wikidata.org/entity/Q28530510
+Q18653981 -Standard Delay Format -http://www.wikidata.org/entity/Q18653981
+Q28770260 -Hugo -http://www.wikidata.org/entity/Q28770260
+Q572649 -Intel HEX -http://www.wikidata.org/entity/Q572649

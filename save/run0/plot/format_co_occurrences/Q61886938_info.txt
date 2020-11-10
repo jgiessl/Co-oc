@@ -1,0 +1,14 @@
+Q61886938 -Portable Form File -http://www.wikidata.org/entity/Q61886938
+
+#########################################################################
+
+Q28207574 -Zoomify PFF -http://www.wikidata.org/entity/Q28207574
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q29944987 -Rich Text Format, version 0 -http://www.wikidata.org/entity/Q29944987
+Q29944777 -Rich Text Format, version 1.3 -http://www.wikidata.org/entity/Q29944777
+Q29944782 -Rich Text Format, version 1.6 -http://www.wikidata.org/entity/Q29944782
+Q29944783 -Rich Text Format, version 1.7 -http://www.wikidata.org/entity/Q29944783
+Q29944780 -Rich Text Format, version 1.5 -http://www.wikidata.org/entity/Q29944780
+Q29944776 -Rich Text Format, version 1.2 -http://www.wikidata.org/entity/Q29944776
+Q29944786 -Rich Text Format, version 1.9 -http://www.wikidata.org/entity/Q29944786
+Q29944773 -Rich Text Format, version 1.1 -http://www.wikidata.org/entity/Q29944773

@@ -1,0 +1,14 @@
+Q79241659 -Lotus Accessory -http://www.wikidata.org/entity/Q79241659
+
+######################################################################
+
+Q27866062 -Digital Negative, version 1.3 -http://www.wikidata.org/entity/Q27866062
+Q27231634 -Tag Image File Format, version 4.0 -http://www.wikidata.org/entity/Q27231634
+Q27866063 -Digital Negative, version 1.4 -http://www.wikidata.org/entity/Q27866063
+Q27866059 -Digital Negative, version 1.1 -http://www.wikidata.org/entity/Q27866059
+Q28205372 -Kodak TIFF -http://www.wikidata.org/entity/Q28205372
+Q27231651 -Tag Image File Format, version 5.0 -http://www.wikidata.org/entity/Q27231651
+Q27231654 -Tag Image File Format, version 6.0 -http://www.wikidata.org/entity/Q27231654
+Q1502796 -GeoTIFF -http://www.wikidata.org/entity/Q1502796
+Q28205771 -BigTIFF -http://www.wikidata.org/entity/Q28205771
+Q7670377 -Tagged Image File Format/Electronic Photography -http://www.wikidata.org/entity/Q7670377

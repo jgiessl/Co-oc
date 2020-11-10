@@ -1,0 +1,14 @@
+Q51370239 -Pocket Word Document -http://www.wikidata.org/entity/Q51370239
+
+###########################################################################
+
+Q28600492 -Data Resource File -http://www.wikidata.org/entity/Q28600492
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q96075738 -Pajek format -http://www.wikidata.org/entity/Q96075738
+Q95994804 -Spatial Data Transfer Standard format -http://www.wikidata.org/entity/Q95994804
+Q29644119 -ISO/IEC 8211 Data Descriptive File -http://www.wikidata.org/entity/Q29644119
+Q61707607 -Microsoft Outlook Email Message -http://www.wikidata.org/entity/Q61707607
+Q48814895 -ESRI ArcView Project -http://www.wikidata.org/entity/Q48814895
+Q59999653 -ESRI Arc/View Project -http://www.wikidata.org/entity/Q59999653
+Q46118194 -Lotus Approach View File, version 97 -http://www.wikidata.org/entity/Q46118194

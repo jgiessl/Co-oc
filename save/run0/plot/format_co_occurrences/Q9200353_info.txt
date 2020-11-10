@@ -1,0 +1,14 @@
+Q9200353 -DigiBooster PRO v2.x / DigiBooster 3 module -http://www.wikidata.org/entity/Q9200353
+
+################################################################################################
+
+Q34284525 -Perl script -http://www.wikidata.org/entity/Q34284525
+Q66310989 -Pantry Files -http://www.wikidata.org/entity/Q66310989
+Q34312361 -Macromedia Director, uncompressed Macintosh variant -http://www.wikidata.org/entity/Q34312361
+Q27923693 -DTED Cells Directory File -http://www.wikidata.org/entity/Q27923693
+Q34312151 -Macromedia Director, uncompressed PC variant -http://www.wikidata.org/entity/Q34312151
+Q27925722 -DTED Level 1 Gazetteer Directory file -http://www.wikidata.org/entity/Q27925722
+Q281876 -YAML -http://www.wikidata.org/entity/Q281876
+Q18640977 -Better Portable Graphics -http://www.wikidata.org/entity/Q18640977
+Q47246032 -PowerVR Object Data -http://www.wikidata.org/entity/Q47246032
+Q60339399 -Open Project File -http://www.wikidata.org/entity/Q60339399

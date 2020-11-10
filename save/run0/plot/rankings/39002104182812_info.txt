@@ -1,0 +1,37 @@
+39002104182812
+number of files:  430
+number of files with unknown format: 1
+number of files with known format: 429
+contained formats: 
+Q27231634 -Tag Image File Format, version 4.0 -http://www.wikidata.org/entity/Q27231634
+Q27866063 -Digital Negative, version 1.4 -http://www.wikidata.org/entity/Q27866063
+Q27866059 -Digital Negative, version 1.1 -http://www.wikidata.org/entity/Q27866059
+Q28858068 -Binary Interchange File Format, version 8 -http://www.wikidata.org/entity/Q28858068
+Q27823195 -Binary Terrain External Projection file -http://www.wikidata.org/entity/Q27823195
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q60886160 -Microsoft Excel 97 Workbook -http://www.wikidata.org/entity/Q60886160
+Q27487424 -Shapefile projections definitions file -http://www.wikidata.org/entity/Q27487424
+Q60806257 -Microsoft Excel 4.0 Worksheet (xls) -http://www.wikidata.org/entity/Q60806257
+Q60873199 -Excel 95 Workbook -http://www.wikidata.org/entity/Q60873199
+Q27231651 -Tag Image File Format, version 5.0 -http://www.wikidata.org/entity/Q27231651
+Q52834888 -Microsoft Excel 2.x Worksheet -http://www.wikidata.org/entity/Q52834888
+Q27866062 -Digital Negative, version 1.3 -http://www.wikidata.org/entity/Q27866062
+Q28205771 -BigTIFF -http://www.wikidata.org/entity/Q28205771
+Q28207384 -TIFF/IT -http://www.wikidata.org/entity/Q28207384
+Q6457314 -LBR -http://www.wikidata.org/entity/Q6457314
+Q29465378 -UltraEdit project file -http://www.wikidata.org/entity/Q29465378
+Q27473691 -BIL/BIP/BSQ Header File -http://www.wikidata.org/entity/Q27473691
+Q27231654 -Tag Image File Format, version 6.0 -http://www.wikidata.org/entity/Q27231654
+Q1502796 -GeoTIFF -http://www.wikidata.org/entity/Q1502796
+Q7670377 -Tagged Image File Format/Electronic Photography -http://www.wikidata.org/entity/Q7670377
+Q28207379 -TIFF for Fax eXtended -http://www.wikidata.org/entity/Q28207379
+Q60806040 -Microsoft Excel 3.0 Worksheet (xls) -http://www.wikidata.org/entity/Q60806040
+Q60886323 -Microsoft Excel 2000-2003 Workbook -http://www.wikidata.org/entity/Q60886323
+Q28205372 -Kodak TIFF -http://www.wikidata.org/entity/Q28205372
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q47455968 -SafeGuard Encrypted Virtual Disk -http://www.wikidata.org/entity/Q47455968
+Q28758102 -InstallShield CAB -http://www.wikidata.org/entity/Q28758102
+Q27473828 -BIL/BIP/BSQ Color File -http://www.wikidata.org/entity/Q27473828
+Q28206310 -Analyze HDR -http://www.wikidata.org/entity/Q28206310
+Q3928271 -RGBE image format -http://www.wikidata.org/entity/Q3928271
+Q28975875 -OOGL TLIST Projective file -http://www.wikidata.org/entity/Q28975875

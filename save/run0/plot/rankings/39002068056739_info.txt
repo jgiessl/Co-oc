@@ -1,0 +1,30 @@
+39002068056739
+number of files:  858
+number of files with unknown format: 287
+number of files with known format: 571
+contained formats: 
+Q55721640 -AmiraMesh ASCII file format -http://www.wikidata.org/entity/Q55721640
+Q28786544 -Netscape bookmarks -http://www.wikidata.org/entity/Q28786544
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q8811 -HyperText Markup Language -http://www.wikidata.org/entity/Q8811
+Q217570 -Waveform Audio File Format -http://www.wikidata.org/entity/Q217570
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q1888930 -Vector Markup Language -http://www.wikidata.org/entity/Q1888930
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q62626012 -HyperText Markup Language -http://www.wikidata.org/entity/Q62626012
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q1952708 -FILE_ID.DIZ -http://www.wikidata.org/entity/Q1952708
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q55721708 -AmiraMesh Binary Little Endian 2.1 file format -http://www.wikidata.org/entity/Q55721708
+Q55721671 -AmiraMesh 3D ASCII 2.0 file format -http://www.wikidata.org/entity/Q55721671
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q55721702 -AmiraMesh 3D Binary 2.0 file format -http://www.wikidata.org/entity/Q55721702
+Q55721705 -AmiraMesh 3D Binary Little Endian 2.0 file format -http://www.wikidata.org/entity/Q55721705
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q2053 -HTML5 -http://www.wikidata.org/entity/Q2053
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q166074 -Extensible HyperText Markup Language -http://www.wikidata.org/entity/Q166074
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412

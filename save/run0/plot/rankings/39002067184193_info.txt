@@ -1,0 +1,69 @@
+39002067184193
+number of files:  283
+number of files with unknown format: 14
+number of files with known format: 269
+contained formats: 
+Q61971919 -Microsoft Visual FoxPro Database Table File -http://www.wikidata.org/entity/Q61971919
+Q28055391 -Printfox bitmap -http://www.wikidata.org/entity/Q28055391
+Q28858044 -Word Binary File Format, version nFibNew=0x0112 -http://www.wikidata.org/entity/Q28858044
+Q48782394 -Microsoft Word for MS-DOS Document, version 5.5 -http://www.wikidata.org/entity/Q48782394
+Q29465146 -Valve Vertex Data -http://www.wikidata.org/entity/Q29465146
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521
+Q63061514 -Microsoft Word Document, version 97-2003 -http://www.wikidata.org/entity/Q63061514
+Q28858041 -Word Binary File Format, version nFibNew=0x0101 -http://www.wikidata.org/entity/Q28858041
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q61641368 -Microsoft Word for Windows Document, version 2 -http://www.wikidata.org/entity/Q61641368
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q61971917 -FoxPro Database, version 2x -http://www.wikidata.org/entity/Q61971917
+Q45347388 -Lotus 1-2-3 Worksheet file format, version 3 -http://www.wikidata.org/entity/Q45347388
+Q60628005 -FoxPro Database, version 2 -http://www.wikidata.org/entity/Q60628005
+Q51034969 -Paradox Database Table format, version 3 -http://www.wikidata.org/entity/Q51034969
+Q61639409 -Microsoft Word for Windows Document, version 1 -http://www.wikidata.org/entity/Q61639409
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q2693033 -ARJ -http://www.wikidata.org/entity/Q2693033
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q28600453 -SQLite database file format -http://www.wikidata.org/entity/Q28600453
+Q28858038 -Word Binary File Format, version nFib=0x00C2 -http://www.wikidata.org/entity/Q28858038
+Q44933672 -dBASE IV -http://www.wikidata.org/entity/Q44933672
+Q28858042 -Word Binary File Format, version nFibNew=0x010C -http://www.wikidata.org/entity/Q28858042
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q28600454 -DB (Watcom-SQL) -http://www.wikidata.org/entity/Q28600454
+Q48782098 -Microsoft Word for MS-DOS Document, version 3 -http://www.wikidata.org/entity/Q48782098
+Q45347570 -Lotus 1-2-3 Worksheet file format, version 4-5 -http://www.wikidata.org/entity/Q45347570
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q3596396 -MDX -http://www.wikidata.org/entity/Q3596396
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q85621726 -PFS:First Choice Document -http://www.wikidata.org/entity/Q85621726
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400
+Q51837224 -Paradox Database Table, version 7 -http://www.wikidata.org/entity/Q51837224
+Q45350500 -Lotus 1-2-3 Spreadsheet Formatting File, version 3 -http://www.wikidata.org/entity/Q45350500
+Q52834849 -dBASE for Windows database, version 5 -http://www.wikidata.org/entity/Q52834849
+Q27979410 -Binary Text -http://www.wikidata.org/entity/Q27979410
+Q28600435 -Consolidated.db -http://www.wikidata.org/entity/Q28600435
+Q51801746 -Stationery for Mac OS X -http://www.wikidata.org/entity/Q51801746
+Q60000066 -Microsoft Office Owner File -http://www.wikidata.org/entity/Q60000066
+Q51035227 -Paradox Database Table, version 4 -http://www.wikidata.org/entity/Q51035227
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830
+Q48782238 -Microsoft Word for MS-DOS Document, version 5 -http://www.wikidata.org/entity/Q48782238
+Q48782202 -Microsoft Word for MS-DOS Document, version 4 -http://www.wikidata.org/entity/Q48782202
+Q686498 -doc -http://www.wikidata.org/entity/Q686498
+Q28858035 -Word Binary File Format, version nFib=0x00C1 -http://www.wikidata.org/entity/Q28858035
+Q85621806 -PFS:First Choice Document 3 -http://www.wikidata.org/entity/Q85621806
+Q29000614 -Resource File -http://www.wikidata.org/entity/Q29000614
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q930281 -Windows thumbnail cache -http://www.wikidata.org/entity/Q930281
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q63061396 -Microsoft Word Document -http://www.wikidata.org/entity/Q63061396
+Q27966906 -MDX -http://www.wikidata.org/entity/Q27966906
+Q27487130 -Shapefile dBASE table -http://www.wikidata.org/entity/Q27487130
+Q28858037 -Word Binary File Format, version nFib=0x00C0 -http://www.wikidata.org/entity/Q28858037
+Q28858039 -Word Binary File Format, version nFibNew=0x00D9 -http://www.wikidata.org/entity/Q28858039
+Q60628185 -Wordperfect Secondary File, version 5 -http://www.wikidata.org/entity/Q60628185
+Q66439286 -DisplayWrite Document file format, version 5 -http://www.wikidata.org/entity/Q66439286
+Q48915661 -Interleaf Document -http://www.wikidata.org/entity/Q48915661
+Q51035340 -Paradox Database Table, version 5 -http://www.wikidata.org/entity/Q51035340
+Q45347222 -Lotus 1-2-3 Worksheet file format, version 2 -http://www.wikidata.org/entity/Q45347222
+Q62664735 -Wordperfect Secondary File, version 5.1 and 5.2 -http://www.wikidata.org/entity/Q62664735

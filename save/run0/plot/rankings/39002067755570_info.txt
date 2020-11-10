@@ -1,0 +1,18 @@
+39002067755570
+number of files:  169
+number of files with unknown format: 0
+number of files with known format: 169
+contained formats: 
+Q61641450 -WordPerfect for MS-DOS Document -http://www.wikidata.org/entity/Q61641450
+Q48551303 -Word Perfect for Windows Document file format -http://www.wikidata.org/entity/Q48551303
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q60886160 -Microsoft Excel 97 Workbook -http://www.wikidata.org/entity/Q60886160
+Q28858068 -Binary Interchange File Format, version 8 -http://www.wikidata.org/entity/Q28858068
+Q60806040 -Microsoft Excel 3.0 Worksheet (xls) -http://www.wikidata.org/entity/Q60806040
+Q60806257 -Microsoft Excel 4.0 Worksheet (xls) -http://www.wikidata.org/entity/Q60806257
+Q60873199 -Excel 95 Workbook -http://www.wikidata.org/entity/Q60873199
+Q50308743 -WordPerfect file format, v4 -http://www.wikidata.org/entity/Q50308743
+Q60886323 -Microsoft Excel 2000-2003 Workbook -http://www.wikidata.org/entity/Q60886323
+Q52834888 -Microsoft Excel 2.x Worksheet -http://www.wikidata.org/entity/Q52834888
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770

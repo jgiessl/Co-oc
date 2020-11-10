@@ -1,0 +1,14 @@
+Q27967105 -SHO -http://www.wikidata.org/entity/Q27967105
+
+##########################################################
+
+Q28205796 -Master of Orion saved game -http://www.wikidata.org/entity/Q28205796
+Q64858274 -Corel Presentations Master file format -http://www.wikidata.org/entity/Q64858274
+Q28207194 -QRT Ray Tracer bitmap -http://www.wikidata.org/entity/Q28207194
+Q28206493 -Lightning Strike -http://www.wikidata.org/entity/Q28206493
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q751800 -TrueType Font -http://www.wikidata.org/entity/Q751800
+Q939636 -CorelDRAW Document -http://www.wikidata.org/entity/Q939636
+Q28205588 -PaintShop Pro Browser Cache -http://www.wikidata.org/entity/Q28205588

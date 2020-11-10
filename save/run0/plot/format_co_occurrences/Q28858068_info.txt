@@ -1,0 +1,14 @@
+Q28858068 -Binary Interchange File Format, version 8 -http://www.wikidata.org/entity/Q28858068
+
+################################################################################################
+
+Q60806257 -Microsoft Excel 4.0 Worksheet (xls) -http://www.wikidata.org/entity/Q60806257
+Q52834888 -Microsoft Excel 2.x Worksheet -http://www.wikidata.org/entity/Q52834888
+Q60806040 -Microsoft Excel 3.0 Worksheet (xls) -http://www.wikidata.org/entity/Q60806040
+Q60886323 -Microsoft Excel 2000-2003 Workbook -http://www.wikidata.org/entity/Q60886323
+Q60886160 -Microsoft Excel 97 Workbook -http://www.wikidata.org/entity/Q60886160
+Q60873199 -Excel 95 Workbook -http://www.wikidata.org/entity/Q60873199
+Q45347222 -Lotus 1-2-3 Worksheet file format, version 2 -http://www.wikidata.org/entity/Q45347222
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q51801210 -Microsoft Excel Chart, version 4 -http://www.wikidata.org/entity/Q51801210
+Q58959780 -Microsoft Excel Chart, version 2 -http://www.wikidata.org/entity/Q58959780

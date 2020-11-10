@@ -1,0 +1,14 @@
+Q27967388 -Adlib Tracker instrument -http://www.wikidata.org/entity/Q27967388
+
+###############################################################################
+
+Q19599377 -AppleLink Package Compression Format -http://www.wikidata.org/entity/Q19599377
+Q28344713 -Package File -http://www.wikidata.org/entity/Q28344713
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q28771319 -Microsoft Library -http://www.wikidata.org/entity/Q28771319
+Q6043826 -Intellifont -http://www.wikidata.org/entity/Q6043826
+Q29000498 -OrCAD library -http://www.wikidata.org/entity/Q29000498
+Q48106551 -DataFlex Query Tag Name -http://www.wikidata.org/entity/Q48106551
+Q28758102 -InstallShield CAB -http://www.wikidata.org/entity/Q28758102
+Q194831 -Cabinet -http://www.wikidata.org/entity/Q194831
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400

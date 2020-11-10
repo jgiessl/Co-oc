@@ -1,0 +1,14 @@
+Q178051 -Portable Network Graphics -http://www.wikidata.org/entity/Q178051
+
+############################################################################
+
+Q27229642 -Portable Network Graphics, version 1.2 -http://www.wikidata.org/entity/Q27229642
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q27229608 -Portable Network Graphics, version 1.1 -http://www.wikidata.org/entity/Q27229608
+Q27229565 -Portable Network Graphics, version 1.0 -http://www.wikidata.org/entity/Q27229565
+Q28205824 -CgBI -http://www.wikidata.org/entity/Q28205824
+Q433224 -APNG -http://www.wikidata.org/entity/Q433224
+Q28600288 -ActiveMime -http://www.wikidata.org/entity/Q28600288
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q27967087 -Electronic Arts AS4/ASF Music -http://www.wikidata.org/entity/Q27967087
+Q379741 -Advanced Systems Format -http://www.wikidata.org/entity/Q379741

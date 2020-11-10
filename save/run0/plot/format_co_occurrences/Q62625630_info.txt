@@ -1,0 +1,14 @@
+Q62625630 -Structured Query Language script -http://www.wikidata.org/entity/Q62625630
+
+#######################################################################################
+
+Q59820886 -Corel CMX Compressed -http://www.wikidata.org/entity/Q59820886
+Q28206343 -ImgStar -http://www.wikidata.org/entity/Q28206343
+Q28207521 -WPB -http://www.wikidata.org/entity/Q28207521
+Q28206568 -MicroDesign Page -http://www.wikidata.org/entity/Q28206568
+Q62625561 -Bash script -http://www.wikidata.org/entity/Q62625561
+Q1023647 -Microsoft Compiled HTML Help -http://www.wikidata.org/entity/Q1023647
+Q55394748 -ChemDraw file -http://www.wikidata.org/entity/Q55394748
+Q76142694 -VisualBasic Project -http://www.wikidata.org/entity/Q76142694
+Q27979278 -TheDraw Fonts File -http://www.wikidata.org/entity/Q27979278
+Q34284525 -Perl script -http://www.wikidata.org/entity/Q34284525

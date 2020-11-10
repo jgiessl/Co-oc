@@ -1,0 +1,83 @@
+39002067187261
+number of files:  11138
+number of files with unknown format: 5104
+number of files with known format: 6034
+contained formats: 
+Q61971919 -Microsoft Visual FoxPro Database Table File -http://www.wikidata.org/entity/Q61971919
+Q28207503 -WinMiPS -http://www.wikidata.org/entity/Q28207503
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q61641368 -Microsoft Word for Windows Document, version 2 -http://www.wikidata.org/entity/Q61641368
+Q61971917 -FoxPro Database, version 2x -http://www.wikidata.org/entity/Q61971917
+Q61639409 -Microsoft Word for Windows Document, version 1 -http://www.wikidata.org/entity/Q61639409
+Q2119595 -Wavefront .obj file -http://www.wikidata.org/entity/Q2119595
+Q28106149 -PIC -http://www.wikidata.org/entity/Q28106149
+Q2276274 -System.map -http://www.wikidata.org/entity/Q2276274
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q52834849 -dBASE for Windows database, version 5 -http://www.wikidata.org/entity/Q52834849
+Q6457314 -LBR -http://www.wikidata.org/entity/Q6457314
+Q60000066 -Microsoft Office Owner File -http://www.wikidata.org/entity/Q60000066
+Q48782238 -Microsoft Word for MS-DOS Document, version 5 -http://www.wikidata.org/entity/Q48782238
+Q28205760 -Borland Graphics Interface image -http://www.wikidata.org/entity/Q28205760
+Q686498 -doc -http://www.wikidata.org/entity/Q686498
+Q28770336 -Lotus 1-2-3 Chart -http://www.wikidata.org/entity/Q28770336
+Q28858039 -Word Binary File Format, version nFibNew=0x00D9 -http://www.wikidata.org/entity/Q28858039
+Q28858037 -Word Binary File Format, version nFib=0x00C0 -http://www.wikidata.org/entity/Q28858037
+Q4836515 -BSAVE -http://www.wikidata.org/entity/Q4836515
+Q28858041 -Word Binary File Format, version nFibNew=0x0101 -http://www.wikidata.org/entity/Q28858041
+Q2044200 -PICT -http://www.wikidata.org/entity/Q2044200
+Q28858038 -Word Binary File Format, version nFib=0x00C2 -http://www.wikidata.org/entity/Q28858038
+Q28858042 -Word Binary File Format, version nFibNew=0x010C -http://www.wikidata.org/entity/Q28858042
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q51801746 -Stationery for Mac OS X -http://www.wikidata.org/entity/Q51801746
+Q27979410 -Binary Text -http://www.wikidata.org/entity/Q27979410
+Q7311459 -Relocatable Object Module Format -http://www.wikidata.org/entity/Q7311459
+Q28206528 -MacPaint -http://www.wikidata.org/entity/Q28206528
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830
+Q27596100 -Windows Bitmap, version 1 -http://www.wikidata.org/entity/Q27596100
+Q28205773 -BioRad confocal image -http://www.wikidata.org/entity/Q28205773
+Q48782202 -Microsoft Word for MS-DOS Document, version 4 -http://www.wikidata.org/entity/Q48782202
+Q28858035 -Word Binary File Format, version nFib=0x00C1 -http://www.wikidata.org/entity/Q28858035
+Q28756196 -FWKCS NDX file -http://www.wikidata.org/entity/Q28756196
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q63061396 -Microsoft Word Document -http://www.wikidata.org/entity/Q63061396
+Q3928271 -RGBE image format -http://www.wikidata.org/entity/Q3928271
+Q2389386 -Interleaved Bitmap -http://www.wikidata.org/entity/Q2389386
+Q28055391 -Printfox bitmap -http://www.wikidata.org/entity/Q28055391
+Q28858044 -Word Binary File Format, version nFibNew=0x0112 -http://www.wikidata.org/entity/Q28858044
+Q63061514 -Microsoft Word Document, version 97-2003 -http://www.wikidata.org/entity/Q63061514
+Q29167914 -PCRaster Map -http://www.wikidata.org/entity/Q29167914
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q856364 -Common Object File Format -http://www.wikidata.org/entity/Q856364
+Q28207016 -Pixar picture -http://www.wikidata.org/entity/Q28207016
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q7119344 -PICtor PIC image format -http://www.wikidata.org/entity/Q7119344
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q44933672 -dBASE IV -http://www.wikidata.org/entity/Q44933672
+Q85621726 -PFS:First Choice Document -http://www.wikidata.org/entity/Q85621726
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q85621806 -PFS:First Choice Document 3 -http://www.wikidata.org/entity/Q85621806
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q28771288 -Mapsforge Binary Map -http://www.wikidata.org/entity/Q28771288
+Q27487130 -Shapefile dBASE table -http://www.wikidata.org/entity/Q27487130
+Q66439286 -DisplayWrite Document file format, version 5 -http://www.wikidata.org/entity/Q66439286
+Q48915661 -Interleaf Document -http://www.wikidata.org/entity/Q48915661
+Q28206638 -MTV ray tracer bitmap -http://www.wikidata.org/entity/Q28206638
+Q28206876 -PCPaint PIC -http://www.wikidata.org/entity/Q28206876
+Q62664735 -Wordperfect Secondary File, version 5.1 and 5.2 -http://www.wikidata.org/entity/Q62664735
+Q28344021 -Imagine Object File -http://www.wikidata.org/entity/Q28344021
+Q48782394 -Microsoft Word for MS-DOS Document, version 5.5 -http://www.wikidata.org/entity/Q48782394
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521
+Q60628005 -FoxPro Database, version 2 -http://www.wikidata.org/entity/Q60628005
+Q28207293 -Softimage PIC -http://www.wikidata.org/entity/Q28207293
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q48782098 -Microsoft Word for MS-DOS Document, version 3 -http://www.wikidata.org/entity/Q48782098
+Q28009488 -Tibia map file -http://www.wikidata.org/entity/Q28009488
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400
+Q29905095 -Statistical Analysis System multi-dimensional database file -http://www.wikidata.org/entity/Q29905095
+Q28106166 -Psion PIC -http://www.wikidata.org/entity/Q28106166
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q60628185 -Wordperfect Secondary File, version 5 -http://www.wikidata.org/entity/Q60628185

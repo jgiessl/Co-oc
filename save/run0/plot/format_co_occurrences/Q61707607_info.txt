@@ -1,0 +1,14 @@
+Q61707607 -Microsoft Outlook Email Message -http://www.wikidata.org/entity/Q61707607
+
+######################################################################################
+
+Q27959896 -Nuendo arrangement -http://www.wikidata.org/entity/Q27959896
+Q28600492 -Data Resource File -http://www.wikidata.org/entity/Q28600492
+Q28205583 -OS/2 Pointer -http://www.wikidata.org/entity/Q28205583
+Q52425710 -VisiCalc Database -http://www.wikidata.org/entity/Q52425710
+Q66439311 -Navy DIF -http://www.wikidata.org/entity/Q66439311
+Q284651 -iCalendar -http://www.wikidata.org/entity/Q284651
+Q72205158 -LimeSurvey Survey -http://www.wikidata.org/entity/Q72205158
+Q17029350 -Image Cytometry Standard -http://www.wikidata.org/entity/Q17029350
+Q34743342 -Softimage Scene -http://www.wikidata.org/entity/Q34743342
+Q28975633 -NextEngine Scan -http://www.wikidata.org/entity/Q28975633

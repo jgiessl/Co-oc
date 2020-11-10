@@ -1,0 +1,14 @@
+Q1134089 -world file -http://www.wikidata.org/entity/Q1134089
+
+###############################################################
+
+Q27826346 -Reduced resolution dataset file -http://www.wikidata.org/entity/Q27826346
+Q27473615 -Band Interleaved by Line Image File -http://www.wikidata.org/entity/Q27473615
+Q66663925 -OS/2 Metafile -http://www.wikidata.org/entity/Q66663925
+Q29904450 -Presentation Manager Metafile -http://www.wikidata.org/entity/Q29904450
+Q47538951 -AutoCAD Compiled Menu -http://www.wikidata.org/entity/Q47538951
+Q47012501 -OmniPage Pro Document file format -http://www.wikidata.org/entity/Q47012501
+Q28206057 -ERDAS IMAGINE Gray-scale Bitmap Image -http://www.wikidata.org/entity/Q28206057
+Q48814895 -ESRI ArcView Project -http://www.wikidata.org/entity/Q48814895
+Q59999653 -ESRI Arc/View Project -http://www.wikidata.org/entity/Q59999653
+Q46118194 -Lotus Approach View File, version 97 -http://www.wikidata.org/entity/Q46118194

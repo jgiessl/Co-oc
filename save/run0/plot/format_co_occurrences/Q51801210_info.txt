@@ -1,0 +1,14 @@
+Q51801210 -Microsoft Excel Chart, version 4 -http://www.wikidata.org/entity/Q51801210
+
+#######################################################################################
+
+Q58959780 -Microsoft Excel Chart, version 2 -http://www.wikidata.org/entity/Q58959780
+Q28600228 -APL workspace -http://www.wikidata.org/entity/Q28600228
+Q1109779 -file shortcut -http://www.wikidata.org/entity/Q1109779
+Q39184097 -Shell Link Binary File Format -http://www.wikidata.org/entity/Q39184097
+Q29000599 -Windows Shortcut -http://www.wikidata.org/entity/Q29000599
+Q935809 -comma-separated values -http://www.wikidata.org/entity/Q935809
+Q60806257 -Microsoft Excel 4.0 Worksheet (xls) -http://www.wikidata.org/entity/Q60806257
+Q52834888 -Microsoft Excel 2.x Worksheet -http://www.wikidata.org/entity/Q52834888
+Q60806040 -Microsoft Excel 3.0 Worksheet (xls) -http://www.wikidata.org/entity/Q60806040
+Q60886323 -Microsoft Excel 2000-2003 Workbook -http://www.wikidata.org/entity/Q60886323

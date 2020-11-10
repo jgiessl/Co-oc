@@ -1,0 +1,14 @@
+Q60662390 -Inkwriter Template -http://www.wikidata.org/entity/Q60662390
+
+#########################################################################
+
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572
+Q921122 -Java archive -http://www.wikidata.org/entity/Q921122
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q26211936 -ZIP archive file format, version 5.2 -http://www.wikidata.org/entity/Q26211936
+Q26211977 -ZIP archive file format, version 2.0 -http://www.wikidata.org/entity/Q26211977
+Q26211940 -ZIP archive file format, version 5.1 -http://www.wikidata.org/entity/Q26211940
+Q26211915 -ZIP archive file format, version 6.2.1 -http://www.wikidata.org/entity/Q26211915
+Q10394822 -ZIP archive file format, version 6.3.2 -http://www.wikidata.org/entity/Q10394822

@@ -1,0 +1,14 @@
+Q28206359 -Intergraph Raster -http://www.wikidata.org/entity/Q28206359
+
+########################################################################
+
+Q28206497 -Lossless JPEG -http://www.wikidata.org/entity/Q28206497
+Q26385770 -Still Picture Interchange File Format -http://www.wikidata.org/entity/Q26385770
+Q17092932 -JPEG-XT -http://www.wikidata.org/entity/Q17092932
+Q1952321 -Multi Picture Object -http://www.wikidata.org/entity/Q1952321
+Q26329648 -JPEG File Interchange Format, version 1.0 -http://www.wikidata.org/entity/Q26329648
+Q28206262 -HSI JPEG -http://www.wikidata.org/entity/Q28206262
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q87066066 -LEADToolsCompressed Image -http://www.wikidata.org/entity/Q87066066
+Q87066063 -LEADTools Lead 1Bit Compressed Image -http://www.wikidata.org/entity/Q87066063
+Q85415853 -SureThing Project File -http://www.wikidata.org/entity/Q85415853

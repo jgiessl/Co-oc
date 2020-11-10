@@ -1,0 +1,14 @@
+Q27967128 -DMC -http://www.wikidata.org/entity/Q27967128
+
+##########################################################
+
+Q66146236 -InfoPath Form Definition File -http://www.wikidata.org/entity/Q66146236
+Q28207038 -Photo Line Document -http://www.wikidata.org/entity/Q28207038
+Q61727114 -PrimeOCR file format, version 3 -http://www.wikidata.org/entity/Q61727114
+Q61727559 -PrimeOCR file format, version 4 -http://www.wikidata.org/entity/Q61727559
+Q73514615 -KiCad Project -http://www.wikidata.org/entity/Q73514615
+Q61727514 -PrimeOCR file format, version 3.9 -http://www.wikidata.org/entity/Q61727514
+Q61727569 -PrimeOCR file format, version 4.2 -http://www.wikidata.org/entity/Q61727569
+Q61727504 -PrimeOCR file format, version 3.8 -http://www.wikidata.org/entity/Q61727504
+Q61727602 -PrimeOCR file format, version 4.3 -http://www.wikidata.org/entity/Q61727602
+Q5616826 -ChordPro -http://www.wikidata.org/entity/Q5616826

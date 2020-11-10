@@ -1,0 +1,14 @@
+Q74690581 -TomeRaider e-book/document -http://www.wikidata.org/entity/Q74690581
+
+#################################################################################
+
+Q66310986 -Shopping List file format -http://www.wikidata.org/entity/Q66310986
+Q62522682 -SPARQL update -http://www.wikidata.org/entity/Q62522682
+Q1068805 -.properties -http://www.wikidata.org/entity/Q1068805
+Q34737296 -Skencil SK -http://www.wikidata.org/entity/Q34737296
+Q34284525 -Perl script -http://www.wikidata.org/entity/Q34284525
+Q66310989 -Pantry Files -http://www.wikidata.org/entity/Q66310989
+Q921122 -Java archive -http://www.wikidata.org/entity/Q921122
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572

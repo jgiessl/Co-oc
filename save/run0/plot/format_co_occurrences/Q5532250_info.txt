@@ -1,0 +1,14 @@
+Q5532250 -General Transit Feed Specification -http://www.wikidata.org/entity/Q5532250
+
+#######################################################################################
+
+Q26211936 -ZIP archive file format, version 5.2 -http://www.wikidata.org/entity/Q26211936
+Q26211977 -ZIP archive file format, version 2.0 -http://www.wikidata.org/entity/Q26211977
+Q26211940 -ZIP archive file format, version 5.1 -http://www.wikidata.org/entity/Q26211940
+Q26211915 -ZIP archive file format, version 6.2.1 -http://www.wikidata.org/entity/Q26211915
+Q10394822 -ZIP archive file format, version 6.3.2 -http://www.wikidata.org/entity/Q10394822
+Q26211975 -ZIP archive file format, version 2.1 -http://www.wikidata.org/entity/Q26211975
+Q26211905 -ZIP archive file format, version 6.2.2 -http://www.wikidata.org/entity/Q26211905
+Q26211927 -ZIP archive file format, version 6.2.0 -http://www.wikidata.org/entity/Q26211927
+Q26211957 -ZIP archive file format, version 4.5 -http://www.wikidata.org/entity/Q26211957
+Q26211948 -ZIP archive file format, version 5.0 -http://www.wikidata.org/entity/Q26211948

@@ -1,0 +1,7 @@
+39002078296267
+number of files:  10
+number of files with unknown format: 2
+number of files with known format: 8
+contained formats: 
+Q307271 -.DS_Store -http://www.wikidata.org/entity/Q307271
+Q24834502 -PowerPoint Binary File Format -http://www.wikidata.org/entity/Q24834502

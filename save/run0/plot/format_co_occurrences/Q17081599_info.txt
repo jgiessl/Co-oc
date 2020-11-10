@@ -1,0 +1,14 @@
+Q17081599 -Smile -http://www.wikidata.org/entity/Q17081599
+
+############################################################
+
+Q28757976 -IMP -http://www.wikidata.org/entity/Q28757976
+Q28207158 -Puzzle image -http://www.wikidata.org/entity/Q28207158
+Q34285652 -Perl Common Gateway Interface script -http://www.wikidata.org/entity/Q34285652
+Q72199233 -LilyPond music score -http://www.wikidata.org/entity/Q72199233
+Q5301 -TeX -http://www.wikidata.org/entity/Q5301
+Q218170 -PostScript -http://www.wikidata.org/entity/Q218170
+Q48106028 -Unisys (Sperry) System Data File -http://www.wikidata.org/entity/Q48106028
+Q34745947 -Starlink Data Format -http://www.wikidata.org/entity/Q34745947
+Q7520656 -Simple Data Format -http://www.wikidata.org/entity/Q7520656
+Q28530510 -Structure-data file -http://www.wikidata.org/entity/Q28530510

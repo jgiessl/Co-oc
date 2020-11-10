@@ -1,0 +1,14 @@
+Q3077345 -Polygon File Format -http://www.wikidata.org/entity/Q3077345
+
+########################################################################
+
+Q21040945 -Digitrakker format -http://www.wikidata.org/entity/Q21040945
+Q1109779 -file shortcut -http://www.wikidata.org/entity/Q1109779
+Q39184097 -Shell Link Binary File Format -http://www.wikidata.org/entity/Q39184097
+Q29000599 -Windows Shortcut -http://www.wikidata.org/entity/Q29000599
+Q1194435 -MPEG-2 transport stream -http://www.wikidata.org/entity/Q1194435
+Q50288102 -Mathcad Document, binary file format -http://www.wikidata.org/entity/Q50288102
+Q28791524 -Parchive, version 1 -http://www.wikidata.org/entity/Q28791524
+Q28955450 -GenBank file format -http://www.wikidata.org/entity/Q28955450
+Q27959810 -Ableton Live Set -http://www.wikidata.org/entity/Q27959810
+Q1886335 -Maker Interchange Format -http://www.wikidata.org/entity/Q1886335

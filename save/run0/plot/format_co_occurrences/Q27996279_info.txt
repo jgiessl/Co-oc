@@ -1,0 +1,14 @@
+Q27996279 -MOBI -http://www.wikidata.org/entity/Q27996279
+
+###########################################################
+
+Q3359832 -Product Representation Compact -http://www.wikidata.org/entity/Q3359832
+Q29650308 -Palm Resource Compiler -http://www.wikidata.org/entity/Q29650308
+Q27995540 -Canon EOS C300 Custom Picture Profile -http://www.wikidata.org/entity/Q27995540
+Q27925700 -DTED Level 0 Minimum Terrain Elevation Value File -http://www.wikidata.org/entity/Q27925700
+Q27967406 -Reality AdLib Tracker module -http://www.wikidata.org/entity/Q27967406
+Q28205983 -Radiance Scene Description -http://www.wikidata.org/entity/Q28205983
+Q28532082 -CAChe MolStruct -http://www.wikidata.org/entity/Q28532082
+Q28206538 -Magick Persistent Cache (.cache file) -http://www.wikidata.org/entity/Q28206538
+Q86995619 -PaperPort MAX 8-12 -http://www.wikidata.org/entity/Q86995619
+Q86996249 -PaperPort MAX 3-4 -http://www.wikidata.org/entity/Q86996249

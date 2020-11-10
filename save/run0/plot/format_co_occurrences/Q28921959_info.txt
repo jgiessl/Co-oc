@@ -1,0 +1,14 @@
+Q28921959 -Keyhole Markup Language Zipped -http://www.wikidata.org/entity/Q28921959
+
+#####################################################################################
+
+Q79587 -Keyhole Markup Language -http://www.wikidata.org/entity/Q79587
+Q27229608 -Portable Network Graphics, version 1.1 -http://www.wikidata.org/entity/Q27229608
+Q27229565 -Portable Network Graphics, version 1.0 -http://www.wikidata.org/entity/Q27229565
+Q28205824 -CgBI -http://www.wikidata.org/entity/Q28205824
+Q433224 -APNG -http://www.wikidata.org/entity/Q433224
+Q61963304 -Microsoft Front Page Binary Tree Index -http://www.wikidata.org/entity/Q61963304
+Q48805099 -Btrieve Database -http://www.wikidata.org/entity/Q48805099
+Q27229642 -Portable Network Graphics, version 1.2 -http://www.wikidata.org/entity/Q27229642
+Q59999786 -Dreamweaver Lock File -http://www.wikidata.org/entity/Q59999786
+Q61752300 -Microsoft FrontPage file format -http://www.wikidata.org/entity/Q61752300

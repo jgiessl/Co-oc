@@ -1,0 +1,14 @@
+Q361923 -Lossless predictive audio compression -http://www.wikidata.org/entity/Q361923
+
+########################################################################################
+
+Q27967214 -SBStudio module -http://www.wikidata.org/entity/Q27967214
+Q28049547 -STAD image -http://www.wikidata.org/entity/Q28049547
+Q29904535 -Statistical Analysis System program -http://www.wikidata.org/entity/Q29904535
+Q61752184 -Adobe InDesign Document -http://www.wikidata.org/entity/Q61752184
+Q47493628 -Adobe InDesign Document, version CS5 -http://www.wikidata.org/entity/Q47493628
+Q47493509 -Adobe InDesign Document, version CS2 -http://www.wikidata.org/entity/Q47493509
+Q47493633 -Adobe InDesign Document, version CS6 -http://www.wikidata.org/entity/Q47493633
+Q47493619 -Adobe InDesign Document, version CS4 -http://www.wikidata.org/entity/Q47493619
+Q47493614 -Adobe InDesign Document, version CS3 -http://www.wikidata.org/entity/Q47493614
+Q27960023 -Tom's lossless Audio Kompressor -http://www.wikidata.org/entity/Q27960023

@@ -1,0 +1,14 @@
+Q5227435 -Datafork TrueType -http://www.wikidata.org/entity/Q5227435
+
+######################################################################
+
+Q260180 -OpenType Font -http://www.wikidata.org/entity/Q260180
+Q4049344 -SFNT -http://www.wikidata.org/entity/Q4049344
+Q28344736 -Macintosh resource file -http://www.wikidata.org/entity/Q28344736
+Q751800 -TrueType Font -http://www.wikidata.org/entity/Q751800
+Q307271 -.DS_Store -http://www.wikidata.org/entity/Q307271
+Q27967488 -FLV -http://www.wikidata.org/entity/Q27967488
+Q29012120 -Shockwave Flash, version 25 -http://www.wikidata.org/entity/Q29012120
+Q29011315 -Shockwave Flash, version 4 -http://www.wikidata.org/entity/Q29011315
+Q29011363 -Shockwave Flash, version 9 -http://www.wikidata.org/entity/Q29011363
+Q29012190 -Shockwave Flash, version 26 -http://www.wikidata.org/entity/Q29012190

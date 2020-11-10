@@ -1,0 +1,84 @@
+A128
+number of files:  249
+number of files with unknown format: 0
+number of files with known format: 249
+contained formats: 
+Q100135637 -XDOMEA 2.1.0 -http://www.wikidata.org/entity/Q100135637
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q61641368 -Microsoft Word for Windows Document, version 2 -http://www.wikidata.org/entity/Q61641368
+Q61639409 -Microsoft Word for Windows Document, version 1 -http://www.wikidata.org/entity/Q61639409
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q66759482 -InfoPath Form file -http://www.wikidata.org/entity/Q66759482
+Q59851506 -DROID File Collection File Format -http://www.wikidata.org/entity/Q59851506
+Q60000066 -Microsoft Office Owner File -http://www.wikidata.org/entity/Q60000066
+Q48782238 -Microsoft Word for MS-DOS Document, version 5 -http://www.wikidata.org/entity/Q48782238
+Q99976195 -XDOMEA 2.0.1 -http://www.wikidata.org/entity/Q99976195
+Q27487531 -Shapefile metadata for ArcGIS -http://www.wikidata.org/entity/Q27487531
+Q686498 -doc -http://www.wikidata.org/entity/Q686498
+Q25339304 -Timed Text Markup Language -http://www.wikidata.org/entity/Q25339304
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q28858039 -Word Binary File Format, version nFibNew=0x00D9 -http://www.wikidata.org/entity/Q28858039
+Q29944776 -Rich Text Format, version 1.2 -http://www.wikidata.org/entity/Q29944776
+Q28858037 -Word Binary File Format, version nFib=0x00C0 -http://www.wikidata.org/entity/Q28858037
+Q641213 -XBEL -http://www.wikidata.org/entity/Q641213
+Q29000578 -Android Resource file -http://www.wikidata.org/entity/Q29000578
+Q28858041 -Word Binary File Format, version nFibNew=0x0101 -http://www.wikidata.org/entity/Q28858041
+Q27967351 -iTunes Music Library, XML variant -http://www.wikidata.org/entity/Q27967351
+Q28858038 -Word Binary File Format, version nFib=0x00C2 -http://www.wikidata.org/entity/Q28858038
+Q28858042 -Word Binary File Format, version nFibNew=0x010C -http://www.wikidata.org/entity/Q28858042
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q100136218 -XDOMEA 2.2.0 -http://www.wikidata.org/entity/Q100136218
+Q51801746 -Stationery for Mac OS X -http://www.wikidata.org/entity/Q51801746
+Q59851322 -DROID Signature File Format -http://www.wikidata.org/entity/Q59851322
+Q48782202 -Microsoft Word for MS-DOS Document, version 4 -http://www.wikidata.org/entity/Q48782202
+Q28858035 -Word Binary File Format, version nFib=0x00C1 -http://www.wikidata.org/entity/Q28858035
+Q63061396 -Microsoft Word Document -http://www.wikidata.org/entity/Q63061396
+Q28600760 -Early Mind Manager XML format -http://www.wikidata.org/entity/Q28600760
+Q28858044 -Word Binary File Format, version nFibNew=0x0112 -http://www.wikidata.org/entity/Q28858044
+Q34306669 -Scifer archive XML header -http://www.wikidata.org/entity/Q34306669
+Q71178742 -PIPE2 file format -http://www.wikidata.org/entity/Q71178742
+Q3551300 -Universal Subtitle Format -http://www.wikidata.org/entity/Q3551300
+Q63061514 -Microsoft Word Document, version 97-2003 -http://www.wikidata.org/entity/Q63061514
+Q99973597 -XDOMEA 1.0 file format -http://www.wikidata.org/entity/Q99973597
+Q29944777 -Rich Text Format, version 1.3 -http://www.wikidata.org/entity/Q29944777
+Q29944773 -Rich Text Format, version 1.1 -http://www.wikidata.org/entity/Q29944773
+Q29944782 -Rich Text Format, version 1.6 -http://www.wikidata.org/entity/Q29944782
+Q452197 -Systems Biology Markup Language -http://www.wikidata.org/entity/Q452197
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q29944987 -Rich Text Format, version 0 -http://www.wikidata.org/entity/Q29944987
+Q29944786 -Rich Text Format, version 1.9 -http://www.wikidata.org/entity/Q29944786
+Q796483 -DocBook -http://www.wikidata.org/entity/Q796483
+Q85621726 -PFS:First Choice Document -http://www.wikidata.org/entity/Q85621726
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q653301 -MusicXML -http://www.wikidata.org/entity/Q653301
+Q85621806 -PFS:First Choice Document 3 -http://www.wikidata.org/entity/Q85621806
+Q72273742 -TPN -http://www.wikidata.org/entity/Q72273742
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q2313301 -SpreadsheetML -http://www.wikidata.org/entity/Q2313301
+Q4042481 -LOGML -http://www.wikidata.org/entity/Q4042481
+Q66439286 -DisplayWrite Document file format, version 5 -http://www.wikidata.org/entity/Q66439286
+Q48915661 -Interleaf Document -http://www.wikidata.org/entity/Q48915661
+Q166074 -Extensible HyperText Markup Language -http://www.wikidata.org/entity/Q166074
+Q28771320 -Microsoft Office File List -http://www.wikidata.org/entity/Q28771320
+Q62664735 -Wordperfect Secondary File, version 5.1 and 5.2 -http://www.wikidata.org/entity/Q62664735
+Q29944783 -Rich Text Format, version 1.7 -http://www.wikidata.org/entity/Q29944783
+Q48782394 -Microsoft Word for MS-DOS Document, version 5.5 -http://www.wikidata.org/entity/Q48782394
+Q29944779 -Rich Text Format, version 1.4 -http://www.wikidata.org/entity/Q29944779
+Q50378320 -INTERLIS Transfer File, version 2.2 -http://www.wikidata.org/entity/Q50378320
+Q28600421 -Ant build file -http://www.wikidata.org/entity/Q28600421
+Q99973606 -XDOMEA 2.0.0 -http://www.wikidata.org/entity/Q99973606
+Q45432 -RSS -http://www.wikidata.org/entity/Q45432
+Q29944780 -Rich Text Format, version 1.5 -http://www.wikidata.org/entity/Q29944780
+Q48782098 -Microsoft Word for MS-DOS Document, version 3 -http://www.wikidata.org/entity/Q48782098
+Q27910000 -RADARSAT-2 Product Information File -http://www.wikidata.org/entity/Q27910000
+Q28728783 -VOTable -http://www.wikidata.org/entity/Q28728783
+Q29944785 -Rich Text Format, version 1.8 -http://www.wikidata.org/entity/Q29944785
+Q29944758 -Rich Text Format, version 1.0 -http://www.wikidata.org/entity/Q29944758
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q60628185 -Wordperfect Secondary File, version 5 -http://www.wikidata.org/entity/Q60628185
+Q100136960 -XDOMEA 2.4.0 -http://www.wikidata.org/entity/Q100136960
+Q2819247 -ALTO -http://www.wikidata.org/entity/Q2819247
+Q959950 -eXtensible Business Reporting Language -http://www.wikidata.org/entity/Q959950
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q100136955 -XDOMEA 2.3.0 -http://www.wikidata.org/entity/Q100136955

@@ -1,0 +1,14 @@
+Q39184097 -Shell Link Binary File Format -http://www.wikidata.org/entity/Q39184097
+
+####################################################################################
+
+Q1109779 -file shortcut -http://www.wikidata.org/entity/Q1109779
+Q29000599 -Windows Shortcut -http://www.wikidata.org/entity/Q29000599
+Q27966982 -AC1D-DC1A Packer -http://www.wikidata.org/entity/Q27966982
+Q28919030 -AC-3 Compressed Audio (Dolby Digital), Revision A -http://www.wikidata.org/entity/Q28919030
+Q3077345 -Polygon File Format -http://www.wikidata.org/entity/Q3077345
+Q21040945 -Digitrakker format -http://www.wikidata.org/entity/Q21040945
+Q28049588 -Tiny Stuff, low resolution -http://www.wikidata.org/entity/Q28049588
+Q51801210 -Microsoft Excel Chart, version 4 -http://www.wikidata.org/entity/Q51801210
+Q58959780 -Microsoft Excel Chart, version 2 -http://www.wikidata.org/entity/Q58959780
+Q27979398 -Imagic Film/Picture, medium resolution -http://www.wikidata.org/entity/Q27979398

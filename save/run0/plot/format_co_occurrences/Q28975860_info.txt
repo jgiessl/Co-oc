@@ -1,0 +1,14 @@
+Q28975860 -OOGL MESH file -http://www.wikidata.org/entity/Q28975860
+
+#####################################################################
+
+Q29905267 -Self-Extracting Archive -http://www.wikidata.org/entity/Q29905267
+Q673906 -Simple Standards-Based Slide Show System -http://www.wikidata.org/entity/Q673906
+Q29151645 -Research Articles in Simplified HTML -http://www.wikidata.org/entity/Q29151645
+Q17073241 -Opera Show Format -http://www.wikidata.org/entity/Q17073241
+Q288405 -hOCR -http://www.wikidata.org/entity/Q288405
+Q59535034 -Stuffit Archive File -http://www.wikidata.org/entity/Q59535034
+Q1888930 -Vector Markup Language -http://www.wikidata.org/entity/Q1888930
+Q28786544 -Netscape bookmarks -http://www.wikidata.org/entity/Q28786544
+Q8811 -HyperText Markup Language -http://www.wikidata.org/entity/Q8811
+Q2053 -HTML5 -http://www.wikidata.org/entity/Q2053

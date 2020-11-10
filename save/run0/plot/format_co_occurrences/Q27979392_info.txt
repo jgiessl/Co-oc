@@ -1,0 +1,14 @@
+Q27979392 -BAM -http://www.wikidata.org/entity/Q27979392
+
+##########################################################
+
+Q27966991 -Art & Magic -http://www.wikidata.org/entity/Q27966991
+Q27959797 -Ableton Device Preset -http://www.wikidata.org/entity/Q27959797
+Q28205614 -RIPscrip version 2 Icon Mask -http://www.wikidata.org/entity/Q28205614
+Q47538977 -AutoCAD Template Menu File -http://www.wikidata.org/entity/Q47538977
+Q65533032 -Menu file format -http://www.wikidata.org/entity/Q65533032
+Q45350403 -Lotus 1-2-3 Spreadsheet Formatting File, version 2.3-2.4 -http://www.wikidata.org/entity/Q45350403
+Q27925705 -DTED Readme file -http://www.wikidata.org/entity/Q27925705
+Q28206528 -MacPaint -http://www.wikidata.org/entity/Q28206528
+Q218170 -PostScript -http://www.wikidata.org/entity/Q218170
+Q5448342 -File change log -http://www.wikidata.org/entity/Q5448342

@@ -1,0 +1,14 @@
+Q24834502 -PowerPoint Binary File Format -http://www.wikidata.org/entity/Q24834502
+
+####################################################################################
+
+Q60342897 -Microsoft PowerPoint Show -http://www.wikidata.org/entity/Q60342897
+Q51717333 -Microsoft Powerpoint Presentation, version 95 -http://www.wikidata.org/entity/Q51717333
+Q61718355 -Microsoft PowerPoint for Macintosh, version 4 -http://www.wikidata.org/entity/Q61718355
+Q51334664 -Microsoft Powerpoint Presentation, version 4 -http://www.wikidata.org/entity/Q51334664
+Q10610388 -Standard MIDI File -http://www.wikidata.org/entity/Q10610388
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q1353763 -WMV HD -http://www.wikidata.org/entity/Q1353763
+Q27895063 -Windows Media Video -http://www.wikidata.org/entity/Q27895063
+Q28018470 -MPEG-1 program stream -http://www.wikidata.org/entity/Q28018470
+Q28018471 -MPEG-2 program stream -http://www.wikidata.org/entity/Q28018471

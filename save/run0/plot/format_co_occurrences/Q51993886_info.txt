@@ -1,0 +1,14 @@
+Q51993886 -IBM DisplayWrite Final Form Text File -http://www.wikidata.org/entity/Q51993886
+
+############################################################################################
+
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554

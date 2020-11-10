@@ -1,0 +1,14 @@
+Q21040945 -Digitrakker format -http://www.wikidata.org/entity/Q21040945
+
+#########################################################################
+
+Q3077345 -Polygon File Format -http://www.wikidata.org/entity/Q3077345
+Q15938816 -MATLAB M-File -http://www.wikidata.org/entity/Q15938816
+Q28975650 -Recon Mesh -http://www.wikidata.org/entity/Q28975650
+Q1109779 -file shortcut -http://www.wikidata.org/entity/Q1109779
+Q39184097 -Shell Link Binary File Format -http://www.wikidata.org/entity/Q39184097
+Q28206318 -Img Software Set Colormapped Image -http://www.wikidata.org/entity/Q28206318
+Q34284450 -Pawn script -http://www.wikidata.org/entity/Q34284450
+Q28205693 -Analyze AVW -http://www.wikidata.org/entity/Q28205693
+Q28205327 -CHDK raw -http://www.wikidata.org/entity/Q28205327
+Q3651247 -Camera Image File Format -http://www.wikidata.org/entity/Q3651247

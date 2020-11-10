@@ -1,0 +1,14 @@
+Q27979270 -TheDraw Save File -http://www.wikidata.org/entity/Q27979270
+
+########################################################################
+
+Q29650311 -POV-Ray scene description -http://www.wikidata.org/entity/Q29650311
+Q34284437 -Pascal script -http://www.wikidata.org/entity/Q34284437
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q29000712 -TecPlot ASCII -http://www.wikidata.org/entity/Q29000712
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q28757999 -Inform -http://www.wikidata.org/entity/Q28757999
+Q28206001 -Digital Video Interactive Device-dependent Data -http://www.wikidata.org/entity/Q28206001
+Q66663053 -eSuite Presentations Graphics -http://www.wikidata.org/entity/Q66663053
+Q28206683 -Portable Graymap, text variant -http://www.wikidata.org/entity/Q28206683

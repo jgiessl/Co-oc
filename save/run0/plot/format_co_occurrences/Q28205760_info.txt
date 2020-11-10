@@ -1,0 +1,14 @@
+Q28205760 -Borland Graphics Interface image -http://www.wikidata.org/entity/Q28205760
+
+#######################################################################################
+
+Q23014810 -chr -http://www.wikidata.org/entity/Q23014810
+Q27473250 -Raster Product Format Table of Contents File -http://www.wikidata.org/entity/Q27473250
+Q27996219 -Eudora Mailbox Table of Contents -http://www.wikidata.org/entity/Q27996219
+Q28756196 -FWKCS NDX file -http://www.wikidata.org/entity/Q28756196
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400
+Q27979410 -Binary Text -http://www.wikidata.org/entity/Q27979410
+Q28055391 -Printfox bitmap -http://www.wikidata.org/entity/Q28055391
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830
+Q28858035 -Word Binary File Format, version nFib=0x00C1 -http://www.wikidata.org/entity/Q28858035

@@ -1,0 +1,14 @@
+Q27967202 -Nerdtracker II module -http://www.wikidata.org/entity/Q27967202
+
+############################################################################
+
+Q27684861 -Microsoft Publisher file format, version 3.0 -http://www.wikidata.org/entity/Q27684861
+Q27684843 -Microsoft Publisher file format, version 2.0 -http://www.wikidata.org/entity/Q27684843
+Q27684948 -Microsoft Publisher file format, version 16.0 -http://www.wikidata.org/entity/Q27684948
+Q27684882 -Microsoft Publisher file format, version 8.5 -http://www.wikidata.org/entity/Q27684882
+Q27684919 -Microsoft Publisher file format, version 12.0 -http://www.wikidata.org/entity/Q27684919
+Q27684906 -Microsoft Publisher file format, version 10.0 -http://www.wikidata.org/entity/Q27684906
+Q27684912 -Microsoft Publisher file format, version 11.0 -http://www.wikidata.org/entity/Q27684912
+Q27684925 -Microsoft Publisher file format, version 14.0 -http://www.wikidata.org/entity/Q27684925
+Q27684941 -Microsoft Publisher file format, version 15.0 -http://www.wikidata.org/entity/Q27684941
+Q27684898 -Microsoft Publisher file format, version 9.0 -http://www.wikidata.org/entity/Q27684898

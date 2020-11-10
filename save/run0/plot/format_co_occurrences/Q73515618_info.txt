@@ -1,0 +1,14 @@
+Q73515618 -DAISY Protected Package File -http://www.wikidata.org/entity/Q73515618
+
+###################################################################################
+
+Q28207008 -Picture Publisher -http://www.wikidata.org/entity/Q28207008
+Q99850841 -Picture Publisher Bitmap 6-10 -http://www.wikidata.org/entity/Q99850841
+Q73514196 -MegaCAD Project -http://www.wikidata.org/entity/Q73514196
+Q28757976 -IMP -http://www.wikidata.org/entity/Q28757976
+Q86995619 -PaperPort MAX 8-12 -http://www.wikidata.org/entity/Q86995619
+Q86996249 -PaperPort MAX 3-4 -http://www.wikidata.org/entity/Q86996249
+Q28771225 -MAX (3ds Max) -http://www.wikidata.org/entity/Q28771225
+Q27925703 -DTED Level 0 Maximum Terrain Elevation Value File -http://www.wikidata.org/entity/Q27925703
+Q86996065 -PaperPort MAX 5-7 -http://www.wikidata.org/entity/Q86996065
+Q29651047 -PaperPort -http://www.wikidata.org/entity/Q29651047

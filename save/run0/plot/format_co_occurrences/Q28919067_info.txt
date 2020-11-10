@@ -1,0 +1,14 @@
+Q28919067 -EBU subtitling data exchange format -http://www.wikidata.org/entity/Q28919067
+
+##########################################################################################
+
+Q27979370 -EBU STL -http://www.wikidata.org/entity/Q27979370
+Q27979374 -Spruce subtitle format -http://www.wikidata.org/entity/Q27979374
+Q1238229 -STereoLithography -http://www.wikidata.org/entity/Q1238229
+Q28206101 -FaceSaver -http://www.wikidata.org/entity/Q28206101
+Q3841253 -MDL Molfile -http://www.wikidata.org/entity/Q3841253
+Q18812775 -VTK -http://www.wikidata.org/entity/Q18812775
+Q34743436 -Softlib -http://www.wikidata.org/entity/Q34743436
+Q51756571 -AutoCAD Slide Library -http://www.wikidata.org/entity/Q51756571
+Q28975662 -SLiCe format -http://www.wikidata.org/entity/Q28975662
+Q58960003 -Microsoft Excel Chart, version 3 -http://www.wikidata.org/entity/Q58960003

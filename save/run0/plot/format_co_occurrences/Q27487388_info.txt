@@ -1,0 +1,14 @@
+Q27487388 -Shapefile geocoding index -http://www.wikidata.org/entity/Q27487388
+
+################################################################################
+
+Q27487398 -Shapefile geocoding index, ODB format -http://www.wikidata.org/entity/Q27487398
+Q47012446 -Microstation CAD Drawing file format -http://www.wikidata.org/entity/Q47012446
+Q3027596 -DGN -http://www.wikidata.org/entity/Q3027596
+Q27487512 -Shapefile header index -http://www.wikidata.org/entity/Q27487512
+Q67383890 -Source Engine Compiled AI Nodegraph -http://www.wikidata.org/entity/Q67383890
+Q27487522 -Shapefile attribute index part 1 -http://www.wikidata.org/entity/Q27487522
+Q1134089 -world file -http://www.wikidata.org/entity/Q1134089
+Q27487343 -Shapefile spatial index part 1 -http://www.wikidata.org/entity/Q27487343
+Q56827141 -SeqBox file -http://www.wikidata.org/entity/Q56827141
+Q27487348 -Shapefile spatial index part 2 -http://www.wikidata.org/entity/Q27487348

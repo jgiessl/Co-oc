@@ -1,0 +1,21 @@
+39002053929817
+number of files:  218
+number of files with unknown format: 0
+number of files with known format: 218
+contained formats: 
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q70892998 -Altera Graphic Design File -http://www.wikidata.org/entity/Q70892998
+Q1381134 -MapInfo Interchange Format -http://www.wikidata.org/entity/Q1381134
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q1326659 -Virtual Hard Disk -http://www.wikidata.org/entity/Q1326659
+Q6746668 -Management Information Format -http://www.wikidata.org/entity/Q6746668
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q28206593 -MSX Interchange Format -http://www.wikidata.org/entity/Q28206593
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q6731061 -Magick Image File Format -http://www.wikidata.org/entity/Q6731061
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q5531823 -General Data Format for Biomedical Signals -http://www.wikidata.org/entity/Q5531823
+Q1886335 -Maker Interchange Format -http://www.wikidata.org/entity/Q1886335
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q28975884 -Geometry Data File -http://www.wikidata.org/entity/Q28975884

@@ -1,0 +1,110 @@
+39002074057499
+number of files:  2319
+number of files with unknown format: 1456
+number of files with known format: 863
+contained formats: 
+Q28205488 -Windows Cursor -http://www.wikidata.org/entity/Q28205488
+Q777561 -BinHex -http://www.wikidata.org/entity/Q777561
+Q83489235 -VisiCalc file format -http://www.wikidata.org/entity/Q83489235
+Q61727602 -PrimeOCR file format, version 4.3 -http://www.wikidata.org/entity/Q61727602
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q61641368 -Microsoft Word for Windows Document, version 2 -http://www.wikidata.org/entity/Q61641368
+Q61639409 -Microsoft Word for Windows Document, version 1 -http://www.wikidata.org/entity/Q61639409
+Q47233167 -LDR -http://www.wikidata.org/entity/Q47233167
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q28755606 -Exact Yearbook DAT file -http://www.wikidata.org/entity/Q28755606
+Q28205736 -Award BIOS logo, version 2 -http://www.wikidata.org/entity/Q28205736
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q60000066 -Microsoft Office Owner File -http://www.wikidata.org/entity/Q60000066
+Q48782238 -Microsoft Word for MS-DOS Document, version 5 -http://www.wikidata.org/entity/Q48782238
+Q28009496 -Zelda Solarus DX saved game -http://www.wikidata.org/entity/Q28009496
+Q686498 -doc -http://www.wikidata.org/entity/Q686498
+Q32097899 -Fallout v2 DAT -http://www.wikidata.org/entity/Q32097899
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q28858039 -Word Binary File Format, version nFibNew=0x00D9 -http://www.wikidata.org/entity/Q28858039
+Q28858037 -Word Binary File Format, version nFib=0x00C0 -http://www.wikidata.org/entity/Q28858037
+Q81526237 -MapInfo MapBasic tabular DataBase -http://www.wikidata.org/entity/Q81526237
+Q34747804 -Supaplex Level format -http://www.wikidata.org/entity/Q34747804
+Q61707607 -Microsoft Outlook Email Message -http://www.wikidata.org/entity/Q61707607
+Q28858041 -Word Binary File Format, version nFibNew=0x0101 -http://www.wikidata.org/entity/Q28858041
+Q28206708 -Portable Pixmap, binary variant -http://www.wikidata.org/entity/Q28206708
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q81526528 -MicroStation Resource data -http://www.wikidata.org/entity/Q81526528
+Q28858038 -Word Binary File Format, version nFib=0x00C2 -http://www.wikidata.org/entity/Q28858038
+Q28858042 -Word Binary File Format, version nFibNew=0x010C -http://www.wikidata.org/entity/Q28858042
+Q81526664 -Palm Desktop DateBook -http://www.wikidata.org/entity/Q81526664
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q6912474 -Mork -http://www.wikidata.org/entity/Q6912474
+Q32097740 -Fallout DAT -http://www.wikidata.org/entity/Q32097740
+Q59714459 -Encapsulated PostScript File Format -http://www.wikidata.org/entity/Q59714459
+Q51801746 -Stationery for Mac OS X -http://www.wikidata.org/entity/Q51801746
+Q1887604 -X PixMap -http://www.wikidata.org/entity/Q1887604
+Q1047541 -Encapsulated PostScript -http://www.wikidata.org/entity/Q1047541
+Q5616826 -ChordPro -http://www.wikidata.org/entity/Q5616826
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q27596100 -Windows Bitmap, version 1 -http://www.wikidata.org/entity/Q27596100
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q48782202 -Microsoft Word for MS-DOS Document, version 4 -http://www.wikidata.org/entity/Q48782202
+Q61727514 -PrimeOCR file format, version 3.9 -http://www.wikidata.org/entity/Q61727514
+Q28858035 -Word Binary File Format, version nFib=0x00C1 -http://www.wikidata.org/entity/Q28858035
+Q63061396 -Microsoft Word Document -http://www.wikidata.org/entity/Q63061396
+Q28207108 -The Print Shop Graphics file -http://www.wikidata.org/entity/Q28207108
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q73514615 -KiCad Project -http://www.wikidata.org/entity/Q73514615
+Q66134564 -Photoshop DCS 1.0 -http://www.wikidata.org/entity/Q66134564
+Q28206700 -Portable Pixmap, text variant -http://www.wikidata.org/entity/Q28206700
+Q28858044 -Word Binary File Format, version nFibNew=0x0112 -http://www.wikidata.org/entity/Q28858044
+Q66439259 -WordPerfect Merge Data file format -http://www.wikidata.org/entity/Q66439259
+Q63061514 -Microsoft Word Document, version 97-2003 -http://www.wikidata.org/entity/Q63061514
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q28758112 -Internet Explorer history file -http://www.wikidata.org/entity/Q28758112
+Q27596184 -Windows Bitmap, version 2 -http://www.wikidata.org/entity/Q27596184
+Q1601331 -Transport-Neutral Encapsulation Format -http://www.wikidata.org/entity/Q1601331
+Q29650304 -PRT scene description -http://www.wikidata.org/entity/Q29650304
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q61727559 -PrimeOCR file format, version 4 -http://www.wikidata.org/entity/Q61727559
+Q28206788 -OS/2 Bitmap, version 2.0 -http://www.wikidata.org/entity/Q28206788
+Q85621726 -PFS:First Choice Document -http://www.wikidata.org/entity/Q85621726
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q27596325 -Windows Bitmap, version 4 -http://www.wikidata.org/entity/Q27596325
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572
+Q63061679 -Windows Bitmap, version 3.0 NT -http://www.wikidata.org/entity/Q63061679
+Q85621806 -PFS:First Choice Document 3 -http://www.wikidata.org/entity/Q85621806
+Q67123937 -Print Artist business card file format -http://www.wikidata.org/entity/Q67123937
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q1817318 -X BitMap -http://www.wikidata.org/entity/Q1817318
+Q66439286 -DisplayWrite Document file format, version 5 -http://www.wikidata.org/entity/Q66439286
+Q48915661 -Interleaf Document -http://www.wikidata.org/entity/Q48915661
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q61727504 -PrimeOCR file format, version 3.8 -http://www.wikidata.org/entity/Q61727504
+Q28049770 -DKBTrace scene description -http://www.wikidata.org/entity/Q28049770
+Q62664735 -Wordperfect Secondary File, version 5.1 and 5.2 -http://www.wikidata.org/entity/Q62664735
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q61727569 -PrimeOCR file format, version 4.2 -http://www.wikidata.org/entity/Q61727569
+Q48782394 -Microsoft Word for MS-DOS Document, version 5.5 -http://www.wikidata.org/entity/Q48782394
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q27596417 -Windows Bitmap, version 5 -http://www.wikidata.org/entity/Q27596417
+Q28206328 -Img Software Set Red Component -http://www.wikidata.org/entity/Q28206328
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q28205674 -Alpha Microsystems BMP -http://www.wikidata.org/entity/Q28205674
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q61727114 -PrimeOCR file format, version 3 -http://www.wikidata.org/entity/Q61727114
+Q28445577 -Advanced Authoring System -http://www.wikidata.org/entity/Q28445577
+Q48782098 -Microsoft Word for MS-DOS Document, version 3 -http://www.wikidata.org/entity/Q48782098
+Q48625328 -Encapsulated PostScript, v2 -http://www.wikidata.org/entity/Q48625328
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q2858737 -Apple Icon Image format -http://www.wikidata.org/entity/Q2858737
+Q28207499 -Windows Device-Dependent Bitmap -http://www.wikidata.org/entity/Q28207499
+Q218170 -PostScript -http://www.wikidata.org/entity/Q218170
+Q28205733 -Award BIOS logo, version 1 -http://www.wikidata.org/entity/Q28205733
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+Q60628185 -Wordperfect Secondary File, version 5 -http://www.wikidata.org/entity/Q60628185
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q28205595 -Photoshop Thumbnail Cache -http://www.wikidata.org/entity/Q28205595

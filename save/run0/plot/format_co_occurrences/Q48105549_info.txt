@@ -1,0 +1,14 @@
+Q48105549 -SAS for MS-DOS Catalog -http://www.wikidata.org/entity/Q48105549
+
+#############################################################################
+
+Q7434105 -Scitex Continuous Tone -http://www.wikidata.org/entity/Q7434105
+Q28205846 -ColoRIX -http://www.wikidata.org/entity/Q28205846
+Q52063295 -SAS for MS-DOS Database -http://www.wikidata.org/entity/Q52063295
+Q52063281 -SAS Data File -http://www.wikidata.org/entity/Q52063281
+Q28207405 -TLG -http://www.wikidata.org/entity/Q28207405
+Q59716162 -Harvard Graphics Chart -http://www.wikidata.org/entity/Q59716162
+Q1328134 -InkML -http://www.wikidata.org/entity/Q1328134
+Q52006189 -Micrografx Draw, version 4 -http://www.wikidata.org/entity/Q52006189
+Q52005965 -Micrografx Draw, version 3 -http://www.wikidata.org/entity/Q52005965
+Q28771316 -Micrografx Draw -http://www.wikidata.org/entity/Q28771316

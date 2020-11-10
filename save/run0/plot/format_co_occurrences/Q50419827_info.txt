@@ -1,0 +1,14 @@
+Q50419827 -Microsoft PRX File -http://www.wikidata.org/entity/Q50419827
+
+#########################################################################
+
+Q93431491 -fdx -http://www.wikidata.org/entity/Q93431491
+Q65533627 -Food Data Exchange File format -http://www.wikidata.org/entity/Q65533627
+Q48940 -RDF/XML -http://www.wikidata.org/entity/Q48940
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830
+Q89029185 -American Greetings Project 10-23 -http://www.wikidata.org/entity/Q89029185
+Q19599377 -AppleLink Package Compression Format -http://www.wikidata.org/entity/Q19599377
+Q28344713 -Package File -http://www.wikidata.org/entity/Q28344713
+Q51370033 -Freelance file format -http://www.wikidata.org/entity/Q51370033
+Q29650301 -Pack -http://www.wikidata.org/entity/Q29650301
+Q28758103 -InstallShield Z -http://www.wikidata.org/entity/Q28758103

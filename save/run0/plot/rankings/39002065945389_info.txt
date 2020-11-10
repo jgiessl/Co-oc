@@ -1,0 +1,10 @@
+39002065945389
+number of files:  1
+number of files with unknown format: 0
+number of files with known format: 1
+contained formats: 
+Q48005022 -Microsoft Access Database, version 95 -http://www.wikidata.org/entity/Q48005022
+Q48021588 -Microsoft Access Database, version 2000 -http://www.wikidata.org/entity/Q48021588
+Q48021763 -Microsoft Access Database, version 2002 -http://www.wikidata.org/entity/Q48021763
+Q48004607 -Microsoft Access Database, version 2 -http://www.wikidata.org/entity/Q48004607
+Q48004869 -Microsoft Access Database, version 95 -http://www.wikidata.org/entity/Q48004869

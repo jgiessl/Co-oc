@@ -1,0 +1,14 @@
+Q28600492 -Data Resource File -http://www.wikidata.org/entity/Q28600492
+
+#########################################################################
+
+Q61707607 -Microsoft Outlook Email Message -http://www.wikidata.org/entity/Q61707607
+Q48814895 -ESRI ArcView Project -http://www.wikidata.org/entity/Q48814895
+Q59999653 -ESRI Arc/View Project -http://www.wikidata.org/entity/Q59999653
+Q46118194 -Lotus Approach View File, version 97 -http://www.wikidata.org/entity/Q46118194
+Q28757747 -GEM bitmap font -http://www.wikidata.org/entity/Q28757747
+Q25378623 -Font-File Format -http://www.wikidata.org/entity/Q25378623
+Q28106114 -GRASP font -http://www.wikidata.org/entity/Q28106114
+Q96075738 -Pajek format -http://www.wikidata.org/entity/Q96075738
+Q2138624 -registry file -http://www.wikidata.org/entity/Q2138624
+Q51753051 -3D Studio Shapes -http://www.wikidata.org/entity/Q51753051

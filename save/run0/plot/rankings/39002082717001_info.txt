@@ -1,0 +1,15 @@
+39002082717001
+number of files:  11
+number of files with unknown format: 1
+number of files with known format: 10
+contained formats: 
+Q28018471 -MPEG-2 program stream -http://www.wikidata.org/entity/Q28018471
+Q28018470 -MPEG-1 program stream -http://www.wikidata.org/entity/Q28018470
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q942350 -QuickTime File Format -http://www.wikidata.org/entity/Q942350
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q336284 -MPEG-1 -http://www.wikidata.org/entity/Q336284
+Q28600764 -Electronic Arts MOV -http://www.wikidata.org/entity/Q28600764
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q217570 -Waveform Audio File Format -http://www.wikidata.org/entity/Q217570

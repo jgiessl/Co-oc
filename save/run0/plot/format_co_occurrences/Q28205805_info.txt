@@ -1,0 +1,14 @@
+Q28205805 -Object File Format, binary variant -http://www.wikidata.org/entity/Q28205805
+
+#########################################################################################
+
+Q28975864 -OOGL Object File Format -http://www.wikidata.org/entity/Q28975864
+Q2011664 -Object File Format -http://www.wikidata.org/entity/Q2011664
+Q34743987 -Spark -http://www.wikidata.org/entity/Q34743987
+Q6715113 -MD3 -http://www.wikidata.org/entity/Q6715113
+Q28975665 -3D Studio Max ASCII Export Format -http://www.wikidata.org/entity/Q28975665
+Q27979314 -Adobe Swatch Exchange -http://www.wikidata.org/entity/Q27979314
+Q29000647 -PLG -http://www.wikidata.org/entity/Q29000647
+Q21040945 -Digitrakker format -http://www.wikidata.org/entity/Q21040945
+Q28206574 -MegaPaint BLD -http://www.wikidata.org/entity/Q28206574
+Q741654 -DirectDraw Surface -http://www.wikidata.org/entity/Q741654

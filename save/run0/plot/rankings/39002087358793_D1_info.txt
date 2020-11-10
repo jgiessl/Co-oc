@@ -1,0 +1,40 @@
+39002087358793_D1
+number of files:  211
+number of files with unknown format: 5
+number of files with known format: 206
+contained formats: 
+Q4836515 -BSAVE -http://www.wikidata.org/entity/Q4836515
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q935809 -comma-separated values -http://www.wikidata.org/entity/Q935809
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q28205846 -ColoRIX -http://www.wikidata.org/entity/Q28205846
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q217570 -Waveform Audio File Format -http://www.wikidata.org/entity/Q217570
+Q47462131 -Caligari TrueSpace file format -http://www.wikidata.org/entity/Q47462131
+Q28018470 -MPEG-1 program stream -http://www.wikidata.org/entity/Q28018470
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q336284 -MPEG-1 -http://www.wikidata.org/entity/Q336284
+Q29650316 -Packed Font File Format -http://www.wikidata.org/entity/Q29650316
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q28018471 -MPEG-2 program stream -http://www.wikidata.org/entity/Q28018471
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q188199 -Ogg -http://www.wikidata.org/entity/Q188199
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q939636 -CorelDRAW Document -http://www.wikidata.org/entity/Q939636
+Q28975633 -NextEngine Scan -http://www.wikidata.org/entity/Q28975633
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q47462143 -Caligari TrueSpace file format -http://www.wikidata.org/entity/Q47462143
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q61901831 -Peak Graphical Waveform File -http://www.wikidata.org/entity/Q61901831
+Q34743342 -Softimage Scene -http://www.wikidata.org/entity/Q34743342
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q50288102 -Mathcad Document, binary file format -http://www.wikidata.org/entity/Q50288102
+Q178051 -Portable Network Graphics -http://www.wikidata.org/entity/Q178051

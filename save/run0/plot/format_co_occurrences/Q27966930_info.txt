@@ -1,0 +1,14 @@
+Q27966930 -QSF -http://www.wikidata.org/entity/Q27966930
+
+##########################################################
+
+Q10852293 -RPT -http://www.wikidata.org/entity/Q10852293
+Q21848765 -BioSemi Data Format -http://www.wikidata.org/entity/Q21848765
+Q1122075 -Computable Document Format -http://www.wikidata.org/entity/Q1122075
+Q28975670 -Cyberspace Description Format -http://www.wikidata.org/entity/Q28975670
+Q95985299 -Affymetrix CDF file format -http://www.wikidata.org/entity/Q95985299
+Q1116060 -Common Data Format -http://www.wikidata.org/entity/Q1116060
+Q1361922 -NetCDF -http://www.wikidata.org/entity/Q1361922
+Q28207452 -Vista Data File Format -http://www.wikidata.org/entity/Q28207452
+Q28207447 -VIPS -http://www.wikidata.org/entity/Q28207447
+Q27979322 -Photoshop Curve -http://www.wikidata.org/entity/Q27979322

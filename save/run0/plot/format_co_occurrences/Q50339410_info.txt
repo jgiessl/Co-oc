@@ -1,0 +1,14 @@
+Q50339410 -Expert Witness Disk Image -http://www.wikidata.org/entity/Q50339410
+
+################################################################################
+
+Q60413976 -Encase Image File Format/Expert Witness Compression Format -http://www.wikidata.org/entity/Q60413976
+Q28206284 -IBM KIPS palette -http://www.wikidata.org/entity/Q28206284
+Q28205955 -Dr. Halo Palette -http://www.wikidata.org/entity/Q28205955
+Q27979508 -RIFF Palette File -http://www.wikidata.org/entity/Q27979508
+Q28205807 -Palette Format -http://www.wikidata.org/entity/Q28205807
+Q48809727 -dBASE Text Memo -http://www.wikidata.org/entity/Q48809727
+Q47539061 -AutoCAD dbConnect Template Set -http://www.wikidata.org/entity/Q47539061
+Q27967203 -NoiseTracker module -http://www.wikidata.org/entity/Q27967203
+Q1370814 -Amiga Module -http://www.wikidata.org/entity/Q1370814
+Q49414097 -CATIA Model, version 4 -http://www.wikidata.org/entity/Q49414097

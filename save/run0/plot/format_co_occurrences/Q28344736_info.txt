@@ -1,0 +1,14 @@
+Q28344736 -Macintosh resource file -http://www.wikidata.org/entity/Q28344736
+
+##############################################################################
+
+Q27979531 -Binary Property List -http://www.wikidata.org/entity/Q27979531
+Q2858737 -Apple Icon Image format -http://www.wikidata.org/entity/Q2858737
+Q5227435 -Datafork TrueType -http://www.wikidata.org/entity/Q5227435
+Q777561 -BinHex -http://www.wikidata.org/entity/Q777561
+Q27979388 -AAE sidecar format -http://www.wikidata.org/entity/Q27979388
+Q260180 -OpenType Font -http://www.wikidata.org/entity/Q260180
+Q4049344 -SFNT -http://www.wikidata.org/entity/Q4049344
+Q29012120 -Shockwave Flash, version 25 -http://www.wikidata.org/entity/Q29012120
+Q29011315 -Shockwave Flash, version 4 -http://www.wikidata.org/entity/Q29011315
+Q29011363 -Shockwave Flash, version 9 -http://www.wikidata.org/entity/Q29011363

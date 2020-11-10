@@ -1,0 +1,42 @@
+39002060321644
+number of files:  110
+number of files with unknown format: 2
+number of files with known format: 108
+contained formats: 
+Q61971919 -Microsoft Visual FoxPro Database Table File -http://www.wikidata.org/entity/Q61971919
+Q66439259 -WordPerfect Merge Data file format -http://www.wikidata.org/entity/Q66439259
+Q34747804 -Supaplex Level format -http://www.wikidata.org/entity/Q34747804
+Q29650330 -PGP public key -http://www.wikidata.org/entity/Q29650330
+Q28049670 -Autodesk 3D Studio ASCII format -http://www.wikidata.org/entity/Q28049670
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q63036182 -8-bit ASCII Text -http://www.wikidata.org/entity/Q63036182
+Q28758112 -Internet Explorer history file -http://www.wikidata.org/entity/Q28758112
+Q61971917 -FoxPro Database, version 2x -http://www.wikidata.org/entity/Q61971917
+Q60628005 -FoxPro Database, version 2 -http://www.wikidata.org/entity/Q60628005
+Q1601331 -Transport-Neutral Encapsulation Format -http://www.wikidata.org/entity/Q1601331
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q29650304 -PRT scene description -http://www.wikidata.org/entity/Q29650304
+Q27349828 -ESRI Arc/Info ASCII Grid -http://www.wikidata.org/entity/Q27349828
+Q47233167 -LDR -http://www.wikidata.org/entity/Q47233167
+Q81526528 -MicroStation Resource data -http://www.wikidata.org/entity/Q81526528
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q44933672 -dBASE IV -http://www.wikidata.org/entity/Q44933672
+Q81526664 -Palm Desktop DateBook -http://www.wikidata.org/entity/Q81526664
+Q6912474 -Mork -http://www.wikidata.org/entity/Q6912474
+Q32097740 -Fallout DAT -http://www.wikidata.org/entity/Q32097740
+Q28755606 -Exact Yearbook DAT file -http://www.wikidata.org/entity/Q28755606
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q28600256 -ASCII Encoded HP 48 Object -http://www.wikidata.org/entity/Q28600256
+Q52834849 -dBASE for Windows database, version 5 -http://www.wikidata.org/entity/Q52834849
+Q28009496 -Zelda Solarus DX saved game -http://www.wikidata.org/entity/Q28009496
+Q28756196 -FWKCS NDX file -http://www.wikidata.org/entity/Q28756196
+Q27967116 -ASC Sound Master module -http://www.wikidata.org/entity/Q27967116
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q32097899 -Fallout v2 DAT -http://www.wikidata.org/entity/Q32097899
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q28207108 -The Print Shop Graphics file -http://www.wikidata.org/entity/Q28207108
+Q27487130 -Shapefile dBASE table -http://www.wikidata.org/entity/Q27487130
+Q62619688 -7-bit ASCII Text -http://www.wikidata.org/entity/Q62619688
+Q28049770 -DKBTrace scene description -http://www.wikidata.org/entity/Q28049770
+Q81526237 -MapInfo MapBasic tabular DataBase -http://www.wikidata.org/entity/Q81526237

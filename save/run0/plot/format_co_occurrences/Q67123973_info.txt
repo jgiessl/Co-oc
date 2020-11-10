@@ -1,0 +1,14 @@
+Q67123973 -Print Artist certificate file format -http://www.wikidata.org/entity/Q67123973
+
+###########################################################################################
+
+Q29650342 -PEM encoded certificate -http://www.wikidata.org/entity/Q29650342
+Q89029185 -American Greetings Project 10-23 -http://www.wikidata.org/entity/Q89029185
+Q34273353 -Keynote -http://www.wikidata.org/entity/Q34273353
+Q27925718 -DTED Level 1 Gazetteer Key file -http://www.wikidata.org/entity/Q27925718
+Q28600470 -DER encoded RSA private key -http://www.wikidata.org/entity/Q28600470
+Q59537335 -Apple iWorks Keynote -http://www.wikidata.org/entity/Q59537335
+Q29650343 -PEM encoded RSA private key -http://www.wikidata.org/entity/Q29650343
+Q27967144 -DisorderTracker 2 module -http://www.wikidata.org/entity/Q27967144
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q49988510 -Rocket Book eBook format -http://www.wikidata.org/entity/Q49988510

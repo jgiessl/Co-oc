@@ -1,0 +1,14 @@
+Q44933672 -dBASE IV -http://www.wikidata.org/entity/Q44933672
+
+###############################################################
+
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521
+Q61971917 -FoxPro Database, version 2x -http://www.wikidata.org/entity/Q61971917
+Q60628005 -FoxPro Database, version 2 -http://www.wikidata.org/entity/Q60628005
+Q61971919 -Microsoft Visual FoxPro Database Table File -http://www.wikidata.org/entity/Q61971919
+Q27487130 -Shapefile dBASE table -http://www.wikidata.org/entity/Q27487130
+Q52834849 -dBASE for Windows database, version 5 -http://www.wikidata.org/entity/Q52834849
+Q28756196 -FWKCS NDX file -http://www.wikidata.org/entity/Q28756196
+Q3596396 -MDX -http://www.wikidata.org/entity/Q3596396

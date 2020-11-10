@@ -1,0 +1,14 @@
+Q18640977 -Better Portable Graphics -http://www.wikidata.org/entity/Q18640977
+
+###############################################################################
+
+Q281876 -YAML -http://www.wikidata.org/entity/Q281876
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q9200353 -DigiBooster PRO v2.x / DigiBooster 3 module -http://www.wikidata.org/entity/Q9200353
+Q1056154 -M4V -http://www.wikidata.org/entity/Q1056154
+Q47246032 -PowerVR Object Data -http://www.wikidata.org/entity/Q47246032
+Q60339399 -Open Project File -http://www.wikidata.org/entity/Q60339399
+Q67124713 -Print Artist postcard file format -http://www.wikidata.org/entity/Q67124713
+Q34287064 -Professor Calhoon quiz file -http://www.wikidata.org/entity/Q34287064
+Q27684861 -Microsoft Publisher file format, version 3.0 -http://www.wikidata.org/entity/Q27684861
+Q27684843 -Microsoft Publisher file format, version 2.0 -http://www.wikidata.org/entity/Q27684843

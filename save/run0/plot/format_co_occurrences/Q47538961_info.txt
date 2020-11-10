@@ -1,0 +1,14 @@
+Q47538961 -AutoCAD Menu Resource File -http://www.wikidata.org/entity/Q47538961
+
+#################################################################################
+
+Q71301157 -WHIP! DWF Format -http://www.wikidata.org/entity/Q71301157
+Q1196547 -Design Web Format -http://www.wikidata.org/entity/Q1196547
+Q47539012 -AutoCAD Drawing Template -http://www.wikidata.org/entity/Q47539012
+Q47922320 -AutoLISP File -http://www.wikidata.org/entity/Q47922320
+Q935809 -comma-separated values -http://www.wikidata.org/entity/Q935809
+Q47539298 -AutoCAD Block Attribute Template -http://www.wikidata.org/entity/Q47539298
+Q27863117 -AutoCAD Drawing, version 2.2 -http://www.wikidata.org/entity/Q27863117
+Q27863143 -AutoCAD Drawing, version 2013-2014 -http://www.wikidata.org/entity/Q27863143
+Q27863119 -AutoCAD Drawing, version 2.5 -http://www.wikidata.org/entity/Q27863119
+Q27863142 -AutoCAD Drawing, version 2010-2012 -http://www.wikidata.org/entity/Q27863142

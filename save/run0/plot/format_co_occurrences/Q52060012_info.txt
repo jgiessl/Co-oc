@@ -1,0 +1,14 @@
+Q52060012 -Paint Shop Pro Image, version 6 -http://www.wikidata.org/entity/Q52060012
+
+######################################################################################
+
+Q52834540 -Paint Shop Pro Image, version 4 -http://www.wikidata.org/entity/Q52834540
+Q52060199 -Paint Shop Pro Image, version 7 -http://www.wikidata.org/entity/Q52060199
+Q48623521 -Paint Shop Pro Image, version 3 -http://www.wikidata.org/entity/Q48623521
+Q48623760 -Paint Shop Pro Image, version 5 -http://www.wikidata.org/entity/Q48623760
+Q28206822 -PaintShop Pro image -http://www.wikidata.org/entity/Q28206822
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032

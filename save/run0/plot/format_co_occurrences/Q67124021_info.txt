@@ -1,0 +1,14 @@
+Q67124021 -Print Artist greeting card file format -http://www.wikidata.org/entity/Q67124021
+
+#############################################################################################
+
+Q67123937 -Print Artist business card file format -http://www.wikidata.org/entity/Q67123937
+Q83489235 -VisiCalc file format -http://www.wikidata.org/entity/Q83489235
+Q28205595 -Photoshop Thumbnail Cache -http://www.wikidata.org/entity/Q28205595
+Q28600496 -diff -http://www.wikidata.org/entity/Q28600496
+Q29465391 -Unified diff -http://www.wikidata.org/entity/Q29465391
+Q34284525 -Perl script -http://www.wikidata.org/entity/Q34284525
+Q66310989 -Pantry Files -http://www.wikidata.org/entity/Q66310989
+Q7493698 -Shell Scrap Object File -http://www.wikidata.org/entity/Q7493698
+Q28207158 -Puzzle image -http://www.wikidata.org/entity/Q28207158
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883

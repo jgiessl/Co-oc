@@ -1,0 +1,14 @@
+Q79242428 -Antenna Data File -http://www.wikidata.org/entity/Q79242428
+
+########################################################################
+
+Q27979154 -ArtWorx Data Format -http://www.wikidata.org/entity/Q27979154
+Q27349804 -ESRI Arc/Info Binary Grid -http://www.wikidata.org/entity/Q27349804
+Q50604441 -SNAP Archive Data File -http://www.wikidata.org/entity/Q50604441
+Q4746193 -Amiga Disk File -http://www.wikidata.org/entity/Q4746193
+Q28445577 -Advanced Authoring System -http://www.wikidata.org/entity/Q28445577
+Q74021144 -PICS Rating System -http://www.wikidata.org/entity/Q74021144
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q28206851 -Secure Pick Ax file -http://www.wikidata.org/entity/Q28206851
+Q29651082 -Portable aRchive eXchange -http://www.wikidata.org/entity/Q29651082
+Q51093528 -CorelDraw Pattern -http://www.wikidata.org/entity/Q51093528

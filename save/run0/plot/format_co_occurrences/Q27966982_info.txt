@@ -1,0 +1,14 @@
+Q27966982 -AC1D-DC1A Packer -http://www.wikidata.org/entity/Q27966982
+
+#######################################################################
+
+Q28919030 -AC-3 Compressed Audio (Dolby Digital), Revision A -http://www.wikidata.org/entity/Q28919030
+Q1109779 -file shortcut -http://www.wikidata.org/entity/Q1109779
+Q39184097 -Shell Link Binary File Format -http://www.wikidata.org/entity/Q39184097
+Q27979398 -Imagic Film/Picture, medium resolution -http://www.wikidata.org/entity/Q27979398
+Q27979399 -Imagic Film/Picture, high resolution -http://www.wikidata.org/entity/Q27979399
+Q29000599 -Windows Shortcut -http://www.wikidata.org/entity/Q29000599
+Q23014810 -chr -http://www.wikidata.org/entity/Q23014810
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005

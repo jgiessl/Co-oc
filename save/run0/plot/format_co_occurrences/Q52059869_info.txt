@@ -1,0 +1,14 @@
+Q52059869 -Micrografx Designer format, version 3.1 -http://www.wikidata.org/entity/Q52059869
+
+##############################################################################################
+
+Q52006189 -Micrografx Draw, version 4 -http://www.wikidata.org/entity/Q52006189
+Q52005965 -Micrografx Draw, version 3 -http://www.wikidata.org/entity/Q52005965
+Q28771316 -Micrografx Draw -http://www.wikidata.org/entity/Q28771316
+Q89101317 -PrintMaster Gold Project 1 -http://www.wikidata.org/entity/Q89101317
+Q6753724 -MapInfo TAB format -http://www.wikidata.org/entity/Q6753724
+Q3513566 -tab-separated values -http://www.wikidata.org/entity/Q3513566
+Q1072083 -Windows Metafile -http://www.wikidata.org/entity/Q1072083
+Q89029185 -American Greetings Project 10-23 -http://www.wikidata.org/entity/Q89029185
+Q59716162 -Harvard Graphics Chart -http://www.wikidata.org/entity/Q59716162
+Q1328134 -InkML -http://www.wikidata.org/entity/Q1328134

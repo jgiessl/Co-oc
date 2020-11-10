@@ -1,0 +1,14 @@
+Q59962623 -Autodesk Animator (FlicLib) -http://www.wikidata.org/entity/Q59962623
+
+##################################################################################
+
+Q28206125 -Flexible Line Interpretation -http://www.wikidata.org/entity/Q28206125
+Q27967444 -AutoDesk FLIC Animation -http://www.wikidata.org/entity/Q27967444
+Q27967445 -Autodesk Animator Pro FLIC -http://www.wikidata.org/entity/Q27967445
+Q942350 -QuickTime File Format -http://www.wikidata.org/entity/Q942350
+Q28600764 -Electronic Arts MOV -http://www.wikidata.org/entity/Q28600764
+Q939636 -CorelDRAW Document -http://www.wikidata.org/entity/Q939636
+Q218170 -PostScript -http://www.wikidata.org/entity/Q218170
+Q28771319 -Microsoft Library -http://www.wikidata.org/entity/Q28771319
+Q6043826 -Intellifont -http://www.wikidata.org/entity/Q6043826
+Q29000498 -OrCAD library -http://www.wikidata.org/entity/Q29000498

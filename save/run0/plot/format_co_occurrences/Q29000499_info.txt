@@ -1,0 +1,14 @@
+Q29000499 -OrCAD schematic -http://www.wikidata.org/entity/Q29000499
+
+######################################################################
+
+Q34305425 -Scheme script -http://www.wikidata.org/entity/Q34305425
+Q27960000 -Perfect Clarity Audio -http://www.wikidata.org/entity/Q27960000
+Q298178 -Advanced Stream Redirector -http://www.wikidata.org/entity/Q298178
+Q28207261 -Seattle FilmWorks -http://www.wikidata.org/entity/Q28207261
+Q25313036 -Extensible Data Notation -http://www.wikidata.org/entity/Q25313036
+Q16342 -XML Schema -http://www.wikidata.org/entity/Q16342
+Q66146236 -InfoPath Form Definition File -http://www.wikidata.org/entity/Q66146236
+Q28206504 -Lotus Manuscript graphics -http://www.wikidata.org/entity/Q28206504
+Q28975875 -OOGL TLIST Projective file -http://www.wikidata.org/entity/Q28975875
+Q27823195 -Binary Terrain External Projection file -http://www.wikidata.org/entity/Q27823195

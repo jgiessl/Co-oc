@@ -1,0 +1,14 @@
+Q47529246 -SuperScape Virtual Reality Format -http://www.wikidata.org/entity/Q47529246
+
+########################################################################################
+
+Q61901831 -Peak Graphical Waveform File -http://www.wikidata.org/entity/Q61901831
+Q29650316 -Packed Font File Format -http://www.wikidata.org/entity/Q29650316
+Q1888930 -Vector Markup Language -http://www.wikidata.org/entity/Q1888930
+Q28786544 -Netscape bookmarks -http://www.wikidata.org/entity/Q28786544
+Q8811 -HyperText Markup Language -http://www.wikidata.org/entity/Q8811
+Q2053 -HTML5 -http://www.wikidata.org/entity/Q2053
+Q62626012 -HyperText Markup Language -http://www.wikidata.org/entity/Q62626012
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q166074 -Extensible HyperText Markup Language -http://www.wikidata.org/entity/Q166074
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084

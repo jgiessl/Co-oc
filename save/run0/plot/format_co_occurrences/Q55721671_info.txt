@@ -1,0 +1,14 @@
+Q55721671 -AmiraMesh 3D ASCII 2.0 file format -http://www.wikidata.org/entity/Q55721671
+
+#########################################################################################
+
+Q55721708 -AmiraMesh Binary Little Endian 2.1 file format -http://www.wikidata.org/entity/Q55721708
+Q55721705 -AmiraMesh 3D Binary Little Endian 2.0 file format -http://www.wikidata.org/entity/Q55721705
+Q55721702 -AmiraMesh 3D Binary 2.0 file format -http://www.wikidata.org/entity/Q55721702
+Q55721640 -AmiraMesh ASCII file format -http://www.wikidata.org/entity/Q55721640
+Q3563777 -MicroDVD -http://www.wikidata.org/entity/Q3563777
+Q27979377 -VobSub subtitle -http://www.wikidata.org/entity/Q27979377
+Q28975664 -AC3D -http://www.wikidata.org/entity/Q28975664
+Q47012486 -MultiMate Text File -http://www.wikidata.org/entity/Q47012486
+Q1341482 -OpenEXR -http://www.wikidata.org/entity/Q1341482
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123

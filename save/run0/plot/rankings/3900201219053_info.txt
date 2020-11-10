@@ -1,0 +1,15 @@
+3900201219053
+number of files:  1
+number of files with unknown format: 0
+number of files with known format: 1
+contained formats: 
+Q29151645 -Research Articles in Simplified HTML -http://www.wikidata.org/entity/Q29151645
+Q288405 -hOCR -http://www.wikidata.org/entity/Q288405
+Q17073241 -Opera Show Format -http://www.wikidata.org/entity/Q17073241
+Q28786544 -Netscape bookmarks -http://www.wikidata.org/entity/Q28786544
+Q673906 -Simple Standards-Based Slide Show System -http://www.wikidata.org/entity/Q673906
+Q8811 -HyperText Markup Language -http://www.wikidata.org/entity/Q8811
+Q2053 -HTML5 -http://www.wikidata.org/entity/Q2053
+Q1888930 -Vector Markup Language -http://www.wikidata.org/entity/Q1888930
+Q166074 -Extensible HyperText Markup Language -http://www.wikidata.org/entity/Q166074
+Q62626012 -HyperText Markup Language -http://www.wikidata.org/entity/Q62626012

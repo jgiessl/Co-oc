@@ -1,0 +1,14 @@
+Q27967540 -Cyber Paint Sequence -http://www.wikidata.org/entity/Q27967540
+
+###########################################################################
+
+Q28049547 -STAD image -http://www.wikidata.org/entity/Q28049547
+Q9332294 -SubRip text file format -http://www.wikidata.org/entity/Q9332294
+Q28756168 -FWKCS SRT file -http://www.wikidata.org/entity/Q28756168
+Q12062708 -CDW file format -http://www.wikidata.org/entity/Q12062708
+Q50374892 -DTS Coherent Acoustics (DCA) Audio -http://www.wikidata.org/entity/Q50374892
+Q188199 -Ogg -http://www.wikidata.org/entity/Q188199
+Q20965861 -Material Template Library -http://www.wikidata.org/entity/Q20965861
+Q34746769 -STATISTICA Report File -http://www.wikidata.org/entity/Q34746769
+Q50223921 -Adobe Air -http://www.wikidata.org/entity/Q50223921
+Q50288226 -Adobe Air, v1.5 -http://www.wikidata.org/entity/Q50288226

@@ -1,0 +1,14 @@
+Q51954279 -Autodesk Animator CEL File Format -http://www.wikidata.org/entity/Q51954279
+
+########################################################################################
+
+Q28206455 -CKiSS -http://www.wikidata.org/entity/Q28206455
+Q28206450 -KiSS CEL 8-bit -http://www.wikidata.org/entity/Q28206450
+Q28206446 -KiSS CEL 4-bit -http://www.wikidata.org/entity/Q28206446
+Q95985268 -Affymetrix CEL file format -http://www.wikidata.org/entity/Q95985268
+Q47012446 -Microstation CAD Drawing file format -http://www.wikidata.org/entity/Q47012446
+Q3027596 -DGN -http://www.wikidata.org/entity/Q3027596
+Q98713463 -POV-Ray -http://www.wikidata.org/entity/Q98713463
+Q34307182 -ScreenWriter II -http://www.wikidata.org/entity/Q34307182
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q7455595 -Server Normal Format -http://www.wikidata.org/entity/Q7455595

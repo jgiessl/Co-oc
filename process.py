@@ -130,18 +130,15 @@ class ObjectProcessor:
         return x.sqrt()
 
     @staticmethod
-    def get_directory(filepath, filename):
+    def get_directory(filepath):
         """
         Gets the directory of the data object which contains the given file
         :param filepath: Path/To/the/File/In/Object
         :param filename: Name of the File
         :return: Directory of file in a data object
         """
-        # sep = os.sep
-        tmp = filepath.split("/")
-        while tmp[0] != filename:
-            del tmp[0]
-        del tmp[0]
+        temp = filepath.replace("\\", "/")
+        tmp = temp.split("/")
         if len(tmp) == 1:
             return 'root'
         else:
@@ -188,24 +185,19 @@ class ObjectProcessor:
         Function which sums two matrices by summing only the entries where
         both matrices are not zero
         :param l_mat: Matrix describing a given data object
-        :param g_mat: Matrix describing all data objects in the corpus
+        :param g_mat: Matrix describing all data objects in the corpus (formatted as coo-dictionary)
         :return: The summation matrix in csc format
         """
         dim = self.formatIdCounter
         x = l_mat.tocoo()
-        y = g_mat.tocoo()
         X = list(zip(x.row, x.col, x.data))
-        Y = list(zip(y.row, y.col, y.data))
         rows = []
         cols = []
         data = []
         for i in X:
-            for j in Y:
-                if i[0] == j[0] and i[1] == j[1]:
-                    rows.append(i[0])
-                    cols.append(i[1])
-                    data.append(i[2] + j[2])
-                    break
+            rows.append(i[0])
+            cols.append(i[1])
+            data.append(i[2] + g_mat[(i[0], i[1])])
         return sp.csc_matrix((data, (rows, cols)), shape=(dim, dim))
 
     def pre_process_data_objects(self, path_to_objects, q):
@@ -251,9 +243,14 @@ class ObjectProcessor:
                             unknown_counter += 1
                             continue
                         self.add_format_id(y["id"])
+                        if y["id"] not in self.stats.formats:
+                            tempo = dict()
+                            tempo['formats'] = y["format"]
+                            tempo['URI'] = y["URI"]
+                            self.stats.formats[y["id"]] = tempo
                         distinct_formats.add(y['id'])
                         formats.add(self.formatIdMap[y["id"]])
-                    directory = self.get_directory(name, filename)
+                    directory = self.get_directory(name)
                     if directory in directory_common_formats:
                         directory_common_formats[directory] = directory_common_formats[directory].union(formats)
                     else:
@@ -273,10 +270,6 @@ class ObjectProcessor:
                 for x in object_format_combinations:
                     for y in x:
                         self.add_to_COM(y[0], y[1], MatrixType.global_mat)
-
-        # formatting and writing of the log messages
-                q.put("{0}: For {1} out of {2} files".format(filename, unknown_counter, file_counter)
-                      + " the PUID could not be determined")
 
         # giving format ids to the stat-collector
         self.stats.formatIdMap = self.formatIdMap
@@ -381,13 +374,13 @@ class ObjectProcessor:
                 for y in possible_formats:
                     if y["id"] == 'UNKNOWN':
                         continue
-                    self.add_format_id(y["id"])
+                    # self.add_format_id(y["id"])
                     formats.add(self.formatIdMap[y["id"]])
 
                     # collect format id for current data object
                     self.formats_of_current_data.add(self.formatIdMap[y['id']])
 
-                directory = self.get_directory(name, filename)
+                directory = self.get_directory(name)
                 if directory in directory_common_formats:
                     directory_common_formats[directory] = directory_common_formats[directory].union(formats)
                 else:
@@ -448,7 +441,8 @@ class EnvironmentProcessor:
                 self.add_environment(env["name"])
                 readable_formats = set()
                 for x in env["programs"]:
-                    tmp = self.get_readable_formats_of_program(x, formatIdMap)
+                    # tmp = self.get_readable_formats_of_program(x, formatIdMap)
+                    tmp = self.get_readable_formats_of_program_wd(x, formatIdMap)
                     readable_formats = readable_formats.union(tmp)
                     if self.environmentIdMap[env["name"]] not in self.readable_formats_of_environment:
                         self.readable_formats_of_environment[self.environmentIdMap[env["name"]]] = readable_formats
@@ -512,6 +506,34 @@ class EnvironmentProcessor:
         for result in results["results"]["bindings"]:
             x = result["item"]["value"]
             formats.add(x)
+        res = set()
+        for x in list(formats):
+            if x not in formatIdMap:
+                continue
+            else:
+                res.add(formatIdMap[x])
+        return res
+
+    def get_readable_formats_of_program_wd(self, programWDID, formatIdMap):
+        """
+        Function which gets all the readable for a given programm according to WikiData
+        :param programWDID: WikiData ID for a program
+        :param formatIdMap: Map which holds an integer Id for each format of the data object corpus
+        :return: All the readable formats of a program as specified in WikiData
+        """
+        endpoint_url = "https://query.wikidata.org/sparql"
+        query = """SELECT ?item
+        WHERE
+         {
+         wd:%s wdt:P1072 ?item
+         }""" % programWDID
+
+        results = self.get_results(endpoint_url, query)
+        formats = set()
+        for result in results["results"]["bindings"]:
+            x = result["item"]["value"]
+            temp = x.split('/')
+            formats.add(temp[-1])
         res = set()
         for x in list(formats):
             if x not in formatIdMap:

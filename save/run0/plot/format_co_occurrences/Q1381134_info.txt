@@ -1,0 +1,14 @@
+Q1381134 -MapInfo Interchange Format -http://www.wikidata.org/entity/Q1381134
+
+###############################################################################
+
+Q1886335 -Maker Interchange Format -http://www.wikidata.org/entity/Q1886335
+Q6746668 -Management Information Format -http://www.wikidata.org/entity/Q6746668
+Q28206593 -MSX Interchange Format -http://www.wikidata.org/entity/Q28206593
+Q6731061 -Magick Image File Format -http://www.wikidata.org/entity/Q6731061
+Q66689208 -Access Database (Pocket Access for Windows CE) -http://www.wikidata.org/entity/Q66689208
+Q34748575 -Thermo-Calc Database Format -http://www.wikidata.org/entity/Q34748575
+Q28205727 -AVS X image -http://www.wikidata.org/entity/Q28205727
+Q4545483 -X File Format -http://www.wikidata.org/entity/Q4545483
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q375296 -ICC profile -http://www.wikidata.org/entity/Q375296

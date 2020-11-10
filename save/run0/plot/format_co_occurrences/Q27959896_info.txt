@@ -1,0 +1,14 @@
+Q27959896 -Nuendo arrangement -http://www.wikidata.org/entity/Q27959896
+
+#########################################################################
+
+Q61707607 -Microsoft Outlook Email Message -http://www.wikidata.org/entity/Q61707607
+Q287315 -reStructuredText -http://www.wikidata.org/entity/Q287315
+Q49243748 -Acrobat Language definition file -http://www.wikidata.org/entity/Q49243748
+Q85415606 -Sonic Scenarist Closed Caption Format -http://www.wikidata.org/entity/Q85415606
+Q58335773 -Verity Collection Stop List -http://www.wikidata.org/entity/Q58335773
+Q3509055 -STEP file -http://www.wikidata.org/entity/Q3509055
+Q28205846 -ColoRIX -http://www.wikidata.org/entity/Q28205846
+Q61984341 -Microsoft Visual FoxPro database container (memo files) -http://www.wikidata.org/entity/Q61984341
+Q27960082 -DCT -http://www.wikidata.org/entity/Q27960082
+Q28206625 -MSX BASIC graphics -http://www.wikidata.org/entity/Q28206625

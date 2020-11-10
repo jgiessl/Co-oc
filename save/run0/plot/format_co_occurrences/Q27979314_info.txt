@@ -1,0 +1,14 @@
+Q27979314 -Adobe Swatch Exchange -http://www.wikidata.org/entity/Q27979314
+
+############################################################################
+
+Q28975665 -3D Studio Max ASCII Export Format -http://www.wikidata.org/entity/Q28975665
+Q28205727 -AVS X image -http://www.wikidata.org/entity/Q28205727
+Q4545483 -X File Format -http://www.wikidata.org/entity/Q4545483
+Q217570 -Waveform Audio File Format -http://www.wikidata.org/entity/Q217570
+Q939636 -CorelDRAW Document -http://www.wikidata.org/entity/Q939636
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q28975864 -OOGL Object File Format -http://www.wikidata.org/entity/Q28975864
+Q2011664 -Object File Format -http://www.wikidata.org/entity/Q2011664
+Q28205805 -Object File Format, binary variant -http://www.wikidata.org/entity/Q28205805
+Q34743987 -Spark -http://www.wikidata.org/entity/Q34743987

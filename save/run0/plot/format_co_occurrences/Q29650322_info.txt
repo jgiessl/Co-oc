@@ -1,0 +1,14 @@
+Q29650322 -PKCS#7 certificate -http://www.wikidata.org/entity/Q29650322
+
+#########################################################################
+
+Q28205667 -Public Key Cryptography Standard 10 -http://www.wikidata.org/entity/Q28205667
+Q627554 -certificate signing request -http://www.wikidata.org/entity/Q627554
+Q29650342 -PEM encoded certificate -http://www.wikidata.org/entity/Q29650342
+Q29650343 -PEM encoded RSA private key -http://www.wikidata.org/entity/Q29650343
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q66219660 -shtml -http://www.wikidata.org/entity/Q66219660
+Q8041715 -XCOFF -http://www.wikidata.org/entity/Q8041715
+Q2627217 -Mach-O -http://www.wikidata.org/entity/Q2627217
+Q34745138 -Speedo -http://www.wikidata.org/entity/Q34745138
+Q99851769 -ESRI Published Map Format -http://www.wikidata.org/entity/Q99851769

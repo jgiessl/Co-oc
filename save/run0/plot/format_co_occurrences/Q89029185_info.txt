@@ -1,0 +1,14 @@
+Q89029185 -American Greetings Project 10-23 -http://www.wikidata.org/entity/Q89029185
+
+#######################################################################################
+
+Q67123986 -Print Artist envelope file format -http://www.wikidata.org/entity/Q67123986
+Q51839192 -PHP Script Page -http://www.wikidata.org/entity/Q51839192
+Q28206957 -PhotoParade slideshow -http://www.wikidata.org/entity/Q28206957
+Q67124083 -Print Artist label file format -http://www.wikidata.org/entity/Q67124083
+Q72198666 -dBASE IV Label design file format -http://www.wikidata.org/entity/Q72198666
+Q89101317 -PrintMaster Gold Project 1 -http://www.wikidata.org/entity/Q89101317
+Q59210786 -BIM Collaboration Format -http://www.wikidata.org/entity/Q59210786
+Q67123973 -Print Artist certificate file format -http://www.wikidata.org/entity/Q67123973
+Q79241919 -ASCII Color Format -http://www.wikidata.org/entity/Q79241919
+Q28551319 -Adobe Custom Kernel File -http://www.wikidata.org/entity/Q28551319

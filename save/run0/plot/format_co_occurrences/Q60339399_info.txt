@@ -1,0 +1,14 @@
+Q60339399 -Open Project File -http://www.wikidata.org/entity/Q60339399
+
+########################################################################
+
+Q47246032 -PowerVR Object Data -http://www.wikidata.org/entity/Q47246032
+Q28919168 -GHS Part Maker -http://www.wikidata.org/entity/Q28919168
+Q1165116 -Perl module -http://www.wikidata.org/entity/Q1165116
+Q28207044 -PM -http://www.wikidata.org/entity/Q28207044
+Q34284525 -Perl script -http://www.wikidata.org/entity/Q34284525
+Q66310989 -Pantry Files -http://www.wikidata.org/entity/Q66310989
+Q1887604 -X PixMap -http://www.wikidata.org/entity/Q1887604
+Q1817318 -X BitMap -http://www.wikidata.org/entity/Q1817318
+Q62625561 -Bash script -http://www.wikidata.org/entity/Q62625561
+Q817650 -COM -http://www.wikidata.org/entity/Q817650

@@ -1,0 +1,14 @@
+Q51839234 -Inset Systems Bitmap -http://www.wikidata.org/entity/Q51839234
+
+###########################################################################
+
+Q28206351 -Inset PIX -http://www.wikidata.org/entity/Q28206351
+Q28207474 -Very Ordinary Rendering Toolkit file -http://www.wikidata.org/entity/Q28207474
+Q28205785 -BRender PIX -http://www.wikidata.org/entity/Q28205785
+Q47538988 -AutoCAD Last Saved Layer State -http://www.wikidata.org/entity/Q47538988
+Q61990483 -Log ASCII Standard Format, version 2 -http://www.wikidata.org/entity/Q61990483
+Q61990487 -Log ASCII Standard Format, version 3 -http://www.wikidata.org/entity/Q61990487
+Q6666791 -Log ASCII Standard Format -http://www.wikidata.org/entity/Q6666791
+Q28205670 -Alias PIX -http://www.wikidata.org/entity/Q28205670
+Q27826340 -Auxiliary file, AUX variant -http://www.wikidata.org/entity/Q27826340
+Q27826389 -Proxy AUX file, AUX variant -http://www.wikidata.org/entity/Q27826389

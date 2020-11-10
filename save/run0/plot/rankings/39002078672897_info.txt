@@ -1,0 +1,22 @@
+39002078672897
+number of files:  33
+number of files with unknown format: 0
+number of files with known format: 33
+contained formats: 
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q28600288 -ActiveMime -http://www.wikidata.org/entity/Q28600288
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q27826464 -Cascading Style Sheets Level 1 -http://www.wikidata.org/entity/Q27826464
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q27826469 -Cascading Style Sheets Level 3 -http://www.wikidata.org/entity/Q27826469
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q34746472 -STATISTICA Spreadsheet File -http://www.wikidata.org/entity/Q34746472
+Q27826468 -Cascading Style Sheets Level 2 Revision 1 -http://www.wikidata.org/entity/Q27826468
+Q27826466 -Cascading Style Sheets Level 2 -http://www.wikidata.org/entity/Q27826466
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032

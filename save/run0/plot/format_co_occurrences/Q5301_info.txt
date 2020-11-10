@@ -1,0 +1,14 @@
+Q5301 -TeX -http://www.wikidata.org/entity/Q5301
+
+##################################################
+
+Q901031 -device independent file format -http://www.wikidata.org/entity/Q901031
+Q52063393 -TeX Binary File -http://www.wikidata.org/entity/Q52063393
+Q66662117 -Lotus Ami Pro Styles -http://www.wikidata.org/entity/Q66662117
+Q50308790 -DirectMusic Style File Format -http://www.wikidata.org/entity/Q50308790
+Q29000603 -Windows Registry policy file -http://www.wikidata.org/entity/Q29000603
+Q47538631 -AutoCAD Custom Dictionary -http://www.wikidata.org/entity/Q47538631
+Q218170 -PostScript -http://www.wikidata.org/entity/Q218170
+Q66134564 -Photoshop DCS 1.0 -http://www.wikidata.org/entity/Q66134564
+Q48625328 -Encapsulated PostScript, v2 -http://www.wikidata.org/entity/Q48625328
+Q59714459 -Encapsulated PostScript File Format -http://www.wikidata.org/entity/Q59714459

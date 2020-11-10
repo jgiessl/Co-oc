@@ -1,0 +1,14 @@
+Q1570391 -Uuencoding -http://www.wikidata.org/entity/Q1570391
+
+###############################################################
+
+Q27967349 -iTunes Music Library, binary variant -http://www.wikidata.org/entity/Q27967349
+Q51916266 -CCITT G.711 Audio -http://www.wikidata.org/entity/Q51916266
+Q3959179 -shar -http://www.wikidata.org/entity/Q3959179
+Q1817318 -X BitMap -http://www.wikidata.org/entity/Q1817318
+Q28600496 -diff -http://www.wikidata.org/entity/Q28600496
+Q29465391 -Unified diff -http://www.wikidata.org/entity/Q29465391
+Q28205507 -GlowIcons -http://www.wikidata.org/entity/Q28205507
+Q28205548 -NewIcons -http://www.wikidata.org/entity/Q28205548
+Q28205479 -Amiga Workbench icon -http://www.wikidata.org/entity/Q28205479
+Q28205475 -ZoomBrowser Ex thumbnail cache -http://www.wikidata.org/entity/Q28205475

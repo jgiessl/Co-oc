@@ -1,0 +1,14 @@
+Q66689226 -Access Add-in Data -http://www.wikidata.org/entity/Q66689226
+
+#########################################################################
+
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q76158553 -MegaPaint VIN -http://www.wikidata.org/entity/Q76158553
+Q27967094 -Interplay ACM -http://www.wikidata.org/entity/Q27967094
+Q29000737 -Volume data format -http://www.wikidata.org/entity/Q29000737
+Q29000735 -VOL -http://www.wikidata.org/entity/Q29000735
+Q32096599 -Gran Turismo File System -http://www.wikidata.org/entity/Q32096599
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q2693033 -ARJ -http://www.wikidata.org/entity/Q2693033
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920

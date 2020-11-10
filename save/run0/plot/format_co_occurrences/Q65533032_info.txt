@@ -1,0 +1,14 @@
+Q65533032 -Menu file format -http://www.wikidata.org/entity/Q65533032
+
+#######################################################################
+
+Q47538977 -AutoCAD Template Menu File -http://www.wikidata.org/entity/Q47538977
+Q28206493 -Lightning Strike -http://www.wikidata.org/entity/Q28206493
+Q28206795 -OS/2 Boot Logo -http://www.wikidata.org/entity/Q28206795
+Q3552930 -VGM -http://www.wikidata.org/entity/Q3552930
+Q28206866 -PCPaint clipping format -http://www.wikidata.org/entity/Q28206866
+Q27979381 -Blu-ray Clip info -http://www.wikidata.org/entity/Q27979381
+Q27966894 -GSF -http://www.wikidata.org/entity/Q27966894
+Q71001254 -Gameboy Sound Format -http://www.wikidata.org/entity/Q71001254
+Q48906245 -Harvard Graphics Vector Graphics -http://www.wikidata.org/entity/Q48906245
+Q27967142 -Digitrakker sample -http://www.wikidata.org/entity/Q27967142

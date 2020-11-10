@@ -1,0 +1,22 @@
+39002067753989
+number of files:  65
+number of files with unknown format: 13
+number of files with known format: 52
+contained formats: 
+Q6026738 -PFB -http://www.wikidata.org/entity/Q6026738
+Q28206894 -Portable Float Map -http://www.wikidata.org/entity/Q28206894
+Q58725633 -Adobe PostScript Font Metrics file -http://www.wikidata.org/entity/Q58725633
+Q360194 -Adobe Type 1 ASCII Font Metrics -http://www.wikidata.org/entity/Q360194
+Q751800 -TrueType Font -http://www.wikidata.org/entity/Q751800
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q97033379 -Magick Persistent Registry -http://www.wikidata.org/entity/Q97033379
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q27578057 -Adobe Type 1 Printer Font Metrics -http://www.wikidata.org/entity/Q27578057
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q27473828 -BIL/BIP/BSQ Color File -http://www.wikidata.org/entity/Q27473828
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q4049344 -SFNT -http://www.wikidata.org/entity/Q4049344
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q260180 -OpenType Font -http://www.wikidata.org/entity/Q260180

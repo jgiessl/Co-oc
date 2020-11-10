@@ -1,0 +1,14 @@
+Q52426038 -WordStar for MS-DOS Document, version 3 -http://www.wikidata.org/entity/Q52426038
+
+##############################################################################################
+
+Q48693254 -WordStar for MSDOS Document, version 4 -http://www.wikidata.org/entity/Q48693254
+Q48551893 -WordStar for MS-DOS Document, version 5 -http://www.wikidata.org/entity/Q48551893
+Q51954568 -WordStar for Windows Document, version 2 -http://www.wikidata.org/entity/Q51954568
+Q51954383 -WordStar for MS-DOS Document, version 5.5 -http://www.wikidata.org/entity/Q51954383
+Q51917556 -WordStar for Windows Document -http://www.wikidata.org/entity/Q51917556
+Q51954390 -WordStar for MS-DOS Document, version 6 -http://www.wikidata.org/entity/Q51954390
+Q48694183 -WordStar for MS-DOS Document, version 7 -http://www.wikidata.org/entity/Q48694183
+Q27979513 -Manga Studio Story -http://www.wikidata.org/entity/Q27979513
+Q10852293 -RPT -http://www.wikidata.org/entity/Q10852293
+Q28206574 -MegaPaint BLD -http://www.wikidata.org/entity/Q28206574

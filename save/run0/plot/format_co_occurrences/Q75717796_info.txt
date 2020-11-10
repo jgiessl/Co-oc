@@ -1,0 +1,14 @@
+Q75717796 -USRobotics firmware -http://www.wikidata.org/entity/Q75717796
+
+##########################################################################
+
+Q75717634 -Corel Photo Paint User Defined Filter -http://www.wikidata.org/entity/Q75717634
+Q29904472 -ROOT -http://www.wikidata.org/entity/Q29904472
+Q28206390 -IRIS CMYK Front End Processor CT -http://www.wikidata.org/entity/Q28206390
+Q27967131 -CyberTracker module -http://www.wikidata.org/entity/Q27967131
+Q51837120 -Scitex Continuous Tone Bitmap -http://www.wikidata.org/entity/Q51837120
+Q7434105 -Scitex Continuous Tone -http://www.wikidata.org/entity/Q7434105
+Q9332294 -SubRip text file format -http://www.wikidata.org/entity/Q9332294
+Q28756168 -FWKCS SRT file -http://www.wikidata.org/entity/Q28756168
+Q28207070 -Polychrome Recursive Format -http://www.wikidata.org/entity/Q28207070
+Q53756551 -git packfile index, version 2 -http://www.wikidata.org/entity/Q53756551

@@ -1,0 +1,14 @@
+Q28919037 -Type-2 DV AVI -http://www.wikidata.org/entity/Q28919037
+
+####################################################################
+
+Q28919035 -Type-1 DV AVI -http://www.wikidata.org/entity/Q28919035
+Q27595621 -Audio Video Interleave with OpenDML Extensions, version 1.02 -http://www.wikidata.org/entity/Q27595621
+Q209054 -Audio Video Interleave, version 1.22.0 -http://www.wikidata.org/entity/Q209054
+Q28018471 -MPEG-2 program stream -http://www.wikidata.org/entity/Q28018471
+Q28018470 -MPEG-1 program stream -http://www.wikidata.org/entity/Q28018470
+Q24834502 -PowerPoint Binary File Format -http://www.wikidata.org/entity/Q24834502
+Q51717333 -Microsoft Powerpoint Presentation, version 95 -http://www.wikidata.org/entity/Q51717333
+Q61718355 -Microsoft PowerPoint for Macintosh, version 4 -http://www.wikidata.org/entity/Q61718355
+Q51334664 -Microsoft Powerpoint Presentation, version 4 -http://www.wikidata.org/entity/Q51334664
+Q336284 -MPEG-1 -http://www.wikidata.org/entity/Q336284

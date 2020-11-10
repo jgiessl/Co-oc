@@ -1,0 +1,14 @@
+Q28207521 -WPB -http://www.wikidata.org/entity/Q28207521
+
+##########################################################
+
+Q66686421 -Microsoft Works Word Processor 1-3 for DOS and 2 for Windows -http://www.wikidata.org/entity/Q66686421
+Q28771324 -Microsoft Works Spreadsheet -http://www.wikidata.org/entity/Q28771324
+Q63344874 -Microsoft Works Word Processor 5-6 -http://www.wikidata.org/entity/Q63344874
+Q63391715 -Microsoft Works Word Processor Macintosh, version 4 -http://www.wikidata.org/entity/Q63391715
+Q63106742 -Microsoft Works Word Processor 3-4 for Windows -http://www.wikidata.org/entity/Q63106742
+Q63391711 -Microsoft Works Word Processor Macintosh, version 3 -http://www.wikidata.org/entity/Q63391711
+Q62625630 -Structured Query Language script -http://www.wikidata.org/entity/Q62625630
+Q817650 -COM -http://www.wikidata.org/entity/Q817650
+Q89344774 -QuarkXPress Document 3.1 -http://www.wikidata.org/entity/Q89344774
+Q89344956 -QuarkXPress Document 3.3 -http://www.wikidata.org/entity/Q89344956

@@ -1,0 +1,14 @@
+Q28009498 -Zj-Stream -http://www.wikidata.org/entity/Q28009498
+
+################################################################
+
+Q66759627 -Space-delimited formatted text file -http://www.wikidata.org/entity/Q66759627
+Q51370102 -Microsoft Print File -http://www.wikidata.org/entity/Q51370102
+Q50288102 -Mathcad Document, binary file format -http://www.wikidata.org/entity/Q50288102
+Q27979332 -Age of Mythology BAR format -http://www.wikidata.org/entity/Q27979332
+Q34743161 -Softdisk Publishing UDF -http://www.wikidata.org/entity/Q34743161
+Q27925700 -DTED Level 0 Minimum Terrain Elevation Value File -http://www.wikidata.org/entity/Q27925700
+Q85415606 -Sonic Scenarist Closed Caption Format -http://www.wikidata.org/entity/Q85415606
+Q27967406 -Reality AdLib Tracker module -http://www.wikidata.org/entity/Q27967406
+Q28205983 -Radiance Scene Description -http://www.wikidata.org/entity/Q28205983
+Q3359832 -Product Representation Compact -http://www.wikidata.org/entity/Q3359832

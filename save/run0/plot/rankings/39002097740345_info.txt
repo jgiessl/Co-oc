@@ -1,0 +1,22 @@
+39002097740345
+number of files:  273
+number of files with unknown format: 0
+number of files with known format: 273
+contained formats: 
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q26385770 -Still Picture Interchange File Format -http://www.wikidata.org/entity/Q26385770
+Q28206359 -Intergraph Raster -http://www.wikidata.org/entity/Q28206359
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q28206497 -Lossless JPEG -http://www.wikidata.org/entity/Q28206497
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q26329648 -JPEG File Interchange Format, version 1.0 -http://www.wikidata.org/entity/Q26329648
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q28206262 -HSI JPEG -http://www.wikidata.org/entity/Q28206262
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q1952321 -Multi Picture Object -http://www.wikidata.org/entity/Q1952321
+Q17092932 -JPEG-XT -http://www.wikidata.org/entity/Q17092932
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246

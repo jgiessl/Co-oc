@@ -1,0 +1,13 @@
+39002040081730
+number of files:  2
+number of files with unknown format: 0
+number of files with known format: 2
+contained formats: 
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q34312151 -Macromedia Director, uncompressed PC variant -http://www.wikidata.org/entity/Q34312151
+Q27923693 -DTED Cells Directory File -http://www.wikidata.org/entity/Q27923693
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q27925722 -DTED Level 1 Gazetteer Directory file -http://www.wikidata.org/entity/Q27925722
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q34312361 -Macromedia Director, uncompressed Macintosh variant -http://www.wikidata.org/entity/Q34312361

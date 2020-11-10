@@ -1,0 +1,30 @@
+39002059644980
+number of files:  689
+number of files with unknown format: 4
+number of files with known format: 685
+contained formats: 
+Q28858068 -Binary Interchange File Format, version 8 -http://www.wikidata.org/entity/Q28858068
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q47019464 -PageMaker Document file format, version 5 -http://www.wikidata.org/entity/Q47019464
+Q28600734 -ESRI Arc/Info Export File -http://www.wikidata.org/entity/Q28600734
+Q60886160 -Microsoft Excel 97 Workbook -http://www.wikidata.org/entity/Q60886160
+Q60806257 -Microsoft Excel 4.0 Worksheet (xls) -http://www.wikidata.org/entity/Q60806257
+Q60873199 -Excel 95 Workbook -http://www.wikidata.org/entity/Q60873199
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q48625328 -Encapsulated PostScript, v2 -http://www.wikidata.org/entity/Q48625328
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q52834888 -Microsoft Excel 2.x Worksheet -http://www.wikidata.org/entity/Q52834888
+Q59714459 -Encapsulated PostScript File Format -http://www.wikidata.org/entity/Q59714459
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q48551303 -Word Perfect for Windows Document file format -http://www.wikidata.org/entity/Q48551303
+Q1047541 -Encapsulated PostScript -http://www.wikidata.org/entity/Q1047541
+Q60806040 -Microsoft Excel 3.0 Worksheet (xls) -http://www.wikidata.org/entity/Q60806040
+Q60886323 -Microsoft Excel 2000-2003 Workbook -http://www.wikidata.org/entity/Q60886323
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q61641450 -WordPerfect for MS-DOS Document -http://www.wikidata.org/entity/Q61641450
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q66134564 -Photoshop DCS 1.0 -http://www.wikidata.org/entity/Q66134564

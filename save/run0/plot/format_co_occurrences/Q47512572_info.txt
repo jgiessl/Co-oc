@@ -1,0 +1,14 @@
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572
+
+###############################################################
+
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q60662390 -Inkwriter Template -http://www.wikidata.org/entity/Q60662390
+Q28347555 -IBM Audio Visual Connection (AVC) Still Video Image -http://www.wikidata.org/entity/Q28347555
+Q28755621 -Exact Yearbook ID file -http://www.wikidata.org/entity/Q28755621
+Q27967091 -Funcom ISS -http://www.wikidata.org/entity/Q27967091
+Q19599377 -AppleLink Package Compression Format -http://www.wikidata.org/entity/Q19599377
+Q28344713 -Package File -http://www.wikidata.org/entity/Q28344713
+Q1886335 -Maker Interchange Format -http://www.wikidata.org/entity/Q1886335
+Q6746668 -Management Information Format -http://www.wikidata.org/entity/Q6746668

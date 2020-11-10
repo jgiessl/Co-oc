@@ -1,0 +1,14 @@
+Q28347555 -IBM Audio Visual Connection (AVC) Still Video Image -http://www.wikidata.org/entity/Q28347555
+
+##########################################################################################################
+
+Q28755621 -Exact Yearbook ID file -http://www.wikidata.org/entity/Q28755621
+Q19599377 -AppleLink Package Compression Format -http://www.wikidata.org/entity/Q19599377
+Q28344713 -Package File -http://www.wikidata.org/entity/Q28344713
+Q47539298 -AutoCAD Block Attribute Template -http://www.wikidata.org/entity/Q47539298
+Q28207342 -Synu -http://www.wikidata.org/entity/Q28207342
+Q96075738 -Pajek format -http://www.wikidata.org/entity/Q96075738
+Q66663030 -Lotus Freelance Clip Art -http://www.wikidata.org/entity/Q66663030
+Q28771302 -Matlab figure -http://www.wikidata.org/entity/Q28771302
+Q28756261 -FIG -http://www.wikidata.org/entity/Q28756261
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572

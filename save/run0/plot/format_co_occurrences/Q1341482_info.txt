@@ -1,0 +1,14 @@
+Q1341482 -OpenEXR -http://www.wikidata.org/entity/Q1341482
+
+############################################################
+
+Q55721708 -AmiraMesh Binary Little Endian 2.1 file format -http://www.wikidata.org/entity/Q55721708
+Q55721705 -AmiraMesh 3D Binary Little Endian 2.0 file format -http://www.wikidata.org/entity/Q55721705
+Q55721702 -AmiraMesh 3D Binary 2.0 file format -http://www.wikidata.org/entity/Q55721702
+Q55721671 -AmiraMesh 3D ASCII 2.0 file format -http://www.wikidata.org/entity/Q55721671
+Q55721640 -AmiraMesh ASCII file format -http://www.wikidata.org/entity/Q55721640
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q29167864 -Pittsburgh Supercomputing Center 3D Metafile -http://www.wikidata.org/entity/Q29167864
+Q28975664 -AC3D -http://www.wikidata.org/entity/Q28975664
+Q6715113 -MD3 -http://www.wikidata.org/entity/Q6715113
+Q27960028 -VocPack -http://www.wikidata.org/entity/Q27960028

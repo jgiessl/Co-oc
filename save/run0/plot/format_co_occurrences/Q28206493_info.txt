@@ -1,0 +1,14 @@
+Q28206493 -Lightning Strike -http://www.wikidata.org/entity/Q28206493
+
+#######################################################################
+
+Q47538977 -AutoCAD Template Menu File -http://www.wikidata.org/entity/Q47538977
+Q65533032 -Menu file format -http://www.wikidata.org/entity/Q65533032
+Q217570 -Waveform Audio File Format -http://www.wikidata.org/entity/Q217570
+Q61901831 -Peak Graphical Waveform File -http://www.wikidata.org/entity/Q61901831
+Q29650316 -Packed Font File Format -http://www.wikidata.org/entity/Q29650316
+Q27967105 -SHO -http://www.wikidata.org/entity/Q27967105
+Q28205796 -Master of Orion saved game -http://www.wikidata.org/entity/Q28205796
+Q64858274 -Corel Presentations Master file format -http://www.wikidata.org/entity/Q64858274
+Q28207194 -QRT Ray Tracer bitmap -http://www.wikidata.org/entity/Q28207194
+Q28205588 -PaintShop Pro Browser Cache -http://www.wikidata.org/entity/Q28205588

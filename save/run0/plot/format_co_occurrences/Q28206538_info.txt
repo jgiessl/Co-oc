@@ -1,0 +1,14 @@
+Q28206538 -Magick Persistent Cache (.cache file) -http://www.wikidata.org/entity/Q28206538
+
+############################################################################################
+
+Q28532082 -CAChe MolStruct -http://www.wikidata.org/entity/Q28532082
+Q27967085 -Jason Page -http://www.wikidata.org/entity/Q27967085
+Q48912365 -InterBase Database -http://www.wikidata.org/entity/Q48912365
+Q55739507 -Genbox Family History file format -http://www.wikidata.org/entity/Q55739507
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q47512572 -man page -http://www.wikidata.org/entity/Q47512572
+Q28205507 -GlowIcons -http://www.wikidata.org/entity/Q28205507
+Q28205548 -NewIcons -http://www.wikidata.org/entity/Q28205548
+Q28205479 -Amiga Workbench icon -http://www.wikidata.org/entity/Q28205479

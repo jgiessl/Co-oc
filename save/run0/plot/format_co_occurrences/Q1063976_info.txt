@@ -1,0 +1,14 @@
+Q1063976 -Truevision TGA -http://www.wikidata.org/entity/Q1063976
+
+###################################################################
+
+Q28205588 -PaintShop Pro Browser Cache -http://www.wikidata.org/entity/Q28205588
+Q28207227 -RIFF DIB -http://www.wikidata.org/entity/Q28207227
+Q741654 -DirectDraw Surface -http://www.wikidata.org/entity/Q741654
+Q29000691 -RayShade Scene Format -http://www.wikidata.org/entity/Q29000691
+Q28207355 -TrueVista -http://www.wikidata.org/entity/Q28207355
+Q73160161 -Visio Drawing Template -http://www.wikidata.org/entity/Q73160161
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q29000715 -Unreal model data file -http://www.wikidata.org/entity/Q29000715
+Q29000718 -Unreal model aniv file -http://www.wikidata.org/entity/Q29000718
+Q6715113 -MD3 -http://www.wikidata.org/entity/Q6715113

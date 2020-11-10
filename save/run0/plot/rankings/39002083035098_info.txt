@@ -1,0 +1,17 @@
+39002083035098
+number of files:  90
+number of files with unknown format: 27
+number of files with known format: 63
+contained formats: 
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q53756551 -git packfile index, version 2 -http://www.wikidata.org/entity/Q53756551
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q751800 -TrueType Font -http://www.wikidata.org/entity/Q751800
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q53756539 -git packfile index, version 1 -http://www.wikidata.org/entity/Q53756539
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q27979378 -VobSub index -http://www.wikidata.org/entity/Q27979378

@@ -1,0 +1,14 @@
+Q1093556 -eXtensible ARchive format -http://www.wikidata.org/entity/Q1093556
+
+##############################################################################
+
+Q8043148 -Xara Flare -http://www.wikidata.org/entity/Q8043148
+Q8043144 -Xar -http://www.wikidata.org/entity/Q8043144
+Q29000616 -Google Chrome Extension -http://www.wikidata.org/entity/Q29000616
+Q1546911 -Cross-Platform Installer Module -http://www.wikidata.org/entity/Q1546911
+Q795136 -Alembic -http://www.wikidata.org/entity/Q795136
+Q27866077 -ABC notation, version 2.1 -http://www.wikidata.org/entity/Q27866077
+Q27866075 -ABC notation, version 1.6 -http://www.wikidata.org/entity/Q27866075
+Q27866076 -ABC notation, version 2.0 -http://www.wikidata.org/entity/Q27866076
+Q751800 -TrueType Font -http://www.wikidata.org/entity/Q751800
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920

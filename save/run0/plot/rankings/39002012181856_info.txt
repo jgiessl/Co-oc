@@ -1,0 +1,97 @@
+39002012181856
+number of files:  318
+number of files with unknown format: 60
+number of files with known format: 258
+contained formats: 
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q61971919 -Microsoft Visual FoxPro Database Table File -http://www.wikidata.org/entity/Q61971919
+Q751800 -TrueType Font -http://www.wikidata.org/entity/Q751800
+Q50223812 -Bluetooth Snoop Packet Capture -http://www.wikidata.org/entity/Q50223812
+Q777561 -BinHex -http://www.wikidata.org/entity/Q777561
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q49799747 -Adobe Portable Document Catalog Index File, version 3.2 -http://www.wikidata.org/entity/Q49799747
+Q61971917 -FoxPro Database, version 2x -http://www.wikidata.org/entity/Q61971917
+Q48021763 -Microsoft Access Database, version 2002 -http://www.wikidata.org/entity/Q48021763
+Q27979378 -VobSub index -http://www.wikidata.org/entity/Q27979378
+Q194831 -Cabinet -http://www.wikidata.org/entity/Q194831
+Q47233167 -LDR -http://www.wikidata.org/entity/Q47233167
+Q34310996 -Security Catalog -http://www.wikidata.org/entity/Q34310996
+Q28755628 -Exact Yearbook LST file -http://www.wikidata.org/entity/Q28755628
+Q48004607 -Microsoft Access Database, version 2 -http://www.wikidata.org/entity/Q48004607
+Q28755606 -Exact Yearbook DAT file -http://www.wikidata.org/entity/Q28755606
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q52834849 -dBASE for Windows database, version 5 -http://www.wikidata.org/entity/Q52834849
+Q27979278 -TheDraw Fonts File -http://www.wikidata.org/entity/Q27979278
+Q66134814 -Access Add-in file format -http://www.wikidata.org/entity/Q66134814
+Q49798739 -Adobe Portable Document Catalog Index File, version 3 -http://www.wikidata.org/entity/Q49798739
+Q28009496 -Zelda Solarus DX saved game -http://www.wikidata.org/entity/Q28009496
+Q32097899 -Fallout v2 DAT -http://www.wikidata.org/entity/Q32097899
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q29000741 -WorldBuilder -http://www.wikidata.org/entity/Q29000741
+Q83964875 -Microsoft Access Workgroup Information File -http://www.wikidata.org/entity/Q83964875
+Q81526237 -MapInfo MapBasic tabular DataBase -http://www.wikidata.org/entity/Q81526237
+Q49798508 -Adobe Portable Document Catalog Index File, version 2 -http://www.wikidata.org/entity/Q49798508
+Q34747804 -Supaplex Level format -http://www.wikidata.org/entity/Q34747804
+Q6753724 -MapInfo TAB format -http://www.wikidata.org/entity/Q6753724
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q81526528 -MicroStation Resource data -http://www.wikidata.org/entity/Q81526528
+Q81526664 -Palm Desktop DateBook -http://www.wikidata.org/entity/Q81526664
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q6912474 -Mork -http://www.wikidata.org/entity/Q6912474
+Q32097740 -Fallout DAT -http://www.wikidata.org/entity/Q32097740
+Q58335773 -Verity Collection Stop List -http://www.wikidata.org/entity/Q58335773
+Q29904540 -Statistical Analysis System log file -http://www.wikidata.org/entity/Q29904540
+Q27979410 -Binary Text -http://www.wikidata.org/entity/Q27979410
+Q3509055 -STEP file -http://www.wikidata.org/entity/Q3509055
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q3513566 -tab-separated values -http://www.wikidata.org/entity/Q3513566
+Q5448342 -File change log -http://www.wikidata.org/entity/Q5448342
+Q5421818 -Extended Log Format -http://www.wikidata.org/entity/Q5421818
+Q28207108 -The Print Shop Graphics file -http://www.wikidata.org/entity/Q28207108
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q28758102 -InstallShield CAB -http://www.wikidata.org/entity/Q28758102
+Q28206952 -PhotoDeluxe -http://www.wikidata.org/entity/Q28206952
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q28055391 -Printfox bitmap -http://www.wikidata.org/entity/Q28055391
+Q66439259 -WordPerfect Merge Data file format -http://www.wikidata.org/entity/Q66439259
+Q48106551 -DataFlex Query Tag Name -http://www.wikidata.org/entity/Q48106551
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q28758112 -Internet Explorer history file -http://www.wikidata.org/entity/Q28758112
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q1601331 -Transport-Neutral Encapsulation Format -http://www.wikidata.org/entity/Q1601331
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q29650304 -PRT scene description -http://www.wikidata.org/entity/Q29650304
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q44933672 -dBASE IV -http://www.wikidata.org/entity/Q44933672
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q53756551 -git packfile index, version 2 -http://www.wikidata.org/entity/Q53756551
+Q27967388 -Adlib Tracker instrument -http://www.wikidata.org/entity/Q27967388
+Q29904539 -Statistical Analysis System output file -http://www.wikidata.org/entity/Q29904539
+Q48005022 -Microsoft Access Database, version 95 -http://www.wikidata.org/entity/Q48005022
+Q58335745 -Acrobat Catalog Cat File -http://www.wikidata.org/entity/Q58335745
+Q27487130 -Shapefile dBASE table -http://www.wikidata.org/entity/Q27487130
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626
+Q28049770 -DKBTrace scene description -http://www.wikidata.org/entity/Q28049770
+Q48004869 -Microsoft Access Database, version 95 -http://www.wikidata.org/entity/Q48004869
+Q5153426 -Common Log Format -http://www.wikidata.org/entity/Q5153426
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q27967181 -Farandole Composer pattern -http://www.wikidata.org/entity/Q27967181
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521
+Q47012412 -FoxPro Memo file format -http://www.wikidata.org/entity/Q47012412
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q53756539 -git packfile index, version 1 -http://www.wikidata.org/entity/Q53756539
+Q60628005 -FoxPro Database, version 2 -http://www.wikidata.org/entity/Q60628005
+Q58103465 -Adobe Font List -http://www.wikidata.org/entity/Q58103465
+Q29000651 -WLD -http://www.wikidata.org/entity/Q29000651
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q49799499 -Adobe Portable Document Catalog Index File, version 3.1 -http://www.wikidata.org/entity/Q49799499
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400
+Q28206565 -MicroDesign Area -http://www.wikidata.org/entity/Q28206565
+Q48021588 -Microsoft Access Database, version 2000 -http://www.wikidata.org/entity/Q48021588
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q34746769 -STATISTICA Report File -http://www.wikidata.org/entity/Q34746769
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156

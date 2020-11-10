@@ -1,0 +1,14 @@
+Q50419912 -AutoShade Rendering Slide -http://www.wikidata.org/entity/Q50419912
+
+################################################################################
+
+Q7339262 -RoadXML -http://www.wikidata.org/entity/Q7339262
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q921122 -Java archive -http://www.wikidata.org/entity/Q921122
+Q28445577 -Advanced Authoring System -http://www.wikidata.org/entity/Q28445577
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q28771319 -Microsoft Library -http://www.wikidata.org/entity/Q28771319

@@ -1,0 +1,14 @@
+Q28206135 -Fractint FRA -http://www.wikidata.org/entity/Q28206135
+
+###################################################################
+
+Q34312361 -Macromedia Director, uncompressed Macintosh variant -http://www.wikidata.org/entity/Q34312361
+Q27923693 -DTED Cells Directory File -http://www.wikidata.org/entity/Q27923693
+Q34312151 -Macromedia Director, uncompressed PC variant -http://www.wikidata.org/entity/Q34312151
+Q27925722 -DTED Level 1 Gazetteer Directory file -http://www.wikidata.org/entity/Q27925722
+Q29000499 -OrCAD schematic -http://www.wikidata.org/entity/Q29000499
+Q34305425 -Scheme script -http://www.wikidata.org/entity/Q34305425
+Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
+Q1023647 -Microsoft Compiled HTML Help -http://www.wikidata.org/entity/Q1023647
+Q55394748 -ChemDraw file -http://www.wikidata.org/entity/Q55394748
+Q28347555 -IBM Audio Visual Connection (AVC) Still Video Image -http://www.wikidata.org/entity/Q28347555

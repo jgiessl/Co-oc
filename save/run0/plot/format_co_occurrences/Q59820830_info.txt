@@ -1,0 +1,14 @@
+Q59820830 -Corel Presentation Exchange File -http://www.wikidata.org/entity/Q59820830
+
+#######################################################################################
+
+Q59820792 -Corel Presentation Exchange File -http://www.wikidata.org/entity/Q59820792
+Q18653981 -Standard Delay Format -http://www.wikidata.org/entity/Q18653981
+Q79241919 -ASCII Color Format -http://www.wikidata.org/entity/Q79241919
+Q28551319 -Adobe Custom Kernel File -http://www.wikidata.org/entity/Q28551319
+Q60615282 -Write for Windows Document, version 3 -http://www.wikidata.org/entity/Q60615282
+Q27526866 -Write for Windows Document, version 3.1 -http://www.wikidata.org/entity/Q27526866
+Q49243488 -License file -http://www.wikidata.org/entity/Q49243488
+Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412

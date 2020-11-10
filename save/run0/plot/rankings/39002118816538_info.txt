@@ -1,0 +1,9 @@
+39002118816538
+number of files:  17
+number of files with unknown format: 0
+number of files with known format: 17
+contained formats: 
+Q98815369 -Microsoft Access Database Link -http://www.wikidata.org/entity/Q98815369
+Q27979388 -AAE sidecar format -http://www.wikidata.org/entity/Q27979388
+Q178051 -Portable Network Graphics -http://www.wikidata.org/entity/Q178051
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669

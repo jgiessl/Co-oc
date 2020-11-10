@@ -1,0 +1,21 @@
+39002041996084
+number of files:  5258
+number of files with unknown format: 174
+number of files with known format: 5084
+contained formats: 
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q28600256 -ASCII Encoded HP 48 Object -http://www.wikidata.org/entity/Q28600256
+Q29650330 -PGP public key -http://www.wikidata.org/entity/Q29650330
+Q27349828 -ESRI Arc/Info ASCII Grid -http://www.wikidata.org/entity/Q27349828
+Q28049670 -Autodesk 3D Studio ASCII format -http://www.wikidata.org/entity/Q28049670
+Q62619688 -7-bit ASCII Text -http://www.wikidata.org/entity/Q62619688
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q27967116 -ASC Sound Master module -http://www.wikidata.org/entity/Q27967116
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q63036182 -8-bit ASCII Text -http://www.wikidata.org/entity/Q63036182
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q218170 -PostScript -http://www.wikidata.org/entity/Q218170

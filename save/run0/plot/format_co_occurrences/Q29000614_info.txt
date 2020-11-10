@@ -1,0 +1,14 @@
+Q29000614 -Resource File -http://www.wikidata.org/entity/Q29000614
+
+####################################################################
+
+Q29650305 -PSI-MI XML -http://www.wikidata.org/entity/Q29650305
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q34737296 -Skencil SK -http://www.wikidata.org/entity/Q34737296
+Q28771319 -Microsoft Library -http://www.wikidata.org/entity/Q28771319
+Q6043826 -Intellifont -http://www.wikidata.org/entity/Q6043826
+Q29000498 -OrCAD library -http://www.wikidata.org/entity/Q29000498
+Q34284437 -Pascal script -http://www.wikidata.org/entity/Q34284437
+Q2138624 -registry file -http://www.wikidata.org/entity/Q2138624
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366

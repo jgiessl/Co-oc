@@ -1,0 +1,89 @@
+39002060320794
+number of files:  2252
+number of files with unknown format: 907
+number of files with known format: 1345
+contained formats: 
+Q61971919 -Microsoft Visual FoxPro Database Table File -http://www.wikidata.org/entity/Q61971919
+Q28049670 -Autodesk 3D Studio ASCII format -http://www.wikidata.org/entity/Q28049670
+Q61641368 -Microsoft Word for Windows Document, version 2 -http://www.wikidata.org/entity/Q61641368
+Q61971917 -FoxPro Database, version 2x -http://www.wikidata.org/entity/Q61971917
+Q61639409 -Microsoft Word for Windows Document, version 1 -http://www.wikidata.org/entity/Q61639409
+Q47233167 -LDR -http://www.wikidata.org/entity/Q47233167
+Q85413178 -PTGui Project File 10 -http://www.wikidata.org/entity/Q85413178
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q28755606 -Exact Yearbook DAT file -http://www.wikidata.org/entity/Q28755606
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q28600256 -ASCII Encoded HP 48 Object -http://www.wikidata.org/entity/Q28600256
+Q52834849 -dBASE for Windows database, version 5 -http://www.wikidata.org/entity/Q52834849
+Q60000066 -Microsoft Office Owner File -http://www.wikidata.org/entity/Q60000066
+Q48782238 -Microsoft Word for MS-DOS Document, version 5 -http://www.wikidata.org/entity/Q48782238
+Q28009496 -Zelda Solarus DX saved game -http://www.wikidata.org/entity/Q28009496
+Q686498 -doc -http://www.wikidata.org/entity/Q686498
+Q61984341 -Microsoft Visual FoxPro database container (memo files) -http://www.wikidata.org/entity/Q61984341
+Q27967116 -ASC Sound Master module -http://www.wikidata.org/entity/Q27967116
+Q28600483 -DSK (CPCEMU) -http://www.wikidata.org/entity/Q28600483
+Q32097899 -Fallout v2 DAT -http://www.wikidata.org/entity/Q32097899
+Q28858039 -Word Binary File Format, version nFibNew=0x00D9 -http://www.wikidata.org/entity/Q28858039
+Q28858037 -Word Binary File Format, version nFib=0x00C0 -http://www.wikidata.org/entity/Q28858037
+Q28347555 -IBM Audio Visual Connection (AVC) Still Video Image -http://www.wikidata.org/entity/Q28347555
+Q81526237 -MapInfo MapBasic tabular DataBase -http://www.wikidata.org/entity/Q81526237
+Q34747804 -Supaplex Level format -http://www.wikidata.org/entity/Q34747804
+Q28206625 -MSX BASIC graphics -http://www.wikidata.org/entity/Q28206625
+Q28858041 -Word Binary File Format, version nFibNew=0x0101 -http://www.wikidata.org/entity/Q28858041
+Q63036182 -8-bit ASCII Text -http://www.wikidata.org/entity/Q63036182
+Q81526528 -MicroStation Resource data -http://www.wikidata.org/entity/Q81526528
+Q28858038 -Word Binary File Format, version nFib=0x00C2 -http://www.wikidata.org/entity/Q28858038
+Q28858042 -Word Binary File Format, version nFibNew=0x010C -http://www.wikidata.org/entity/Q28858042
+Q81526664 -Palm Desktop DateBook -http://www.wikidata.org/entity/Q81526664
+Q28600482 -DSK (Apple II) -http://www.wikidata.org/entity/Q28600482
+Q6912474 -Mork -http://www.wikidata.org/entity/Q6912474
+Q32097740 -Fallout DAT -http://www.wikidata.org/entity/Q32097740
+Q51801746 -Stationery for Mac OS X -http://www.wikidata.org/entity/Q51801746
+Q27979410 -Binary Text -http://www.wikidata.org/entity/Q27979410
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830
+Q28975874 -OOGL TLIST Group file -http://www.wikidata.org/entity/Q28975874
+Q34745761 -StarCraft group file -http://www.wikidata.org/entity/Q34745761
+Q48782202 -Microsoft Word for MS-DOS Document, version 4 -http://www.wikidata.org/entity/Q48782202
+Q28858035 -Word Binary File Format, version nFib=0x00C1 -http://www.wikidata.org/entity/Q28858035
+Q63061396 -Microsoft Word Document -http://www.wikidata.org/entity/Q63061396
+Q28207108 -The Print Shop Graphics file -http://www.wikidata.org/entity/Q28207108
+Q62619688 -7-bit ASCII Text -http://www.wikidata.org/entity/Q62619688
+Q28055391 -Printfox bitmap -http://www.wikidata.org/entity/Q28055391
+Q66439259 -WordPerfect Merge Data file format -http://www.wikidata.org/entity/Q66439259
+Q28858044 -Word Binary File Format, version nFibNew=0x0112 -http://www.wikidata.org/entity/Q28858044
+Q2138624 -registry file -http://www.wikidata.org/entity/Q2138624
+Q63061514 -Microsoft Word Document, version 97-2003 -http://www.wikidata.org/entity/Q63061514
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q28758112 -Internet Explorer history file -http://www.wikidata.org/entity/Q28758112
+Q27960082 -DCT -http://www.wikidata.org/entity/Q27960082
+Q1601331 -Transport-Neutral Encapsulation Format -http://www.wikidata.org/entity/Q1601331
+Q29650304 -PRT scene description -http://www.wikidata.org/entity/Q29650304
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q27349828 -ESRI Arc/Info ASCII Grid -http://www.wikidata.org/entity/Q27349828
+Q44933672 -dBASE IV -http://www.wikidata.org/entity/Q44933672
+Q85621726 -PFS:First Choice Document -http://www.wikidata.org/entity/Q85621726
+Q81192187 -Microsoft Border art -http://www.wikidata.org/entity/Q81192187
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q85621806 -PFS:First Choice Document 3 -http://www.wikidata.org/entity/Q85621806
+Q85413270 -PTGui Project File 11 -http://www.wikidata.org/entity/Q85413270
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q27487130 -Shapefile dBASE table -http://www.wikidata.org/entity/Q27487130
+Q66439286 -DisplayWrite Document file format, version 5 -http://www.wikidata.org/entity/Q66439286
+Q48915661 -Interleaf Document -http://www.wikidata.org/entity/Q48915661
+Q28049770 -DKBTrace scene description -http://www.wikidata.org/entity/Q28049770
+Q62664735 -Wordperfect Secondary File, version 5.1 and 5.2 -http://www.wikidata.org/entity/Q62664735
+Q48782394 -Microsoft Word for MS-DOS Document, version 5.5 -http://www.wikidata.org/entity/Q48782394
+Q29650330 -PGP public key -http://www.wikidata.org/entity/Q29650330
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521
+Q29650305 -PSI-MI XML -http://www.wikidata.org/entity/Q29650305
+Q60628005 -FoxPro Database, version 2 -http://www.wikidata.org/entity/Q60628005
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q48782098 -Microsoft Word for MS-DOS Document, version 3 -http://www.wikidata.org/entity/Q48782098
+Q28755621 -Exact Yearbook ID file -http://www.wikidata.org/entity/Q28755621
+Q3596396 -MDX -http://www.wikidata.org/entity/Q3596396
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400
+Q28975654 -Recon Points -http://www.wikidata.org/entity/Q28975654
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q27966906 -MDX -http://www.wikidata.org/entity/Q27966906
+Q60628185 -Wordperfect Secondary File, version 5 -http://www.wikidata.org/entity/Q60628185
+Q28344823 -Debian source control file -http://www.wikidata.org/entity/Q28344823

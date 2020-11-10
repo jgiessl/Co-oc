@@ -1,0 +1,14 @@
+Q55429287 -Python bytecode, version 2.5 -http://www.wikidata.org/entity/Q55429287
+
+###################################################################################
+
+Q55429163 -Python bytecode, version 2.7 -http://www.wikidata.org/entity/Q55429163
+Q55429313 -Python bytecode, version 3.0 -http://www.wikidata.org/entity/Q55429313
+Q55429382 -Python bytecode, version 3.6 -http://www.wikidata.org/entity/Q55429382
+Q55429254 -Python bytecode, version 2.3 -http://www.wikidata.org/entity/Q55429254
+Q55429419 -Python bytecode, version 3.7 -http://www.wikidata.org/entity/Q55429419
+Q55429332 -Python bytecode, version 3.1 -http://www.wikidata.org/entity/Q55429332
+Q55429271 -Python bytecode, version 2.4 -http://www.wikidata.org/entity/Q55429271
+Q55429372 -Python bytecode, version 3.5 -http://www.wikidata.org/entity/Q55429372
+Q55429245 -Python bytecode, version 2.2 -http://www.wikidata.org/entity/Q55429245
+Q55429341 -Python bytecode, version 3.2 -http://www.wikidata.org/entity/Q55429341

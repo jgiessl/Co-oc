@@ -1,0 +1,14 @@
+Q29000691 -RayShade Scene Format -http://www.wikidata.org/entity/Q29000691
+
+############################################################################
+
+Q1063976 -Truevision TGA -http://www.wikidata.org/entity/Q1063976
+Q6753724 -MapInfo TAB format -http://www.wikidata.org/entity/Q6753724
+Q3513566 -tab-separated values -http://www.wikidata.org/entity/Q3513566
+Q28975875 -OOGL TLIST Projective file -http://www.wikidata.org/entity/Q28975875
+Q27823195 -Binary Terrain External Projection file -http://www.wikidata.org/entity/Q27823195
+Q29465378 -UltraEdit project file -http://www.wikidata.org/entity/Q29465378
+Q27487424 -Shapefile projections definitions file -http://www.wikidata.org/entity/Q27487424
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q28205862 -CompW -http://www.wikidata.org/entity/Q28205862
+Q27967108 -STOS memory bank -http://www.wikidata.org/entity/Q27967108

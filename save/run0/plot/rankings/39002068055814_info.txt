@@ -1,0 +1,38 @@
+39002068055814
+number of files:  95
+number of files with unknown format: 2
+number of files with known format: 93
+contained formats: 
+Q61971919 -Microsoft Visual FoxPro Database Table File -http://www.wikidata.org/entity/Q61971919
+Q29650330 -PGP public key -http://www.wikidata.org/entity/Q29650330
+Q28049670 -Autodesk 3D Studio ASCII format -http://www.wikidata.org/entity/Q28049670
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q63036182 -8-bit ASCII Text -http://www.wikidata.org/entity/Q63036182
+Q47539061 -AutoCAD dbConnect Template Set -http://www.wikidata.org/entity/Q47539061
+Q61971917 -FoxPro Database, version 2x -http://www.wikidata.org/entity/Q61971917
+Q60628005 -FoxPro Database, version 2 -http://www.wikidata.org/entity/Q60628005
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q27349828 -ESRI Arc/Info ASCII Grid -http://www.wikidata.org/entity/Q27349828
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q382011 -Program information file -http://www.wikidata.org/entity/Q382011
+Q44933672 -dBASE IV -http://www.wikidata.org/entity/Q44933672
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q28600482 -DSK (Apple II) -http://www.wikidata.org/entity/Q28600482
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q28600256 -ASCII Encoded HP 48 Object -http://www.wikidata.org/entity/Q28600256
+Q52834849 -dBASE for Windows database, version 5 -http://www.wikidata.org/entity/Q52834849
+Q28756196 -FWKCS NDX file -http://www.wikidata.org/entity/Q28756196
+Q27967116 -ASC Sound Master module -http://www.wikidata.org/entity/Q27967116
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q28600483 -DSK (CPCEMU) -http://www.wikidata.org/entity/Q28600483
+Q368782 -LHA -http://www.wikidata.org/entity/Q368782
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q27487130 -Shapefile dBASE table -http://www.wikidata.org/entity/Q27487130
+Q62619688 -7-bit ASCII Text -http://www.wikidata.org/entity/Q62619688
+Q3888665 -Package interchange format -http://www.wikidata.org/entity/Q3888665
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q48809727 -dBASE Text Memo -http://www.wikidata.org/entity/Q48809727

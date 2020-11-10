@@ -1,0 +1,14 @@
+Q47498745 -Adobe Illustrator file format, version 15 -http://www.wikidata.org/entity/Q47498745
+
+################################################################################################
+
+Q47498749 -Adobe Illustrator file format, version 16 -http://www.wikidata.org/entity/Q47498749
+Q47498552 -Adobe Illustrator file format, version 11 -http://www.wikidata.org/entity/Q47498552
+Q47498565 -Adobe Illustrator file format, version 13 -http://www.wikidata.org/entity/Q47498565
+Q47498538 -Adobe Illustrator file format, version 9 -http://www.wikidata.org/entity/Q47498538
+Q47498555 -Adobe Illustrator file format, version 12 -http://www.wikidata.org/entity/Q47498555
+Q47498547 -Adobe Illustrator file format, version 10 -http://www.wikidata.org/entity/Q47498547
+Q47498736 -Adobe Illustrator file format, version 14 -http://www.wikidata.org/entity/Q47498736
+Q26541013 -Portable Document Format/Archive, version 1 Accessible -http://www.wikidata.org/entity/Q26541013
+Q29946121 -Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant -http://www.wikidata.org/entity/Q29946121
+Q26548590 -Portable Document Format/Archive, version 3 Basic -http://www.wikidata.org/entity/Q26548590

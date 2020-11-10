@@ -1,0 +1,14 @@
+Q72198666 -dBASE IV Label design file format -http://www.wikidata.org/entity/Q72198666
+
+########################################################################################
+
+Q67124083 -Print Artist label file format -http://www.wikidata.org/entity/Q67124083
+Q28206883 -Planetary Data System -http://www.wikidata.org/entity/Q28206883
+Q89029185 -American Greetings Project 10-23 -http://www.wikidata.org/entity/Q89029185
+Q28975647 -POV-Ray RAW triangle format -http://www.wikidata.org/entity/Q28975647
+Q59608283 -KryoFlux -http://www.wikidata.org/entity/Q59608283
+Q28205418 -Panasonic RAW/RW2 -http://www.wikidata.org/entity/Q28205418
+Q59608340 -KryoFlux -http://www.wikidata.org/entity/Q59608340
+Q29650303 -PSRFITS -http://www.wikidata.org/entity/Q29650303
+Q29000561 -Kryoflux Stream -http://www.wikidata.org/entity/Q29000561
+Q28206284 -IBM KIPS palette -http://www.wikidata.org/entity/Q28206284

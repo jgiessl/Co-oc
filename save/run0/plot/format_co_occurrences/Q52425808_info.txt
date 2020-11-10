@@ -1,0 +1,14 @@
+Q52425808 -Vista Pro Graphics -http://www.wikidata.org/entity/Q52425808
+
+#########################################################################
+
+Q7866417 -USGS DEM -http://www.wikidata.org/entity/Q7866417
+Q95994878 -Canadian digital elevation data format -http://www.wikidata.org/entity/Q95994878
+Q29650311 -POV-Ray scene description -http://www.wikidata.org/entity/Q29650311
+Q34284437 -Pascal script -http://www.wikidata.org/entity/Q34284437
+Q81192089 -Infinity Engine Compiled Script -http://www.wikidata.org/entity/Q81192089
+Q27967349 -iTunes Music Library, binary variant -http://www.wikidata.org/entity/Q27967349
+Q1983918 -Nexus file -http://www.wikidata.org/entity/Q1983918
+Q27967406 -Reality AdLib Tracker module -http://www.wikidata.org/entity/Q27967406
+Q28205983 -Radiance Scene Description -http://www.wikidata.org/entity/Q28205983
+Q18245359 -Control Panel Applet -http://www.wikidata.org/entity/Q18245359

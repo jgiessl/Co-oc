@@ -1,0 +1,18 @@
+39002068039982
+number of files:  253
+number of files with unknown format: 1
+number of files with known format: 252
+contained formats: 
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246

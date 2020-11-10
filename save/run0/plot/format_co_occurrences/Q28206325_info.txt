@@ -1,0 +1,14 @@
+Q28206325 -Img Software Set Image Attributes -http://www.wikidata.org/entity/Q28206325
+
+########################################################################################
+
+Q27824053 -ar, AIX small archive format variant -http://www.wikidata.org/entity/Q27824053
+Q27824032 -ar, Sixth Edition Unix variant -http://www.wikidata.org/entity/Q27824032
+Q27824056 -ar, Coherent variant -http://www.wikidata.org/entity/Q27824056
+Q27824050 -ar, AIX big archive format variant -http://www.wikidata.org/entity/Q27824050
+Q27824019 -ar, System V variant -http://www.wikidata.org/entity/Q27824019
+Q27824015 -ar, BSD variant -http://www.wikidata.org/entity/Q27824015
+Q27824041 -ar, Seventh Edition Unix variant -http://www.wikidata.org/entity/Q27824041
+Q28207437 -Khoros Visualization image, version 1.0 -http://www.wikidata.org/entity/Q28207437
+Q28207441 -Khoros Visualization image, version 2.0 -http://www.wikidata.org/entity/Q28207441
+Q8041715 -XCOFF -http://www.wikidata.org/entity/Q8041715

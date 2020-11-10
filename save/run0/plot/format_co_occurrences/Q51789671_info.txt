@@ -1,0 +1,14 @@
+Q51789671 -AutoCAD External Database Configuration File -http://www.wikidata.org/entity/Q51789671
+
+###################################################################################################
+
+Q28205693 -Analyze AVW -http://www.wikidata.org/entity/Q28205693
+Q28205327 -CHDK raw -http://www.wikidata.org/entity/Q28205327
+Q3651247 -Camera Image File Format -http://www.wikidata.org/entity/Q3651247
+Q28205503 -GEM resource file -http://www.wikidata.org/entity/Q28205503
+Q21040945 -Digitrakker format -http://www.wikidata.org/entity/Q21040945
+Q48004607 -Microsoft Access Database, version 2 -http://www.wikidata.org/entity/Q48004607
+Q48004869 -Microsoft Access Database, version 95 -http://www.wikidata.org/entity/Q48004869
+Q48021763 -Microsoft Access Database, version 2002 -http://www.wikidata.org/entity/Q48021763
+Q48005022 -Microsoft Access Database, version 95 -http://www.wikidata.org/entity/Q48005022
+Q48021588 -Microsoft Access Database, version 2000 -http://www.wikidata.org/entity/Q48021588

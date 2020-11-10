@@ -1,0 +1,14 @@
+Q1072083 -Windows Metafile -http://www.wikidata.org/entity/Q1072083
+
+#####################################################################
+
+Q28600288 -ActiveMime -http://www.wikidata.org/entity/Q28600288
+Q28018479 -Windows Media Player Skin Package -http://www.wikidata.org/entity/Q28018479
+Q27967087 -Electronic Arts AS4/ASF Music -http://www.wikidata.org/entity/Q27967087
+Q379741 -Advanced Systems Format -http://www.wikidata.org/entity/Q379741
+Q27526739 -Graphics Interchange Format, version 89a -http://www.wikidata.org/entity/Q27526739
+Q2192 -Graphics Interchange Format -http://www.wikidata.org/entity/Q2192
+Q27526733 -Graphics Interchange Format, version 87a -http://www.wikidata.org/entity/Q27526733
+Q178051 -Portable Network Graphics -http://www.wikidata.org/entity/Q178051
+Q5924007 -JavaScript -http://www.wikidata.org/entity/Q5924007
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084

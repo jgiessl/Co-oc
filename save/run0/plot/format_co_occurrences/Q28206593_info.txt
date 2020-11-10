@@ -1,0 +1,14 @@
+Q28206593 -MSX Interchange Format -http://www.wikidata.org/entity/Q28206593
+
+#############################################################################
+
+Q1886335 -Maker Interchange Format -http://www.wikidata.org/entity/Q1886335
+Q6746668 -Management Information Format -http://www.wikidata.org/entity/Q6746668
+Q6731061 -Magick Image File Format -http://www.wikidata.org/entity/Q6731061
+Q1381134 -MapInfo Interchange Format -http://www.wikidata.org/entity/Q1381134
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q28206138 -Freedom of Press Info -http://www.wikidata.org/entity/Q28206138
+Q28206147 -Freedom of Press Bitamp -http://www.wikidata.org/entity/Q28206147
+Q66686421 -Microsoft Works Word Processor 1-3 for DOS and 2 for Windows -http://www.wikidata.org/entity/Q66686421
+Q28771324 -Microsoft Works Spreadsheet -http://www.wikidata.org/entity/Q28771324
+Q63344874 -Microsoft Works Word Processor 5-6 -http://www.wikidata.org/entity/Q63344874

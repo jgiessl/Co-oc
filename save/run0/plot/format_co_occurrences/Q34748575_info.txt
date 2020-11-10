@@ -1,0 +1,14 @@
+Q34748575 -Thermo-Calc Database Format -http://www.wikidata.org/entity/Q34748575
+
+##################################################################################
+
+Q66689208 -Access Database (Pocket Access for Windows CE) -http://www.wikidata.org/entity/Q66689208
+Q375296 -ICC profile -http://www.wikidata.org/entity/Q375296
+Q28205846 -ColoRIX -http://www.wikidata.org/entity/Q28205846
+Q1381134 -MapInfo Interchange Format -http://www.wikidata.org/entity/Q1381134
+Q28207499 -Windows Device-Dependent Bitmap -http://www.wikidata.org/entity/Q28207499
+Q27979278 -TheDraw Fonts File -http://www.wikidata.org/entity/Q27979278
+Q3552930 -VGM -http://www.wikidata.org/entity/Q3552930
+Q28206866 -PCPaint clipping format -http://www.wikidata.org/entity/Q28206866
+Q27979381 -Blu-ray Clip info -http://www.wikidata.org/entity/Q27979381
+Q27967142 -Digitrakker sample -http://www.wikidata.org/entity/Q27967142

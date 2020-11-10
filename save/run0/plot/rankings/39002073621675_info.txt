@@ -1,0 +1,72 @@
+39002073621675
+number of files:  435
+number of files with unknown format: 15
+number of files with known format: 420
+contained formats: 
+Q28858044 -Word Binary File Format, version nFibNew=0x0112 -http://www.wikidata.org/entity/Q28858044
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q48782394 -Microsoft Word for MS-DOS Document, version 5.5 -http://www.wikidata.org/entity/Q48782394
+Q50223812 -Bluetooth Snoop Packet Capture -http://www.wikidata.org/entity/Q50223812
+Q63061514 -Microsoft Word Document, version 97-2003 -http://www.wikidata.org/entity/Q63061514
+Q28786544 -Netscape bookmarks -http://www.wikidata.org/entity/Q28786544
+Q28858041 -Word Binary File Format, version nFibNew=0x0101 -http://www.wikidata.org/entity/Q28858041
+Q8811 -HyperText Markup Language -http://www.wikidata.org/entity/Q8811
+Q61641368 -Microsoft Word for Windows Document, version 2 -http://www.wikidata.org/entity/Q61641368
+Q28771220 -MAT-file, Level 5, version 7 -http://www.wikidata.org/entity/Q28771220
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q61639409 -Microsoft Word for Windows Document, version 1 -http://www.wikidata.org/entity/Q61639409
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q28771107 -MAT-file, Level 4 -http://www.wikidata.org/entity/Q28771107
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q28858038 -Word Binary File Format, version nFib=0x00C2 -http://www.wikidata.org/entity/Q28858038
+Q28858042 -Word Binary File Format, version nFibNew=0x010C -http://www.wikidata.org/entity/Q28858042
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q48782098 -Microsoft Word for MS-DOS Document, version 3 -http://www.wikidata.org/entity/Q48782098
+Q1888930 -Vector Markup Language -http://www.wikidata.org/entity/Q1888930
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q62626012 -HyperText Markup Language -http://www.wikidata.org/entity/Q62626012
+Q85621726 -PFS:First Choice Document -http://www.wikidata.org/entity/Q85621726
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q51801746 -Stationery for Mac OS X -http://www.wikidata.org/entity/Q51801746
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q29904540 -Statistical Analysis System log file -http://www.wikidata.org/entity/Q29904540
+Q15938816 -MATLAB M-File -http://www.wikidata.org/entity/Q15938816
+Q24834502 -PowerPoint Binary File Format -http://www.wikidata.org/entity/Q24834502
+Q60000066 -Microsoft Office Owner File -http://www.wikidata.org/entity/Q60000066
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q48782238 -Microsoft Word for MS-DOS Document, version 5 -http://www.wikidata.org/entity/Q48782238
+Q48782202 -Microsoft Word for MS-DOS Document, version 4 -http://www.wikidata.org/entity/Q48782202
+Q5448342 -File change log -http://www.wikidata.org/entity/Q5448342
+Q686498 -doc -http://www.wikidata.org/entity/Q686498
+Q28858035 -Word Binary File Format, version nFib=0x00C1 -http://www.wikidata.org/entity/Q28858035
+Q2193155 -Java class file -http://www.wikidata.org/entity/Q2193155
+Q85621806 -PFS:First Choice Document 3 -http://www.wikidata.org/entity/Q85621806
+Q5924007 -JavaScript -http://www.wikidata.org/entity/Q5924007
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q63061396 -Microsoft Word Document -http://www.wikidata.org/entity/Q63061396
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q5421818 -Extended Log Format -http://www.wikidata.org/entity/Q5421818
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q28858039 -Word Binary File Format, version nFibNew=0x00D9 -http://www.wikidata.org/entity/Q28858039
+Q28858037 -Word Binary File Format, version nFib=0x00C0 -http://www.wikidata.org/entity/Q28858037
+Q60628185 -Wordperfect Secondary File, version 5 -http://www.wikidata.org/entity/Q60628185
+Q66439286 -DisplayWrite Document file format, version 5 -http://www.wikidata.org/entity/Q66439286
+Q48915661 -Interleaf Document -http://www.wikidata.org/entity/Q48915661
+Q28975650 -Recon Mesh -http://www.wikidata.org/entity/Q28975650
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q2053 -HTML5 -http://www.wikidata.org/entity/Q2053
+Q28771221 -MAT-file, Level 5, version 7.3 -http://www.wikidata.org/entity/Q28771221
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q166074 -Extensible HyperText Markup Language -http://www.wikidata.org/entity/Q166074
+Q28770728 -MAT-file, Level 5, version 6 -http://www.wikidata.org/entity/Q28770728
+Q5153426 -Common Log Format -http://www.wikidata.org/entity/Q5153426
+Q62664735 -Wordperfect Secondary File, version 5.1 and 5.2 -http://www.wikidata.org/entity/Q62664735
+Q28551390 -Adobe Selective Color File -http://www.wikidata.org/entity/Q28551390

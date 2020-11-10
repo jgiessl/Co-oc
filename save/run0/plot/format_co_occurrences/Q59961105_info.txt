@@ -1,0 +1,14 @@
+Q59961105 -InstallShield Compiled Rules File -http://www.wikidata.org/entity/Q59961105
+
+########################################################################################
+
+Q28207313 -Run length encoded True Colour Picture -http://www.wikidata.org/entity/Q28207313
+Q904680 -Multiple-image Network Graphics -http://www.wikidata.org/entity/Q904680
+Q34746769 -STATISTICA Report File -http://www.wikidata.org/entity/Q34746769
+Q27473691 -BIL/BIP/BSQ Header File -http://www.wikidata.org/entity/Q27473691
+Q28206310 -Analyze HDR -http://www.wikidata.org/entity/Q28206310
+Q47455968 -SafeGuard Encrypted Virtual Disk -http://www.wikidata.org/entity/Q47455968
+Q28758102 -InstallShield CAB -http://www.wikidata.org/entity/Q28758102
+Q3928271 -RGBE image format -http://www.wikidata.org/entity/Q3928271
+Q194831 -Cabinet -http://www.wikidata.org/entity/Q194831
+Q1882400 -MacBinary -http://www.wikidata.org/entity/Q1882400

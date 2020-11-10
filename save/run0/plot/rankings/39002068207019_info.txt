@@ -1,0 +1,89 @@
+39002068207019
+number of files:  3102
+number of files with unknown format: 0
+number of files with known format: 3102
+contained formats: 
+Q61971919 -Microsoft Visual FoxPro Database Table File -http://www.wikidata.org/entity/Q61971919
+Q50223812 -Bluetooth Snoop Packet Capture -http://www.wikidata.org/entity/Q50223812
+Q28049670 -Autodesk 3D Studio ASCII format -http://www.wikidata.org/entity/Q28049670
+Q28786544 -Netscape bookmarks -http://www.wikidata.org/entity/Q28786544
+Q8811 -HyperText Markup Language -http://www.wikidata.org/entity/Q8811
+Q61641368 -Microsoft Word for Windows Document, version 2 -http://www.wikidata.org/entity/Q61641368
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q61971917 -FoxPro Database, version 2x -http://www.wikidata.org/entity/Q61971917
+Q61639409 -Microsoft Word for Windows Document, version 1 -http://www.wikidata.org/entity/Q61639409
+Q1888930 -Vector Markup Language -http://www.wikidata.org/entity/Q1888930
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
+Q28600256 -ASCII Encoded HP 48 Object -http://www.wikidata.org/entity/Q28600256
+Q52834849 -dBASE for Windows database, version 5 -http://www.wikidata.org/entity/Q52834849
+Q60000066 -Microsoft Office Owner File -http://www.wikidata.org/entity/Q60000066
+Q48782238 -Microsoft Word for MS-DOS Document, version 5 -http://www.wikidata.org/entity/Q48782238
+Q686498 -doc -http://www.wikidata.org/entity/Q686498
+Q5924007 -JavaScript -http://www.wikidata.org/entity/Q5924007
+Q27967116 -ASC Sound Master module -http://www.wikidata.org/entity/Q27967116
+Q47923192 -Microsoft Word for Macintosh Document, version 5.0 -http://www.wikidata.org/entity/Q47923192
+Q28206109 -farbfeld -http://www.wikidata.org/entity/Q28206109
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q28858039 -Word Binary File Format, version nFibNew=0x00D9 -http://www.wikidata.org/entity/Q28858039
+Q29944776 -Rich Text Format, version 1.2 -http://www.wikidata.org/entity/Q29944776
+Q28858037 -Word Binary File Format, version nFib=0x00C0 -http://www.wikidata.org/entity/Q28858037
+Q2053 -HTML5 -http://www.wikidata.org/entity/Q2053
+Q29151645 -Research Articles in Simplified HTML -http://www.wikidata.org/entity/Q29151645
+Q28858041 -Word Binary File Format, version nFibNew=0x0101 -http://www.wikidata.org/entity/Q28858041
+Q63036182 -8-bit ASCII Text -http://www.wikidata.org/entity/Q63036182
+Q28858038 -Word Binary File Format, version nFib=0x00C2 -http://www.wikidata.org/entity/Q28858038
+Q28858042 -Word Binary File Format, version nFibNew=0x010C -http://www.wikidata.org/entity/Q28858042
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q62626012 -HyperText Markup Language -http://www.wikidata.org/entity/Q62626012
+Q29904540 -Statistical Analysis System log file -http://www.wikidata.org/entity/Q29904540
+Q51801746 -Stationery for Mac OS X -http://www.wikidata.org/entity/Q51801746
+Q48782202 -Microsoft Word for MS-DOS Document, version 4 -http://www.wikidata.org/entity/Q48782202
+Q5448342 -File change log -http://www.wikidata.org/entity/Q5448342
+Q28858035 -Word Binary File Format, version nFib=0x00C1 -http://www.wikidata.org/entity/Q28858035
+Q63061396 -Microsoft Word Document -http://www.wikidata.org/entity/Q63061396
+Q5421818 -Extended Log Format -http://www.wikidata.org/entity/Q5421818
+Q62619688 -7-bit ASCII Text -http://www.wikidata.org/entity/Q62619688
+Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
+Q61913376 -Microsoft Word for Macintosh Document, version 1 -http://www.wikidata.org/entity/Q61913376
+Q28858044 -Word Binary File Format, version nFibNew=0x0112 -http://www.wikidata.org/entity/Q28858044
+Q63061514 -Microsoft Word Document, version 97-2003 -http://www.wikidata.org/entity/Q63061514
+Q29944777 -Rich Text Format, version 1.3 -http://www.wikidata.org/entity/Q29944777
+Q29944773 -Rich Text Format, version 1.1 -http://www.wikidata.org/entity/Q29944773
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q29944782 -Rich Text Format, version 1.6 -http://www.wikidata.org/entity/Q29944782
+Q29944987 -Rich Text Format, version 0 -http://www.wikidata.org/entity/Q29944987
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q29944786 -Rich Text Format, version 1.9 -http://www.wikidata.org/entity/Q29944786
+Q27349828 -ESRI Arc/Info ASCII Grid -http://www.wikidata.org/entity/Q27349828
+Q17073241 -Opera Show Format -http://www.wikidata.org/entity/Q17073241
+Q44933672 -dBASE IV -http://www.wikidata.org/entity/Q44933672
+Q85621726 -PFS:First Choice Document -http://www.wikidata.org/entity/Q85621726
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q288405 -hOCR -http://www.wikidata.org/entity/Q288405
+Q47922896 -Microsoft Word for Macintosh Document, version 4.0 -http://www.wikidata.org/entity/Q47922896
+Q85621806 -PFS:First Choice Document 3 -http://www.wikidata.org/entity/Q85621806
+Q62664770 -WordPerfect for MS-DOS/Windows Document file format, version 6 -http://www.wikidata.org/entity/Q62664770
+Q27487130 -Shapefile dBASE table -http://www.wikidata.org/entity/Q27487130
+Q27526137 -Microsoft Word for Macintosh Document, version 3.0 -http://www.wikidata.org/entity/Q27526137
+Q673906 -Simple Standards-Based Slide Show System -http://www.wikidata.org/entity/Q673906
+Q66439286 -DisplayWrite Document file format, version 5 -http://www.wikidata.org/entity/Q66439286
+Q48915661 -Interleaf Document -http://www.wikidata.org/entity/Q48915661
+Q166074 -Extensible HyperText Markup Language -http://www.wikidata.org/entity/Q166074
+Q5153426 -Common Log Format -http://www.wikidata.org/entity/Q5153426
+Q62664735 -Wordperfect Secondary File, version 5.1 and 5.2 -http://www.wikidata.org/entity/Q62664735
+Q29944783 -Rich Text Format, version 1.7 -http://www.wikidata.org/entity/Q29944783
+Q48782394 -Microsoft Word for MS-DOS Document, version 5.5 -http://www.wikidata.org/entity/Q48782394
+Q29650330 -PGP public key -http://www.wikidata.org/entity/Q29650330
+Q52425710 -VisiCalc Database -http://www.wikidata.org/entity/Q52425710
+Q29944779 -Rich Text Format, version 1.4 -http://www.wikidata.org/entity/Q29944779
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521
+Q66439311 -Navy DIF -http://www.wikidata.org/entity/Q66439311
+Q60628005 -FoxPro Database, version 2 -http://www.wikidata.org/entity/Q60628005
+Q29944780 -Rich Text Format, version 1.5 -http://www.wikidata.org/entity/Q29944780
+Q48782098 -Microsoft Word for MS-DOS Document, version 3 -http://www.wikidata.org/entity/Q48782098
+Q29944785 -Rich Text Format, version 1.8 -http://www.wikidata.org/entity/Q29944785
+Q29944758 -Rich Text Format, version 1.0 -http://www.wikidata.org/entity/Q29944758
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q60628185 -Wordperfect Secondary File, version 5 -http://www.wikidata.org/entity/Q60628185
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084

@@ -1,0 +1,14 @@
+Q843084 -Microsoft Document Imaging Format -http://www.wikidata.org/entity/Q843084
+
+####################################################################################
+
+Q76515316 -MapInfo Workspace -http://www.wikidata.org/entity/Q76515316
+Q17029350 -Image Cytometry Standard -http://www.wikidata.org/entity/Q17029350
+Q34312361 -Macromedia Director, uncompressed Macintosh variant -http://www.wikidata.org/entity/Q34312361
+Q27923693 -DTED Cells Directory File -http://www.wikidata.org/entity/Q27923693
+Q34312151 -Macromedia Director, uncompressed PC variant -http://www.wikidata.org/entity/Q34312151
+Q27925722 -DTED Level 1 Gazetteer Directory file -http://www.wikidata.org/entity/Q27925722
+Q6753724 -MapInfo TAB format -http://www.wikidata.org/entity/Q6753724
+Q3513566 -tab-separated values -http://www.wikidata.org/entity/Q3513566
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953

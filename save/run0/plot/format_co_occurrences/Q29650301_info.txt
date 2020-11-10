@@ -1,0 +1,14 @@
+Q29650301 -Pack -http://www.wikidata.org/entity/Q29650301
+
+###########################################################
+
+Q28758103 -InstallShield Z -http://www.wikidata.org/entity/Q28758103
+Q29209269 -Z -http://www.wikidata.org/entity/Q29209269
+Q27960138 -SPPACK -http://www.wikidata.org/entity/Q27960138
+Q28206328 -Img Software Set Red Component -http://www.wikidata.org/entity/Q28206328
+Q28205727 -AVS X image -http://www.wikidata.org/entity/Q28205727
+Q4545483 -X File Format -http://www.wikidata.org/entity/Q4545483
+Q19599377 -AppleLink Package Compression Format -http://www.wikidata.org/entity/Q19599377
+Q28344713 -Package File -http://www.wikidata.org/entity/Q28344713
+Q28771319 -Microsoft Library -http://www.wikidata.org/entity/Q28771319
+Q6043826 -Intellifont -http://www.wikidata.org/entity/Q6043826

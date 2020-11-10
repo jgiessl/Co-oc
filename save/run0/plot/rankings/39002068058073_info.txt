@@ -1,0 +1,37 @@
+39002068058073
+number of files:  373
+number of files with unknown format: 26
+number of files with known format: 347
+contained formats: 
+Q61971919 -Microsoft Visual FoxPro Database Table File -http://www.wikidata.org/entity/Q61971919
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q729366 -ICO -http://www.wikidata.org/entity/Q729366
+Q87066066 -LEADToolsCompressed Image -http://www.wikidata.org/entity/Q87066066
+Q51954521 -Microsoft FoxPro Database, version 2.6 -http://www.wikidata.org/entity/Q51954521
+Q27979389 -NEOchrome Animation -http://www.wikidata.org/entity/Q27979389
+Q51954585 -dBASE Database -http://www.wikidata.org/entity/Q51954585
+Q28205580 -OS/2 Icon -http://www.wikidata.org/entity/Q28205580
+Q61971917 -FoxPro Database, version 2x -http://www.wikidata.org/entity/Q61971917
+Q60628005 -FoxPro Database, version 2 -http://www.wikidata.org/entity/Q60628005
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q217570 -Waveform Audio File Format -http://www.wikidata.org/entity/Q217570
+Q60628025 -FoxPro Database, version 2.5 -http://www.wikidata.org/entity/Q60628025
+Q28206359 -Intergraph Raster -http://www.wikidata.org/entity/Q28206359
+Q28206771 -OS/2 Bitmap Array -http://www.wikidata.org/entity/Q28206771
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q43869672 -PCX, version 3 -http://www.wikidata.org/entity/Q43869672
+Q535473 -PCX -http://www.wikidata.org/entity/Q535473
+Q44933672 -dBASE IV -http://www.wikidata.org/entity/Q44933672
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
+Q43866871 -PCX, version 2 -http://www.wikidata.org/entity/Q43866871
+Q52834849 -dBASE for Windows database, version 5 -http://www.wikidata.org/entity/Q52834849
+Q87066063 -LEADTools Lead 1Bit Compressed Image -http://www.wikidata.org/entity/Q87066063
+Q43870624 -PCX, version 5 -http://www.wikidata.org/entity/Q43870624
+Q10610388 -Standard MIDI File -http://www.wikidata.org/entity/Q10610388
+Q295711 -Windows Animated Cursor -http://www.wikidata.org/entity/Q295711
+Q479833 -ا تهكير لعبة ببجي -http://www.wikidata.org/entity/Q479833
+Q43870269 -PCX, version 4 -http://www.wikidata.org/entity/Q43870269
+Q27487130 -Shapefile dBASE table -http://www.wikidata.org/entity/Q27487130
+Q45350403 -Lotus 1-2-3 Spreadsheet Formatting File, version 2.3-2.4 -http://www.wikidata.org/entity/Q45350403
+Q28205626 -Sun icon -http://www.wikidata.org/entity/Q28205626

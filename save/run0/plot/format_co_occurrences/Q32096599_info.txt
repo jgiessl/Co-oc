@@ -1,0 +1,14 @@
+Q32096599 -Gran Turismo File System -http://www.wikidata.org/entity/Q32096599
+
+###############################################################################
+
+Q29000737 -Volume data format -http://www.wikidata.org/entity/Q29000737
+Q29000735 -VOL -http://www.wikidata.org/entity/Q29000735
+Q218170 -PostScript -http://www.wikidata.org/entity/Q218170
+Q47455968 -SafeGuard Encrypted Virtual Disk -http://www.wikidata.org/entity/Q47455968
+Q66689226 -Access Add-in Data -http://www.wikidata.org/entity/Q66689226
+Q2693033 -ARJ -http://www.wikidata.org/entity/Q2693033
+Q27863117 -AutoCAD Drawing, version 2.2 -http://www.wikidata.org/entity/Q27863117
+Q27863143 -AutoCAD Drawing, version 2013-2014 -http://www.wikidata.org/entity/Q27863143
+Q27863119 -AutoCAD Drawing, version 2.5 -http://www.wikidata.org/entity/Q27863119
+Q27863142 -AutoCAD Drawing, version 2010-2012 -http://www.wikidata.org/entity/Q27863142

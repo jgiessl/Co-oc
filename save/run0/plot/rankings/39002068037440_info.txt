@@ -1,0 +1,19 @@
+39002068037440
+number of files:  46
+number of files with unknown format: 0
+number of files with known format: 46
+contained formats: 
+Q27960038 -Windows Media Audio Lossless -http://www.wikidata.org/entity/Q27960038
+Q28018471 -MPEG-2 program stream -http://www.wikidata.org/entity/Q28018471
+Q28018470 -MPEG-1 program stream -http://www.wikidata.org/entity/Q28018470
+Q2194 -Windows Media Audio -http://www.wikidata.org/entity/Q2194
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q1067761 -Windows Media Audio 9 Lossless -http://www.wikidata.org/entity/Q1067761
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q336284 -MPEG-1 -http://www.wikidata.org/entity/Q336284
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q217570 -Waveform Audio File Format -http://www.wikidata.org/entity/Q217570

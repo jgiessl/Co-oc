@@ -1,0 +1,14 @@
+Q34285652 -Perl Common Gateway Interface script -http://www.wikidata.org/entity/Q34285652
+
+###########################################################################################
+
+Q34284525 -Perl script -http://www.wikidata.org/entity/Q34284525
+Q66310989 -Pantry Files -http://www.wikidata.org/entity/Q66310989
+Q279254 -a.out -http://www.wikidata.org/entity/Q279254
+Q5322705 -Extended Common Object File Format -http://www.wikidata.org/entity/Q5322705
+Q8041715 -XCOFF -http://www.wikidata.org/entity/Q8041715
+Q2627217 -Mach-O -http://www.wikidata.org/entity/Q2627217
+Q1817318 -X BitMap -http://www.wikidata.org/entity/Q1817318
+Q1570391 -Uuencoding -http://www.wikidata.org/entity/Q1570391
+Q28207158 -Puzzle image -http://www.wikidata.org/entity/Q28207158
+Q61963304 -Microsoft Front Page Binary Tree Index -http://www.wikidata.org/entity/Q61963304

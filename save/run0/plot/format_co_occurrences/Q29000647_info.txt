@@ -1,0 +1,14 @@
+Q29000647 -PLG -http://www.wikidata.org/entity/Q29000647
+
+##########################################################
+
+Q27967113 -AProSys module -http://www.wikidata.org/entity/Q27967113
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q28758111 -Internet Explorer favorites -http://www.wikidata.org/entity/Q28758111
+Q28758114 -Internet Shortcut -http://www.wikidata.org/entity/Q28758114
+Q29650305 -PSI-MI XML -http://www.wikidata.org/entity/Q29650305
+Q28771319 -Microsoft Library -http://www.wikidata.org/entity/Q28771319
+Q6043826 -Intellifont -http://www.wikidata.org/entity/Q6043826
+Q29000498 -OrCAD library -http://www.wikidata.org/entity/Q29000498
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246

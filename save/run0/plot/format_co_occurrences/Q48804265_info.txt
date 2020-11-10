@@ -1,0 +1,14 @@
+Q48804265 -Paradox Database Memo Field -http://www.wikidata.org/entity/Q48804265
+
+##################################################################################
+
+Q59653785 -Maya Binary File Format, 32 bit -http://www.wikidata.org/entity/Q59653785
+Q59653819 -Maya Binary File Format, 64 bit -http://www.wikidata.org/entity/Q59653819
+Q59653905 -Maya ASCII File Format -http://www.wikidata.org/entity/Q59653905
+Q99184084 -Atom web feed -http://www.wikidata.org/entity/Q99184084
+Q96075738 -Pajek format -http://www.wikidata.org/entity/Q96075738
+Q51035227 -Paradox Database Table, version 4 -http://www.wikidata.org/entity/Q51035227
+Q28600435 -Consolidated.db -http://www.wikidata.org/entity/Q28600435
+Q930281 -Windows thumbnail cache -http://www.wikidata.org/entity/Q930281
+Q51837224 -Paradox Database Table, version 7 -http://www.wikidata.org/entity/Q51837224
+Q28600454 -DB (Watcom-SQL) -http://www.wikidata.org/entity/Q28600454

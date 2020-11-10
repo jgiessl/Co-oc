@@ -1,0 +1,19 @@
+39002079169729
+number of files:  3
+number of files with unknown format: 0
+number of files with known format: 3
+contained formats: 
+Q723030 -AsciiDoc -http://www.wikidata.org/entity/Q723030
+Q27979156 -ASCII art -http://www.wikidata.org/entity/Q27979156
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693
+Q28919035 -Type-1 DV AVI -http://www.wikidata.org/entity/Q28919035
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q28919037 -Type-2 DV AVI -http://www.wikidata.org/entity/Q28919037
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q27595621 -Audio Video Interleave with OpenDML Extensions, version 1.02 -http://www.wikidata.org/entity/Q27595621
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q209054 -Audio Video Interleave, version 1.22.0 -http://www.wikidata.org/entity/Q209054

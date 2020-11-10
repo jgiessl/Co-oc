@@ -1,0 +1,14 @@
+Q29650336 -Personal Information Exchange -http://www.wikidata.org/entity/Q29650336
+
+####################################################################################
+
+Q3359717 -Public Key Cryptography Standard 12 -http://www.wikidata.org/entity/Q3359717
+Q34735519 -Signum font -http://www.wikidata.org/entity/Q34735519
+Q27967486 -F4V -http://www.wikidata.org/entity/Q27967486
+Q627554 -certificate signing request -http://www.wikidata.org/entity/Q627554
+Q28106155 -PIC2 -http://www.wikidata.org/entity/Q28106155
+Q28205645 -XV thumbnail -http://www.wikidata.org/entity/Q28205645
+Q28205667 -Public Key Cryptography Standard 10 -http://www.wikidata.org/entity/Q28205667
+Q28205439 -Sony ARW -http://www.wikidata.org/entity/Q28205439
+Q5448342 -File change log -http://www.wikidata.org/entity/Q5448342
+Q29904540 -Statistical Analysis System log file -http://www.wikidata.org/entity/Q29904540

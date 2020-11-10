@@ -1,0 +1,14 @@
+Q27966886 -Fuxoft AY Language -http://www.wikidata.org/entity/Q27966886
+
+#########################################################################
+
+Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294
+Q61777776 -Play SID Audio, version 1 -http://www.wikidata.org/entity/Q61777776
+Q1076355 -Portable Executable -http://www.wikidata.org/entity/Q1076355
+Q42591 -MP3g -http://www.wikidata.org/entity/Q42591
+Q28018470 -MPEG-1 program stream -http://www.wikidata.org/entity/Q28018470
+Q28018471 -MPEG-2 program stream -http://www.wikidata.org/entity/Q28018471
+Q336284 -MPEG-1 -http://www.wikidata.org/entity/Q336284
+Q27596243 -Windows Bitmap, version 3 -http://www.wikidata.org/entity/Q27596243
+Q1141412 -INI file -http://www.wikidata.org/entity/Q1141412
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920

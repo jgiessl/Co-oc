@@ -1,0 +1,14 @@
+Q27960107 -Berkeley/IRCAM/Carl Sound Format -http://www.wikidata.org/entity/Q27960107
+
+#######################################################################################
+
+Q28757986 -IPS manifest -http://www.wikidata.org/entity/Q28757986
+Q16996920 -Windows Setup Information File -http://www.wikidata.org/entity/Q16996920
+Q66811836 -Inform source code file -http://www.wikidata.org/entity/Q66811836
+Q28600763 -Electronic Arts INF -http://www.wikidata.org/entity/Q28600763
+Q1662484 -Information Presentation Facility -http://www.wikidata.org/entity/Q1662484
+Q684554 -Autorun.inf -http://www.wikidata.org/entity/Q684554
+Q29650337 -PUPA Font Format, version 2 -http://www.wikidata.org/entity/Q29650337
+Q28207008 -Picture Publisher -http://www.wikidata.org/entity/Q28207008
+Q99850841 -Picture Publisher Bitmap 6-10 -http://www.wikidata.org/entity/Q99850841
+Q73515618 -DAISY Protected Package File -http://www.wikidata.org/entity/Q73515618

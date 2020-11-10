@@ -1,0 +1,14 @@
+Q28207457 -Vista Plain File Format -http://www.wikidata.org/entity/Q28207457
+
+##############################################################################
+
+Q27960028 -VocPack -http://www.wikidata.org/entity/Q27960028
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q7395247 -SYBYL line notation -http://www.wikidata.org/entity/Q7395247
+Q741654 -DirectDraw Surface -http://www.wikidata.org/entity/Q741654
+Q29167864 -Pittsburgh Supercomputing Center 3D Metafile -http://www.wikidata.org/entity/Q29167864
+Q1341482 -OpenEXR -http://www.wikidata.org/entity/Q1341482
+Q28207537 -Xerox Doodle brush -http://www.wikidata.org/entity/Q28207537
+Q55721708 -AmiraMesh Binary Little Endian 2.1 file format -http://www.wikidata.org/entity/Q55721708
+Q55721705 -AmiraMesh 3D Binary Little Endian 2.0 file format -http://www.wikidata.org/entity/Q55721705
+Q55721702 -AmiraMesh 3D Binary 2.0 file format -http://www.wikidata.org/entity/Q55721702

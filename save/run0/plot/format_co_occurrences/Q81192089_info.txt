@@ -1,0 +1,14 @@
+Q81192089 -Infinity Engine Compiled Script -http://www.wikidata.org/entity/Q81192089
+
+######################################################################################
+
+Q27826340 -Auxiliary file, AUX variant -http://www.wikidata.org/entity/Q27826340
+Q27826389 -Proxy AUX file, AUX variant -http://www.wikidata.org/entity/Q27826389
+Q52425808 -Vista Pro Graphics -http://www.wikidata.org/entity/Q52425808
+Q7866417 -USGS DEM -http://www.wikidata.org/entity/Q7866417
+Q95994878 -Canadian digital elevation data format -http://www.wikidata.org/entity/Q95994878
+Q27967349 -iTunes Music Library, binary variant -http://www.wikidata.org/entity/Q27967349
+Q1983918 -Nexus file -http://www.wikidata.org/entity/Q1983918
+Q95994246 -Agilent Microarray file format -http://www.wikidata.org/entity/Q95994246
+Q58006953 -TRIM Context Reference File -http://www.wikidata.org/entity/Q58006953
+Q3807693 -ASCII tab -http://www.wikidata.org/entity/Q3807693

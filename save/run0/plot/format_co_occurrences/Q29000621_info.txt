@@ -1,0 +1,14 @@
+Q29000621 -WinHex.pos -http://www.wikidata.org/entity/Q29000621
+
+#################################################################
+
+Q72724699 -Newsletters And More document -http://www.wikidata.org/entity/Q72724699
+Q28207102 -The Print Shop Names file -http://www.wikidata.org/entity/Q28207102
+Q23014810 -chr -http://www.wikidata.org/entity/Q23014810
+Q27967091 -Funcom ISS -http://www.wikidata.org/entity/Q27967091
+Q29904449 -Psion Series 3 Word -http://www.wikidata.org/entity/Q29904449
+Q27473250 -Raster Product Format Table of Contents File -http://www.wikidata.org/entity/Q27473250
+Q27996219 -Eudora Mailbox Table of Contents -http://www.wikidata.org/entity/Q27996219
+Q28205760 -Borland Graphics Interface image -http://www.wikidata.org/entity/Q28205760
+Q535473 -PCX -http://www.wikidata.org/entity/Q535473
+Q43870624 -PCX, version 5 -http://www.wikidata.org/entity/Q43870624

@@ -1,0 +1,14 @@
+Q722609 -Machine-Readable Cataloging -http://www.wikidata.org/entity/Q722609
+
+##############################################################################
+
+Q6717445 -MRC -http://www.wikidata.org/entity/Q6717445
+Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
+Q96143857 -SurferGrid format -http://www.wikidata.org/entity/Q96143857
+Q28206568 -MicroDesign Page -http://www.wikidata.org/entity/Q28206568
+Q741654 -DirectDraw Surface -http://www.wikidata.org/entity/Q741654
+Q4545331 -3D Studio mesh-file format -http://www.wikidata.org/entity/Q4545331
+Q947746 -SREC -http://www.wikidata.org/entity/Q947746
+Q27967113 -AProSys module -http://www.wikidata.org/entity/Q27967113
+Q10610388 -Standard MIDI File -http://www.wikidata.org/entity/Q10610388
+Q28975647 -POV-Ray RAW triangle format -http://www.wikidata.org/entity/Q28975647

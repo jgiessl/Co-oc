@@ -1,0 +1,14 @@
+Q947746 -SREC -http://www.wikidata.org/entity/Q947746
+
+#######################################################
+
+Q383305 -afio -http://www.wikidata.org/entity/Q383305
+Q5765552 -Hina-Di -http://www.wikidata.org/entity/Q5765552
+Q27967083 -Digital Illusions -http://www.wikidata.org/entity/Q27967083
+Q28234649 -CCITT Group 3 -http://www.wikidata.org/entity/Q28234649
+Q28205883 -Desktop Color Separation -http://www.wikidata.org/entity/Q28205883
+Q28009476 -SCF -http://www.wikidata.org/entity/Q28009476
+Q28106155 -PIC2 -http://www.wikidata.org/entity/Q28106155
+Q28205645 -XV thumbnail -http://www.wikidata.org/entity/Q28205645
+Q25345915 -Scratch Project SB -http://www.wikidata.org/entity/Q25345915
+Q48912365 -InterBase Database -http://www.wikidata.org/entity/Q48912365

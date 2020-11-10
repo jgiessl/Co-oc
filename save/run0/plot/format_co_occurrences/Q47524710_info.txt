@@ -1,0 +1,14 @@
+Q47524710 -Mach-O file format (32bit) -http://www.wikidata.org/entity/Q47524710
+
+#################################################################################
+
+Q28205708 -Applixware Bitmap -http://www.wikidata.org/entity/Q28205708
+Q27967123 -Buzzic v1.x -http://www.wikidata.org/entity/Q27967123
+Q27979388 -AAE sidecar format -http://www.wikidata.org/entity/Q27979388
+Q307271 -.DS_Store -http://www.wikidata.org/entity/Q307271
+Q921122 -Java archive -http://www.wikidata.org/entity/Q921122
+Q50375236 -NIB File Format -http://www.wikidata.org/entity/Q50375236
+Q62625561 -Bash script -http://www.wikidata.org/entity/Q62625561
+Q10287816 -GZIP -http://www.wikidata.org/entity/Q10287816
+Q1343830 -Executable and Linkable Format -http://www.wikidata.org/entity/Q1343830
+Q283579 -tar -http://www.wikidata.org/entity/Q283579

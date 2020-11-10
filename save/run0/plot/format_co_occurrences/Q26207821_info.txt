@@ -1,0 +1,14 @@
+Q26207821 -Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2012 -http://www.wikidata.org/entity/Q26207821
+
+#######################################################################################################################
+
+Q26207986 -Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2008, with Microsoft extensions -http://www.wikidata.org/entity/Q26207986
+Q26211510 -Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2011, with Microsoft extensions -http://www.wikidata.org/entity/Q26211510
+Q26207808 -Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2012 -http://www.wikidata.org/entity/Q26207808
+Q26207792 -Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2011 -http://www.wikidata.org/entity/Q26207792
+Q26205771 -Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2008 -http://www.wikidata.org/entity/Q26205771
+Q3570403 -Office Open XML Spreadsheet Document, ECMA-376 1st Edition -http://www.wikidata.org/entity/Q3570403
+Q26211528 -Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2012, with Microsoft extensions -http://www.wikidata.org/entity/Q26211528
+Q26207734 -Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2011 -http://www.wikidata.org/entity/Q26207734
+Q26211536 -Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2012, with Microsoft extensions -http://www.wikidata.org/entity/Q26211536
+Q26211338 -Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2011, with Microsoft extensions -http://www.wikidata.org/entity/Q26211338

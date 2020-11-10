@@ -1,0 +1,14 @@
+Q62664835 -Active Server Page -http://www.wikidata.org/entity/Q62664835
+
+#########################################################################
+
+Q32061 -XSL -http://www.wikidata.org/entity/Q32061
+Q5924007 -JavaScript -http://www.wikidata.org/entity/Q5924007
+Q817650 -COM -http://www.wikidata.org/entity/Q817650
+Q59653966 -MySQL Table Definition Format -http://www.wikidata.org/entity/Q59653966
+Q28206381 -VisualBasic form -http://www.wikidata.org/entity/Q28206381
+Q66439261 -WordPerfect Merge Forms file format -http://www.wikidata.org/entity/Q66439261
+Q85513175 -Cindex Document, version 2 -http://www.wikidata.org/entity/Q85513175
+Q380319 -dynamic-link library -http://www.wikidata.org/entity/Q380319
+Q28777715 -NSIS -http://www.wikidata.org/entity/Q28777715
+Q66244789 -ScreenCam stand-alone Movies format -http://www.wikidata.org/entity/Q66244789

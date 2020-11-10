@@ -1,0 +1,14 @@
+Q28206272 -HTC splashscreen -http://www.wikidata.org/entity/Q28206272
+
+#######################################################################
+
+Q15860313 -Mathematica Notebook -http://www.wikidata.org/entity/Q15860313
+Q47012492 -Nota Bene Text file format -http://www.wikidata.org/entity/Q47012492
+Q28206162 -GEM Raster -http://www.wikidata.org/entity/Q28206162
+Q28207469 -Vivid IMG -http://www.wikidata.org/entity/Q28207469
+Q28206373 -Interleaf image -http://www.wikidata.org/entity/Q28206373
+Q28206306 -Analyze IMG -http://www.wikidata.org/entity/Q28206306
+Q28205944 -Doré Raster -http://www.wikidata.org/entity/Q28205944
+Q27355592 -ADRG Geo Data File -http://www.wikidata.org/entity/Q27355592
+Q3146723 -Raw disk image -http://www.wikidata.org/entity/Q3146723
+Q16965621 -Video Image Communication And Retrieval -http://www.wikidata.org/entity/Q16965621
