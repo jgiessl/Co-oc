@@ -1,8 +1,0 @@
-39002073568561
-number of files:  36
-number of files with unknown format: 0
-number of files with known format: 36
-contained formats: 
-Q1884715 -Video Object -http://www.wikidata.org/entity/Q1884715
-Q13454995 -DVD data file and backup data file -http://www.wikidata.org/entity/Q13454995
-Q27967532 -DVD Information File -http://www.wikidata.org/entity/Q27967532

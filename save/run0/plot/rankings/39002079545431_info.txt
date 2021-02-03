@@ -1,9 +1,0 @@
-39002079545431
-number of files:  28
-number of files with unknown format: 0
-number of files with known format: 28
-contained formats: 
-Q28018471 -MPEG-2 program stream -http://www.wikidata.org/entity/Q28018471
-Q28018470 -MPEG-1 program stream -http://www.wikidata.org/entity/Q28018470
-Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
-Q336284 -MPEG-1 -http://www.wikidata.org/entity/Q336284

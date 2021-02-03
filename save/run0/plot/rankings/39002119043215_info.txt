@@ -1,7 +1,0 @@
-39002119043215
-number of files:  23
-number of files with unknown format: 0
-number of files with known format: 23
-contained formats: 
-Q42591 -MP3g -http://www.wikidata.org/entity/Q42591
-Q27979388 -AAE sidecar format -http://www.wikidata.org/entity/Q27979388

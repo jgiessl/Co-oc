@@ -1,275 +1,429 @@
-from process import *
+from object_process import *
 from matcher import *
 import json
-from analyzer import *
-import shutil
-import re
+from environment_process import *
+from ast import literal_eval as mt
+import time
+import multiprocessing as mp
+from training import Mode
 
 
-def calculate(path_to_objects, path_to_environments, q):
+class Calculator:
 
-    # getting parameters
-    data = get_parameters(os.path.dirname(os.path.abspath(__file__)), "parameters.json")
-    g = data["global"]
-    gdir = data["global_dir"]
-    l = data["local"]
-    ldir = data["local_dir"]
-    read_from_file = data["read_from_file"]
-    save_environments_read = data["save_environments_read"]
-    create_format_co_occurrence_save_files = data["create_format_co_occurrence_save_files"]
-    offset = data["offset"]
-    bm25_k = data["bm25_k"]
-    bm25_b = data["bm25_b"]
+    def __init__(self):
+        self.op = ObjectProcessor()
 
-    # setup_temporary file folder for saving the plots
-    setup_temporary_file_folders()
-    run_parameters()
-    q.put('finished setting up the temporary file folders')
+        self.readable_formats_of_environment = {}
+        # Map of Wikidata -format ids to Integer-Ids
+        self.formatIdMap = {}
 
-    # create objects and pre_process data
-    stat = StatsCollector()
-    op = ObjectProcessor(stat)
-    ep = EnvironmentProcessor()
-    op.pre_process_data_objects(path_to_objects, q)
+        # Map of Integer-Ids to Wikidata -format ids
+        self.formatIdMap_reverse = {}
 
-    global_co_occurrence_matrix = op.calculate_relative_weight_matrix(op.create_csc_matrix_from_dict(op.gCOM))
-    global_co_occurrence_matrix_dir = op.calculate_relative_weight_matrix(op.create_csc_matrix_from_dict(op.gdCOM))
-    processed_matrix = g * global_co_occurrence_matrix + gdir * global_co_occurrence_matrix_dir
+        self.formatIdCounter = 0
 
-    # formatting matrix for partial addition
-    p_m_coo = processed_matrix.tocoo()
-    pmf = list(zip(p_m_coo.row, p_m_coo.col, p_m_coo.data))
-    processed_matrix_formatted = dict()
-    for x in pmf:
-        processed_matrix_formatted[(x[0], x[1])] = x[2]
-    q.put("finished pre-processing the co-occurrences")
+        self.environmentIdMap = {}
 
-    save_format_definitions(stat.formats)
+        self.environmentIdMap_reverse = {}
 
-    if read_from_file:
-        ep.read_readable_formats_from_file(op.formatIdMap)
-    else:
-        ep.pre_process_environments(path_to_environments, op.formatIdMap)
-    if save_environments_read:
-        ep.write_readable_formats_to_file(op.formatIdMap_reverse)
-    m = Matcher(ep)
-    op.pre_process_idf(path_to_objects)
-    q.put('finished pre-processing the variables for the okapi-bm25-tf-idf score')
-    ana = Analyzer(stat)
-    if create_format_co_occurrence_save_files:
-        ana.global_format_co_occurrences(global_co_occurrence_matrix, global_co_occurrence_matrix_dir,
-                                         processed_matrix, q)
+        self.global_co_occurrence_matrix = {}
 
-    # running through the data objects and ranking the environments for them
-    for filename in os.listdir(path_to_objects):
+        self.global_co_occurrence_matrix_dir = {}
 
-        # processing data object for tf-idf ranking
-        pr_tf_idf = op.process_tf(path_to_objects, filename)
-        if pr_tf_idf is None:
-            continue
+        self.g = 0
+
+        self.gdir = 0
+
+        self.l = 0
+
+        self.ldir = 0
+
+        self.offset = 0
+
+        self.matcher = Matcher()
+
+    def load_format_id_map(self):
+        sep = os.sep
+        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+        file = 'format_id_map.json'
+        file1 = 'format_id_map_reverse.json'
+        with open(os.path.join(path, file), 'r+', encoding='utf8',
+                  errors='ignore') as json_file:
+            data = json.load(json_file)
+            self.formatIdMap = data
+        with open(os.path.join(path, file1), 'r+', encoding='utf8',
+                  errors='ignore') as json_file:
+            data = json.load(json_file)
+            for keys, value in data.items():
+                self.formatIdMap_reverse[int(keys)] = value
+        max_key = 0
+        for keys in self.formatIdMap_reverse:
+            # print(keys)
+            if keys > max_key:
+                max_key = keys
+        self.formatIdCounter = max_key + 1
+
+    def load_format_id_map_puid(self):
+        sep = os.sep
+        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+        file = 'format_id_map_puid.json'
+        file1 = 'format_id_map_reverse_puid.json'
+        with open(os.path.join(path, file), 'r+', encoding='utf8',
+                  errors='ignore') as json_file:
+            data = json.load(json_file)
+            self.formatIdMap = data
+        with open(os.path.join(path, file1), 'r+', encoding='utf8',
+                  errors='ignore') as json_file:
+            data = json.load(json_file)
+            for keys, value in data.items():
+                self.formatIdMap_reverse[int(keys)] = value
+        max_key = 0
+        for keys in self.formatIdMap_reverse:
+            # print(keys)
+            if keys > max_key:
+                max_key = keys
+        self.formatIdCounter = max_key + 1
+
+    def load_environment_id_map(self):
+        sep = os.sep
+        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'environment_data'
+        file = 'environment_id_map.json'
+        file1 = 'environment_id_map_reverse.json'
+        if file not in os.listdir(path):
+            print("There are currently no environments saved - starting anew")
+            return
+        with open(os.path.join(path, file), 'r+', encoding='utf8',
+                  errors='ignore') as json_file:
+            data = json.load(json_file)
+            self.environmentIdMap = data
+        with open(os.path.join(path, file1), 'r+', encoding='utf8',
+                  errors='ignore') as json_file:
+            data = json.load(json_file)
+            for keys, value in data.items():
+                self.environmentIdMap_reverse[int(keys)] = value
+
+    def read_readable_formats_from_file(self, formatIdmap):
+        """
+        Gets the readable formats for the environments from a save file
+        """
+        path = os.path.dirname(os.path.abspath(__file__)) + os.sep + 'data' + os.sep +  'environment_data'
+        if 'environments_save.json' not in os.listdir(path):
+            print('currently there are no environments known o the program')
+            return
+        with open(os.path.join(path, 'environments_save.json'), 'r', encoding='utf8',
+                  errors='ignore') as f:
+            try:
+                data = json.load(f)
+            except JSONDecodeError:
+                return
+            if len(data) == 0:
+                print('currently there are no environments known o the program')
+                return
+            for x in data:
+                self.environmentIdMap[x] = data[x][1]
+                self.environmentIdMap_reverse[data[x][1]] = x
+                format_ids = set()
+                for y in data[x][0]:
+                    format_ids.add(formatIdmap[y])
+                self.readable_formats_of_environment[data[x][1]] = format_ids
+
+    def read_readable_formats_from_file_puid(self, formatIdmap_puid):
+        """
+        Gets the readable formats for the environments from a save file
+        """
+        path = os.path.dirname(os.path.abspath(__file__)) + os.sep + 'data' + os.sep + 'environment_data'
+        if 'environments_save_puid.json' not in os.listdir(path):
+            print('currently there are no environments known o the program')
+            return
+        with open(os.path.join(path, 'environments_save_puid.json'), 'r', encoding='utf8',
+                  errors='ignore') as f:
+            try:
+                data = json.load(f)
+            except JSONDecodeError:
+                return
+            if len(data) == 0:
+                print('currently there are no environments known o the program')
+                return
+            for x in data:
+                self.environmentIdMap[x] = data[x][1]
+                self.environmentIdMap_reverse[data[x][1]] = x
+                format_ids = set()
+                for y in data[x][0]:
+                    format_ids.add(formatIdmap_puid[y])
+                self.readable_formats_of_environment[data[x][1]] = format_ids
+
+    def load_normalized_matrices(self):
+        if os.cpu_count() >= 3:
+            p1 = mp.Process(target=self.process_target_directory_matrix)
+            p2 = mp.Process(target=self.process_target_object_matrix)
+            p2.start()
+            p1.start()
+            p1.join()
+            p2.join()
         else:
-            dl = pr_tf_idf[0]
-            tf_map = pr_tf_idf[1]
+            sep = os.sep
+            path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+            file = 'normalized_directory_matrix.json'
+            file1 = 'normalized_object_matrix.json'
+            with open(os.path.join(path, file), 'r+', encoding='utf8', errors='ignore') as json_file:
+                data = json.load(json_file)
+                for keys, value in data.items():
+                    key = mt(keys)
+                    self.global_co_occurrence_matrix_dir[key] = value
+            with open(os.path.join(path, file1), 'r+', encoding='utf8', errors='ignore') as json_file:
+                data = json.load(json_file)
+                for keys, value in data.items():
+                    key = mt(keys)
+                    self.global_co_occurrence_matrix[key] = value
 
-        # processing data object for co-occurrence ranking
-        op.process_data_object(path_to_objects, filename)
-        matrix = ldir * op.calculate_relative_weight_matrix(op.create_csc_matrix_from_dict(op.ldCOM))\
-                 + l * op.calculate_relative_weight_matrix(op.create_csc_matrix_from_dict(op.lCOM))\
+    def load_normalized_matrices_puid(self):
+        if os.cpu_count() >= 3:
+            p1 = mp.Process(target=self.process_target_directory_matrix_puid)
+            p2 = mp.Process(target=self.process_target_object_matrix_puid)
+            p2.start()
+            p1.start()
+            p1.join()
+            p2.join()
+        else:
+            sep = os.sep
+            path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+            file = 'normalized_directory_matrix_puid.json'
+            file1 = 'normalized_object_matrix_puid.json'
+            with open(os.path.join(path, file), 'r+', encoding='utf8', errors='ignore') as json_file:
+                data = json.load(json_file)
+                for keys, value in data.items():
+                    key = mt(keys)
+                    self.global_co_occurrence_matrix_dir[key] = value
+            with open(os.path.join(path, file1), 'r+', encoding='utf8', errors='ignore') as json_file:
+                data = json.load(json_file)
+                for keys, value in data.items():
+                    key = mt(keys)
+                    self.global_co_occurrence_matrix[key] = value
 
-        mat = op.partial_add(matrix, processed_matrix_formatted) + offset * op.create_diagonal_matrix()
-        op.lCOM.clear()
-        op.ldCOM.clear()
-        op.formats_of_current_data.clear()
+    def process_target_directory_matrix(self):
+        sep = os.sep
+        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+        file = 'normalized_directory_matrix.json'
+        with open(os.path.join(path, file), 'r+', encoding='utf8', errors='ignore') as json_file:
+            data = json.load(json_file)
+            for keys, value in data.items():
+                key = mt(keys)
+                self.global_co_occurrence_matrix_dir[key] = value
 
-        # analysing the results
-        result = m.rank_environments_for_object(mat)
-        res = m.rank_environments_tf_idf(tf_map, op.idf_map, op.avdl, dl, bm25_k, bm25_b)
+    def process_target_directory_matrix_puid(self):
+        sep = os.sep
+        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+        file = 'normalized_directory_matrix_puid.json'
+        with open(os.path.join(path, file), 'r+', encoding='utf8', errors='ignore') as json_file:
+            data = json.load(json_file)
+            for keys, value in data.items():
+                key = mt(keys)
+                self.global_co_occurrence_matrix_dir[key] = value
 
-        if ana.check_for_no_ranking_possible(result, res):
-            q.put("None of the ranking schemes can find a possible environment for emulating {0}".format(filename))
-            continue
-        normalized_ranking = ana.normalize_ranking(result, res)
-        ranking_map = ana.concatenate_rankings(normalized_ranking[0], normalized_ranking[1])
+    def process_target_object_matrix(self):
+        sep = os.sep
+        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+        file1 = 'normalized_object_matrix.json'
+        with open(os.path.join(path, file1), 'r+', encoding='utf8', errors='ignore') as json_file:
+            data = json.load(json_file)
+            for keys, value in data.items():
+                key = mt(keys)
+                self.global_co_occurrence_matrix[key] = value
 
-        #
-        number_files = ana.stats.stats[filename][0]
-        number_unknown = ana.stats.stats[filename][1]
-        formats = ana.stats.stats[filename][2]
-        ana.add_combination_ranking(ranking_map)
-        write_rankings_to_file(filename, ranking_map, number_files, number_unknown,
-                               formats)
+    def process_target_object_matrix_puid(self):
+        sep = os.sep
+        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+        file1 = 'normalized_object_matrix_puid.json'
+        with open(os.path.join(path, file1), 'r+', encoding='utf8', errors='ignore') as json_file:
+            data = json.load(json_file)
+            for keys, value in data.items():
+                key = mt(keys)
+                self.global_co_occurrence_matrix[key] = value
 
-    q.put('finished all rankings')
-    # moving results to save folder
-    q.put('moving results to save folder')
-    move_results_to_save_folder()
-    q.put('X')
+    def setup(self, mode):
+        sep = os.sep
+        data = self.get_parameters(os.path.dirname(os.path.abspath(__file__)) + sep + 'data', "config.json")
+        self.g = data["global"]
+        self.gdir = data["global_dir"]
+        self.l = data["local"]
+        self.ldir = data["local_dir"]
+        self.offset = data["offset"]
+        if mode == Mode.pronom:
+            self.load_format_id_map_puid()
+            self.op.formatIdMap_puid = self.formatIdMap
+            self.op.formatIdMap_reverse_puid = self.formatIdMap_reverse
+            self.op.formatIdCounter_puid = self.formatIdCounter
+            self.load_environment_id_map()
+            self.read_readable_formats_from_file_puid(self.formatIdMap)
+            self.load_normalized_matrices_puid()
+            self.matcher.readable_formats_of_environment_puid = self.readable_formats_of_environment
+        else:
+            self.load_format_id_map()
+            self.op.formatIdMap = self.formatIdMap
+            self.op.formatIdMap_reverse = self.formatIdMap_reverse
+            self.op.formatIdCounter = self.formatIdCounter
+            self.load_environment_id_map()
+            self.read_readable_formats_from_file(self.formatIdMap)
+            self.load_normalized_matrices()
+            self.matcher.readable_formats_of_environment = self.readable_formats_of_environment
+
+    def calculate(self, path_to_object, filename, mode):
+        begin = time.time()
+
+        # summing the bias matrices
+        global_co_occurrence_matrix_csc = self.op.create_csc_matrix_from_dict(self.global_co_occurrence_matrix, mode)
+        global_co_occurrence_matrix_dir_csc = self.op.create_csc_matrix_from_dict(
+            self.global_co_occurrence_matrix_dir, mode)
+        processed_matrix = self.g * global_co_occurrence_matrix_csc + self.gdir * global_co_occurrence_matrix_dir_csc
+
+        # formatting matrix for partial addition
+        p_m_coo = processed_matrix.tocoo()
+        pmf = list(zip(p_m_coo.row, p_m_coo.col, p_m_coo.data))
+        processed_matrix_formatted = dict()
+        for x in pmf:
+            processed_matrix_formatted[(x[0], x[1])] = x[2]
+
+        self.op.process_data_object(path_to_object, filename)
+
+        # summing matrices describing the current data-object
+        matrix = self.ldir * self.op.calculate_relative_weight_matrix(self.op.create_csc_matrix_from_dict(
+            self.op.ldCOM, mode)) + self.l * self.op.calculate_relative_weight_matrix(
+            self.op.create_csc_matrix_from_dict(self.op.lCOM, mode))
+        off = self.op.create_diagonal_matrix(mode)
+
+        # summing the bias matrices and the matrices describing the current data-object
+        mat = self.op.partial_add(matrix, processed_matrix_formatted, mode) + self.offset * off
+
+        # make rankings
+        if mode == Mode.pronom:
+            result = self.matcher.rank_environments_for_object_puid(mat, self.environmentIdMap)
+            # getting additoinal information and formatting the output
+            number_files = self.op.stats_puid[filename][0]
+            number_unknown_files = self.op.stats_puid[filename][1]
+            formats = list(self.op.stats_puid[filename][2])
+            allknown = self.matcher.check_for_all_known_formats_puid(off, self.environmentIdMap)
+            res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown)
+        else:
+            result = self.matcher.rank_environments_for_object(mat, self.environmentIdMap)
+            # getting additoinal information and formatting the output
+            number_files = self.op.stats[filename][0]
+            number_unknown_files = self.op.stats[filename][1]
+            formats = list(self.op.stats[filename][2])
+            allknown = self.matcher.check_for_all_known_formats(off, self.environmentIdMap)
+            res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown)
+
+        dumping_results(res)
+        # reset local storage
+        self.op.lCOM.clear()
+        self.op.ldCOM.clear()
+        self.op.stats.clear()
+        if mode == Mode.pronom:
+            self.op.formats_of_current_data_puid.clear()
+        else:
+            self.op.formats_of_current_data.clear()
+        end = time.time()
+        print("time needed for the calculation {0} seconds".format(end - begin))
+        return res
+        # write_rankings_to_file(filename, ranking_map, number_files, number_unknown,formats)
+
+    def get_parameters(self, path, filename):
+        """
+        Extracts parameters from jason file
+        :param path: Path/To/File
+        :param filename: Name of the file
+        :return: dictionary of parameters
+        """
+        with open(os.path.join(path, filename), 'r', encoding='utf8', errors='ignore') as f:
+            data = json.load(f)
+            return data
+
+    @staticmethod
+    def format_result(filename, number_files, number_unknown_files, formats, ranking, allknown):
+        result = dict()
+        result["filename"] = filename
+        result["number_files"] = number_files
+        result["number_unknown_files"] = number_unknown_files
+        result["formats"] = formats
+        for x in ranking:
+            result[x[0]] = dict()
+            result[x[0]]["co-oc"] = x[1]
+        for x in allknown.items():
+            result[x[0]]["AllKnownFormatsReadable"] = x[1]
+            if x[1] == False:
+                result[x[0]]["AllFormatsReadable"] = False
+            else:
+                if number_unknown_files == 0:
+                    result[x[0]]["AllFormatsReadable"] = True
+                else:
+                    result[x[0]]["AllFormatsReadable"] = False
+
+        return result
+
+def dumping_results(res):
+    sep = os.sep
+    path = os.path.dirname(os.path.abspath(__file__)) + sep + 'temp_result'
+    filename = res["filename"]
+    filename1 = filename.split(".").pop(0)
+    file = filename1 + "_result.json"
+    with open(os.path.join(path, file), 'w+', encoding='utf8', errors='ignore') as json_file:
+        json.dump(res, json_file)
 
 
-def get_parameters(path, filename):
-    """
-    Extracts parameters from jason file
-    :param path: Path/To/File
-    :param filename: Name of the file
-    :return: List of parameters
-    """
+def usage():
+    string = ""
+    string += "python3 main_program.py <Path/to/object/file>\n"
+
+
+def main(argv):
+    if len(argv) != 2:
+        usage()
+        sys.exit()
+    c = Calculator()
+    sep = os.sep
+    s = argv[1]
+    d = s.split(sep)
+    filename = d.pop(-1)
+    path = sep.join(d)
+    mode = check_mode(path, filename)
+    if mode != Mode.pronom and mode != Mode.wikidata:
+        print("Either the file does not contain any files or the json cannot be decoded")
+        print("or the file format identifier is not \'wikidata\' or \'pronom\'")
+        return
+    c.setup(mode)
+    c.calculate(path, filename, mode)
+
+
+def check_mode(path, filename):
     with open(os.path.join(path, filename), 'r', encoding='utf8',
               errors='ignore') as f:
-        data = json.load(f)
-    return data
-
-# def handle_error(func, path, ex_info):
-#     """Clear the readonly bit and reattempt the removal"""
-#     print(ex_info)
-#     if not os.access(path, os.W_OK):
-#         os.chmod(path, stat.S_IWUSR)
-#     func(path)
-
-
-def setup_temporary_file_folders():
-    """
-    Creates the temporary file folders for saving the plots/results
-    """
-    sep = os.sep
-    # set up temporary file folder
-    if 'tmp' in os.listdir(os.path.dirname(os.path.abspath(__file__))):
         try:
-            pat = os.path.dirname(os.path.abspath(__file__)) + sep + 'tmp' + sep
-            shutil.rmtree(pat, ignore_errors=True)
-        except OSError:
-            print("Deletion of {0} failed".format(os.path.dirname(os.path.abspath(__file__))
-                  + sep + 'tmp' + sep))
-    try:
-        os.mkdir(os.path.dirname(os.path.abspath(__file__)) + sep + 'tmp')
-    except OSError as e:
-        print(e)
-        print("Creation of the directory {0} failed".format(os.path.dirname(os.path.abspath(__file__))
-                                                            + sep + 'tmp'))
+            data = json.load(f)
+        except JSONDecodeError:
+            return
+        files = data["files"]
+        if len(files) == 0:
+            return
 
-    try:
-        os.mkdir(os.path.dirname(os.path.abspath(__file__)) + sep + 'tmp' + sep + 'rankings')
-    except OSError as e:
-        print(e)
-        print("Creation of the directory {0} failed".format(os.path.dirname(os.path.abspath(__file__))
-                                                            + sep + 'tmp' + sep + 'rankings'))
+        if len(data["identifiers"]) > 1:
+            print("program currently cannot handle multiple identifiers at the same time.")
+            return
+        elif len(data["identifiers"]) < 1:
+            print("no identifiers are specified in siegfried output.")
+            return
+        else:
+            if data["identifiers"][0]["name"] == "wikidata":
+                mode = Mode.wikidata
+            elif data["identifiers"][0]["name"] == "pronom":
+                mode = Mode.pronom
+            else:
+                print("program can only handle the wikidata and the pronom identifiers")
+                return
 
-    try:
-        os.mkdir(os.path.dirname(os.path.abspath(__file__)) + sep + 'tmp' + sep + 'format_co_occurrences')
-    except OSError:
-        print("Creation of the directory {0} failed".format(os.path.dirname(os.path.abspath(__file__))
-              + sep + 'tmp' + sep + 'format_co_occurrences'))
-
-
-def run_parameters():
-    """
-    Saves the parameters for the run in a text file
-    """
-    # getting options
-    opt = get_parameters(os.path.dirname(os.path.abspath(__file__)), "parameters.json")
-
-    # formatting string
-    tmp = list()
-    tmp.append('Weight of the co-occurrences in data-objects: {0}\n'.format(str(opt['global'])))
-    tmp.append('Weight of the co-occurrences in directories: {0}\n'.format(str(opt['global_dir'])))
-    tmp.append('Weight of the co-occurrences for current data-object: {0}\n'.format(str(opt['local'])))
-    tmp.append('Weight of the co-occurrences for the directories of the'
-               'current data-object: {0}\n'.format(str(opt['local_dir'])))
-    tmp.append('Weight of self co-occurrences (correction parameter): {0}\n'.format(str(opt['offset'])))
-    tmp.append('Control parameter k of the okapi-bm25-tf-idf-formula: {0}\n'.format(str(opt['bm25_k'])))
-    tmp.append('Control parameter b of the okapi-bm25-tf-idf-formula: {0}\n'.format(str(opt['bm25_b'])))
-    if opt['create_format_co_occurrence_save_files']:
-        tmp.append('Format-co-occurrence save files were created\n')
-    if opt['read_from_file']:
-        tmp.append('Readable formats of the Environments were read from save file not WikiData\n')
-    if opt['save_environments_read']:
-        tmp.append('Readable formats of the Environments were saved to file\n')
-    if opt['log']:
-        tmp.append('Log -messages were printed in textbox\n')
-    s = ''
-    for x in tmp:
-        s += x
-
-    # writing to file
-    sep = os.sep
-    path = os.path.dirname(os.path.abspath(__file__)) + sep + 'tmp'
-    with open(os.path.join(path, "run_parameters.txt"), 'w+', encoding='utf8',
-              errors='ignore') as f:
-        f.write(s)
+        return mode
 
 
-def save_format_definitions(format_map):
-    """
-    Saves the format definitions, i.e. Wikidata Id ,Wikidata label and URI.
-    :param format_map: Map containing Wikidata ID, label and URI
-    """
-    sep = os.sep
-    path = os.path.dirname(os.path.abspath(__file__)) + sep + 'tmp'
-    file = 'wikidata_format_entities.json'
-    with open(os.path.join(path, file), 'w+', encoding='utf8',
-              errors='ignore') as json_file:
-        json.dump(format_map, json_file)
-
-
-def move_results_to_save_folder():
-    """
-    Moves the results to save folder
-    """
-    sep = os.sep
-    save_path = os.path.dirname(os.path.abspath(__file__)) + sep + 'save'
-    tmp_path = os.path.dirname(os.path.abspath(__file__)) + sep + 'tmp'
-    shutil.move(tmp_path, save_path)
-    if len(os.listdir(os.path.dirname(os.path.abspath(__file__)) + sep + 'save')) == 1:
-        os.rename(save_path + sep + 'tmp', save_path + sep + 'run0')
-    else:
-        run_numbers_str = []
-        run_numbers = []
-        for folder_name in os.listdir(os.path.dirname(os.path.abspath(__file__)) + sep + 'save'):
-            n = re.findall("\d+", folder_name)
-            if len(n) == 0:
-                continue
-            run_numbers_str.append(n[0])
-        for x in run_numbers_str:
-            run_numbers.append(int(x))
-        current_run = str(max(run_numbers) + 1)
-        os.rename(save_path + sep + 'tmp', save_path + sep + 'run' + current_run)
-
-
-def write_rankings_to_file(filename, ranking_map, number_files, number_unknown, formats):
-    """
-    Writes the rankings to a json file
-    :param filename: name of the data-object
-    :param ranking_map: map storing the rankings {environment: (co-oc-ranking, tf-idf ranking, combined)}
-    :param number_files: number of files contained in the data-object
-    :param number_unknown: number of files with unknown format in the data-object
-    :param formats:  List of the format ids of the formats contained in the data-object
-    """
-    sep = os.sep
-    name = filename.split('.')[0]
-    file = name + '_ranking.json'
-    path = os.path.dirname(os.path.abspath(__file__)) + sep + 'tmp' + sep + 'rankings'
-    serialize = dict()
-    serialize['name'] = name
-    serialize['type'] = 'rank'
-    serialize['number_files'] = number_files
-    serialize['number_unknown'] = number_unknown
-    serialize['formats'] = list(formats)
-    serialize['environments'] = dict()
-    for x in ranking_map:
-        tmp = dict()
-        tmp['co-oc'] = ranking_map[x][0]
-        tmp['tf-idf'] = ranking_map[x][1]
-        tmp['combined'] = ranking_map[x][2]
-        serialize['environments'][x] = tmp
-    with open(os.path.join(path, file), 'w+', encoding='utf8',
-              errors='ignore') as json_file:
-        json.dump(serialize, json_file)
-
-
-
-
-
-
-
+if __name__ == "__main__":
+    main(sys.argv)
 
 
 

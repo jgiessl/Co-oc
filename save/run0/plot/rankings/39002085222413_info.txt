@@ -1,8 +1,0 @@
-39002085222413
-number of files:  272
-number of files with unknown format: 0
-number of files with known format: 272
-contained formats: 
-Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
-Q66134804 -Access Project file format -http://www.wikidata.org/entity/Q66134804
-Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669

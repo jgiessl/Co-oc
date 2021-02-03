@@ -1,7 +1,0 @@
-39002085043991
-number of files:  112
-number of files with unknown format: 0
-number of files with known format: 112
-contained formats: 
-Q42591 -MP3g -http://www.wikidata.org/entity/Q42591
-Q336284 -MPEG-1 -http://www.wikidata.org/entity/Q336284

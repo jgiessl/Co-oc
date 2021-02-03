@@ -1,8 +1,0 @@
-39002097740147
-number of files:  16
-number of files with unknown format: 0
-number of files with known format: 16
-contained formats: 
-Q26549229 -Portable Document Format/Archive, version 3 Unicode -http://www.wikidata.org/entity/Q26549229
-Q28858032 -Microsoft Word Binary File Format -http://www.wikidata.org/entity/Q28858032
-Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669

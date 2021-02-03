@@ -1,7 +1,0 @@
-39002067759713
-number of files:  8
-number of files with unknown format: 0
-number of files with known format: 8
-contained formats: 
-Q28600764 -Electronic Arts MOV -http://www.wikidata.org/entity/Q28600764
-Q942350 -QuickTime File Format -http://www.wikidata.org/entity/Q942350

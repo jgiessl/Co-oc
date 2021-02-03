@@ -1,9 +1,0 @@
-Q71264900 -Hemera Photo-Object Image bitmap -http://www.wikidata.org/entity/Q71264900
-
-#######################################################################################
-
-Q27959801 -Ableton Groove File -http://www.wikidata.org/entity/Q27959801
-Q28600412 -Attribute-Relation File Format -http://www.wikidata.org/entity/Q28600412
-Q89029185 -American Greetings Project 10-23 -http://www.wikidata.org/entity/Q89029185
-Q1144005 -WinHelp -http://www.wikidata.org/entity/Q1144005
-Q4045294 -New Executable -http://www.wikidata.org/entity/Q4045294

@@ -1,6 +1,0 @@
-39002055109228
-number of files:  418
-number of files with unknown format: 0
-number of files with known format: 418
-contained formats: 
-Q1676669 -JPEG File Interchange Format, version 1.02 -http://www.wikidata.org/entity/Q1676669
