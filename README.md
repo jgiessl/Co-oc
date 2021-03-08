@@ -53,9 +53,7 @@ python3 environment_process.py -R
 To use the cluster tool move to the cluster folder and run  
 pip3 install -r requirements.txt  
 Then the tool can be used by running  
-python3 cluster.py <Path/to/dataset/folder>  
-or  
-python3 cluster.py <Path/to/dataset/folder> -t <number>  
+python3 cluster.py <Path/to/dataset/folder>    
 The tool will create the following files in the plots folder:  
 a file cluster.png depicting the co-occurrence graph representing the given dataset.  
 In Graph edges which have a weight smaller then average edge weight have a blue color.  
@@ -70,7 +68,7 @@ Lastly the tool creates bar plots file format in the in the dataset
 which depict the highest co-occurring formats for a given format.  
 By default the ten highest co-occurring formats are plotted if more than ten co-occurring
 formats exist. This number can be changed by running the tool with a corresponding option:  
-python3 cluster.py <Path/to/dataset/folder> -t <number>  
+python3 cluster.py <Path/to/dataset/folder> -t <Number>  
   
   
 ### option 2) use docker
@@ -128,4 +126,4 @@ Lastly the tool creates bar plots file format in the in the dataset
 which depict the highest co-occurring formats for a given format.  
 By default the ten highest co-occurring formats are plotted if more than ten co-occurring
 formats exist. This number can be changed by running the tool with a corresponding option:  
-python3 cluster.py <Path/to/dataset/folder> -t <number>    
+./cluster.sh <Path/to/dataset/folder> <(absolut)Path/to/the/folder/where/the/results/should/go> -t <Number>    
