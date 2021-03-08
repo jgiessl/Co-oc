@@ -68,7 +68,7 @@ Lastly the tool creates bar plots file format in the in the dataset
 which depict the highest co-occurring formats for a given format.  
 By default the ten highest co-occurring formats are plotted if more than ten co-occurring
 formats exist. This number can be changed by running the tool with a corresponding option:  
-python3 cluster.py <Path/to/dataset/folder> -t <Number>  
+python3 cluster.py <Path/to/dataset/folder> -t \<number>  
   
   
 ### option 2) use docker
@@ -126,4 +126,4 @@ Lastly the tool creates bar plots file format in the in the dataset
 which depict the highest co-occurring formats for a given format.  
 By default the ten highest co-occurring formats are plotted if more than ten co-occurring
 formats exist. This number can be changed by running the tool with a corresponding option:  
-./cluster.sh <Path/to/dataset/folder> <(absolut)Path/to/the/folder/where/the/results/should/go> -t <Number>    
+./cluster.sh <Path/to/dataset/folder> <(absolut)Path/to/the/folder/where/the/results/should/go> -t \<number>    
