@@ -1,5 +1,5 @@
-# Co-oc-tool  
-The co-oc-tool provides four 'tools'. The 'main tool' takes the siegfried output of a data-object
+#Co-oc-tool  
+The co-oc-tool provides five 'tools'. The 'main tool' takes the siegfried output of a data-object
 in JSON format (the by siegfried used identifier has to be pronom xor wikidata) as input
 and recommends(ranks) an environment from a set of environments known to the tool.  
 The 'training tool' takes a folder of 'siegfried- JSONs' as specified above to train the
@@ -12,11 +12,15 @@ To import environments they need to have following form (in JSON format):
 The 'managing tool' gives the possibility of adding to and removing environments from
 the set of environments known to the 'main tool'.  
 The 'cluster tool' takes a folder of 'siegfried- JSONs' and creates plots describing   
-the format co-occurrences in a dataset specified by the given folder.    
-## Usage  
+the format co-occurrences in a dataset specified by the given folder.  
+The plot tool takes a directory with the outputs of the 'main tool' as input and
+creates bar-plots ranking the possible environments as given by the 'main tool'.  
+The tool also creates info.txt files for each data_object which contain information on the
+data_objects as well as the names of the environments depicted in the bar-plots.
+##Usage  
 There are two options of running the tools: Using docker or using the python scripts directly.
 ###option 1) - using python directly  
-#### setup
+####setup
 For this option a python 3.8.x is required (should actually work with python 3.x)  
 The necessary packages are written down in the requirements.txt file can be installed using pip:  
 pip3 install -r requirements.txt  
@@ -53,7 +57,9 @@ python3 environment_process.py -R
 To use the cluster tool move to the cluster folder and run  
 pip3 install -r requirements.txt  
 Then the tool can be used by running  
-python3 cluster.py <Path/to/dataset/folder>    
+python3 cluster.py <Path/to/dataset/folder>  
+or  
+python3 cluster.py <Path/to/dataset/folder> -t \<number>  
 The tool will create the following files in the plots folder:  
 a file cluster.png depicting the co-occurrence graph representing the given dataset.  
 In Graph edges which have a weight smaller then average edge weight have a blue color.  
@@ -68,12 +74,19 @@ Lastly the tool creates bar plots file format in the in the dataset
 which depict the highest co-occurring formats for a given format.  
 By default the ten highest co-occurring formats are plotted if more than ten co-occurring
 formats exist. This number can be changed by running the tool with a corresponding option:  
-python3 cluster.py <Path/to/dataset/folder> -t \<number>  
-  
-  
-### option 2) use docker
+python3 cluster.py <Path/to/dataset/folder> -t \<number\> 
 
-#### setup
+###### plot tool  
+To use the plot tool move to the plot_tool folder an run  
+python3 plotter.py <Path/to/folder/with/main_tool/outputs>
+or   
+python3 plotter.py -t \<number> <Path/to/folder/with/main_tool/outputs>  
+where the number stands for how many of the highest ranking environments will be depicted in the bar-plots.  
+The results are written to the 'ranking_plots' folder.  
+    
+###option 2) use docker
+
+####setup
 If you are using docker for the first time on a specific machine the tool needs to be set up 
 if it is already set up this part can be skipped.  
 For simplicity run the script setup.sh - it will create the docker images and set up a volume to 
@@ -81,7 +94,7 @@ store data.
 (now there should be a volume called co-oc_storage and a non running container co-oc_stor)
 
 #### use cases of the tools
-##### main tool
+#####main tool
 To get an environment recommendation(ranking) for a specific data-object use:  
 ./main.sh <(absolut)Path/to/object/file.json> <(absolut)Path/to/the/folder/where/the/results/should/go>
 
@@ -110,7 +123,7 @@ To remove all environments use:
 ./environment.sh -R  
   
 ##### cluster tool  
-To use the cluster tool move to the cluster folder and run  
+To use the cluster tool run  
 ./cluster.sh <(absolut)Path/to/dataset/folder> <(absolut)Path/to/the/folder/where/the/results/should/go>  
 The tool will create the following files in the specified folder:  
 a file cluster.png depicting the co-occurrence graph representing the given dataset.  
@@ -126,4 +139,12 @@ Lastly the tool creates bar plots file format in the in the dataset
 which depict the highest co-occurring formats for a given format.  
 By default the ten highest co-occurring formats are plotted if more than ten co-occurring
 formats exist. This number can be changed by running the tool with a corresponding option:  
-./cluster.sh <Path/to/dataset/folder> <(absolut)Path/to/the/folder/where/the/results/should/go> -t \<number>    
+python3 cluster.py <Path/to/dataset/folder> -t \<number>    
+
+##### plot tool
+To use the plot tool run  
+./plot.sh <(absolut)Path/to/main_tool/results/folder> <(absolut)Path/to/the/folder/where/the/results/should/go>   
+or   
+./plot.sh -t \<number> <(absolut)Path/to/main_tool/results/folder> <(absolut)Path/to/the/folder/where/the/results/should/go> 
+where the number stands for how many of the highest ranking environments will be depicted in the bar-plots.  
+The results are written to the 'ranking_plots' folder.   

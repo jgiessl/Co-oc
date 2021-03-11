@@ -13,10 +13,10 @@ if [ $# -eq 2 ]; then
 	docker rm co-oc_clust
 
 elif [ $# -eq 4 ]; then
-	input="$1"
-	inputt="$2"
-	option="$3"
-	number="$4"
+	input="$3"
+	inputt="$4"
+	option="$1"
+	number="$2"
 	foldername="${input##*/}"
 	savepath="/usr/data/${foldername}"
 	case ${option} in

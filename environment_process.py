@@ -59,7 +59,6 @@ class EnvironmentProcessor:
             except JSONDecodeError:
                 print('Could not decode environment file {0}'.format(filename))
             env = data
-            # print(env["name"])
             if env["name"] in self.readable_formats_of_environment:
                 print("environment name {0} already exists - replacing old environment with name {0}".format(env["name"]))
             else:
@@ -129,7 +128,7 @@ class EnvironmentProcessor:
         """
         Writes the the readable formats for an environment into a save file
         """
-        path = os.path.dirname(os.path.abspath(__file__)) + os.sep + 'data' + os.sep +  'environment_data'
+        path = os.path.dirname(os.path.abspath(__file__)) + os.sep + 'data' + os.sep + 'environment_data'
         serialize = {}
         for key in self.readable_formats_of_environment_puid:
             formats = []
@@ -157,7 +156,7 @@ class EnvironmentProcessor:
             except JSONDecodeError:
                 return
             if len(data) == 0:
-                print('currently there are no environments known o the program')
+                print('currently there are no environments known to the program')
                 return
             for x in data:
                 self.environmentIdMap[x] = data[x][1]
@@ -182,7 +181,7 @@ class EnvironmentProcessor:
             except JSONDecodeError:
                 return
             if len(data) == 0:
-                print('currently there are no environments known o the program')
+                print('currently there are no environments known to the program')
                 return
             for x in data:
                 self.environmentIdMap[x] = data[x][1]
@@ -385,6 +384,73 @@ class EnvironmentProcessor:
         else:
             print('Environment with the key: {0} does not exist'.format(key))
 
+    def pre_process_env_from_format_file(self, path_file):
+        with open(path_file, 'r+', encoding='utf8', errors='ignore') as json_file:
+            data = json.load(json_file)
+        for x in data:
+            env_name = data[x]['environmentName']
+            self.add_environment(env_name)
+            tmp_read_wiki = set()
+            tmp_read_puid = set()
+            if "defaultSaveParameters" in data[x]:
+                for y in data[x]["defaultSaveParameters"]:
+                    if y["matchedFormatQID"] != "NULL":
+                        if y["matchedFormatQID"] not in tmp_read_wiki:
+                            if y["matchedFormatQID"] in self.formatIdMap:
+                                tmp_read_wiki.add(self.formatIdMap[y["matchedFormatQID"]])
+                    pronom_string = self.strip_pronom(y["matchedFormatPronomID"])
+                    if pronom_string != "NULL":
+                        if pronom_string not in tmp_read_puid:
+                            if pronom_string in self.formatIdMap_puid:
+                                tmp_read_puid.add(self.formatIdMap_puid[pronom_string])
+            if "openParameters" in data[x]:
+                for y in data[x]["openParameters"]:
+                    if y["matchedFormatQID"] != "NULL":
+                        if y["matchedFormatQID"] not in tmp_read_wiki:
+                            if y["matchedFormatQID"] in self.formatIdMap:
+                                tmp_read_wiki.add(self.formatIdMap[y["matchedFormatQID"]])
+                    pronom_string = self.strip_pronom(y["matchedFormatPronomID"])
+                    if pronom_string != "NULL":
+                        if pronom_string not in tmp_read_puid:
+                            if pronom_string in self.formatIdMap_puid:
+                                tmp_read_puid.add(self.formatIdMap_puid[pronom_string])
+            if "otherSaveParameters" in data[x]:
+                for y in data[x]["otherSaveParameters"]:
+                    if y["matchedFormatQID"] != "NULL":
+                        if y["matchedFormatQID"] not in tmp_read_wiki:
+                            if y["matchedFormatQID"] in self.formatIdMap:
+                                tmp_read_wiki.add(self.formatIdMap[y["matchedFormatQID"]])
+                    pronom_string = self.strip_pronom(y["matchedFormatPronomID"])
+                    if pronom_string != "NULL":
+                        if pronom_string not in tmp_read_puid:
+                            if pronom_string in self.formatIdMap_puid:
+                                tmp_read_puid.add(self.formatIdMap_puid[pronom_string])
+            if "exportParameters" in data[x]:
+                for y in data[x]["exportParameters"]:
+                    if y["matchedFormatQID"] != "NULL":
+                        if y["matchedFormatQID"] not in tmp_read_wiki:
+                            if y["matchedFormatQID"] in self.formatIdMap:
+                                tmp_read_wiki.add(self.formatIdMap[y["matchedFormatQID"]])
+                    pronom_string = self.strip_pronom(y["matchedFormatPronomID"])
+                    if pronom_string != "NULL":
+                        if pronom_string not in tmp_read_puid:
+                            if pronom_string in self.formatIdMap_puid:
+                                tmp_read_puid.add(self.formatIdMap_puid[pronom_string])
+            self.readable_formats_of_environment[self.environmentIdMap[env_name]] = tmp_read_wiki
+            self.readable_formats_of_environment_puid[self.environmentIdMap[env_name]] = tmp_read_puid
+
+    def import_environments_from_format_file(self, path_env_format_file):
+        self.pre_process_env_from_format_file(path_env_format_file)
+        self.write_readable_formats_to_file(self.formatIdMap_reverse)
+        self.write_readable_formats_to_file_puid(self.formatIdMap_reverse_puid)
+
+
+    @staticmethod
+    def strip_pronom(pronom_string):
+        temp = pronom_string.replace(" ", "")
+        return temp
+
+
     @staticmethod
     def remove_all():
         sep = os.sep
@@ -415,10 +481,10 @@ def main_test(argv):
     else:
         argument_list = argv[1:]
     # Options
-    options = "ha:A:r:Rd"
+    options = "ha:A:r:Rdi:"
 
     # Long options
-    long_options = ["help", "add=", "AddAll=", "remove=", "RemoveAll", "display"]
+    long_options = ["help", "add=", "AddAll=", "remove=", "RemoveAll", "display", "import="]
 
     try:
         # Parsing argument
@@ -443,6 +509,9 @@ def main_test(argv):
                     ep.save_environment_id_map()
             elif currentArgument in ("-R", "--RemoveAll"):
                 ep.remove_all()
+            elif currentArgument in ("-i", "--import"):
+                ep.import_environments_from_format_file(currentValue)
+                ep.save_environment_id_map()
 
     except getopt.error as err:
         # output error, and return with an error code

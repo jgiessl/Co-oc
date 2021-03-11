@@ -42,6 +42,15 @@ class Calculator:
 
         self.matcher = Matcher()
 
+        # new
+        self.readable_formats_of_environment_puid = {}
+
+        self.formatIdMap_puid = {}
+        self.formatIdMap_reverse_puid = {}
+        self.formatIdCounter_puid = 0
+        self.global_co_occurrence_matrix_puid = {}
+        self.global_co_occurrence_matrix_dir_puid = {}
+
     def load_format_id_map(self):
         sep = os.sep
         path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
@@ -71,18 +80,22 @@ class Calculator:
         with open(os.path.join(path, file), 'r+', encoding='utf8',
                   errors='ignore') as json_file:
             data = json.load(json_file)
-            self.formatIdMap = data
+            # self.formatIdMap = data
+            self.formatIdMap_puid = data
         with open(os.path.join(path, file1), 'r+', encoding='utf8',
                   errors='ignore') as json_file:
             data = json.load(json_file)
             for keys, value in data.items():
-                self.formatIdMap_reverse[int(keys)] = value
+                self.formatIdMap_reverse_puid[int(keys)] = value
+                # self.formatIdMap_reverse[int(keys)] = value
         max_key = 0
-        for keys in self.formatIdMap_reverse:
+        # for keys in self.formatIdMap_reverse:
+        for keys in self.formatIdMap_reverse_puid:
             # print(keys)
             if keys > max_key:
                 max_key = keys
-        self.formatIdCounter = max_key + 1
+        # self.formatIdCounter = max_key + 1
+        self.formatIdCounter_puid = max_key + 1
 
     def load_environment_id_map(self):
         sep = os.sep
@@ -106,7 +119,7 @@ class Calculator:
         """
         Gets the readable formats for the environments from a save file
         """
-        path = os.path.dirname(os.path.abspath(__file__)) + os.sep + 'data' + os.sep +  'environment_data'
+        path = os.path.dirname(os.path.abspath(__file__)) + os.sep + 'data' + os.sep + 'environment_data'
         if 'environments_save.json' not in os.listdir(path):
             print('currently there are no environments known o the program')
             return
@@ -150,7 +163,8 @@ class Calculator:
                 format_ids = set()
                 for y in data[x][0]:
                     format_ids.add(formatIdmap_puid[y])
-                self.readable_formats_of_environment[data[x][1]] = format_ids
+                # self.readable_formats_of_environment[data[x][1]] = format_ids
+                self.readable_formats_of_environment_puid[data[x][1]] = format_ids
 
     def load_normalized_matrices(self):
         if os.cpu_count() >= 3:
@@ -158,6 +172,7 @@ class Calculator:
             p2 = mp.Process(target=self.process_target_object_matrix)
             p2.start()
             p1.start()
+            # print(mp.active_children())
             p1.join()
             p2.join()
         else:
@@ -182,6 +197,7 @@ class Calculator:
             p2 = mp.Process(target=self.process_target_object_matrix_puid)
             p2.start()
             p1.start()
+            # print(mp.active_children())
             p1.join()
             p2.join()
         else:
@@ -193,12 +209,14 @@ class Calculator:
                 data = json.load(json_file)
                 for keys, value in data.items():
                     key = mt(keys)
-                    self.global_co_occurrence_matrix_dir[key] = value
+                    # self.global_co_occurrence_matrix_dir[key] = value
+                    self.global_co_occurrence_matrix_dir_puid[key] = value
             with open(os.path.join(path, file1), 'r+', encoding='utf8', errors='ignore') as json_file:
                 data = json.load(json_file)
                 for keys, value in data.items():
                     key = mt(keys)
-                    self.global_co_occurrence_matrix[key] = value
+                    # self.global_co_occurrence_matrix[key] = value
+                    self.global_co_occurrence_matrix_puid[key] = value
 
     def process_target_directory_matrix(self):
         sep = os.sep
@@ -218,7 +236,8 @@ class Calculator:
             data = json.load(json_file)
             for keys, value in data.items():
                 key = mt(keys)
-                self.global_co_occurrence_matrix_dir[key] = value
+                # self.global_co_occurrence_matrix_dir[key] = value
+                self.global_co_occurrence_matrix_dir_puid[key] = value
 
     def process_target_object_matrix(self):
         sep = os.sep
@@ -238,7 +257,8 @@ class Calculator:
             data = json.load(json_file)
             for keys, value in data.items():
                 key = mt(keys)
-                self.global_co_occurrence_matrix[key] = value
+                # self.global_co_occurrence_matrix[key] = value
+                self.global_co_occurrence_matrix_puid[key] = value
 
     def setup(self, mode):
         sep = os.sep
@@ -250,13 +270,13 @@ class Calculator:
         self.offset = data["offset"]
         if mode == Mode.pronom:
             self.load_format_id_map_puid()
-            self.op.formatIdMap_puid = self.formatIdMap
-            self.op.formatIdMap_reverse_puid = self.formatIdMap_reverse
-            self.op.formatIdCounter_puid = self.formatIdCounter
+            self.op.formatIdMap_puid = self.formatIdMap_puid
+            self.op.formatIdMap_reverse_puid = self.formatIdMap_reverse_puid
+            self.op.formatIdCounter_puid = self.formatIdCounter_puid
             self.load_environment_id_map()
-            self.read_readable_formats_from_file_puid(self.formatIdMap)
+            self.read_readable_formats_from_file_puid(self.formatIdMap_puid)
             self.load_normalized_matrices_puid()
-            self.matcher.readable_formats_of_environment_puid = self.readable_formats_of_environment
+            self.matcher.readable_formats_of_environment_puid = self.readable_formats_of_environment_puid
         else:
             self.load_format_id_map()
             self.op.formatIdMap = self.formatIdMap
@@ -267,14 +287,55 @@ class Calculator:
             self.load_normalized_matrices()
             self.matcher.readable_formats_of_environment = self.readable_formats_of_environment
 
+    def setup_complete(self):
+        sep = os.sep
+        data = self.get_parameters(os.path.dirname(os.path.abspath(__file__)) + sep + 'data', "config.json")
+        self.g = data["global"]
+        self.gdir = data["global_dir"]
+        self.l = data["local"]
+        self.ldir = data["local_dir"]
+        self.offset = data["offset"]
+
+        self.load_format_id_map_puid()
+        self.load_format_id_map()
+
+        self.op.formatIdMap_puid = self.formatIdMap_puid
+        self.op.formatIdMap_reverse_puid = self.formatIdMap_reverse_puid
+        self.op.formatIdCounter_puid = self.formatIdCounter_puid
+
+        self.op.formatIdMap = self.formatIdMap
+        self.op.formatIdMap_reverse = self.formatIdMap_reverse
+        self.op.formatIdCounter = self.formatIdCounter
+
+        self.load_environment_id_map()
+
+        self.read_readable_formats_from_file_puid(self.formatIdMap_puid)
+        self.read_readable_formats_from_file(self.formatIdMap)
+
+        self.load_normalized_matrices_puid()
+        self.load_normalized_matrices()
+
+        self.matcher.readable_formats_of_environment_puid = self.readable_formats_of_environment_puid
+        self.matcher.readable_formats_of_environment = self.readable_formats_of_environment
+
     def calculate(self, path_to_object, filename, mode):
-        begin = time.time()
 
         # summing the bias matrices
-        global_co_occurrence_matrix_csc = self.op.create_csc_matrix_from_dict(self.global_co_occurrence_matrix, mode)
-        global_co_occurrence_matrix_dir_csc = self.op.create_csc_matrix_from_dict(
-            self.global_co_occurrence_matrix_dir, mode)
-        processed_matrix = self.g * global_co_occurrence_matrix_csc + self.gdir * global_co_occurrence_matrix_dir_csc
+        if mode == Mode.pronom:
+            global_co_occurrence_matrix_csc_puid = self.op.create_csc_matrix_from_dict(
+                self.global_co_occurrence_matrix_puid, mode)
+            global_co_occurrence_matrix_dir_csc_puid = self.op.create_csc_matrix_from_dict(
+                self.global_co_occurrence_matrix_dir_puid, mode)
+            processed_matrix =\
+                self.g * global_co_occurrence_matrix_csc_puid + self.gdir * global_co_occurrence_matrix_dir_csc_puid
+        else:
+            global_co_occurrence_matrix_csc = self.op.create_csc_matrix_from_dict(self.global_co_occurrence_matrix,
+                                                                                  mode)
+            global_co_occurrence_matrix_dir_csc = self.op.create_csc_matrix_from_dict(
+                self.global_co_occurrence_matrix_dir, mode)
+            processed_matrix =\
+                self.g * global_co_occurrence_matrix_csc + self.gdir * global_co_occurrence_matrix_dir_csc
+
 
         # formatting matrix for partial addition
         p_m_coo = processed_matrix.tocoo()
@@ -283,16 +344,27 @@ class Calculator:
         for x in pmf:
             processed_matrix_formatted[(x[0], x[1])] = x[2]
 
+
+        # here calc start
         self.op.process_data_object(path_to_object, filename)
 
-        # summing matrices describing the current data-object
-        matrix = self.ldir * self.op.calculate_relative_weight_matrix(self.op.create_csc_matrix_from_dict(
-            self.op.ldCOM, mode)) + self.l * self.op.calculate_relative_weight_matrix(
-            self.op.create_csc_matrix_from_dict(self.op.lCOM, mode))
-        off = self.op.create_diagonal_matrix(mode)
+        if mode == Mode.pronom:
+            # summing matrices describing the current data-object
+            matrix = self.ldir * self.op.calculate_relative_weight_matrix(self.op.create_csc_matrix_from_dict(
+                self.op.ldCOM_puid, mode)) + self.l * self.op.calculate_relative_weight_matrix(
+                self.op.create_csc_matrix_from_dict(self.op.lCOM_puid, mode))
+            off = self.op.create_diagonal_matrix(mode)
+            # summing the bias matrices and the matrices describing the current data-object
+            mat = self.op.partial_add(matrix, processed_matrix_formatted, mode) + self.offset * off
+        else:
+            # summing matrices describing the current data-object
+            matrix = self.ldir * self.op.calculate_relative_weight_matrix(self.op.create_csc_matrix_from_dict(
+                self.op.ldCOM, mode)) + self.l * self.op.calculate_relative_weight_matrix(
+                self.op.create_csc_matrix_from_dict(self.op.lCOM, mode))
+            off = self.op.create_diagonal_matrix(mode)
+            # summing the bias matrices and the matrices describing the current data-object
+            mat = self.op.partial_add(matrix, processed_matrix_formatted, mode) + self.offset * off
 
-        # summing the bias matrices and the matrices describing the current data-object
-        mat = self.op.partial_add(matrix, processed_matrix_formatted, mode) + self.offset * off
 
         # make rankings
         if mode == Mode.pronom:
@@ -316,15 +388,96 @@ class Calculator:
         # reset local storage
         self.op.lCOM.clear()
         self.op.ldCOM.clear()
+        self.op.ldCOM_puid.clear()
+        self.op.lCOM_puid.clear()
         self.op.stats.clear()
+        self.op.stats_puid.clear()
         if mode == Mode.pronom:
             self.op.formats_of_current_data_puid.clear()
         else:
             self.op.formats_of_current_data.clear()
-        end = time.time()
-        print("time needed for the calculation {0} seconds".format(end - begin))
-        return res
-        # write_rankings_to_file(filename, ranking_map, number_files, number_unknown,formats)
+
+    def calculate_whole_folder(self, path_to_object):
+        # summing the bias matrices
+        global_co_occurrence_matrix_csc = self.op.create_csc_matrix_from_dict(self.global_co_occurrence_matrix,
+                                                                              Mode.wikidata)
+        global_co_occurrence_matrix_dir_csc = self.op.create_csc_matrix_from_dict(
+            self.global_co_occurrence_matrix_dir, Mode.wikidata)
+        processed_matrix = self.g * global_co_occurrence_matrix_csc + self.gdir * global_co_occurrence_matrix_dir_csc
+
+        # formatting matrix for partial addition
+        p_m_coo = processed_matrix.tocoo()
+        pmf = list(zip(p_m_coo.row, p_m_coo.col, p_m_coo.data))
+        processed_matrix_formatted = dict()
+        for x in pmf:
+            processed_matrix_formatted[(x[0], x[1])] = x[2]
+
+        global_co_occurrence_matrix_csc_puid = self.op.create_csc_matrix_from_dict(
+            self.global_co_occurrence_matrix_puid, Mode.pronom)
+        global_co_occurrence_matrix_dir_puid = self.op.create_csc_matrix_from_dict(
+            self.global_co_occurrence_matrix_dir_puid, Mode.pronom)
+        processed_matrix_puid =\
+            self.g * global_co_occurrence_matrix_csc_puid + self.gdir * global_co_occurrence_matrix_dir_puid
+
+        # formatting matrix for partial addition
+        p_m_coo_puid = processed_matrix_puid.tocoo()
+        pmf_puid = list(zip(p_m_coo_puid.row, p_m_coo_puid.col, p_m_coo_puid.data))
+        processed_matrix_formatted_puid = dict()
+        for x in pmf_puid:
+            processed_matrix_formatted_puid[(x[0], x[1])] = x[2]
+
+        for filename in os.listdir(path_to_object):
+            mode = check_mode(path_to_object, filename)
+            if mode is None:
+                continue
+            self.op.process_data_object(path_to_object, filename)
+
+            if mode == Mode.wikidata:
+                # summing matrices describing the current data-object
+                matrix = self.ldir * self.op.calculate_relative_weight_matrix(self.op.create_csc_matrix_from_dict(
+                    self.op.ldCOM, mode)) + self.l * self.op.calculate_relative_weight_matrix(
+                    self.op.create_csc_matrix_from_dict(self.op.lCOM, mode))
+                off = self.op.create_diagonal_matrix(mode)
+                # summing the bias matrices and the matrices describing the current data-object
+                mat = self.op.partial_add(matrix, processed_matrix_formatted, mode) + self.offset * off
+            else:
+                # summing matrices describing the current data-object
+                matrix = self.ldir * self.op.calculate_relative_weight_matrix(self.op.create_csc_matrix_from_dict(
+                    self.op.ldCOM_puid, mode)) + self.l * self.op.calculate_relative_weight_matrix(
+                    self.op.create_csc_matrix_from_dict(self.op.lCOM_puid, mode))
+                off = self.op.create_diagonal_matrix(mode)
+                # summing the bias matrices and the matrices describing the current data-object
+                mat = self.op.partial_add(matrix, processed_matrix_formatted_puid, mode) + self.offset * off
+
+            # make rankings
+            if mode == Mode.pronom:
+                result = self.matcher.rank_environments_for_object_puid(mat, self.environmentIdMap)
+                # getting additional information and formatting the output
+                number_files = self.op.stats_puid[filename][0]
+                number_unknown_files = self.op.stats_puid[filename][1]
+                formats = list(self.op.stats_puid[filename][2])
+                allknown = self.matcher.check_for_all_known_formats_puid(off, self.environmentIdMap)
+                res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown)
+            else:
+                result = self.matcher.rank_environments_for_object(mat, self.environmentIdMap)
+                # getting additoinal information and formatting the output
+                number_files = self.op.stats[filename][0]
+                number_unknown_files = self.op.stats[filename][1]
+                formats = list(self.op.stats[filename][2])
+                allknown = self.matcher.check_for_all_known_formats(off, self.environmentIdMap)
+                res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown)
+            dumping_results(res)
+            # reset local storage
+            self.op.lCOM.clear()
+            self.op.ldCOM.clear()
+            self.op.stats.clear()
+            self.op.stats_puid.clear()
+            self.op.lCOM_puid.clear()
+            self.op.ldCOM_puid.clear()
+            if mode == Mode.pronom:
+                self.op.formats_of_current_data_puid.clear()
+            else:
+                self.op.formats_of_current_data.clear()
 
     def get_parameters(self, path, filename):
         """
@@ -381,16 +534,22 @@ def main(argv):
     c = Calculator()
     sep = os.sep
     s = argv[1]
-    d = s.split(sep)
-    filename = d.pop(-1)
-    path = sep.join(d)
-    mode = check_mode(path, filename)
-    if mode != Mode.pronom and mode != Mode.wikidata:
-        print("Either the file does not contain any files or the json cannot be decoded")
-        print("or the file format identifier is not \'wikidata\' or \'pronom\'")
-        return
-    c.setup(mode)
-    c.calculate(path, filename, mode)
+    if os.path.isfile(s):
+        d = s.split(sep)
+        filename = d.pop(-1)
+        path = sep.join(d)
+        mode = check_mode(path, filename)
+        if mode != Mode.pronom and mode != Mode.wikidata:
+            print("Either the file does not contain any files or the json cannot be decoded")
+            print("or the file format identifier is not \'wikidata\' or \'pronom\'")
+            return
+        c.setup(mode)
+        c.calculate(path, filename, mode)
+    elif os.path.isdir(s):
+        c.setup_complete()
+        c.calculate_whole_folder(s)
+    else:
+        print("Given path is a special file (socket, FIFO, device file)")
 
 
 def check_mode(path, filename):
