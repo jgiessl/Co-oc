@@ -1,4 +1,4 @@
-#Co-oc-tool  
+# Co-oc-tool  
 The co-oc-tool provides five 'tools'. The 'main tool' takes the siegfried output of a data-object
 in JSON format (the by siegfried used identifier has to be pronom xor wikidata) as input
 and recommends(ranks) an environment from a set of environments known to the tool.  
@@ -17,10 +17,10 @@ The plot tool takes a directory with the outputs of the 'main tool' as input and
 creates bar-plots ranking the possible environments as given by the 'main tool'.  
 The tool also creates info.txt files for each data_object which contain information on the
 data_objects as well as the names of the environments depicted in the bar-plots.
-##Usage  
+## Usage  
 There are two options of running the tools: Using docker or using the python scripts directly.
-###option 1) - using python directly  
-####setup
+### option 1) - using python directly  
+#### setup
 For this option a python 3.8.x is required (should actually work with python 3.x)  
 The necessary packages are written down in the requirements.txt file can be installed using pip:  
 pip3 install -r requirements.txt  
@@ -84,9 +84,9 @@ python3 plotter.py -t \<number> <Path/to/folder/with/main_tool/outputs>
 where the number stands for how many of the highest ranking environments will be depicted in the bar-plots.  
 The results are written to the 'ranking_plots' folder.  
     
-###option 2) use docker
+### option 2) use docker
 
-####setup
+#### setup
 If you are using docker for the first time on a specific machine the tool needs to be set up 
 if it is already set up this part can be skipped.  
 For simplicity run the script setup.sh - it will create the docker images and set up a volume to 
@@ -94,7 +94,7 @@ store data.
 (now there should be a volume called co-oc_storage and a non running container co-oc_stor)
 
 #### use cases of the tools
-#####main tool
+##### main tool
 To get an environment recommendation(ranking) for a specific data-object use:  
 ./main.sh <(absolut)Path/to/object/file.json> <(absolut)Path/to/the/folder/where/the/results/should/go>
 
