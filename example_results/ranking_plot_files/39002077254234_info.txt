@@ -1,0 +1,40 @@
+39002077254234.json
+top ranked environments: 
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.231069230769231
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.747652747252747
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.5167835164835165
+environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.5167835164835164
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.5167835164835164
+
+number of files:  23
+number of files with unknown format: 4
+number of files with known format: 19
+rate of files with known format: 0.8260869565217391
+contained formats: 
+id: Q3928271; format RGBE image format
+id: Q1076355; format Portable Executable
+id: Q27473691; format BIL/BIP/BSQ Header File
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q95994246; format Agilent Microarray file format
+id: Q28758102; format InstallShield CAB
+id: Q1662484; format Information Presentation Facility
+id: Q28055391; format Printfox bitmap
+id: Q28206310; format Analyze HDR
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q58006953; format TRIM Context Reference File
+id: Q194831; format Cabinet
+id: Q1343830; format Executable and Linkable Format
+id: Q27979410; format Binary Text
+id: Q28600763; format Electronic Arts INF
+id: Q3807693; format ASCII tab
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q59961105; format InstallShield Compiled Rules File
+id: Q47455968; format SafeGuard Encrypted Virtual Disk
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q1882400; format MacBinary
+id: Q723030; format AsciiDoc
+id: Q27979156; format ASCII art
+id: Q684554; format Autorun.inf
+id: Q1141412; format INI file

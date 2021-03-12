@@ -1,0 +1,38 @@
+39002068059683.json
+top ranked environments: 
+environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 5.278277777777779
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.5836333333333332
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.0835333333333332
+environment_number: 4; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.08353333333333333
+environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + Adobe PhotoDeluxe 13079; score: 0.0001
+
+number of files:  79
+number of files with unknown format: 11
+number of files with known format: 68
+rate of files with known format: 0.8607594936708861
+contained formats: 
+id: Q1076355; format Portable Executable
+id: Q95994246; format Agilent Microarray file format
+id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
+id: Q29000741; format WorldBuilder
+id: Q777561; format BinHex
+id: Q58006953; format TRIM Context Reference File
+id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
+id: Q5153426; format Common Log Format
+id: Q5421818; format Extended Log Format
+id: Q3807693; format ASCII tab
+id: Q58335745; format Acrobat Catalog Cat File
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28206952; format PhotoDeluxe
+id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
+id: Q4045294; format New Executable
+id: Q58335773; format Verity Collection Stop List
+id: Q5448342; format File change log
+id: Q29000651; format WLD
+id: Q34310996; format Security Catalog
+id: Q29904540; format Statistical Analysis System log file
+id: Q723030; format AsciiDoc
+id: Q27979156; format ASCII art
+id: Q3509055; format STEP file

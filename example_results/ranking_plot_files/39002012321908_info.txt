@@ -1,0 +1,40 @@
+39002012321908.json
+top ranked environments: 
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.650785419912409
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 3.355708405252083
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 3.0479160975597748
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 3.0479160975597748
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 1.421720988116773
+
+number of files:  651
+number of files with unknown format: 0
+number of files with known format: 651
+rate of files with known format: 1.0
+contained formats: 
+id: Q1076355; format Portable Executable
+id: Q95994246; format Agilent Microarray file format
+id: Q1662484; format Information Presentation Facility
+id: Q28205580; format OS/2 Icon
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q58006953; format TRIM Context Reference File
+id: Q17092932; format JPEG-XT
+id: Q99184084; format Atom web feed
+id: Q729366; format ICO
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q26385770; format Still Picture Interchange File Format
+id: Q28600763; format Electronic Arts INF
+id: Q3807693; format ASCII tab
+id: Q66134804; format Access Project file format
+id: Q28206262; format HSI JPEG
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q28205626; format Sun icon
+id: Q28206497; format Lossless JPEG
+id: Q307271; format .DS_Store
+id: Q723030; format AsciiDoc
+id: Q28206771; format OS/2 Bitmap Array
+id: Q28206359; format Intergraph Raster
+id: Q27979156; format ASCII art
+id: Q684554; format Autorun.inf
+id: Q1952321; format Multi Picture Object

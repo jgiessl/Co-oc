@@ -1,0 +1,68 @@
+39002053533684.json
+top ranked environments: 
+environment_number: 9; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 38.33523333333339
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 37.038737037037066
+environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 37.038737037037066
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 37.038737037037066
+environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 12.25590196078432
+
+number of files:  139
+number of files with unknown format: 3
+number of files with known format: 136
+rate of files with known format: 0.9784172661870504
+contained formats: 
+id: Q27487348; format Shapefile spatial index part 2
+id: Q27866118; format Adobe Illustrator Artwork, version 5.x Japenese Edition
+id: Q59999653; format ESRI Arc/View Project
+id: Q59999470; format ESRI Spatial Index File
+id: Q95994246; format Agilent Microarray file format
+id: Q28205439; format Sony ARW
+id: Q27866121; format Adobe Illustrator Artwork, version 7.0
+id: Q46118194; format Lotus Approach View File, version 97
+id: Q47498538; format Adobe Illustrator file format, version 9
+id: Q27866110; format Adobe Illustrator Artwork, version 8
+id: Q47498552; format Adobe Illustrator file format, version 11
+id: Q28919071; format After Effects project, binary variant
+id: Q51954585; format dBASE Database
+id: Q51753252; format AutoCAD Compiled Shape/Font File
+id: Q60628005; format FoxPro Database, version 2
+id: Q27866113; format Adobe Illustrator Artwork, version 4.0
+id: Q47498736; format Adobe Illustrator file format, version 14
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q27487130; format Shapefile dBASE table
+id: Q51753051; format 3D Studio Shapes
+id: Q27487109; format Shapefile index file
+id: Q58006953; format TRIM Context Reference File
+id: Q56827141; format SeqBox file
+id: Q29904450; format Presentation Manager Metafile
+id: Q51954521; format Microsoft FoxPro Database, version 2.6
+id: Q28206109; format farbfeld
+id: Q28600734; format ESRI Arc/Info Export File
+id: Q99184084; format Atom web feed
+id: Q47498745; format Adobe Illustrator file format, version 15
+id: Q60628025; format FoxPro Database, version 2.5
+id: Q47498547; format Adobe Illustrator file format, version 10
+id: Q27487343; format Shapefile spatial index part 1
+id: Q3807693; format ASCII tab
+id: Q52834849; format dBASE for Windows database, version 5
+id: Q66663925; format OS/2 Metafile
+id: Q47498565; format Adobe Illustrator file format, version 13
+id: Q66134804; format Access Project file format
+id: Q48814895; format ESRI ArcView Project
+id: Q61971919; format Microsoft Visual FoxPro Database Table File
+id: Q47498500; format Adobe Illustrator file format, version 8
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q47538951; format AutoCAD Compiled Menu
+id: Q27486884; format Shapefile main file
+id: Q47012501; format OmniPage Pro Document file format
+id: Q27866092; format Adobe Illustrator Artwork, version 1.0/1.1
+id: Q28207085; format PrintMaster Graphics file
+id: Q27866114; format Adobe Illustrator Artwork, version 5.0/5.5
+id: Q44933672; format dBASE IV
+id: Q723030; format AsciiDoc
+id: Q27866120; format Adobe Illustrator Artwork, version 6.0
+id: Q47498555; format Adobe Illustrator file format, version 12
+id: Q47498749; format Adobe Illustrator file format, version 16
+id: Q27866112; format Adobe Illustrator Artwork, version 3.0/3.2
+id: Q27979156; format ASCII art
+id: Q61971917; format FoxPro Database, version 2x

@@ -1,0 +1,30 @@
+39002079385341.json
+top ranked environments: 
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 3.050059828522119
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 2.0082931618554523
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 2.0082931618554523
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.0082931618554523
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 2.0082931618554523
+
+number of files:  861
+number of files with unknown format: 0
+number of files with known format: 861
+rate of files with known format: 1.0
+contained formats: 
+id: Q28600763; format Electronic Arts INF
+id: Q28786544; format Netscape bookmarks
+id: Q1076355; format Portable Executable
+id: Q166074; format Extensible HyperText Markup Language
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q4045294; format New Executable
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q1662484; format Information Presentation Facility
+id: Q1888930; format Vector Markup Language
+id: Q8811; format HyperText Markup Language
+id: Q178051; format Portable Network Graphics
+id: Q28206109; format farbfeld
+id: Q2053; format HTML5
+id: Q99184084; format Atom web feed
+id: Q684554; format Autorun.inf
+id: Q62626012; format HyperText Markup Language

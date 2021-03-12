@@ -1,0 +1,13 @@
+39002068057976.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.232084057971015
+
+number of files:  2893
+number of files with unknown format: 1724
+number of files with known format: 1169
+rate of files with known format: 0.40407881092291736
+contained formats: 
+id: Q4045294; format New Executable
+id: Q79241659; format Lotus Accessory
+id: Q3398726; format Portable Compiled Format
+id: Q28206859; format Polyomino Compressed Image Format

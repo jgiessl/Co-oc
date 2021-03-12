@@ -1,0 +1,43 @@
+39002056323604.json
+top ranked environments: 
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.732131531656287
+environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.176200320967687
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.101982963917455
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.101982963917455
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.4524522875181243
+
+number of files:  248
+number of files with unknown format: 3
+number of files with known format: 245
+rate of files with known format: 0.9879032258064516
+contained formats: 
+id: Q28786544; format Netscape bookmarks
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q28205883; format Desktop Color Separation
+id: Q95994246; format Agilent Microarray file format
+id: Q28205439; format Sony ARW
+id: Q17073241; format Opera Show Format
+id: Q15938816; format MATLAB M-File
+id: Q288405; format hOCR
+id: Q28975650; format Recon Mesh
+id: Q217570; format Waveform Audio File Format
+id: Q166074; format Extensible HyperText Markup Language
+id: Q58006953; format TRIM Context Reference File
+id: Q10610388; format Standard MIDI File
+id: Q99184084; format Atom web feed
+id: Q29151645; format Research Articles in Simplified HTML
+id: Q62626012; format HyperText Markup Language
+id: Q5153426; format Common Log Format
+id: Q5421818; format Extended Log Format
+id: Q1343830; format Executable and Linkable Format
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q3807693; format ASCII tab
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1888930; format Vector Markup Language
+id: Q5448342; format File change log
+id: Q8811; format HyperText Markup Language
+id: Q29904540; format Statistical Analysis System log file
+id: Q723030; format AsciiDoc
+id: Q2053; format HTML5
+id: Q27979156; format ASCII art

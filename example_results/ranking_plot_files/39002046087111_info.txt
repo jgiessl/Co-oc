@@ -1,0 +1,27 @@
+39002046087111.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 0.0001
+environment_number: 2; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 0.0001
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit Base V1 + AutoCAD LT 2006 - 5788; score: 0.0001
+
+number of files:  2382
+number of files with unknown format: 13
+number of files with known format: 2369
+rate of files with known format: 0.9945424013434089
+contained formats: 
+id: Q29904539; format Statistical Analysis System output file
+id: Q58103465; format Adobe Font List
+id: Q28600763; format Electronic Arts INF
+id: Q61984341; format Microsoft Visual FoxPro database container (memo files)
+id: Q28755628; format Exact Yearbook LST file
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q1076355; format Portable Executable
+id: Q27960082; format DCT
+id: Q28205439; format Sony ARW
+id: Q1662484; format Information Presentation Facility
+id: Q1258721; format NFO
+id: Q684554; format Autorun.inf
+id: Q1141412; format INI file

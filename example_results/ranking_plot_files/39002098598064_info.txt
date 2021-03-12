@@ -1,0 +1,30 @@
+39002098598064.json
+top ranked environments: 
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 5.694944444444445
+environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.7086333333333334
+environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.12519999999999998
+environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + Adobe PhotoDeluxe 13079; score: 0.0001
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
+
+number of files:  38
+number of files with unknown format: 20
+number of files with known format: 18
+rate of files with known format: 0.47368421052631576
+contained formats: 
+id: Q29000741; format WorldBuilder
+id: Q58335745; format Acrobat Catalog Cat File
+id: Q58335773; format Verity Collection Stop List
+id: Q5448342; format File change log
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q28206952; format PhotoDeluxe
+id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
+id: Q29000651; format WLD
+id: Q34310996; format Security Catalog
+id: Q29904540; format Statistical Analysis System log file
+id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q5153426; format Common Log Format
+id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
+id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
+id: Q3509055; format STEP file
+id: Q5421818; format Extended Log Format

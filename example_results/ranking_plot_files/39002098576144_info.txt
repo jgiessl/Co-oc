@@ -1,0 +1,29 @@
+39002098576144.json
+top ranked environments: 
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.129663565805707
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 4.129663565805707
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 3.146409436403579
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.146409436403579
+environment_number: 9; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.9422929479405482
+
+number of files:  1313
+number of files with unknown format: 0
+number of files with known format: 1313
+rate of files with known format: 1.0
+contained formats: 
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q17092932; format JPEG-XT
+id: Q28206497; format Lossless JPEG
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q28206109; format farbfeld
+id: Q1952321; format Multi Picture Object
+id: Q99184084; format Atom web feed
+id: Q28206359; format Intergraph Raster
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q27826469; format Cascading Style Sheets Level 3
+id: Q26385770; format Still Picture Interchange File Format
+id: Q28206262; format HSI JPEG

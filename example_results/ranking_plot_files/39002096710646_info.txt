@@ -1,0 +1,48 @@
+39002096710646.json
+top ranked environments: 
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.5533411764705882
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.5533411764705882
+environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.4767705882352941
+environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.2590235294117647
+environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 0.2590235294117647
+
+number of files:  158
+number of files with unknown format: 6
+number of files with known format: 152
+rate of files with known format: 0.9620253164556962
+contained formats: 
+id: Q28344713; format Package File
+id: Q1076355; format Portable Executable
+id: Q95994246; format Agilent Microarray file format
+id: Q1662484; format Information Presentation Facility
+id: Q28205580; format OS/2 Icon
+id: Q29904539; format Statistical Analysis System output file
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q58006953; format TRIM Context Reference File
+id: Q29209269; format Z
+id: Q28206109; format farbfeld
+id: Q28758103; format InstallShield Z
+id: Q99184084; format Atom web feed
+id: Q729366; format ICO
+id: Q28771319; format Microsoft Library
+id: Q6043826; format Intellifont
+id: Q27596243; format Windows Bitmap, version 3
+id: Q194831; format Cabinet
+id: Q28600763; format Electronic Arts INF
+id: Q28755628; format Exact Yearbook LST file
+id: Q3807693; format ASCII tab
+id: Q19599377; format AppleLink Package Compression Format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q29000498; format OrCAD library
+id: Q58103465; format Adobe Font List
+id: Q29650301; format Pack
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q28205626; format Sun icon
+id: Q27967388; format Adlib Tracker instrument
+id: Q723030; format AsciiDoc
+id: Q28206771; format OS/2 Bitmap Array
+id: Q27979156; format ASCII art
+id: Q684554; format Autorun.inf
+id: Q1141412; format INI file

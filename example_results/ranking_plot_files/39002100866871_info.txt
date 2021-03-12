@@ -1,0 +1,25 @@
+39002100866871.json
+top ranked environments: 
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.1457545454545457
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 1.782018181818182
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 1.782018181818182
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 1.782018181818182
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.782018181818182
+
+number of files:  145
+number of files with unknown format: 4
+number of files with known format: 141
+rate of files with known format: 0.9724137931034482
+contained formats: 
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q16996920; format Windows Setup Information File
+id: Q4045294; format New Executable
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q66811836; format Inform source code file
+id: Q188199; format Ogg
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1662484; format Information Presentation Facility
+id: Q178051; format Portable Network Graphics
+id: Q28206109; format farbfeld
+id: Q684554; format Autorun.inf

@@ -1,0 +1,16 @@
+39002103622677.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Illustrator CS3; score: 0.0001
+environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
+environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 0.0001
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 0.0001
+
+number of files:  600
+number of files with unknown format: 0
+number of files with known format: 600
+rate of files with known format: 1.0
+contained formats: 
+id: Q29209269; format Z
+id: Q29650301; format Pack
+id: Q28758103; format InstallShield Z

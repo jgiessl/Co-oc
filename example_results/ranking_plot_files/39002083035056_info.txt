@@ -1,0 +1,20 @@
+39002083035056.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
+environment_number: 1; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
+environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.0001
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) Base V2 + Microsoft Works Suite 99 13401; score: 0.0001
+
+number of files:  66
+number of files with unknown format: 22
+number of files with known format: 44
+rate of files with known format: 0.6666666666666666
+contained formats: 
+id: Q27979378; format VobSub index
+id: Q751800; format TrueType Font
+id: Q4045294; format New Executable
+id: Q27596243; format Windows Bitmap, version 3
+id: Q1144005; format WinHelp
+id: Q53756539; format git packfile index, version 1
+id: Q53756551; format git packfile index, version 2

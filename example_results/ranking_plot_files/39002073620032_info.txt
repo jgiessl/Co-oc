@@ -1,0 +1,41 @@
+39002073620032.json
+top ranked environments: 
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.4448444444444455
+environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.3409407407407407
+environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.17968332941302
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.07427407407407408
+environment_number: 5; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.07427407407407408
+
+number of files:  596
+number of files with unknown format: 112
+number of files with known format: 484
+rate of files with known format: 0.8120805369127517
+contained formats: 
+id: Q1076355; format Portable Executable
+id: Q77046033; format Extensible 3D vector graphics (VRML)
+id: Q95994246; format Agilent Microarray file format
+id: Q1662484; format Information Presentation Facility
+id: Q28600764; format Electronic Arts MOV
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q58006953; format TRIM Context Reference File
+id: Q28206109; format farbfeld
+id: Q99184084; format Atom web feed
+id: Q50288102; format Mathcad Document, binary file format
+id: Q1056154; format M4V
+id: Q28600763; format Electronic Arts INF
+id: Q3807693; format ASCII tab
+id: Q66134804; format Access Project file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q942350; format QuickTime File Format
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q176061; format Virtual Reality Modeling Language
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q723030; format AsciiDoc
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q27979156; format ASCII art
+id: Q684554; format Autorun.inf
+id: Q27826469; format Cascading Style Sheets Level 3

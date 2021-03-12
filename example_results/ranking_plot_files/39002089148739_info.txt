@@ -1,0 +1,32 @@
+39002089148739.json
+top ranked environments: 
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 1.376222175178463
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 1.376222175178463
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.376222175178463
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.11131111111111111
+environment_number: 5; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.11131111111111111
+
+number of files:  775
+number of files with unknown format: 0
+number of files with known format: 775
+rate of files with known format: 1.0
+contained formats: 
+id: Q1076355; format Portable Executable
+id: Q1662484; format Information Presentation Facility
+id: Q5924007; format JavaScript
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q28206109; format farbfeld
+id: Q1144005; format WinHelp
+id: Q99184084; format Atom web feed
+id: Q28600763; format Electronic Arts INF
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q49243748; format Acrobat Language definition file
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q684554; format Autorun.inf
+id: Q27826469; format Cascading Style Sheets Level 3

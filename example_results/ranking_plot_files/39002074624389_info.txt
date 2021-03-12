@@ -1,0 +1,71 @@
+39002074624389.json
+top ranked environments: 
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.580742264752791
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.3055631578947368
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.2352877192982456
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.21092631578947366
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.03528771929824562
+
+number of files:  106
+number of files with unknown format: 7
+number of files with known format: 99
+rate of files with known format: 0.9339622641509434
+contained formats: 
+id: Q1023647; format Microsoft Compiled HTML Help
+id: Q87066063; format LEADTools Lead 1Bit Compressed Image
+id: Q28206306; format Analyze IMG
+id: Q85415853; format SureThing Project File
+id: Q28206049; format ERDAS Imagine IMG
+id: Q1076355; format Portable Executable
+id: Q29944575; format OpenOffice Calc template, version 1.0
+id: Q29944206; format OpenOffice Draw template, version 1.0
+id: Q95994246; format Agilent Microarray file format
+id: Q1662484; format Information Presentation Facility
+id: Q28205944; format Doré Raster
+id: Q3146723; format Raw disk image
+id: Q28205965; format Digital Video Interactive Green Channel
+id: Q58237034; format Adobe Multiple Master Metrics font file
+id: Q5924007; format JavaScript
+id: Q29904539; format Statistical Analysis System output file
+id: Q29435; format Dolby TrueHD
+id: Q28206272; format HTC splashscreen
+id: Q58006953; format TRIM Context Reference File
+id: Q27578057; format Adobe Type 1 Printer Font Metrics
+id: Q28206109; format farbfeld
+id: Q99184084; format Atom web feed
+id: Q287315; format reStructuredText
+id: Q55394748; format ChemDraw file
+id: Q1601835; format Standard Test Data Format
+id: Q28206373; format Interleaf image
+id: Q1228757; format Apple Disk Image
+id: Q28600763; format Electronic Arts INF
+id: Q479833; format ا تهكير لعبة ببجي
+id: Q28755628; format Exact Yearbook LST file
+id: Q28206162; format GEM Raster
+id: Q3807693; format ASCII tab
+id: Q6026738; format PFB
+id: Q58725633; format Adobe PostScript Font Metrics file
+id: Q28205801; format IMG Picture Format
+id: Q73675958; format 3M Printscape
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q49243488; format License file
+id: Q27355592; format ADRG Geo Data File
+id: Q87066066; format LEADToolsCompressed Image
+id: Q28206883; format Planetary Data System
+id: Q58103465; format Adobe Font List
+id: Q28207469; format Vivid IMG
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q16965621; format Video Image Communication And Retrieval
+id: Q28206894; format Portable Float Map
+id: Q49243748; format Acrobat Language definition file
+id: Q58335773; format Verity Collection Stop List
+id: Q723030; format AsciiDoc
+id: Q877050; format ISO image
+id: Q28205670; format Alias PIX
+id: Q28206359; format Intergraph Raster
+id: Q27979156; format ASCII art
+id: Q684554; format Autorun.inf
+id: Q1141412; format INI file
+id: Q3509055; format STEP file

@@ -1,0 +1,10 @@
+39002098197495.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.0001
+
+number of files:  13
+number of files with unknown format: 2
+number of files with known format: 11
+rate of files with known format: 0.8461538461538461
+contained formats: 
+id: Q217570; format Waveform Audio File Format

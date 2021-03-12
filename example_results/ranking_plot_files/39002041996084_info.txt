@@ -1,0 +1,29 @@
+39002041996084.json
+top ranked environments: 
+environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 8.936949323209975
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.3487550427307824
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 1.3487550427307824
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.9207313675192372
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.7079923076923076
+
+number of files:  5258
+number of files with unknown format: 174
+number of files with known format: 5084
+rate of files with known format: 0.9669075694180297
+contained formats: 
+id: Q27349828; format ESRI Arc/Info ASCII Grid
+id: Q218170; format PostScript
+id: Q3807693; format ASCII tab
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q58006953; format TRIM Context Reference File
+id: Q63036182; format 8-bit ASCII Text
+id: Q95994246; format Agilent Microarray file format
+id: Q723030; format AsciiDoc
+id: Q62619688; format 7-bit ASCII Text
+id: Q28049670; format Autodesk 3D Studio ASCII format
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q99184084; format Atom web feed
+id: Q29650330; format PGP public key
+id: Q27979156; format ASCII art
+id: Q27967116; format ASC Sound Master module
+id: Q28600256; format ASCII Encoded HP 48 Object

@@ -1,0 +1,21 @@
+AU3.json
+top ranked environments: 
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 6.667166666666665
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 6.667166666666665
+environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.6668666666666666
+
+number of files:  2
+number of files with unknown format: 0
+number of files with known format: 2
+rate of files with known format: 1.0
+contained formats: 
+id: Q48004869; format Microsoft Access Database, version 95
+id: Q3807693; format ASCII tab
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q58006953; format TRIM Context Reference File
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q95994246; format Agilent Microarray file format
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q723030; format AsciiDoc
+id: Q48021763; format Microsoft Access Database, version 2002
+id: Q27979156; format ASCII art

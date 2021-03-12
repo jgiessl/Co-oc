@@ -1,0 +1,10 @@
+Number of files in data set: 79 
+Number of files with unknown format in data set: 30 
+Rate of files with known format: 0.620253164556962 
+ 
+fmt/214: Microsoft Excel for Windows 
+x-fmt/111: Plain Text File 
+x-fmt/18: Comma Separated Values 
+x-fmt/193: Unisys (Sperry) System Data File 
+x-fmt/227: Geography Markup Language 
+x-fmt/383: Flexible Image Transport System 

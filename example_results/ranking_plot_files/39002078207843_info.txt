@@ -1,0 +1,45 @@
+39002078207843.json
+top ranked environments: 
+environment_number: 4; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 36.36749139784966
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 30.020915890083742
+environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 28.92404169653535
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 28.92404169653535
+environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 9.57089247311828
+
+number of files:  79
+number of files with unknown format: 55
+number of files with known format: 24
+rate of files with known format: 0.3037974683544304
+contained formats: 
+id: Q48805492; format ChiWriter Document
+id: Q27866118; format Adobe Illustrator Artwork, version 5.x Japenese Edition
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q28205883; format Desktop Color Separation
+id: Q27866121; format Adobe Illustrator Artwork, version 7.0
+id: Q47498538; format Adobe Illustrator file format, version 9
+id: Q15938816; format MATLAB M-File
+id: Q27866110; format Adobe Illustrator Artwork, version 8
+id: Q28205507; format GlowIcons
+id: Q47498552; format Adobe Illustrator file format, version 11
+id: Q28975650; format Recon Mesh
+id: Q27866113; format Adobe Illustrator Artwork, version 4.0
+id: Q47498736; format Adobe Illustrator file format, version 14
+id: Q59962263; format ChiWriter Document
+id: Q5153426; format Common Log Format
+id: Q5421818; format Extended Log Format
+id: Q47498745; format Adobe Illustrator file format, version 15
+id: Q47498547; format Adobe Illustrator file format, version 10
+id: Q47498565; format Adobe Illustrator file format, version 13
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q47498500; format Adobe Illustrator file format, version 8
+id: Q28205479; format Amiga Workbench icon
+id: Q27866092; format Adobe Illustrator Artwork, version 1.0/1.1
+id: Q28205548; format NewIcons
+id: Q27866114; format Adobe Illustrator Artwork, version 5.0/5.5
+id: Q5448342; format File change log
+id: Q29904540; format Statistical Analysis System log file
+id: Q27866120; format Adobe Illustrator Artwork, version 6.0
+id: Q47498555; format Adobe Illustrator file format, version 12
+id: Q47498749; format Adobe Illustrator file format, version 16
+id: Q27866112; format Adobe Illustrator Artwork, version 3.0/3.2
+id: Q28205475; format ZoomBrowser Ex thumbnail cache

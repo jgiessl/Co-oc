@@ -1,0 +1,61 @@
+39002067754110.json
+top ranked environments: 
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 6.027650354609924
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 2.826031914893618
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 2.826031914893618
+environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 2.6557191489361713
+environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 2.6557191489361713
+
+number of files:  6447
+number of files with unknown format: 5641
+number of files with known format: 806
+rate of files with known format: 0.12501938886303707
+contained formats: 
+id: Q55429220; format Python bytecode, version 2.0
+id: Q29000599; format Windows Shortcut
+id: Q1076355; format Portable Executable
+id: Q55429271; format Python bytecode, version 2.4
+id: Q59390872; format GraphPad Prism file format
+id: Q95994246; format Agilent Microarray file format
+id: Q1662484; format Information Presentation Facility
+id: Q1109779; format file shortcut
+id: Q55429163; format Python bytecode, version 2.7
+id: Q55429287; format Python bytecode, version 2.5
+id: Q55429419; format Python bytecode, version 3.7
+id: Q55429245; format Python bytecode, version 2.2
+id: Q55429234; format Python bytecode, version 2.1
+id: Q55429332; format Python bytecode, version 3.1
+id: Q39184097; format Shell Link Binary File Format
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q58006953; format TRIM Context Reference File
+id: Q50288190; format Python bytecode, version 3.4
+id: Q2192; format Graphics Interchange Format
+id: Q1569639; format Interchange File Format
+id: Q28600763; format Electronic Arts INF
+id: Q55429372; format Python bytecode, version 3.5
+id: Q27526739; format Graphics Interchange Format, version 89a
+id: Q3807693; format ASCII tab
+id: Q28207070; format Polychrome Recursive Format
+id: Q28207158; format Puzzle image
+id: Q55429341; format Python bytecode, version 3.2
+id: Q28207577; format ZoomifyImageFormat
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q55429382; format Python bytecode, version 3.6
+id: Q55429313; format Python bytecode, version 3.0
+id: Q55429354; format Python bytecode, version 3.3
+id: Q28777705; format MyHeritage Family Tree Builder
+id: Q55429254; format Python bytecode, version 2.3
+id: Q75717634; format Corel Photo Paint User Defined Filter
+id: Q55429299; format Python bytecode, version 2.6
+id: Q59390889; format GraphPad Prism file format, version 4
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q75717796; format USRobotics firmware
+id: Q4928413; format Blorb
+id: Q723030; format AsciiDoc
+id: Q29650302; format Perfect ZX Tape
+id: Q27979156; format ASCII art
+id: Q684554; format Autorun.inf
+id: Q1141412; format INI file
+id: Q61777776; format Play SID Audio, version 1

@@ -1,0 +1,104 @@
+39002056624563.json
+top ranked environments: 
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 7.4250977865800705
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 4.811105757515088
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.9601101851542557
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 1.1654134226253248
+environment_number: 8; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.5061214473567925
+
+number of files:  3822
+number of files with unknown format: 1177
+number of files with known format: 2645
+rate of files with known format: 0.6920460491889063
+contained formats: 
+id: Q7395247; format SYBYL line notation
+id: Q28728783; format VOTable
+id: Q61752300; format Microsoft FrontPage file format
+id: Q5924007; format JavaScript
+id: Q28206843; format Palm Database ImageViewer
+id: Q28206625; format MSX BASIC graphics
+id: Q3406936; format Program database
+id: Q3551300; format Universal Subtitle Format
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q58799889; format PowerProject Teamplan
+id: Q48004869; format Microsoft Access Database, version 95
+id: Q66811836; format Inform source code file
+id: Q100136218; format XDOMEA 2.2.0
+id: Q796483; format DocBook
+id: Q100135637; format XDOMEA 2.1.0
+id: Q28206771; format OS/2 Bitmap Array
+id: Q48021763; format Microsoft Access Database, version 2002
+id: Q50378320; format INTERLIS Transfer File, version 2.2
+id: Q684554; format Autorun.inf
+id: Q66759482; format InfoPath Form file
+id: Q29000578; format Android Resource file
+id: Q2819247; format ALTO
+id: Q28205846; format ColoRIX
+id: Q27967351; format iTunes Music Library, XML variant
+id: Q76142694; format VisualBasic Project
+id: Q50809785; format Portable Database, version 3
+id: Q55758988; format Microsoft Program Database file format, version 2
+id: Q27910000; format RADARSAT-2 Product Information File
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q166074; format Extensible HyperText Markup Language
+id: Q178051; format Portable Network Graphics
+id: Q28206109; format farbfeld
+id: Q28771319; format Microsoft Library
+id: Q729366; format ICO
+id: Q59851506; format DROID File Collection File Format
+id: Q57978083; format ASP Application Directive File
+id: Q66134804; format Access Project file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q50809751; format Portable Database, version 1
+id: Q61963304; format Microsoft Front Page Binary Tree Index
+id: Q653301; format MusicXML
+id: Q71178742; format PIPE2 file format
+id: Q28600421; format Ant build file
+id: Q28771320; format Microsoft Office File List
+id: Q28207363; format TealPaint PDB
+id: Q98815369; format Microsoft Access Database Link
+id: Q641213; format XBEL
+id: Q1076355; format Portable Executable
+id: Q95994246; format Agilent Microarray file format
+id: Q959950; format eXtensible Business Reporting Language
+id: Q99973606; format XDOMEA 2.0.0
+id: Q751800; format TrueType Font
+id: Q28207256; format ScreenShot Hack PDB
+id: Q50809753; format Portable Database, version 2
+id: Q29650793; format PalmOS Database
+id: Q27596243; format Windows Bitmap, version 3
+id: Q28600760; format Early Mind Manager XML format
+id: Q48805099; format Btrieve Database
+id: Q3807693; format ASCII tab
+id: Q29000498; format OrCAD library
+id: Q100136960; format XDOMEA 2.4.0
+id: Q85415606; format Sonic Scenarist Closed Caption Format
+id: Q28445577; format Advanced Authoring System
+id: Q45432; format RSS
+id: Q100136955; format XDOMEA 2.3.0
+id: Q16996920; format Windows Setup Information File
+id: Q87816075; format Broderbund Print Shop Deluxe 5-6
+id: Q25339304; format Timed Text Markup Language
+id: Q27979156; format ASCII art
+id: Q59999786; format Dreamweaver Lock File
+id: Q34306669; format Scifer archive XML header
+id: Q4042481; format LOGML
+id: Q1662484; format Information Presentation Facility
+id: Q55758993; format Microsoft Program Database file format, version 7
+id: Q28205580; format OS/2 Icon
+id: Q99976195; format XDOMEA 2.0.1
+id: Q58006953; format TRIM Context Reference File
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q99184084; format Atom web feed
+id: Q6043826; format Intellifont
+id: Q2313301; format SpreadsheetML
+id: Q72273742; format TPN
+id: Q28600763; format Electronic Arts INF
+id: Q452197; format Systems Biology Markup Language
+id: Q59851322; format DROID Signature File Format
+id: Q28205626; format Sun icon
+id: Q4045294; format New Executable
+id: Q723030; format AsciiDoc
+id: Q99973597; format XDOMEA 1.0 file format
+id: Q27487531; format Shapefile metadata for ArcGIS

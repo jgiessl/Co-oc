@@ -1,0 +1,146 @@
+39002097747324.json
+top ranked environments: 
+environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 93.60949122628764
+environment_number: 15; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 19.3203130314585
+environment_number: 5; environment_name: Windows 95 + Visio Standard  5; score: 13.488044565728886
+environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 12.540269223652482
+environment_number: 23; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 11.913500421135856
+
+number of files:  6103
+number of files with unknown format: 17
+number of files with known format: 6086
+rate of files with known format: 0.9972144846796658
+contained formats: 
+id: Q26085319; format Portable Document Format, version 1.6
+id: Q26543628; format Portable Document Format/Archive, version 1 Basic
+id: Q85621726; format PFS:First Choice Document
+id: Q26085339; format Portable Document Format, version 1.0
+id: Q433224; format APNG
+id: Q47498736; format Adobe Illustrator file format, version 14
+id: Q17092932; format JPEG-XT
+id: Q27596184; format Windows Bitmap, version 2
+id: Q5153426; format Common Log Format
+id: Q47498745; format Adobe Illustrator file format, version 15
+id: Q28205824; format CgBI
+id: Q42332; format Portable Document Format
+id: Q62664735; format Wordperfect Secondary File, version 5.1 and 5.2
+id: Q27526739; format Graphics Interchange Format, version 89a
+id: Q47498565; format Adobe Illustrator file format, version 13
+id: Q29946810; format Portable Document Format/Exchange 2:2003
+id: Q27596325; format Windows Bitmap, version 4
+id: Q28858035; format Word Binary File Format, version nFib=0x00C1
+id: Q66811836; format Inform source code file
+id: Q5448342; format File change log
+id: Q63061396; format Microsoft Word Document
+id: Q28205736; format Award BIOS logo, version 2
+id: Q29904540; format Statistical Analysis System log file
+id: Q29946883; format Portable Document Format/Exchange 4p
+id: Q26085336; format Portable Document Format, version 1.1
+id: Q28206771; format OS/2 Bitmap Array
+id: Q63061679; format Windows Bitmap, version 3.0 NT
+id: Q686498; format doc
+id: Q28206359; format Intergraph Raster
+id: Q684554; format Autorun.inf
+id: Q1952321; format Multi Picture Object
+id: Q27229642; format Portable Network Graphics, version 1.2
+id: Q51801746; format Stationery for Mac OS X
+id: Q60628185; format Wordperfect Secondary File, version 5
+id: Q60000066; format Microsoft Office Owner File
+id: Q29946845; format Portable Document Format/Exchange 3:2003
+id: Q61641368; format Microsoft Word for Windows Document, version 2
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q26085317; format Portable Document Format, version 1.7
+id: Q26085333; format Portable Document Format, version 1.2
+id: Q48782238; format Microsoft Word for MS-DOS Document, version 5
+id: Q166074; format Extensible HyperText Markup Language
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q27229608; format Portable Network Graphics, version 1.1
+id: Q178051; format Portable Network Graphics
+id: Q28206109; format farbfeld
+id: Q29946134; format Portable Document Format/Variable Data and Transactional Printing, multi-file exchange variant
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q29151645; format Research Articles in Simplified HTML
+id: Q28858042; format Word Binary File Format, version nFibNew=0x010C
+id: Q28858037; format Word Binary File Format, version nFib=0x00C0
+id: Q66134804; format Access Project file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q26545877; format Portable Document Format/Archive, version 2 Accessible
+id: Q27596100; format Windows Bitmap, version 1
+id: Q28205733; format Award BIOS logo, version 1
+id: Q28205674; format Alpha Microsystems BMP
+id: Q48782202; format Microsoft Word for MS-DOS Document, version 4
+id: Q28206497; format Lossless JPEG
+id: Q8811; format HyperText Markup Language
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q2053; format HTML5
+id: Q47498749; format Adobe Illustrator file format, version 16
+id: Q27596417; format Windows Bitmap, version 5
+id: Q921122; format Java archive
+id: Q29946121; format Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant
+id: Q29946692; format Portable Document Format/Exchange 1:1999
+id: Q29946141; format Portable Document Format/Variable Data and Transactional Printing, streamed delivery variant
+id: Q48782394; format Microsoft Word for MS-DOS Document, version 5.5
+id: Q28207499; format Windows Device-Dependent Bitmap
+id: Q28858044; format Word Binary File Format, version nFibNew=0x0112
+id: Q26541013; format Portable Document Format/Archive, version 1 Accessible
+id: Q1076355; format Portable Executable
+id: Q29946937; format Portable Document Format/Exchange 5pg
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q24834502; format PowerPoint Binary File Format
+id: Q5533911; format GeoPDF
+id: Q47498538; format Adobe Illustrator file format, version 9
+id: Q29946771; format Portable Document Format/Exchange 1a:2003
+id: Q288405; format hOCR
+id: Q29946829; format Portable Document Format/Exchange 3:2002
+id: Q2043942; format Portable Document Format for Engineering
+id: Q55429627; format Portable Document Format, version 2.0
+id: Q29946726; format Portable Document Format/Exchange 1a:2001
+id: Q27596243; format Windows Bitmap, version 3
+id: Q26385770; format Still Picture Interchange File Format
+id: Q26547917; format Portable Document Format/Archive, version 3 Accessible
+id: Q42591; format MP3g
+id: Q26546575; format Portable Document Format/Archive, version 2 Basic
+id: Q1888930; format Vector Markup Language
+id: Q61639409; format Microsoft Word for Windows Document, version 1
+id: Q29946898; format Portable Document Format/Exchange 5g
+id: Q29946914; format Portable Document Format/Exchange 5n
+id: Q27229565; format Portable Network Graphics, version 1.0
+id: Q26547266; format Portable Document Format/Archive, version 2 Unicode
+id: Q29946866; format Portable Document Format/Exchange 4
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q16996920; format Windows Setup Information File
+id: Q28858041; format Word Binary File Format, version nFibNew=0x0101
+id: Q26548590; format Portable Document Format/Archive, version 3 Basic
+id: Q47498555; format Adobe Illustrator file format, version 12
+id: Q27826469; format Cascading Style Sheets Level 3
+id: Q28786544; format Netscape bookmarks
+id: Q1662484; format Information Presentation Facility
+id: Q17073241; format Opera Show Format
+id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
+id: Q26085326; format Portable Document Format, version 1.4
+id: Q26085330; format Portable Document Format, version 1.3
+id: Q47498552; format Adobe Illustrator file format, version 11
+id: Q27895063; format Windows Media Video
+id: Q63061514; format Microsoft Word Document, version 97-2003
+id: Q74550562; format SAP2000 DataBase
+id: Q85621806; format PFS:First Choice Document 3
+id: Q66439286; format DisplayWrite Document file format, version 5
+id: Q99184084; format Atom web feed
+id: Q2192; format Graphics Interchange Format
+id: Q48915661; format Interleaf Document
+id: Q29946713; format Portable Document Format/Exchange 1:2001
+id: Q62626012; format HyperText Markup Language
+id: Q5421818; format Extended Log Format
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q47498547; format Adobe Illustrator file format, version 10
+id: Q28600763; format Electronic Arts INF
+id: Q28206788; format OS/2 Bitmap, version 2.0
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q28858038; format Word Binary File Format, version nFib=0x00C2
+id: Q28206262; format HSI JPEG
+id: Q1353763; format WMV HD
+id: Q26085322; format Portable Document Format, version 1.5
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q48782098; format Microsoft Word for MS-DOS Document, version 3
+id: Q28858039; format Word Binary File Format, version nFibNew=0x00D9

@@ -1,0 +1,138 @@
+39002012181609.json
+top ranked environments: 
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 28.535207897863135
+environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 22.026631182795644
+environment_number: 7; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 21.4619150537634
+environment_number: 12; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 21.292639426523248
+environment_number: 22; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 20.802875268817147
+
+number of files:  2585
+number of files with unknown format: 333
+number of files with known format: 2252
+rate of files with known format: 0.8711798839458413
+contained formats: 
+id: Q29944206; format OpenOffice Draw template, version 1.0
+id: Q28234649; format CCITT Group 3
+id: Q62522682; format SPARQL update
+id: Q28049770; format DKBTrace scene description
+id: Q28206843; format Palm Database ImageViewer
+id: Q32097740; format Fallout DAT
+id: Q29944987; format Rich Text Format, version 0
+id: Q3406936; format Program database
+id: Q5153426; format Common Log Format
+id: Q73675958; format 3M Printscape
+id: Q27966933; format SID
+id: Q58799889; format PowerProject Teamplan
+id: Q58103465; format Adobe Font List
+id: Q5301; format TeX
+id: Q5448342; format File change log
+id: Q29000651; format WLD
+id: Q29904540; format Statistical Analysis System log file
+id: Q283579; format tar
+id: Q29000485; format 010 Editor Binary Template
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q28206359; format Intergraph Raster
+id: Q25345915; format Scratch Project SB
+id: Q3509055; format STEP file
+id: Q87066063; format LEADTools Lead 1Bit Compressed Image
+id: Q1250383; format XYZ file format
+id: Q6912474; format Mork
+id: Q50809785; format Portable Database, version 3
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q28207108; format The Print Shop Graphics file
+id: Q27826417; format ActionScript
+id: Q55758988; format Microsoft Program Database file format, version 2
+id: Q27925705; format DTED Readme file
+id: Q28205645; format XV thumbnail
+id: Q29000741; format WorldBuilder
+id: Q217570; format Waveform Audio File Format
+id: Q15955723; format Python script
+id: Q166074; format Extensible HyperText Markup Language
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q81526528; format MicroStation Resource data
+id: Q28206109; format farbfeld
+id: Q5765552; format Hina-Di
+id: Q1035647; format Card Verifiable Certificate
+id: Q287315; format reStructuredText
+id: Q53756551; format git packfile index, version 2
+id: Q1601835; format Standard Test Data Format
+id: Q27959943; format La Lossless Audio
+id: Q81526664; format Palm Desktop DateBook
+id: Q1422885; format MrSID
+id: Q29944785; format Rich Text Format, version 1.8
+id: Q66134804; format Access Project file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28206952; format PhotoDeluxe
+id: Q50809751; format Portable Database, version 1
+id: Q49243488; format License file
+id: Q59962003; format ScanIt Document
+id: Q942350; format QuickTime File Format
+id: Q383305; format afio
+id: Q34747804; format Supaplex Level format
+id: Q58335773; format Verity Collection Stop List
+id: Q8811; format HyperText Markup Language
+id: Q28207363; format TealPaint PDB
+id: Q2053; format HTML5
+id: Q61777964; format Play SID Audio, version 2
+id: Q85415853; format SureThing Project File
+id: Q1076355; format Portable Executable
+id: Q29944575; format OpenOffice Calc template, version 1.0
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q95994246; format Agilent Microarray file format
+id: Q27967083; format Digital Illusions
+id: Q28600764; format Electronic Arts MOV
+id: Q28758112; format Internet Explorer history file
+id: Q28755606; format Exact Yearbook DAT file
+id: Q28207256; format ScreenShot Hack PDB
+id: Q50809753; format Portable Database, version 2
+id: Q28205796; format Master of Orion saved game
+id: Q29650793; format PalmOS Database
+id: Q27596243; format Windows Bitmap, version 3
+id: Q32097899; format Fallout v2 DAT
+id: Q947746; format SREC
+id: Q479833; format ا تهكير لعبة ببجي
+id: Q28755628; format Exact Yearbook LST file
+id: Q3807693; format ASCII tab
+id: Q27823191; format Binary Terrain, version 1.0
+id: Q29650304; format PRT scene description
+id: Q1888930; format Vector Markup Language
+id: Q672985; format Sun Microsystems audio file
+id: Q87066066; format LEADToolsCompressed Image
+id: Q29944776; format Rich Text Format, version 1.2
+id: Q27823194; format Binary Terrain, version 1.2
+id: Q87816075; format Broderbund Print Shop Deluxe 5-6
+id: Q27823201; format Binary Terrain, version 1.3
+id: Q27979156; format ASCII art
+id: Q27823193; format Binary Terrain, version 1.1
+id: Q27979378; format VobSub index
+id: Q28786544; format Netscape bookmarks
+id: Q55758993; format Microsoft Program Database file format, version 7
+id: Q27967222; format Soundtrakker 128 module
+id: Q53756539; format git packfile index, version 1
+id: Q47233167; format LDR
+id: Q29904539; format Statistical Analysis System output file
+id: Q29435; format Dolby TrueHD
+id: Q58006953; format TRIM Context Reference File
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q99184084; format Atom web feed
+id: Q1144005; format WinHelp
+id: Q28106155; format PIC2
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q62626012; format HyperText Markup Language
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q5421818; format Extended Log Format
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q27967076; format Audio Sculpture
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q51923000; format Applixware Spreadsheet
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q29944777; format Rich Text Format, version 1.3
+id: Q4045294; format New Executable
+id: Q49243748; format Acrobat Language definition file
+id: Q723030; format AsciiDoc
+id: Q28207539; format Xerox EDMICS-MMR
+id: Q29944773; format Rich Text Format, version 1.1
+id: Q29944782; format Rich Text Format, version 1.6
+id: Q28205468; format Sony Mavica 411

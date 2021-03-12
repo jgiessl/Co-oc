@@ -1,0 +1,12 @@
+39002046085677.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 0.0001
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit Base V1 + AutoCAD LT 2006 - 5788; score: 0.0001
+
+number of files:  3
+number of files with unknown format: 2
+number of files with known format: 1
+rate of files with known format: 0.3333333333333333
+contained formats: 
+id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
+id: Q28755621; format Exact Yearbook ID file

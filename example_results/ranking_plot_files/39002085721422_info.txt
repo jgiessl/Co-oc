@@ -1,0 +1,25 @@
+39002085721422.json
+top ranked environments: 
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 7.818681818181817
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 7.09130909090909
+environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 7.09130909090909
+environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 7.09130909090909
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 7.09130909090909
+
+number of files:  380
+number of files with unknown format: 108
+number of files with known format: 272
+rate of files with known format: 0.7157894736842105
+contained formats: 
+id: Q59714459; format Encapsulated PostScript File Format
+id: Q217570; format Waveform Audio File Format
+id: Q66134564; format Photoshop DCS 1.0
+id: Q3807693; format ASCII tab
+id: Q28205883; format Desktop Color Separation
+id: Q58006953; format TRIM Context Reference File
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q95994246; format Agilent Microarray file format
+id: Q723030; format AsciiDoc
+id: Q27979156; format ASCII art
+id: Q1047541; format Encapsulated PostScript
+id: Q48625328; format Encapsulated PostScript, v2

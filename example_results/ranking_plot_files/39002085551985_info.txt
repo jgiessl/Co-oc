@@ -1,0 +1,25 @@
+39002085551985.json
+top ranked environments: 
+environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 24.546454545454576
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 19.637263636363656
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 19.637263636363656
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 19.637263636363656
+environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 8.182418181818177
+
+number of files:  2
+number of files with unknown format: 1
+number of files with known format: 1
+rate of files with known format: 0.5
+contained formats: 
+id: Q28205674; format Alpha Microsystems BMP
+id: Q27596417; format Windows Bitmap, version 5
+id: Q28207499; format Windows Device-Dependent Bitmap
+id: Q28206788; format OS/2 Bitmap, version 2.0
+id: Q27596325; format Windows Bitmap, version 4
+id: Q28205736; format Award BIOS logo, version 2
+id: Q27596243; format Windows Bitmap, version 3
+id: Q63061679; format Windows Bitmap, version 3.0 NT
+id: Q28206771; format OS/2 Bitmap Array
+id: Q27596184; format Windows Bitmap, version 2
+id: Q27596100; format Windows Bitmap, version 1
+id: Q28205733; format Award BIOS logo, version 1

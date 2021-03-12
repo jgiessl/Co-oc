@@ -1,0 +1,20 @@
+39002099461445.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
+environment_number: 1; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
+environment_number: 2; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 0.0001
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.0001
+
+number of files:  79
+number of files with unknown format: 14
+number of files with known format: 65
+rate of files with known format: 0.8227848101265823
+contained formats: 
+id: Q34312151; format Macromedia Director, uncompressed PC variant
+id: Q27925722; format DTED Level 1 Gazetteer Directory file
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
+id: Q27923693; format DTED Cells Directory File
+id: Q99184084; format Atom web feed
+id: Q28206135; format Fractint FRA

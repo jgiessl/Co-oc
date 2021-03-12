@@ -1,0 +1,45 @@
+39002074835423.json
+top ranked environments: 
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 8.020077208722237
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 1.7724643696378852
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.5697870748110743
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.5032237613901126
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.4605150537634408
+
+number of files:  2688
+number of files with unknown format: 0
+number of files with known format: 2688
+rate of files with known format: 1.0
+contained formats: 
+id: Q1076355; format Portable Executable
+id: Q28205464; format PSF
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q2104918; format Portable Sound Format
+id: Q1662484; format Information Presentation Facility
+id: Q27966924; format PSF1
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q28206109; format farbfeld
+id: Q99184084; format Atom web feed
+id: Q27596243; format Windows Bitmap, version 3
+id: Q5153426; format Common Log Format
+id: Q5421818; format Extended Log Format
+id: Q51370168; format Postscript Support File
+id: Q28600763; format Electronic Arts INF
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q66134804; format Access Project file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q27967086; format Soundfactory
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q5448342; format File change log
+id: Q29000601; format Patch Storage File
+id: Q25098907; format PC Screen Font
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q29904540; format Statistical Analysis System log file
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q684554; format Autorun.inf
+id: Q27826469; format Cascading Style Sheets Level 3

@@ -1,0 +1,17 @@
+39002082707804.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
+environment_number: 1; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 0.0001
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.0001
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.0001
+
+number of files:  103
+number of files with unknown format: 2
+number of files with known format: 101
+rate of files with known format: 0.9805825242718447
+contained formats: 
+id: Q935809; format comma-separated values
+id: Q307271; format .DS_Store
+id: Q42591; format MP3g
+id: Q336284; format MPEG-1

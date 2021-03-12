@@ -1,0 +1,15 @@
+39002067754813.json
+top ranked environments: 
+environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 6.0001999999999995
+environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 6.0001999999999995
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 6.0001999999999995
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 6.0001999999999995
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 6.0001999999999995
+
+number of files:  1
+number of files with unknown format: 0
+number of files with known format: 1
+rate of files with known format: 1.0
+contained formats: 
+id: Q28206756; format NIST IHead
+id: Q2044200; format PICT

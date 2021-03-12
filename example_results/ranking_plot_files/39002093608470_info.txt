@@ -1,0 +1,27 @@
+39002093608470.json
+top ranked environments: 
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.1285051282051282
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.1285051282051282
+environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.15404615384615383
+environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 0.15404615384615383
+environment_number: 8; environment_name: Windows 95 C (OSR 2.5) Base V2 + Microsoft Works Suite 99 13401; score: 0.15404615384615383
+
+number of files:  30
+number of files with unknown format: 4
+number of files with known format: 26
+rate of files with known format: 0.8666666666666667
+contained formats: 
+id: Q28786544; format Netscape bookmarks
+id: Q1884715; format Video Object
+id: Q166074; format Extensible HyperText Markup Language
+id: Q27959833; format Cool Edit/Audition Multi Track Session file
+id: Q13454995; format DVD data file and backup data file
+id: Q1888930; format Vector Markup Language
+id: Q8811; format HyperText Markup Language
+id: Q2053; format HTML5
+id: Q27967532; format DVD Information File
+id: Q28919030; format AC-3 Compressed Audio (Dolby Digital), Revision A
+id: Q27979388; format AAE sidecar format
+id: Q27596243; format Windows Bitmap, version 3
+id: Q62626012; format HyperText Markup Language
+id: Q27978795; format Spectrum 512 Uncompressed

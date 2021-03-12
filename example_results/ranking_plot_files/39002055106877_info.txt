@@ -1,0 +1,27 @@
+39002055106877.json
+top ranked environments: 
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.7951717948717949
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.48737948717948715
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 0.15404615384615383
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Illustrator CS3; score: 0.0001
+
+number of files:  23
+number of files with unknown format: 3
+number of files with known format: 20
+rate of files with known format: 0.8695652173913043
+contained formats: 
+id: Q6043826; format Intellifont
+id: Q29650301; format Pack
+id: Q60615282; format Write for Windows Document, version 3
+id: Q28344713; format Package File
+id: Q4045294; format New Executable
+id: Q19599377; format AppleLink Package Compression Format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q27967388; format Adlib Tracker instrument
+id: Q29209269; format Z
+id: Q29000498; format OrCAD library
+id: Q28758103; format InstallShield Z
+id: Q28771319; format Microsoft Library
+id: Q27526866; format Write for Windows Document, version 3.1
+id: Q1141412; format INI file

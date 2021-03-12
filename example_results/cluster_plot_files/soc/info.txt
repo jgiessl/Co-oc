@@ -1,0 +1,49 @@
+Number of files in data set: 1739 
+Number of files with unknown format in data set: 27 
+Rate of files with known format: 0.9844738355376653 
+ 
+fmt/101: Extensible Markup Language 
+fmt/1033: Stata Data (DTA) Format 
+fmt/1034: Stata Data (DTA) Format 
+fmt/1035: Stata Data (DTA) Format 
+fmt/1036: Stata Data (DTA) Format 
+fmt/1198: RData 
+fmt/133: Windows Media Video 
+fmt/134: MPEG 1/2 Audio Layer 3 
+fmt/142: Waveform Audio (WAVEFORMATEX) 
+fmt/155: Geographic Tagged Image File Format (GeoTIFF) 
+fmt/16: Acrobat PDF 1.2 - Portable Document Format 
+fmt/17: Acrobat PDF 1.3 - Portable Document Format 
+fmt/18: Acrobat PDF 1.4 - Portable Document Format 
+fmt/19: Acrobat PDF 1.5 - Portable Document Format 
+fmt/20: Acrobat PDF 1.6 - Portable Document Format 
+fmt/214: Microsoft Excel for Windows 
+fmt/277: ESRI Arc/View Shapefile Index 
+fmt/319: ESRI Spatial Index File 
+fmt/367: ESRI World File Format 
+fmt/4: Graphics Interchange Format 
+fmt/40: Microsoft Word Document 
+fmt/412: Microsoft Word for Windows 
+fmt/50: Rich Text Format 
+fmt/56: Microsoft Excel 3.0 Worksheet (xls) 
+fmt/57: Microsoft Excel 4.0 Worksheet (xls) 
+fmt/59: Microsoft Excel 5.0/95 Workbook (xls) 
+fmt/61: Microsoft Excel 97 Workbook (xls) 
+fmt/638: SPSS Data File 
+fmt/688: Executable and Linkable Format 
+fmt/689: Executable and Linkable Format 
+fmt/806: Level 5 MAT-file format (MATLAB) 
+fmt/899: Windows Portable Executable 
+fmt/96: Hypertext Markup Language 
+x-fmt/111: Plain Text File 
+x-fmt/18: Comma Separated Values 
+x-fmt/185: Raw Bitmap 
+x-fmt/235: ESRI Arc/View ShapeFile 
+x-fmt/240: Microsoft Access Database 
+x-fmt/258: Microsoft Visio Drawing 
+x-fmt/413: Batch file (executable) 
+x-fmt/422: Java language source code file 
+x-fmt/44: WordPerfect for MS-DOS/Windows Document 
+x-fmt/62: Log File 
+x-fmt/9: dBASE Database 
+x-fmt/90: Microsoft Print File 

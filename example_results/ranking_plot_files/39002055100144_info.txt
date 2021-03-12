@@ -1,0 +1,22 @@
+39002055100144.json
+top ranked environments: 
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.5681371479331974
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.2224222222222222
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.0001
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.0001
+
+number of files:  1270
+number of files with unknown format: 1
+number of files with known format: 1269
+rate of files with known format: 0.9992125984251968
+contained formats: 
+id: Q3807693; format ASCII tab
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q58006953; format TRIM Context Reference File
+id: Q66134804; format Access Project file format
+id: Q95994246; format Agilent Microarray file format
+id: Q723030; format AsciiDoc
+id: Q28206109; format farbfeld
+id: Q99184084; format Atom web feed
+id: Q96056537; format Minitab Portable Worksheet
+id: Q27979156; format ASCII art

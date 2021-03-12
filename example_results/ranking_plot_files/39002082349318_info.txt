@@ -1,0 +1,33 @@
+39002082349318.json
+top ranked environments: 
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.436690225563909
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 4.316089473684211
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.316089473684211
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 3.910274436090227
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.10546315789473684
+
+number of files:  709
+number of files with unknown format: 221
+number of files with known format: 488
+rate of files with known format: 0.688293370944993
+contained formats: 
+id: Q1076355; format Portable Executable
+id: Q939636; format CorelDRAW Document
+id: Q28205580; format OS/2 Icon
+id: Q29904539; format Statistical Analysis System output file
+id: Q217570; format Waveform Audio File Format
+id: Q28205488; format Windows Cursor
+id: Q751800; format TrueType Font
+id: Q28206493; format Lightning Strike
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q729366; format ICO
+id: Q27596243; format Windows Bitmap, version 3
+id: Q28755628; format Exact Yearbook LST file
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q58103465; format Adobe Font List
+id: Q48004869; format Microsoft Access Database, version 95
+id: Q4045294; format New Executable
+id: Q28205626; format Sun icon
+id: Q28206771; format OS/2 Bitmap Array
+id: Q48021763; format Microsoft Access Database, version 2002

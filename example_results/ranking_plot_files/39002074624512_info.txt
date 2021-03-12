@@ -1,0 +1,15 @@
+39002074624512.json
+top ranked environments: 
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.5002
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
+
+number of files:  26
+number of files with unknown format: 2
+number of files with known format: 24
+rate of files with known format: 0.9230769230769231
+contained formats: 
+id: Q217570; format Waveform Audio File Format
+id: Q336284; format MPEG-1
+id: Q27473250; format Raster Product Format Table of Contents File
+id: Q28018471; format MPEG-2 program stream
+id: Q27996219; format Eudora Mailbox Table of Contents

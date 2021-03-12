@@ -1,0 +1,106 @@
+39002012182136.json
+top ranked environments: 
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 68.13144896688395
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 8.55107347079518
+environment_number: 10; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 4.6142326938976765
+environment_number: 5; environment_name: Windows 95 + Visio Standard  5; score: 3.8634188405797087
+environment_number: 4; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 3.450175362318843
+
+number of files:  280
+number of files with unknown format: 61
+number of files with known format: 219
+rate of files with known format: 0.7821428571428571
+contained formats: 
+id: Q26085319; format Portable Document Format, version 1.6
+id: Q29944206; format OpenOffice Draw template, version 1.0
+id: Q26543628; format Portable Document Format/Archive, version 1 Basic
+id: Q26085339; format Portable Document Format, version 1.0
+id: Q47498736; format Adobe Illustrator file format, version 14
+id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
+id: Q28758103; format InstallShield Z
+id: Q47498745; format Adobe Illustrator file format, version 15
+id: Q42332; format Portable Document Format
+id: Q73675958; format 3M Printscape
+id: Q47498565; format Adobe Illustrator file format, version 13
+id: Q19599377; format AppleLink Package Compression Format
+id: Q380319; format dynamic-link library
+id: Q29946810; format Portable Document Format/Exchange 2:2003
+id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q27526866; format Write for Windows Document, version 3.1
+id: Q1882110; format DOS MZ executable
+id: Q29946883; format Portable Document Format/Exchange 4p
+id: Q29000651; format WLD
+id: Q283579; format tar
+id: Q26085336; format Portable Document Format, version 1.1
+id: Q28206359; format Intergraph Raster
+id: Q3509055; format STEP file
+id: Q87066063; format LEADTools Lead 1Bit Compressed Image
+id: Q29946845; format Portable Document Format/Exchange 3:2003
+id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
+id: Q26085317; format Portable Document Format, version 1.7
+id: Q29000741; format WorldBuilder
+id: Q26085333; format Portable Document Format, version 1.2
+id: Q29209269; format Z
+id: Q29946134; format Portable Document Format/Variable Data and Transactional Printing, multi-file exchange variant
+id: Q28771319; format Microsoft Library
+id: Q287315; format reStructuredText
+id: Q1601835; format Standard Test Data Format
+id: Q60615282; format Write for Windows Document, version 3
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28206952; format PhotoDeluxe
+id: Q26545877; format Portable Document Format/Archive, version 2 Accessible
+id: Q49243488; format License file
+id: Q58335773; format Verity Collection Stop List
+id: Q34310996; format Security Catalog
+id: Q47498749; format Adobe Illustrator file format, version 16
+id: Q29946121; format Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant
+id: Q29946692; format Portable Document Format/Exchange 1:1999
+id: Q29946141; format Portable Document Format/Variable Data and Transactional Printing, streamed delivery variant
+id: Q85415853; format SureThing Project File
+id: Q26541013; format Portable Document Format/Archive, version 1 Accessible
+id: Q29946937; format Portable Document Format/Exchange 5pg
+id: Q1076355; format Portable Executable
+id: Q29944575; format OpenOffice Calc template, version 1.0
+id: Q95994246; format Agilent Microarray file format
+id: Q5533911; format GeoPDF
+id: Q47498538; format Adobe Illustrator file format, version 9
+id: Q29946771; format Portable Document Format/Exchange 1a:2003
+id: Q29946829; format Portable Document Format/Exchange 3:2002
+id: Q2043942; format Portable Document Format for Engineering
+id: Q55429627; format Portable Document Format, version 2.0
+id: Q29946726; format Portable Document Format/Exchange 1a:2001
+id: Q28551284; format Adobe CMYK Setup File
+id: Q26547917; format Portable Document Format/Archive, version 3 Accessible
+id: Q3807693; format ASCII tab
+id: Q26546575; format Portable Document Format/Archive, version 2 Basic
+id: Q29946898; format Portable Document Format/Exchange 5g
+id: Q29000498; format OrCAD library
+id: Q29946914; format Portable Document Format/Exchange 5n
+id: Q26547266; format Portable Document Format/Archive, version 2 Unicode
+id: Q87066066; format LEADToolsCompressed Image
+id: Q29946866; format Portable Document Format/Exchange 4
+id: Q29650301; format Pack
+id: Q26548590; format Portable Document Format/Archive, version 3 Basic
+id: Q47498555; format Adobe Illustrator file format, version 12
+id: Q28206528; format MacPaint
+id: Q27979156; format ASCII art
+id: Q1141412; format INI file
+id: Q4042979; format Linear Executable
+id: Q28344713; format Package File
+id: Q26085326; format Portable Document Format, version 1.4
+id: Q26085330; format Portable Document Format, version 1.3
+id: Q47498552; format Adobe Illustrator file format, version 11
+id: Q29435; format Dolby TrueHD
+id: Q58006953; format TRIM Context Reference File
+id: Q6043826; format Intellifont
+id: Q29946713; format Portable Document Format/Exchange 1:2001
+id: Q47455565; format Windows Portable Executable file format, 64-bit
+id: Q47455466; format Windows Portable Executable file format, 32-bit
+id: Q47498547; format Adobe Illustrator file format, version 10
+id: Q58335745; format Acrobat Catalog Cat File
+id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
+id: Q26085322; format Portable Document Format, version 1.5
+id: Q4045294; format New Executable
+id: Q49243748; format Acrobat Language definition file
+id: Q27967388; format Adlib Tracker instrument
+id: Q723030; format AsciiDoc

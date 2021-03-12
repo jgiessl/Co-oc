@@ -1,0 +1,90 @@
+39002072161269.json
+top ranked environments: 
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 8.395336842105266
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.353441387710947
+environment_number: 11; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.5798473684210501
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 1.2273397044918024
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 1.14829233607075
+
+number of files:  2522
+number of files with unknown format: 1248
+number of files with known format: 1274
+rate of files with known format: 0.5051546391752577
+contained formats: 
+id: Q79241659; format Lotus Accessory
+id: Q901031; format device independent file format
+id: Q2193155; format Java class file
+id: Q66310989; format Pantry Files
+id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
+id: Q1228757; format Apple Disk Image
+id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q62625561; format Bash script
+id: Q5301; format TeX
+id: Q66811836; format Inform source code file
+id: Q50308790; format DirectMusic Style File Format
+id: Q17081599; format Smile
+id: Q29000651; format WLD
+id: Q28206771; format OS/2 Bitmap Array
+id: Q684554; format Autorun.inf
+id: Q3509055; format STEP file
+id: Q47512572; format man page
+id: Q28975664; format AC3D
+id: Q28205883; format Desktop Color Separation
+id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q29000741; format WorldBuilder
+id: Q34284525; format Perl script
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q178051; format Portable Network Graphics
+id: Q28206109; format farbfeld
+id: Q729366; format ICO
+id: Q47524710; format Mach-O file format (32bit)
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28206952; format PhotoDeluxe
+id: Q18653981; format Standard Delay Format
+id: Q7520656; format Simple Data Format
+id: Q48106028; format Unisys (Sperry) System Data File
+id: Q28206138; format Freedom of Press Info
+id: Q72199233; format LilyPond music score
+id: Q58335773; format Verity Collection Stop List
+id: Q34310996; format Security Catalog
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q218170; format PostScript
+id: Q1076355; format Portable Executable
+id: Q95994246; format Agilent Microarray file format
+id: Q66662117; format Lotus Ami Pro Styles
+id: Q34745947; format Starlink Data Format
+id: Q51916170; format Pagemaker TableEditor Graphics
+id: Q27596243; format Windows Bitmap, version 3
+id: Q1343830; format Executable and Linkable Format
+id: Q3807693; format ASCII tab
+id: Q28445577; format Advanced Authoring System
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q16996920; format Windows Setup Information File
+id: Q27979156; format ASCII art
+id: Q27826469; format Cascading Style Sheets Level 3
+id: Q1141412; format INI file
+id: Q28207564; format Bennet Yee's face format
+id: Q1662484; format Information Presentation Facility
+id: Q10287816; format GZIP
+id: Q28205580; format OS/2 Icon
+id: Q34285652; format Perl Common Gateway Interface script
+id: Q58006953; format TRIM Context Reference File
+id: Q28207416; format VDC BitMap
+id: Q99184084; format Atom web feed
+id: Q28206147; format Freedom of Press Bitamp
+id: Q28600763; format Electronic Arts INF
+id: Q58335745; format Acrobat Catalog Cat File
+id: Q52063393; format TeX Binary File
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q27979388; format AAE sidecar format
+id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
+id: Q4045294; format New Executable
+id: Q28205626; format Sun icon
+id: Q1817318; format X BitMap
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q723030; format AsciiDoc
+id: Q28600412; format Attribute-Relation File Format
+id: Q28530510; format Structure-data file
+id: Q7671270; format TRANS.TBL
+id: Q28207158; format Puzzle image

@@ -1,0 +1,43 @@
+39002097871892.json
+top ranked environments: 
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.5691655172413793
+environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.5691655172413793
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
+environment_number: 2; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
+environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
+
+number of files:  11
+number of files with unknown format: 1
+number of files with known format: 10
+rate of files with known format: 0.9090909090909091
+contained formats: 
+id: Q10394822; format ZIP archive file format, version 6.3.2
+id: Q26211958; format ZIP archive file format, version 2.7
+id: Q26211954; format ZIP archive file format, version 4.6
+id: Q1076355; format Portable Executable
+id: Q95994246; format Agilent Microarray file format
+id: Q10287816; format GZIP
+id: Q26211936; format ZIP archive file format, version 5.2
+id: Q26211983; format ZIP archive file format, version 1.0
+id: Q26211931; format ZIP archive file format, version 6.1.0
+id: Q26211927; format ZIP archive file format, version 6.2.0
+id: Q26211977; format ZIP archive file format, version 2.0
+id: Q26211978; format ZIP archive file format, version 1.1
+id: Q58006953; format TRIM Context Reference File
+id: Q5532250; format General Transit Feed Specification
+id: Q26211965; format ZIP archive file format, version 2.5
+id: Q26211905; format ZIP archive file format, version 6.2.2
+id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
+id: Q3807693; format ASCII tab
+id: Q26211874; format ZIP archive file format, version 6.3.1
+id: Q66134804; format Access Project file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q26211940; format ZIP archive file format, version 5.1
+id: Q26211975; format ZIP archive file format, version 2.1
+id: Q4045294; format New Executable
+id: Q26211957; format ZIP archive file format, version 4.5
+id: Q26211948; format ZIP archive file format, version 5.0
+id: Q723030; format AsciiDoc
+id: Q27979156; format ASCII art
+id: Q26211891; format ZIP archive file format, version 6.3.0
+id: Q26211915; format ZIP archive file format, version 6.2.1

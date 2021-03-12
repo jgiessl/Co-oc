@@ -1,0 +1,137 @@
+39002069134709.json
+top ranked environments: 
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 93.52305235309208
+environment_number: 11; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 29.380609174834348
+environment_number: 1; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 26.479357501847716
+environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 24.07245343680706
+environment_number: 7; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 23.541680857354002
+
+number of files:  758
+number of files with unknown format: 81
+number of files with known format: 677
+rate of files with known format: 0.8931398416886543
+contained formats: 
+id: Q26085319; format Portable Document Format, version 1.6
+id: Q29944206; format OpenOffice Draw template, version 1.0
+id: Q26543628; format Portable Document Format/Archive, version 1 Basic
+id: Q26085339; format Portable Document Format, version 1.0
+id: Q47498736; format Adobe Illustrator file format, version 14
+id: Q29944987; format Rich Text Format, version 0
+id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
+id: Q28758103; format InstallShield Z
+id: Q27967091; format Funcom ISS
+id: Q5153426; format Common Log Format
+id: Q47498745; format Adobe Illustrator file format, version 15
+id: Q42332; format Portable Document Format
+id: Q73675958; format 3M Printscape
+id: Q47498565; format Adobe Illustrator file format, version 13
+id: Q19599377; format AppleLink Package Compression Format
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q29946810; format Portable Document Format/Exchange 2:2003
+id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
+id: Q48004869; format Microsoft Access Database, version 95
+id: Q66811836; format Inform source code file
+id: Q5448342; format File change log
+id: Q29946883; format Portable Document Format/Exchange 4p
+id: Q29000651; format WLD
+id: Q26085336; format Portable Document Format, version 1.1
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q28206771; format OS/2 Bitmap Array
+id: Q48021763; format Microsoft Access Database, version 2002
+id: Q28206359; format Intergraph Raster
+id: Q29904540; format Statistical Analysis System log file
+id: Q684554; format Autorun.inf
+id: Q3509055; format STEP file
+id: Q87066063; format LEADTools Lead 1Bit Compressed Image
+id: Q47512572; format man page
+id: Q28205439; format Sony ARW
+id: Q29946845; format Portable Document Format/Exchange 3:2003
+id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
+id: Q26085317; format Portable Document Format, version 1.7
+id: Q29000741; format WorldBuilder
+id: Q28755621; format Exact Yearbook ID file
+id: Q26085333; format Portable Document Format, version 1.2
+id: Q217570; format Waveform Audio File Format
+id: Q29209269; format Z
+id: Q29946134; format Portable Document Format/Variable Data and Transactional Printing, multi-file exchange variant
+id: Q28771319; format Microsoft Library
+id: Q28206109; format farbfeld
+id: Q729366; format ICO
+id: Q287315; format reStructuredText
+id: Q1601835; format Standard Test Data Format
+id: Q29944785; format Rich Text Format, version 1.8
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28206952; format PhotoDeluxe
+id: Q26545877; format Portable Document Format/Archive, version 2 Accessible
+id: Q49243488; format License file
+id: Q28206138; format Freedom of Press Info
+id: Q58335773; format Verity Collection Stop List
+id: Q34310996; format Security Catalog
+id: Q47498749; format Adobe Illustrator file format, version 16
+id: Q29946121; format Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant
+id: Q29946692; format Portable Document Format/Exchange 1:1999
+id: Q29946141; format Portable Document Format/Variable Data and Transactional Printing, streamed delivery variant
+id: Q85415853; format SureThing Project File
+id: Q26541013; format Portable Document Format/Archive, version 1 Accessible
+id: Q29946937; format Portable Document Format/Exchange 5pg
+id: Q1076355; format Portable Executable
+id: Q29944575; format OpenOffice Calc template, version 1.0
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q95994246; format Agilent Microarray file format
+id: Q5533911; format GeoPDF
+id: Q47498538; format Adobe Illustrator file format, version 9
+id: Q29946771; format Portable Document Format/Exchange 1a:2003
+id: Q29946829; format Portable Document Format/Exchange 3:2002
+id: Q2043942; format Portable Document Format for Engineering
+id: Q55429627; format Portable Document Format, version 2.0
+id: Q29946726; format Portable Document Format/Exchange 1a:2001
+id: Q26547917; format Portable Document Format/Archive, version 3 Accessible
+id: Q3807693; format ASCII tab
+id: Q26546575; format Portable Document Format/Archive, version 2 Basic
+id: Q29946898; format Portable Document Format/Exchange 5g
+id: Q29000498; format OrCAD library
+id: Q29946914; format Portable Document Format/Exchange 5n
+id: Q26547266; format Portable Document Format/Archive, version 2 Unicode
+id: Q87066066; format LEADToolsCompressed Image
+id: Q29946866; format Portable Document Format/Exchange 4
+id: Q29944776; format Rich Text Format, version 1.2
+id: Q29650301; format Pack
+id: Q16996920; format Windows Setup Information File
+id: Q26548590; format Portable Document Format/Archive, version 3 Basic
+id: Q47498555; format Adobe Illustrator file format, version 12
+id: Q27979156; format ASCII art
+id: Q1141412; format INI file
+id: Q28344713; format Package File
+id: Q939636; format CorelDRAW Document
+id: Q1662484; format Information Presentation Facility
+id: Q26085326; format Portable Document Format, version 1.4
+id: Q26085330; format Portable Document Format, version 1.3
+id: Q47498552; format Adobe Illustrator file format, version 11
+id: Q28205580; format OS/2 Icon
+id: Q29435; format Dolby TrueHD
+id: Q58006953; format TRIM Context Reference File
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q6043826; format Intellifont
+id: Q1144005; format WinHelp
+id: Q29946713; format Portable Document Format/Exchange 1:2001
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q5421818; format Extended Log Format
+id: Q47498547; format Adobe Illustrator file format, version 10
+id: Q28600763; format Electronic Arts INF
+id: Q28206147; format Freedom of Press Bitamp
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q58335745; format Acrobat Catalog Cat File
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
+id: Q29944777; format Rich Text Format, version 1.3
+id: Q26085322; format Portable Document Format, version 1.5
+id: Q4045294; format New Executable
+id: Q28205626; format Sun icon
+id: Q49243748; format Acrobat Language definition file
+id: Q27967388; format Adlib Tracker instrument
+id: Q723030; format AsciiDoc
+id: Q29944773; format Rich Text Format, version 1.1
+id: Q29944782; format Rich Text Format, version 1.6

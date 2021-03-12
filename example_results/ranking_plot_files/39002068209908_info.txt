@@ -1,0 +1,34 @@
+39002068209908.json
+top ranked environments: 
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 5.4449444444444435
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.4449444444444435
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.30029999999999996
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.30029999999999996
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.0001
+
+number of files:  144
+number of files with unknown format: 47
+number of files with known format: 97
+rate of files with known format: 0.6736111111111112
+contained formats: 
+id: Q2276274; format System.map
+id: Q67377613; format CaseWare 2005 Compressed file
+id: Q939636; format CorelDRAW Document
+id: Q28771288; format Mapsforge Binary Map
+id: Q29904539; format Statistical Analysis System output file
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q64858274; format Corel Presentations Master file format
+id: Q29167914; format PCRaster Map
+id: Q28009488; format Tibia map file
+id: Q1144005; format WinHelp
+id: Q60615282; format Write for Windows Document, version 3
+id: Q28755628; format Exact Yearbook LST file
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q27526866; format Write for Windows Document, version 3.1
+id: Q66689327; format Access lock files
+id: Q58103465; format Adobe Font List
+id: Q48004869; format Microsoft Access Database, version 95
+id: Q4045294; format New Executable
+id: Q48021763; format Microsoft Access Database, version 2002
+id: Q1141412; format INI file

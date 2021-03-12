@@ -1,0 +1,28 @@
+39002078264604.json
+top ranked environments: 
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.9288714285714285
+environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.6430571428571428
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.6430571428571428
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 0.6430571428571428
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 0.6430571428571428
+
+number of files:  44
+number of files with unknown format: 8
+number of files with known format: 36
+rate of files with known format: 0.8181818181818182
+contained formats: 
+id: Q28600763; format Electronic Arts INF
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q1076355; format Portable Executable
+id: Q4045294; format New Executable
+id: Q28205626; format Sun icon
+id: Q1662484; format Information Presentation Facility
+id: Q307271; format .DS_Store
+id: Q27596243; format Windows Bitmap, version 3
+id: Q28206771; format OS/2 Bitmap Array
+id: Q729366; format ICO
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q1141412; format INI file
+id: Q61777776; format Play SID Audio, version 1

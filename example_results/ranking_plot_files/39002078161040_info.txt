@@ -1,0 +1,39 @@
+39002078161040.json
+top ranked environments: 
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 15.841199999999953
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 13.20109999999997
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 10.800999999999986
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 8.6409
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) - Base V2 + Microsoft Word 2000 + 6953; score: 3.6006000000000027
+
+number of files:  1
+number of files with unknown format: 0
+number of files with known format: 1
+rate of files with known format: 1.0
+contained formats: 
+id: Q48782394; format Microsoft Word for MS-DOS Document, version 5.5
+id: Q28858044; format Word Binary File Format, version nFibNew=0x0112
+id: Q51801746; format Stationery for Mac OS X
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q60628185; format Wordperfect Secondary File, version 5
+id: Q85621726; format PFS:First Choice Document
+id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
+id: Q60000066; format Microsoft Office Owner File
+id: Q61641368; format Microsoft Word for Windows Document, version 2
+id: Q48782238; format Microsoft Word for MS-DOS Document, version 5
+id: Q63061514; format Microsoft Word Document, version 97-2003
+id: Q85621806; format PFS:First Choice Document 3
+id: Q66439286; format DisplayWrite Document file format, version 5
+id: Q48915661; format Interleaf Document
+id: Q28858042; format Word Binary File Format, version nFibNew=0x010C
+id: Q62664735; format Wordperfect Secondary File, version 5.1 and 5.2
+id: Q28858037; format Word Binary File Format, version nFib=0x00C0
+id: Q61639409; format Microsoft Word for Windows Document, version 1
+id: Q28858038; format Word Binary File Format, version nFib=0x00C2
+id: Q28858035; format Word Binary File Format, version nFib=0x00C1
+id: Q48782202; format Microsoft Word for MS-DOS Document, version 4
+id: Q28858041; format Word Binary File Format, version nFibNew=0x0101
+id: Q63061396; format Microsoft Word Document
+id: Q48782098; format Microsoft Word for MS-DOS Document, version 3
+id: Q28858039; format Word Binary File Format, version nFibNew=0x00D9
+id: Q686498; format doc

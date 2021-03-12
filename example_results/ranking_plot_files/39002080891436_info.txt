@@ -1,0 +1,49 @@
+39002080891436.json
+top ranked environments: 
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 7.843224242424242
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.5717285714285715
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.5717285714285715
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.45734285714285716
+environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 0.45734285714285716
+
+number of files:  139
+number of files with unknown format: 68
+number of files with known format: 71
+rate of files with known format: 0.5107913669064749
+contained formats: 
+id: Q27349828; format ESRI Arc/Info ASCII Grid
+id: Q6912474; format Mork
+id: Q50288247; format Adobe Air, v2
+id: Q28049670; format Autodesk 3D Studio ASCII format
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q28207108; format The Print Shop Graphics file
+id: Q28758112; format Internet Explorer history file
+id: Q47233167; format LDR
+id: Q27925705; format DTED Readme file
+id: Q28049770; format DKBTrace scene description
+id: Q28755606; format Exact Yearbook DAT file
+id: Q29904539; format Statistical Analysis System output file
+id: Q32097740; format Fallout DAT
+id: Q63036182; format 8-bit ASCII Text
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q50223921; format Adobe Air
+id: Q81526528; format MicroStation Resource data
+id: Q28600734; format ESRI Arc/Info Export File
+id: Q29650330; format PGP public key
+id: Q29904535; format Statistical Analysis System program
+id: Q27967116; format ASC Sound Master module
+id: Q32097899; format Fallout v2 DAT
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q28600256; format ASCII Encoded HP 48 Object
+id: Q81526664; format Palm Desktop DateBook
+id: Q28755628; format Exact Yearbook LST file
+id: Q29904619; format Statistical Analysis System access descriptor file
+id: Q29650304; format PRT scene description
+id: Q50288226; format Adobe Air, v1.5
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q58103465; format Adobe Font List
+id: Q34747804; format Supaplex Level format
+id: Q62619688; format 7-bit ASCII Text
+id: Q27967407; format Surprise! Adlib Tracker version 2.0
+id: Q723030; format AsciiDoc
+id: Q27979156; format ASCII art

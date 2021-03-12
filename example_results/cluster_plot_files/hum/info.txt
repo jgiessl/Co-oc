@@ -1,0 +1,63 @@
+Number of files in data set: 16658 
+Number of files with unknown format in data set: 517 
+Rate of files with known format: 0.9689638612078281 
+ 
+fmt/100: Hypertext Markup Language 
+fmt/101: Extensible Markup Language 
+fmt/102: Extensible Hypertext Markup Language 
+fmt/1034: Stata Data (DTA) Format 
+fmt/11: Portable Network Graphics 
+fmt/1149: Markdown 
+fmt/12: Portable Network Graphics 
+fmt/1253: ESRI Code Page File 
+fmt/134: MPEG 1/2 Audio Layer 3 
+fmt/141: Waveform Audio (PCMWAVEFORMAT) 
+fmt/155: Geographic Tagged Image File Format (GeoTIFF) 
+fmt/17: Acrobat PDF 1.3 - Portable Document Format 
+fmt/18: Acrobat PDF 1.4 - Portable Document Format 
+fmt/19: Acrobat PDF 1.5 - Portable Document Format 
+fmt/199: MPEG-4 Media File 
+fmt/214: Microsoft Excel for Windows 
+fmt/277: ESRI Arc/View Shapefile Index 
+fmt/295: OpenDocument Spreadsheet 
+fmt/319: ESRI Spatial Index File 
+fmt/320: ESRI Shapefile Projection (Well-Known Text) Format 
+fmt/353: Tagged Image File Format 
+fmt/354: Acrobat PDF/A - Portable Document Format 
+fmt/355: Rich Text Format 
+fmt/367: ESRI World File Format 
+fmt/41: Raw JPEG Stream 
+fmt/412: Microsoft Word for Windows 
+fmt/43: JPEG File Interchange Format 
+fmt/434: AutoCAD Drawing 
+fmt/435: Drawing Interchange File Format (ASCII) 
+fmt/44: JPEG File Interchange Format 
+fmt/471: Hypertext Markup Language 
+fmt/473: Microsoft Office Owner File 
+fmt/477: Acrobat PDF/A - Portable Document Format 
+fmt/59: Microsoft Excel 5.0/95 Workbook (xls) 
+fmt/61: Microsoft Excel 97 Workbook (xls) 
+fmt/638: SPSS Data File 
+fmt/690: Executable and Linkable Format 
+fmt/817: JSON Data Interchange Format 
+fmt/92: Scalable Vector Graphics 
+fmt/938: Python Script File 
+fmt/95: Acrobat PDF/A - Portable Document Format 
+fmt/96: Hypertext Markup Language 
+fmt/997: SPSS Portable Data Format 
+x-fmt/102: 3D Studio Shapes 
+x-fmt/111: Plain Text File 
+x-fmt/13: Tab-separated values 
+x-fmt/172: Microsoft FoxPro Library 
+x-fmt/18: Comma Separated Values 
+x-fmt/218: ESRI Arc/Info Binary Grid 
+x-fmt/224: Cascading Style Sheet 
+x-fmt/230: MIDI Audio 
+x-fmt/235: ESRI Arc/View ShapeFile 
+x-fmt/263: ZIP Format 
+x-fmt/265: Tape Archive Format 
+x-fmt/292: CorelDraw Drawing 
+x-fmt/315: Document Type Definition 
+x-fmt/408: PostScript 
+x-fmt/62: Log File 
+x-fmt/9: dBASE Database 

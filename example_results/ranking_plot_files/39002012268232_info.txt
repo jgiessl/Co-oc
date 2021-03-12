@@ -1,0 +1,30 @@
+39002012268232.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 51.001700000000014
+environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 51.001700000000014
+environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 51.001700000000014
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 51.001700000000014
+environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 16.875999999999998
+
+number of files:  1
+number of files with unknown format: 0
+number of files with known format: 1
+rate of files with known format: 1.0
+contained formats: 
+id: Q47498745; format Adobe Illustrator file format, version 15
+id: Q27866118; format Adobe Illustrator Artwork, version 5.x Japenese Edition
+id: Q47498547; format Adobe Illustrator file format, version 10
+id: Q27866113; format Adobe Illustrator Artwork, version 4.0
+id: Q47498736; format Adobe Illustrator file format, version 14
+id: Q47498565; format Adobe Illustrator file format, version 13
+id: Q27866114; format Adobe Illustrator Artwork, version 5.0/5.5
+id: Q47498500; format Adobe Illustrator file format, version 8
+id: Q27866121; format Adobe Illustrator Artwork, version 7.0
+id: Q27866120; format Adobe Illustrator Artwork, version 6.0
+id: Q47498538; format Adobe Illustrator file format, version 9
+id: Q47498555; format Adobe Illustrator file format, version 12
+id: Q27866110; format Adobe Illustrator Artwork, version 8
+id: Q47498749; format Adobe Illustrator file format, version 16
+id: Q27866092; format Adobe Illustrator Artwork, version 1.0/1.1
+id: Q27866112; format Adobe Illustrator Artwork, version 3.0/3.2
+id: Q47498552; format Adobe Illustrator file format, version 11

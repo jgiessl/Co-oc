@@ -1,0 +1,38 @@
+39002088723573.json
+top ranked environments: 
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 10.449487209088737
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 4.387327275208394
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 3.6002808274098768
+environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 2.8970404172438102
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.6225123171609224
+
+number of files:  957
+number of files with unknown format: 0
+number of files with known format: 957
+rate of files with known format: 1.0
+contained formats: 
+id: Q51035227; format Paradox Database Table, version 4
+id: Q930281; format Windows thumbnail cache
+id: Q95994246; format Agilent Microarray file format
+id: Q51034969; format Paradox Database Table format, version 3
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q58006953; format TRIM Context Reference File
+id: Q17092932; format JPEG-XT
+id: Q51837224; format Paradox Database Table, version 7
+id: Q28206109; format farbfeld
+id: Q99184084; format Atom web feed
+id: Q28600454; format DB (Watcom-SQL)
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q28600453; format SQLite database file format
+id: Q51035340; format Paradox Database Table, version 5
+id: Q26385770; format Still Picture Interchange File Format
+id: Q28600435; format Consolidated.db
+id: Q3807693; format ASCII tab
+id: Q66134804; format Access Project file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28206262; format HSI JPEG
+id: Q28206497; format Lossless JPEG
+id: Q723030; format AsciiDoc
+id: Q28206359; format Intergraph Raster
+id: Q27979156; format ASCII art
+id: Q1952321; format Multi Picture Object

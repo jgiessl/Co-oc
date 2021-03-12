@@ -1,0 +1,29 @@
+39002051650811.json
+top ranked environments: 
+environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 22.36463636363638
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 17.89180909090908
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 17.89180909090908
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 17.89180909090908
+environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 7.455145454545449
+
+number of files:  4
+number of files with unknown format: 0
+number of files with known format: 4
+rate of files with known format: 1.0
+contained formats: 
+id: Q28205674; format Alpha Microsystems BMP
+id: Q27596417; format Windows Bitmap, version 5
+id: Q34312151; format Macromedia Director, uncompressed PC variant
+id: Q27925722; format DTED Level 1 Gazetteer Directory file
+id: Q28207499; format Windows Device-Dependent Bitmap
+id: Q28206788; format OS/2 Bitmap, version 2.0
+id: Q27596325; format Windows Bitmap, version 4
+id: Q28205736; format Award BIOS logo, version 2
+id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
+id: Q27923693; format DTED Cells Directory File
+id: Q63061679; format Windows Bitmap, version 3.0 NT
+id: Q27596243; format Windows Bitmap, version 3
+id: Q28206771; format OS/2 Bitmap Array
+id: Q27596184; format Windows Bitmap, version 2
+id: Q27596100; format Windows Bitmap, version 1
+id: Q28205733; format Award BIOS logo, version 1

@@ -1,0 +1,31 @@
+39002121742978.json
+top ranked environments: 
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 3.60990949921104
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 3.1392212639169226
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.3857775479813834
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.7303647931034136
+environment_number: 11; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.7303647931034136
+
+number of files:  832
+number of files with unknown format: 1
+number of files with known format: 831
+rate of files with known format: 0.9987980769230769
+contained formats: 
+id: Q29151645; format Research Articles in Simplified HTML
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q28600763; format Electronic Arts INF
+id: Q28786544; format Netscape bookmarks
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q166074; format Extensible HyperText Markup Language
+id: Q66134804; format Access Project file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1662484; format Information Presentation Facility
+id: Q1888930; format Vector Markup Language
+id: Q8811; format HyperText Markup Language
+id: Q17073241; format Opera Show Format
+id: Q28206109; format farbfeld
+id: Q2053; format HTML5
+id: Q288405; format hOCR
+id: Q684554; format Autorun.inf
+id: Q62626012; format HyperText Markup Language

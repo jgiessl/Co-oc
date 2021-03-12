@@ -1,0 +1,54 @@
+39002060395606.json
+top ranked environments: 
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.8169666666666667
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.3004
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.05020000000000001
+environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 0.05020000000000001
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.05020000000000001
+
+number of files:  179
+number of files with unknown format: 6
+number of files with known format: 173
+rate of files with known format: 0.9664804469273743
+contained formats: 
+id: Q85415853; format SureThing Project File
+id: Q87066063; format LEADTools Lead 1Bit Compressed Image
+id: Q1076355; format Portable Executable
+id: Q29944575; format OpenOffice Calc template, version 1.0
+id: Q29944206; format OpenOffice Draw template, version 1.0
+id: Q939636; format CorelDRAW Document
+id: Q95994246; format Agilent Microarray file format
+id: Q1662484; format Information Presentation Facility
+id: Q5924007; format JavaScript
+id: Q58237034; format Adobe Multiple Master Metrics font file
+id: Q29904539; format Statistical Analysis System output file
+id: Q29435; format Dolby TrueHD
+id: Q751800; format TrueType Font
+id: Q58006953; format TRIM Context Reference File
+id: Q27578057; format Adobe Type 1 Printer Font Metrics
+id: Q28206109; format farbfeld
+id: Q287315; format reStructuredText
+id: Q1601835; format Standard Test Data Format
+id: Q28600763; format Electronic Arts INF
+id: Q28755628; format Exact Yearbook LST file
+id: Q3807693; format ASCII tab
+id: Q73675958; format 3M Printscape
+id: Q58725633; format Adobe PostScript Font Metrics file
+id: Q6026738; format PFB
+id: Q66134804; format Access Project file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q49243488; format License file
+id: Q87066066; format LEADToolsCompressed Image
+id: Q375296; format ICC profile
+id: Q58103465; format Adobe Font List
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q58335773; format Verity Collection Stop List
+id: Q28206894; format Portable Float Map
+id: Q49243748; format Acrobat Language definition file
+id: Q723030; format AsciiDoc
+id: Q28206359; format Intergraph Raster
+id: Q27979156; format ASCII art
+id: Q684554; format Autorun.inf
+id: Q3509055; format STEP file

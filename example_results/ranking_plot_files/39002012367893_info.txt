@@ -1,0 +1,27 @@
+39002012367893.json
+top ranked environments: 
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 11.538961538461534
+environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.15404615384615383
+environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + Adobe PhotoDeluxe 13079; score: 0.0001
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
+environment_number: 2; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
+
+number of files:  87
+number of files with unknown format: 14
+number of files with known format: 73
+rate of files with known format: 0.8390804597701149
+contained formats: 
+id: Q29000741; format WorldBuilder
+id: Q1076355; format Portable Executable
+id: Q4045294; format New Executable
+id: Q58335745; format Acrobat Catalog Cat File
+id: Q58335773; format Verity Collection Stop List
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
+id: Q28206952; format PhotoDeluxe
+id: Q29000651; format WLD
+id: Q34310996; format Security Catalog
+id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
+id: Q3509055; format STEP file
+id: Q49798739; format Adobe Portable Document Catalog Index File, version 3

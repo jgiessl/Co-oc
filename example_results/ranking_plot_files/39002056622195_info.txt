@@ -1,0 +1,31 @@
+39002056622195.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.0001
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.0001
+
+number of files:  586
+number of files with unknown format: 18
+number of files with known format: 568
+rate of files with known format: 0.9692832764505119
+contained formats: 
+id: Q28206306; format Analyze IMG
+id: Q28206049; format ERDAS Imagine IMG
+id: Q11241282; format RPM
+id: Q28205944; format Doré Raster
+id: Q3146723; format Raw disk image
+id: Q28205965; format Digital Video Interactive Green Channel
+id: Q28206272; format HTC splashscreen
+id: Q51916170; format Pagemaker TableEditor Graphics
+id: Q28206373; format Interleaf image
+id: Q1228757; format Apple Disk Image
+id: Q28206162; format GEM Raster
+id: Q28205801; format IMG Picture Format
+id: Q27355592; format ADRG Geo Data File
+id: Q28206883; format Planetary Data System
+id: Q9296340; format Impulse Tracker format
+id: Q28207469; format Vivid IMG
+id: Q16965621; format Video Image Communication And Retrieval
+id: Q7671270; format TRANS.TBL
+id: Q877050; format ISO image
+id: Q28205670; format Alias PIX

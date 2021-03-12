@@ -1,0 +1,90 @@
+39002046389707.json
+top ranked environments: 
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.9972353954805917
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.7979806542556767
+environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.113365621564786
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.0278003439209327
+environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.6785031638603664
+
+number of files:  1416
+number of files with unknown format: 4
+number of files with known format: 1412
+rate of files with known format: 0.9971751412429378
+contained formats: 
+id: Q26211954; format ZIP archive file format, version 4.6
+id: Q26211927; format ZIP archive file format, version 6.2.0
+id: Q28049770; format DKBTrace scene description
+id: Q2193155; format Java class file
+id: Q32097740; format Fallout DAT
+id: Q66310989; format Pantry Files
+id: Q26211965; format ZIP archive file format, version 2.5
+id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
+id: Q26211940; format ZIP archive file format, version 5.1
+id: Q66811836; format Inform source code file
+id: Q26211957; format ZIP archive file format, version 4.5
+id: Q28206771; format OS/2 Bitmap Array
+id: Q684554; format Autorun.inf
+id: Q6912474; format Mork
+id: Q26211936; format ZIP archive file format, version 5.2
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q28207108; format The Print Shop Graphics file
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q34284525; format Perl script
+id: Q166074; format Extensible HyperText Markup Language
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26211978; format ZIP archive file format, version 1.1
+id: Q81526528; format MicroStation Resource data
+id: Q28206109; format farbfeld
+id: Q729366; format ICO
+id: Q26211905; format ZIP archive file format, version 6.2.2
+id: Q29151645; format Research Articles in Simplified HTML
+id: Q81526664; format Palm Desktop DateBook
+id: Q28205588; format PaintShop Pro Browser Cache
+id: Q34747804; format Supaplex Level format
+id: Q8811; format HyperText Markup Language
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q2053; format HTML5
+id: Q26211891; format ZIP archive file format, version 6.3.0
+id: Q26211958; format ZIP archive file format, version 2.7
+id: Q1076355; format Portable Executable
+id: Q95994246; format Agilent Microarray file format
+id: Q28758112; format Internet Explorer history file
+id: Q288405; format hOCR
+id: Q28755606; format Exact Yearbook DAT file
+id: Q26211977; format ZIP archive file format, version 2.0
+id: Q5532250; format General Transit Feed Specification
+id: Q32097899; format Fallout v2 DAT
+id: Q3807693; format ASCII tab
+id: Q29650304; format PRT scene description
+id: Q1888930; format Vector Markup Language
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q261907; format eXperimental Computing Facility
+id: Q16996920; format Windows Setup Information File
+id: Q26211948; format ZIP archive file format, version 5.0
+id: Q27979156; format ASCII art
+id: Q27826469; format Cascading Style Sheets Level 3
+id: Q10394822; format ZIP archive file format, version 6.3.2
+id: Q28786544; format Netscape bookmarks
+id: Q939636; format CorelDRAW Document
+id: Q1662484; format Information Presentation Facility
+id: Q17073241; format Opera Show Format
+id: Q26211983; format ZIP archive file format, version 1.0
+id: Q28205580; format OS/2 Icon
+id: Q47233167; format LDR
+id: Q26211931; format ZIP archive file format, version 6.1.0
+id: Q58006953; format TRIM Context Reference File
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q99184084; format Atom web feed
+id: Q62626012; format HyperText Markup Language
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q28600763; format Electronic Arts INF
+id: Q26211874; format ZIP archive file format, version 6.3.1
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q26211975; format ZIP archive file format, version 2.1
+id: Q28205626; format Sun icon
+id: Q4045294; format New Executable
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q723030; format AsciiDoc
+id: Q26211915; format ZIP archive file format, version 6.2.1

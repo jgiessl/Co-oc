@@ -1,0 +1,42 @@
+39002081060684.json
+top ranked environments: 
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 3.1164730158730154
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.672028571428571
+environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.0289714285714293
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.48125238095238093
+environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.48125238095238093
+
+number of files:  49
+number of files with unknown format: 3
+number of files with known format: 46
+rate of files with known format: 0.9387755102040817
+contained formats: 
+id: Q28786544; format Netscape bookmarks
+id: Q1076355; format Portable Executable
+id: Q95994246; format Agilent Microarray file format
+id: Q1662484; format Information Presentation Facility
+id: Q17073241; format Opera Show Format
+id: Q288405; format hOCR
+id: Q166074; format Extensible HyperText Markup Language
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q58006953; format TRIM Context Reference File
+id: Q28206109; format farbfeld
+id: Q99184084; format Atom web feed
+id: Q29151645; format Research Articles in Simplified HTML
+id: Q62626012; format HyperText Markup Language
+id: Q27596243; format Windows Bitmap, version 3
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q28600763; format Electronic Arts INF
+id: Q3807693; format ASCII tab
+id: Q1888930; format Vector Markup Language
+id: Q28445577; format Advanced Authoring System
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q8811; format HyperText Markup Language
+id: Q723030; format AsciiDoc
+id: Q2053; format HTML5
+id: Q27979156; format ASCII art
+id: Q684554; format Autorun.inf
+id: Q1141412; format INI file
+id: Q61777776; format Play SID Audio, version 1

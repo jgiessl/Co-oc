@@ -1,0 +1,23 @@
+39002041997504.json
+top ranked environments: 
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.273127272727272
+environment_number: 0; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 0.0001
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit Base V1 + AutoCAD LT 2006 - 5788; score: 0.0001
+
+number of files:  21
+number of files with unknown format: 8
+number of files with known format: 13
+rate of files with known format: 0.6190476190476191
+contained formats: 
+id: Q28207447; format VIPS
+id: Q48106028; format Unisys (Sperry) System Data File
+id: Q28207452; format Vista Data File Format
+id: Q34745947; format Starlink Data Format
+id: Q900927; format DOT language
+id: Q28530510; format Structure-data file
+id: Q18653981; format Standard Delay Format
+id: Q29000498; format OrCAD library
+id: Q28771319; format Microsoft Library
+id: Q6043826; format Intellifont
+id: Q7520656; format Simple Data Format
+id: Q66663030; format Lotus Freelance Clip Art

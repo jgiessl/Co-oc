@@ -1,0 +1,43 @@
+39002064082572.json
+top ranked environments: 
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.9738255598144745
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.9817932209656213
+environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.8738632183908045
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 0.8437621864828627
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 0.8437621864828627
+
+number of files:  1495
+number of files with unknown format: 22
+number of files with known format: 1473
+rate of files with known format: 0.9852842809364548
+contained formats: 
+id: Q1076355; format Portable Executable
+id: Q939636; format CorelDRAW Document
+id: Q1662484; format Information Presentation Facility
+id: Q93431491; format fdx
+id: Q28055391; format Printfox bitmap
+id: Q28205580; format OS/2 Icon
+id: Q79241659; format Lotus Accessory
+id: Q751800; format TrueType Font
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q28206109; format farbfeld
+id: Q99184084; format Atom web feed
+id: Q729366; format ICO
+id: Q1343830; format Executable and Linkable Format
+id: Q27979410; format Binary Text
+id: Q28600763; format Electronic Arts INF
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q28445577; format Advanced Authoring System
+id: Q1068805; format .properties
+id: Q65533627; format Food Data Exchange File format
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q28205626; format Sun icon
+id: Q4045294; format New Executable
+id: Q1882400; format MacBinary
+id: Q48940; format RDF/XML
+id: Q28206771; format OS/2 Bitmap Array
+id: Q921122; format Java archive
+id: Q50419827; format Microsoft PRX File
+id: Q684554; format Autorun.inf
+id: Q61777776; format Play SID Audio, version 1

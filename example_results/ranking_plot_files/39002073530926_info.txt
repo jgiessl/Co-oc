@@ -1,0 +1,29 @@
+39002073530926.json
+top ranked environments: 
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.5779777777777777
+environment_number: 0; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
+environment_number: 1; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
+environment_number: 2; environment_name: Windows 95 B (OSR 2.0) - Base V2 + Key Master Maps; score: 0.0001
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
+
+number of files:  178
+number of files with unknown format: 88
+number of files with known format: 90
+rate of files with known format: 0.5056179775280899
+contained formats: 
+id: Q49242813; format HTML Extension File
+id: Q6753724; format MapInfo TAB format
+id: Q3807693; format ASCII tab
+id: Q1076355; format Portable Executable
+id: Q4045294; format New Executable
+id: Q58006953; format TRIM Context Reference File
+id: Q95994246; format Agilent Microarray file format
+id: Q723030; format AsciiDoc
+id: Q28600412; format Attribute-Relation File Format
+id: Q28106114; format GRASP font
+id: Q28771319; format Microsoft Library
+id: Q6043826; format Intellifont
+id: Q29000498; format OrCAD library
+id: Q27979156; format ASCII art
+id: Q27596243; format Windows Bitmap, version 3
+id: Q3513566; format tab-separated values

@@ -1,0 +1,33 @@
+Number of files in data set: 7238 
+Number of files with unknown format in data set: 2239 
+Rate of files with known format: 0.6906604034263609 
+ 
+fmt/100: Hypertext Markup Language 
+fmt/101: Extensible Markup Language 
+fmt/11: Portable Network Graphics 
+fmt/111: OLE2 Compound Document Format 
+fmt/1149: Markdown 
+fmt/12: Portable Network Graphics 
+fmt/18: Acrobat PDF 1.4 - Portable Document Format 
+fmt/19: Acrobat PDF 1.5 - Portable Document Format 
+fmt/208: Binary File 
+fmt/277: ESRI Arc/View Shapefile Index 
+fmt/3: Graphics Interchange Format 
+fmt/319: ESRI Spatial Index File 
+fmt/320: ESRI Shapefile Projection (Well-Known Text) Format 
+fmt/40: Microsoft Word Document 
+fmt/412: Microsoft Word for Windows 
+fmt/43: JPEG File Interchange Format 
+fmt/5: Audio/Video Interleaved Format 
+fmt/649: MPEG-1 Elementary Stream 
+fmt/806: Level 5 MAT-file format (MATLAB) 
+fmt/807: HDF5 
+fmt/879: Fortran 
+fmt/938: Python Script File 
+x-fmt/111: Plain Text File 
+x-fmt/18: Comma Separated Values 
+x-fmt/235: ESRI Arc/View ShapeFile 
+x-fmt/263: ZIP Format 
+x-fmt/383: Flexible Image Transport System 
+x-fmt/421: Text Configuration file 
+x-fmt/9: dBASE Database 

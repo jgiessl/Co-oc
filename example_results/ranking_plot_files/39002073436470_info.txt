@@ -1,0 +1,36 @@
+39002073436470.json
+top ranked environments: 
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.109590909090909
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.9458545454545452
+environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.6730272727272726
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 0.49110909090909094
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 0.49110909090909094
+
+number of files:  215
+number of files with unknown format: 49
+number of files with known format: 166
+rate of files with known format: 0.772093023255814
+contained formats: 
+id: Q59962623; format Autodesk Animator (FlicLib)
+id: Q1076355; format Portable Executable
+id: Q939636; format CorelDRAW Document
+id: Q67377613; format CaseWare 2005 Compressed file
+id: Q28206125; format Flexible Line Interpretation
+id: Q1662484; format Information Presentation Facility
+id: Q28205580; format OS/2 Icon
+id: Q29904539; format Statistical Analysis System output file
+id: Q217570; format Waveform Audio File Format
+id: Q64858274; format Corel Presentations Master file format
+id: Q729366; format ICO
+id: Q27596243; format Windows Bitmap, version 3
+id: Q28600763; format Electronic Arts INF
+id: Q28755628; format Exact Yearbook LST file
+id: Q58103465; format Adobe Font List
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q28205626; format Sun icon
+id: Q27967444; format AutoDesk FLIC Animation
+id: Q28206771; format OS/2 Bitmap Array
+id: Q684554; format Autorun.inf
+id: Q1141412; format INI file

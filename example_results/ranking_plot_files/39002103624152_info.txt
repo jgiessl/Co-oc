@@ -1,0 +1,22 @@
+39002103624152.json
+top ranked environments: 
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.1820181818181818
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
+
+number of files:  79
+number of files with unknown format: 59
+number of files with known format: 20
+rate of files with known format: 0.25316455696202533
+contained formats: 
+id: Q29651210; format Personal Storage Table, ANSI 1997-2002 variant
+id: Q29000599; format Windows Shortcut
+id: Q39184097; format Shell Link Binary File Format
+id: Q28600763; format Electronic Arts INF
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q1480633; format Personal Storage Table
+id: Q1662484; format Information Presentation Facility
+id: Q1109779; format file shortcut
+id: Q29651228; format Personal Storage Table, Unicode 2003-2007 variant
+id: Q27959996; format OptimFROG
+id: Q684554; format Autorun.inf

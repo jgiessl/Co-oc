@@ -1,0 +1,44 @@
+39002085090372.json
+top ranked environments: 
+environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 15.225731549870043
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 12.747640106136293
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 12.147540106136294
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 12.147540106136294
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 8.245363485818531
+
+number of files:  60
+number of files with unknown format: 3
+number of files with known format: 57
+rate of files with known format: 0.95
+contained formats: 
+id: Q28207499; format Windows Device-Dependent Bitmap
+id: Q1076355; format Portable Executable
+id: Q95994246; format Agilent Microarray file format
+id: Q1662484; format Information Presentation Facility
+id: Q28205580; format OS/2 Icon
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q58006953; format TRIM Context Reference File
+id: Q28206109; format farbfeld
+id: Q1144005; format WinHelp
+id: Q729366; format ICO
+id: Q27596184; format Windows Bitmap, version 2
+id: Q27596243; format Windows Bitmap, version 3
+id: Q28600763; format Electronic Arts INF
+id: Q28206788; format OS/2 Bitmap, version 2.0
+id: Q3807693; format ASCII tab
+id: Q27596100; format Windows Bitmap, version 1
+id: Q28205733; format Award BIOS logo, version 1
+id: Q27596325; format Windows Bitmap, version 4
+id: Q28205674; format Alpha Microsystems BMP
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q28205626; format Sun icon
+id: Q28205736; format Award BIOS logo, version 2
+id: Q723030; format AsciiDoc
+id: Q28206771; format OS/2 Bitmap Array
+id: Q63061679; format Windows Bitmap, version 3.0 NT
+id: Q27596417; format Windows Bitmap, version 5
+id: Q27979156; format ASCII art
+id: Q684554; format Autorun.inf
+id: Q1141412; format INI file

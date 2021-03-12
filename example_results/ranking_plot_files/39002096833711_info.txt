@@ -1,0 +1,33 @@
+39002096833711.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
+environment_number: 1; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
+environment_number: 2; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 0.0001
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.0001
+
+number of files:  78
+number of files with unknown format: 26
+number of files with known format: 52
+rate of files with known format: 0.6666666666666666
+contained formats: 
+id: Q34312151; format Macromedia Director, uncompressed PC variant
+id: Q82065565; format PhotoShop Extended Digital Book
+id: Q1076355; format Portable Executable
+id: Q34273353; format Keynote
+id: Q61752184; format Adobe InDesign Document
+id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
+id: Q27925718; format DTED Level 1 Gazetteer Key file
+id: Q47493614; format Adobe InDesign Document, version CS3
+id: Q47493633; format Adobe InDesign Document, version CS6
+id: Q27923693; format DTED Cells Directory File
+id: Q47493628; format Adobe InDesign Document, version CS5
+id: Q47493619; format Adobe InDesign Document, version CS4
+id: Q479833; format ا تهكير لعبة ببجي
+id: Q59537335; format Apple iWorks Keynote
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q29650343; format PEM encoded RSA private key
+id: Q27925722; format DTED Level 1 Gazetteer Directory file
+id: Q28600470; format DER encoded RSA private key
+id: Q47493509; format Adobe InDesign Document, version CS2
+id: Q82065563; format Euphoria Database System

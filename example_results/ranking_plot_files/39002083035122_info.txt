@@ -1,0 +1,96 @@
+39002083035122.json
+top ranked environments: 
+environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 9.773312513074245
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 9.623284559187349
+environment_number: 8; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 5.240232765623475
+environment_number: 22; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 3.631095250320925
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 3.1917708600770216
+
+number of files:  1061
+number of files with unknown format: 205
+number of files with known format: 856
+rate of files with known format: 0.8067860508953817
+contained formats: 
+id: Q28600482; format DSK (Apple II)
+id: Q2104918; format Portable Sound Format
+id: Q61752300; format Microsoft FrontPage file format
+id: Q27966924; format PSF1
+id: Q29650311; format POV-Ray scene description
+id: Q51034969; format Paradox Database Table format, version 3
+id: Q10610388; format Standard MIDI File
+id: Q17092932; format JPEG-XT
+id: Q51837224; format Paradox Database Table, version 7
+id: Q28206625; format MSX BASIC graphics
+id: Q28758103; format InstallShield Z
+id: Q51370168; format Postscript Support File
+id: Q19599377; format AppleLink Package Compression Format
+id: Q27967086; format Soundfactory
+id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
+id: Q58103465; format Adobe Font List
+id: Q66811836; format Inform source code file
+id: Q48940; format RDF/XML
+id: Q28551294; format Adobe Color Table File
+id: Q28206359; format Intergraph Raster
+id: Q684554; format Autorun.inf
+id: Q1952321; format Multi Picture Object
+id: Q3509055; format STEP file
+id: Q28205464; format PSF
+id: Q28205846; format ColoRIX
+id: Q28755621; format Exact Yearbook ID file
+id: Q217570; format Waveform Audio File Format
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q29209269; format Z
+id: Q28206109; format farbfeld
+id: Q28771319; format Microsoft Library
+id: Q51035340; format Paradox Database Table, version 5
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q27979278; format TheDraw Fonts File
+id: Q1063976; format Truevision TGA
+id: Q66134804; format Access Project file format
+id: Q47539061; format AutoCAD dbConnect Template Set
+id: Q58335773; format Verity Collection Stop List
+id: Q28206497; format Lossless JPEG
+id: Q930281; format Windows thumbnail cache
+id: Q1076355; format Portable Executable
+id: Q67377613; format CaseWare 2005 Compressed file
+id: Q95994246; format Agilent Microarray file format
+id: Q51916170; format Pagemaker TableEditor Graphics
+id: Q27596243; format Windows Bitmap, version 3
+id: Q26385770; format Still Picture Interchange File Format
+id: Q28755628; format Exact Yearbook LST file
+id: Q3807693; format ASCII tab
+id: Q29000498; format OrCAD library
+id: Q2043681; format PAK
+id: Q85415606; format Sonic Scenarist Closed Caption Format
+id: Q29650301; format Pack
+id: Q16996920; format Windows Setup Information File
+id: Q29000601; format Patch Storage File
+id: Q25098907; format PC Screen Font
+id: Q27979156; format ASCII art
+id: Q59999786; format Dreamweaver Lock File
+id: Q1141412; format INI file
+id: Q28344713; format Package File
+id: Q51035227; format Paradox Database Table, version 4
+id: Q34284437; format Pascal script
+id: Q939636; format CorelDRAW Document
+id: Q28600483; format DSK (CPCEMU)
+id: Q1662484; format Information Presentation Facility
+id: Q29904539; format Statistical Analysis System output file
+id: Q58006953; format TRIM Context Reference File
+id: Q64858274; format Corel Presentations Master file format
+id: Q6043826; format Intellifont
+id: Q99184084; format Atom web feed
+id: Q1144005; format WinHelp
+id: Q45350403; format Lotus 1-2-3 Spreadsheet Formatting File, version 2.3-2.4
+id: Q28600453; format SQLite database file format
+id: Q28600454; format DB (Watcom-SQL)
+id: Q28600435; format Consolidated.db
+id: Q28600763; format Electronic Arts INF
+id: Q29151494; format Quantum compressed archive
+id: Q28206262; format HSI JPEG
+id: Q48809727; format dBASE Text Memo
+id: Q4045294; format New Executable
+id: Q49243748; format Acrobat Language definition file
+id: Q27967388; format Adlib Tracker instrument
+id: Q723030; format AsciiDoc
+id: Q7671270; format TRANS.TBL

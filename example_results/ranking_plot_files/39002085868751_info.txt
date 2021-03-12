@@ -1,0 +1,85 @@
+39002085868751.json
+top ranked environments: 
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 8.6870198143885
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 7.696327828747534
+environment_number: 21; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 5.337019041851773
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 3.391714012259144
+environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 3.142569438039994
+
+number of files:  7530
+number of files with unknown format: 0
+number of files with known format: 7530
+rate of files with known format: 1.0
+contained formats: 
+id: Q66759482; format InfoPath Form file
+id: Q29000578; format Android Resource file
+id: Q641213; format XBEL
+id: Q2819247; format ALTO
+id: Q28786544; format Netscape bookmarks
+id: Q1076355; format Portable Executable
+id: Q34306669; format Scifer archive XML header
+id: Q29000599; format Windows Shortcut
+id: Q27967351; format iTunes Music Library, XML variant
+id: Q4042481; format LOGML
+id: Q28728783; format VOTable
+id: Q1662484; format Information Presentation Facility
+id: Q17073241; format Opera Show Format
+id: Q959950; format eXtensible Business Reporting Language
+id: Q99973606; format XDOMEA 2.0.0
+id: Q288405; format hOCR
+id: Q5924007; format JavaScript
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q79241659; format Lotus Accessory
+id: Q99973597; format XDOMEA 1.0 file format
+id: Q921122; format Java archive
+id: Q99976195; format XDOMEA 2.0.1
+id: Q166074; format Extensible HyperText Markup Language
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q27910000; format RADARSAT-2 Product Information File
+id: Q17092932; format JPEG-XT
+id: Q28206109; format farbfeld
+id: Q99184084; format Atom web feed
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q29151645; format Research Articles in Simplified HTML
+id: Q62626012; format HyperText Markup Language
+id: Q26385770; format Still Picture Interchange File Format
+id: Q2313301; format SpreadsheetML
+id: Q3551300; format Universal Subtitle Format
+id: Q72273742; format TPN
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q28600760; format Early Mind Manager XML format
+id: Q28600763; format Electronic Arts INF
+id: Q59851506; format DROID File Collection File Format
+id: Q66134804; format Access Project file format
+id: Q27826469; format Cascading Style Sheets Level 3
+id: Q452197; format Systems Biology Markup Language
+id: Q1888930; format Vector Markup Language
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q100136960; format XDOMEA 2.4.0
+id: Q653301; format MusicXML
+id: Q45432; format RSS
+id: Q71178742; format PIPE2 file format
+id: Q28206262; format HSI JPEG
+id: Q59851322; format DROID Signature File Format
+id: Q100136955; format XDOMEA 2.3.0
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q50378320; format INTERLIS Transfer File, version 2.2
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q100136218; format XDOMEA 2.2.0
+id: Q796483; format DocBook
+id: Q28600421; format Ant build file
+id: Q28206497; format Lossless JPEG
+id: Q8811; format HyperText Markup Language
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q28600412; format Attribute-Relation File Format
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q2053; format HTML5
+id: Q25339304; format Timed Text Markup Language
+id: Q28771320; format Microsoft Office File List
+id: Q28206359; format Intergraph Raster
+id: Q100135637; format XDOMEA 2.1.0
+id: Q27487531; format Shapefile metadata for ArcGIS
+id: Q684554; format Autorun.inf
+id: Q1952321; format Multi Picture Object

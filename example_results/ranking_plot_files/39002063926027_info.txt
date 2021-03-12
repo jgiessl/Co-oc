@@ -1,0 +1,48 @@
+39002063926027.json
+top ranked environments: 
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.2932825215346482
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.1767705882352937
+environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.8133020731799613
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.6767705882352941
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.6767705882352941
+
+number of files:  72
+number of files with unknown format: 8
+number of files with known format: 64
+rate of files with known format: 0.8888888888888888
+contained formats: 
+id: Q28207379; format TIFF for Fax eXtended
+id: Q34312151; format Macromedia Director, uncompressed PC variant
+id: Q1076355; format Portable Executable
+id: Q95994246; format Agilent Microarray file format
+id: Q1662484; format Information Presentation Facility
+id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
+id: Q5924007; format JavaScript
+id: Q28205580; format OS/2 Icon
+id: Q29904539; format Statistical Analysis System output file
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q58006953; format TRIM Context Reference File
+id: Q7670377; format Tagged Image File Format/Electronic Photography
+id: Q28206109; format farbfeld
+id: Q99184084; format Atom web feed
+id: Q1144005; format WinHelp
+id: Q729366; format ICO
+id: Q27923693; format DTED Cells Directory File
+id: Q28600763; format Electronic Arts INF
+id: Q28755628; format Exact Yearbook LST file
+id: Q3807693; format ASCII tab
+id: Q66134804; format Access Project file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28207384; format TIFF/IT
+id: Q58103465; format Adobe Font List
+id: Q27925722; format DTED Level 1 Gazetteer Directory file
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q28205626; format Sun icon
+id: Q723030; format AsciiDoc
+id: Q28205771; format BigTIFF
+id: Q28206771; format OS/2 Bitmap Array
+id: Q27979156; format ASCII art
+id: Q684554; format Autorun.inf
+id: Q1141412; format INI file

@@ -1,0 +1,31 @@
+39002055107743.json
+top ranked environments: 
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 13.294917647058817
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 11.765305882352937
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.6178470588235294
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.11784705882352942
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.11784705882352942
+
+number of files:  84
+number of files with unknown format: 0
+number of files with known format: 84
+rate of files with known format: 1.0
+contained formats: 
+id: Q1023647; format Microsoft Compiled HTML Help
+id: Q28600763; format Electronic Arts INF
+id: Q48004869; format Microsoft Access Database, version 95
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q1076355; format Portable Executable
+id: Q4045294; format New Executable
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q1662484; format Information Presentation Facility
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28206109; format farbfeld
+id: Q48021763; format Microsoft Access Database, version 2002
+id: Q684554; format Autorun.inf
+id: Q55394748; format ChemDraw file

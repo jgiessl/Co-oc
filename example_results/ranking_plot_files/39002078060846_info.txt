@@ -1,0 +1,21 @@
+39002078060846.json
+top ranked environments: 
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 5.143257142857142
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.143257142857142
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 5.143257142857142
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 5.143257142857142
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 2.5717285714285714
+
+number of files:  1
+number of files with unknown format: 0
+number of files with known format: 1
+rate of files with known format: 1.0
+contained formats: 
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q17092932; format JPEG-XT
+id: Q28206497; format Lossless JPEG
+id: Q28206359; format Intergraph Raster
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q1952321; format Multi Picture Object
+id: Q26385770; format Still Picture Interchange File Format
+id: Q28206262; format HSI JPEG

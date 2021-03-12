@@ -1,0 +1,27 @@
+39002058782005.json
+top ranked environments: 
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 6.827754024769171
+environment_number: 8; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 6.338961538461539
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 1.9234769230769226
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.7234769230769231
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) - Base V2 + Microsoft Word 2000 + 6953; score: 0.9540461538461539
+
+number of files:  804
+number of files with unknown format: 1
+number of files with known format: 803
+rate of files with known format: 0.9987562189054726
+contained formats: 
+id: Q50308743; format WordPerfect file format, v4
+id: Q1076355; format Portable Executable
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q4045294; format New Executable
+id: Q66134804; format Access Project file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q61641450; format WordPerfect for MS-DOS Document
+id: Q48551303; format Word Perfect for Windows Document file format
+id: Q178051; format Portable Network Graphics
+id: Q28206109; format farbfeld
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q99184084; format Atom web feed
+id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6

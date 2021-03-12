@@ -1,0 +1,26 @@
+39002037722791.json
+top ranked environments: 
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.9668666666666667
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 0.16686666666666666
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.16686666666666666
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.16686666666666666
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.16686666666666666
+
+number of files:  52
+number of files with unknown format: 6
+number of files with known format: 46
+rate of files with known format: 0.8846153846153846
+contained formats: 
+id: Q29650301; format Pack
+id: Q1076355; format Portable Executable
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q58006953; format TRIM Context Reference File
+id: Q95994246; format Agilent Microarray file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28975870; format OOGL INST file
+id: Q29209269; format Z
+id: Q723030; format AsciiDoc
+id: Q283579; format tar
+id: Q28758103; format InstallShield Z
+id: Q27979156; format ASCII art

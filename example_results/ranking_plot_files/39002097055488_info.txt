@@ -1,0 +1,55 @@
+39002097055488.json
+top ranked environments: 
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.7436240269849508
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.3908608296852199
+environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 0.2930829268292683
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.2930829268292683
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.14664146341463413
+
+number of files:  341
+number of files with unknown format: 15
+number of files with known format: 326
+rate of files with known format: 0.9560117302052786
+contained formats: 
+id: Q85415853; format SureThing Project File
+id: Q87066063; format LEADTools Lead 1Bit Compressed Image
+id: Q28344713; format Package File
+id: Q47512572; format man page
+id: Q1076355; format Portable Executable
+id: Q29944206; format OpenOffice Draw template, version 1.0
+id: Q29944575; format OpenOffice Calc template, version 1.0
+id: Q95994246; format Agilent Microarray file format
+id: Q27925705; format DTED Readme file
+id: Q28755621; format Exact Yearbook ID file
+id: Q29435; format Dolby TrueHD
+id: Q58006953; format TRIM Context Reference File
+id: Q29209269; format Z
+id: Q28206109; format farbfeld
+id: Q28758103; format InstallShield Z
+id: Q28771319; format Microsoft Library
+id: Q6043826; format Intellifont
+id: Q287315; format reStructuredText
+id: Q99184084; format Atom web feed
+id: Q1601835; format Standard Test Data Format
+id: Q60615282; format Write for Windows Document, version 3
+id: Q3807693; format ASCII tab
+id: Q73675958; format 3M Printscape
+id: Q19599377; format AppleLink Package Compression Format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q49243488; format License file
+id: Q29000498; format OrCAD library
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q87066066; format LEADToolsCompressed Image
+id: Q27526866; format Write for Windows Document, version 3.1
+id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
+id: Q29650301; format Pack
+id: Q4045294; format New Executable
+id: Q58335773; format Verity Collection Stop List
+id: Q49243748; format Acrobat Language definition file
+id: Q27967388; format Adlib Tracker instrument
+id: Q723030; format AsciiDoc
+id: Q283579; format tar
+id: Q28206359; format Intergraph Raster
+id: Q27979156; format ASCII art
+id: Q1141412; format INI file
+id: Q3509055; format STEP file

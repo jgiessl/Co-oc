@@ -1,0 +1,96 @@
+39002060320877.json
+top ranked environments: 
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 21.591061645835026
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 15.144755583602976
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 12.741732467878236
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 8.030900982122148
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 6.056917676310251
+
+number of files:  215
+number of files with unknown format: 78
+number of files with known format: 137
+rate of files with known format: 0.6372093023255814
+contained formats: 
+id: Q61984341; format Microsoft Visual FoxPro database container (memo files)
+id: Q28600482; format DSK (Apple II)
+id: Q85621726; format PFS:First Choice Document
+id: Q28055391; format Printfox bitmap
+id: Q28049770; format DKBTrace scene description
+id: Q32097740; format Fallout DAT
+id: Q28206625; format MSX BASIC graphics
+id: Q29650330; format PGP public key
+id: Q27967116; format ASC Sound Master module
+id: Q62664735; format Wordperfect Secondary File, version 5.1 and 5.2
+id: Q61971919; format Microsoft Visual FoxPro Database Table File
+id: Q28858035; format Word Binary File Format, version nFib=0x00C1
+id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
+id: Q3596396; format MDX
+id: Q63061396; format Microsoft Word Document
+id: Q686498; format doc
+id: Q61971917; format FoxPro Database, version 2x
+id: Q85413270; format PTGui Project File 11
+id: Q27349828; format ESRI Arc/Info ASCII Grid
+id: Q51801746; format Stationery for Mac OS X
+id: Q6912474; format Mork
+id: Q60628185; format Wordperfect Secondary File, version 5
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q28207108; format The Print Shop Graphics file
+id: Q60000066; format Microsoft Office Owner File
+id: Q61641368; format Microsoft Word for Windows Document, version 2
+id: Q28755621; format Exact Yearbook ID file
+id: Q60628005; format FoxPro Database, version 2
+id: Q48782238; format Microsoft Word for MS-DOS Document, version 5
+id: Q27487130; format Shapefile dBASE table
+id: Q28344823; format Debian source control file
+id: Q51954521; format Microsoft FoxPro Database, version 2.6
+id: Q81526528; format MicroStation Resource data
+id: Q28600256; format ASCII Encoded HP 48 Object
+id: Q28858042; format Word Binary File Format, version nFibNew=0x010C
+id: Q81526664; format Palm Desktop DateBook
+id: Q28858037; format Word Binary File Format, version nFib=0x00C0
+id: Q52834849; format dBASE for Windows database, version 5
+id: Q34747804; format Supaplex Level format
+id: Q48782202; format Microsoft Word for MS-DOS Document, version 4
+id: Q44933672; format dBASE IV
+id: Q48782394; format Microsoft Word for MS-DOS Document, version 5.5
+id: Q28858044; format Word Binary File Format, version nFibNew=0x0112
+id: Q29650305; format PSI-MI XML
+id: Q34745761; format StarCraft group file
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q27966906; format MDX
+id: Q85413178; format PTGui Project File 10
+id: Q28049670; format Autodesk 3D Studio ASCII format
+id: Q28758112; format Internet Explorer history file
+id: Q28755606; format Exact Yearbook DAT file
+id: Q32097899; format Fallout v2 DAT
+id: Q1343830; format Executable and Linkable Format
+id: Q29650304; format PRT scene description
+id: Q61639409; format Microsoft Word for Windows Document, version 1
+id: Q1882400; format MacBinary
+id: Q28858041; format Word Binary File Format, version nFibNew=0x0101
+id: Q27960082; format DCT
+id: Q81192187; format Microsoft Border art
+id: Q27979156; format ASCII art
+id: Q28975874; format OOGL TLIST Group file
+id: Q28600483; format DSK (CPCEMU)
+id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
+id: Q47233167; format LDR
+id: Q51954585; format dBASE Database
+id: Q63061514; format Microsoft Word Document, version 97-2003
+id: Q85621806; format PFS:First Choice Document 3
+id: Q63036182; format 8-bit ASCII Text
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q66439286; format DisplayWrite Document file format, version 5
+id: Q48915661; format Interleaf Document
+id: Q2138624; format registry file
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q27979410; format Binary Text
+id: Q60628025; format FoxPro Database, version 2.5
+id: Q28858038; format Word Binary File Format, version nFib=0x00C2
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q4045294; format New Executable
+id: Q62619688; format 7-bit ASCII Text
+id: Q723030; format AsciiDoc
+id: Q48782098; format Microsoft Word for MS-DOS Document, version 3
+id: Q28858039; format Word Binary File Format, version nFibNew=0x00D9
+id: Q28975654; format Recon Points

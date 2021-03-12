@@ -1,0 +1,15 @@
+Number of files in data set: 140 
+Number of files with unknown format in data set: 9 
+Rate of files with known format: 0.9357142857142857 
+ 
+fmt/124: Encapsulated PostScript File Format 
+fmt/16: Acrobat PDF 1.2 - Portable Document Format 
+fmt/19: Acrobat PDF 1.5 - Portable Document Format 
+fmt/329: Shell Archive Format 
+fmt/353: Tagged Image File Format 
+fmt/4: Graphics Interchange Format 
+fmt/61: Microsoft Excel 97 Workbook (xls) 
+fmt/806: Level 5 MAT-file format (MATLAB) 
+fmt/879: Fortran 
+fmt/96: Hypertext Markup Language 
+x-fmt/111: Plain Text File 

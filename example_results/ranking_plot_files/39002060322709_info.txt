@@ -1,0 +1,135 @@
+39002060322709.json
+top ranked environments: 
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 70.1684902825167
+environment_number: 3; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 6.832789142291625
+environment_number: 4; environment_name: Windows 95 + Visio Standard  5; score: 6.832789142291625
+environment_number: 13; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 6.768614060689512
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.3013509359405635
+
+number of files:  1178
+number of files with unknown format: 7
+number of files with known format: 1171
+rate of files with known format: 0.9940577249575552
+contained formats: 
+id: Q26085319; format Portable Document Format, version 1.6
+id: Q26543628; format Portable Document Format/Archive, version 1 Basic
+id: Q28758102; format InstallShield CAB
+id: Q28055391; format Printfox bitmap
+id: Q5924007; format JavaScript
+id: Q26085339; format Portable Document Format, version 1.0
+id: Q28049770; format DKBTrace scene description
+id: Q47498736; format Adobe Illustrator file format, version 14
+id: Q32097740; format Fallout DAT
+id: Q17092932; format JPEG-XT
+id: Q194831; format Cabinet
+id: Q47498745; format Adobe Illustrator file format, version 15
+id: Q42332; format Portable Document Format
+id: Q27526739; format Graphics Interchange Format, version 89a
+id: Q47498565; format Adobe Illustrator file format, version 13
+id: Q380319; format dynamic-link library
+id: Q29946810; format Portable Document Format/Exchange 2:2003
+id: Q58103465; format Adobe Font List
+id: Q1882110; format DOS MZ executable
+id: Q66811836; format Inform source code file
+id: Q623334; format .exe
+id: Q29946883; format Portable Document Format/Exchange 4p
+id: Q26085336; format Portable Document Format, version 1.1
+id: Q28206771; format OS/2 Bitmap Array
+id: Q28206359; format Intergraph Raster
+id: Q684554; format Autorun.inf
+id: Q1952321; format Multi Picture Object
+id: Q6912474; format Mork
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q28207108; format The Print Shop Graphics file
+id: Q29946845; format Portable Document Format/Exchange 3:2003
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q26085317; format Portable Document Format, version 1.7
+id: Q26085333; format Portable Document Format, version 1.2
+id: Q166074; format Extensible HyperText Markup Language
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q81526528; format MicroStation Resource data
+id: Q29946134; format Portable Document Format/Variable Data and Transactional Printing, multi-file exchange variant
+id: Q729366; format ICO
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q81526664; format Palm Desktop DateBook
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q26545877; format Portable Document Format/Archive, version 2 Accessible
+id: Q34747804; format Supaplex Level format
+id: Q28206497; format Lossless JPEG
+id: Q8811; format HyperText Markup Language
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q2053; format HTML5
+id: Q47498749; format Adobe Illustrator file format, version 16
+id: Q29946121; format Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant
+id: Q29946692; format Portable Document Format/Exchange 1:1999
+id: Q29946141; format Portable Document Format/Variable Data and Transactional Printing, streamed delivery variant
+id: Q26541013; format Portable Document Format/Archive, version 1 Accessible
+id: Q1076355; format Portable Executable
+id: Q29946937; format Portable Document Format/Exchange 5pg
+id: Q95994246; format Agilent Microarray file format
+id: Q5533911; format GeoPDF
+id: Q47498538; format Adobe Illustrator file format, version 9
+id: Q29946771; format Portable Document Format/Exchange 1a:2003
+id: Q28758112; format Internet Explorer history file
+id: Q29946829; format Portable Document Format/Exchange 3:2002
+id: Q2043942; format Portable Document Format for Engineering
+id: Q55429627; format Portable Document Format, version 2.0
+id: Q29946726; format Portable Document Format/Exchange 1a:2001
+id: Q28755606; format Exact Yearbook DAT file
+id: Q28551284; format Adobe CMYK Setup File
+id: Q32097899; format Fallout v2 DAT
+id: Q26385770; format Still Picture Interchange File Format
+id: Q1343830; format Executable and Linkable Format
+id: Q26547917; format Portable Document Format/Archive, version 3 Accessible
+id: Q28755628; format Exact Yearbook LST file
+id: Q3807693; format ASCII tab
+id: Q26546575; format Portable Document Format/Archive, version 2 Basic
+id: Q29650304; format PRT scene description
+id: Q1888930; format Vector Markup Language
+id: Q29946898; format Portable Document Format/Exchange 5g
+id: Q29946914; format Portable Document Format/Exchange 5n
+id: Q26547266; format Portable Document Format/Archive, version 2 Unicode
+id: Q29946866; format Portable Document Format/Exchange 4
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q16996920; format Windows Setup Information File
+id: Q1882400; format MacBinary
+id: Q26548590; format Portable Document Format/Archive, version 3 Basic
+id: Q47498555; format Adobe Illustrator file format, version 12
+id: Q27979156; format ASCII art
+id: Q1141412; format INI file
+id: Q27826469; format Cascading Style Sheets Level 3
+id: Q4042979; format Linear Executable
+id: Q28777715; format NSIS
+id: Q28786544; format Netscape bookmarks
+id: Q1662484; format Information Presentation Facility
+id: Q25378623; format Font-File Format
+id: Q26085326; format Portable Document Format, version 1.4
+id: Q26085330; format Portable Document Format, version 1.3
+id: Q47498552; format Adobe Illustrator file format, version 11
+id: Q28205580; format OS/2 Icon
+id: Q47233167; format LDR
+id: Q29904539; format Statistical Analysis System output file
+id: Q10852293; format RPT
+id: Q58006953; format TRIM Context Reference File
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q2192; format Graphics Interchange Format
+id: Q29946713; format Portable Document Format/Exchange 1:2001
+id: Q62626012; format HyperText Markup Language
+id: Q47455565; format Windows Portable Executable file format, 64-bit
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q47455466; format Windows Portable Executable file format, 32-bit
+id: Q27979410; format Binary Text
+id: Q47498547; format Adobe Illustrator file format, version 10
+id: Q28600763; format Electronic Arts INF
+id: Q28756037; format FON
+id: Q28758002; format Inno Setup self-extracting archive
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q28206262; format HSI JPEG
+id: Q26085322; format Portable Document Format, version 1.5
+id: Q66244789; format ScreenCam stand-alone Movies format
+id: Q4045294; format New Executable
+id: Q28205626; format Sun icon
+id: Q27967388; format Adlib Tracker instrument
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q723030; format AsciiDoc

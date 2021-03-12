@@ -1,0 +1,36 @@
+39002011536878.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 3.646908236000517
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 3.646908236000517
+environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 3.646908236000517
+environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 3.646908236000517
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 3.646908236000517
+
+number of files:  985
+number of files with unknown format: 230
+number of files with known format: 755
+rate of files with known format: 0.766497461928934
+contained formats: 
+id: Q218170; format PostScript
+id: Q1250383; format XYZ file format
+id: Q28205883; format Desktop Color Separation
+id: Q50809785; format Portable Database, version 3
+id: Q55758993; format Microsoft Program Database file format, version 7
+id: Q55758988; format Microsoft Program Database file format, version 2
+id: Q28206843; format Palm Database ImageViewer
+id: Q66134564; format Photoshop DCS 1.0
+id: Q28207256; format ScreenShot Hack PDB
+id: Q50809753; format Portable Database, version 2
+id: Q28771302; format Matlab figure
+id: Q29650793; format PalmOS Database
+id: Q3406936; format Program database
+id: Q1047541; format Encapsulated PostScript
+id: Q1343830; format Executable and Linkable Format
+id: Q59714459; format Encapsulated PostScript File Format
+id: Q28756261; format FIG
+id: Q50809751; format Portable Database, version 1
+id: Q48625328; format Encapsulated PostScript, v2
+id: Q58799889; format PowerProject Teamplan
+id: Q28206328; format Img Software Set Red Component
+id: Q87816075; format Broderbund Print Shop Deluxe 5-6
+id: Q28207363; format TealPaint PDB

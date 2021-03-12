@@ -1,0 +1,22 @@
+3900206718445.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 0.0001
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.0001
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit Base V1 + AutoCAD LT 2006 - 5788; score: 0.0001
+
+number of files:  5153
+number of files with unknown format: 21
+number of files with known format: 5132
+rate of files with known format: 0.9959247040558897
+contained formats: 
+id: Q27979399; format Imagic Film/Picture, high resolution
+id: Q27966982; format AC1D-DC1A Packer
+id: Q23014810; format chr
+id: Q29000599; format Windows Shortcut
+id: Q39184097; format Shell Link Binary File Format
+id: Q28205439; format Sony ARW
+id: Q1109779; format file shortcut
+id: Q27979398; format Imagic Film/Picture, medium resolution
+id: Q99184084; format Atom web feed
+id: Q1144005; format WinHelp
+id: Q28919030; format AC-3 Compressed Audio (Dolby Digital), Revision A

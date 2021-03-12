@@ -1,0 +1,99 @@
+39002091239559.json
+top ranked environments: 
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 11.397413096789206
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 10.514663496252965
+environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 7.424457314973887
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 5.878849702360405
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 4.788466691394467
+
+number of files:  149
+number of files with unknown format: 6
+number of files with known format: 143
+rate of files with known format: 0.959731543624161
+contained formats: 
+id: Q28728783; format VOTable
+id: Q61752300; format Microsoft FrontPage file format
+id: Q433224; format APNG
+id: Q17092932; format JPEG-XT
+id: Q3551300; format Universal Subtitle Format
+id: Q28205824; format CgBI
+id: Q27526739; format Graphics Interchange Format, version 89a
+id: Q1882110; format DOS MZ executable
+id: Q66811836; format Inform source code file
+id: Q100136218; format XDOMEA 2.2.0
+id: Q623334; format .exe
+id: Q796483; format DocBook
+id: Q100135637; format XDOMEA 2.1.0
+id: Q28206771; format OS/2 Bitmap Array
+id: Q28206359; format Intergraph Raster
+id: Q684554; format Autorun.inf
+id: Q50378320; format INTERLIS Transfer File, version 2.2
+id: Q1952321; format Multi Picture Object
+id: Q66759482; format InfoPath Form file
+id: Q29000578; format Android Resource file
+id: Q2819247; format ALTO
+id: Q27229642; format Portable Network Graphics, version 1.2
+id: Q27967351; format iTunes Music Library, XML variant
+id: Q27910000; format RADARSAT-2 Product Information File
+id: Q166074; format Extensible HyperText Markup Language
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q27229608; format Portable Network Graphics, version 1.1
+id: Q178051; format Portable Network Graphics
+id: Q28206109; format farbfeld
+id: Q729366; format ICO
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q79587; format Keyhole Markup Language
+id: Q59851506; format DROID File Collection File Format
+id: Q61963304; format Microsoft Front Page Binary Tree Index
+id: Q653301; format MusicXML
+id: Q71178742; format PIPE2 file format
+id: Q28600421; format Ant build file
+id: Q28206497; format Lossless JPEG
+id: Q8811; format HyperText Markup Language
+id: Q28771320; format Microsoft Office File List
+id: Q2053; format HTML5
+id: Q28921959; format Keyhole Markup Language Zipped
+id: Q641213; format XBEL
+id: Q1076355; format Portable Executable
+id: Q959950; format eXtensible Business Reporting Language
+id: Q99973606; format XDOMEA 2.0.0
+id: Q26385770; format Still Picture Interchange File Format
+id: Q1343830; format Executable and Linkable Format
+id: Q28600760; format Early Mind Manager XML format
+id: Q48805099; format Btrieve Database
+id: Q1888930; format Vector Markup Language
+id: Q100136960; format XDOMEA 2.4.0
+id: Q27229565; format Portable Network Graphics, version 1.0
+id: Q45432; format RSS
+id: Q28445577; format Advanced Authoring System
+id: Q100136955; format XDOMEA 2.3.0
+id: Q16996920; format Windows Setup Information File
+id: Q25339304; format Timed Text Markup Language
+id: Q59999786; format Dreamweaver Lock File
+id: Q1141412; format INI file
+id: Q4042979; format Linear Executable
+id: Q28777715; format NSIS
+id: Q34306669; format Scifer archive XML header
+id: Q28786544; format Netscape bookmarks
+id: Q4042481; format LOGML
+id: Q1662484; format Information Presentation Facility
+id: Q28205580; format OS/2 Icon
+id: Q99976195; format XDOMEA 2.0.1
+id: Q99184084; format Atom web feed
+id: Q2192; format Graphics Interchange Format
+id: Q62626012; format HyperText Markup Language
+id: Q2313301; format SpreadsheetML
+id: Q72273742; format TPN
+id: Q47455565; format Windows Portable Executable file format, 64-bit
+id: Q47455466; format Windows Portable Executable file format, 32-bit
+id: Q28600763; format Electronic Arts INF
+id: Q452197; format Systems Biology Markup Language
+id: Q28758002; format Inno Setup self-extracting archive
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q59851322; format DROID Signature File Format
+id: Q28206262; format HSI JPEG
+id: Q66244789; format ScreenCam stand-alone Movies format
+id: Q28205626; format Sun icon
+id: Q4045294; format New Executable
+id: Q99973597; format XDOMEA 1.0 file format
+id: Q27487531; format Shapefile metadata for ArcGIS

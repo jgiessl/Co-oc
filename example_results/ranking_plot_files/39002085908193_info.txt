@@ -1,0 +1,61 @@
+39002085908193.json
+top ranked environments: 
+environment_number: 13; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 17.926990334366018
+environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 17.915977447573102
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 15.222935896369037
+environment_number: 22; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 9.569171581289813
+environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 8.46134816247581
+
+number of files:  57
+number of files with unknown format: 0
+number of files with known format: 57
+rate of files with known format: 1.0
+contained formats: 
+id: Q28207499; format Windows Device-Dependent Bitmap
+id: Q28786544; format Netscape bookmarks
+id: Q1076355; format Portable Executable
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q1141412; format INI file
+id: Q336284; format MPEG-1
+id: Q1662484; format Information Presentation Facility
+id: Q17073241; format Opera Show Format
+id: Q288405; format hOCR
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q28018470; format MPEG-1 program stream
+id: Q166074; format Extensible HyperText Markup Language
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q28206359; format Intergraph Raster
+id: Q17092932; format JPEG-XT
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q27596184; format Windows Bitmap, version 2
+id: Q28018471; format MPEG-2 program stream
+id: Q27596243; format Windows Bitmap, version 3
+id: Q29151645; format Research Articles in Simplified HTML
+id: Q26385770; format Still Picture Interchange File Format
+id: Q62626012; format HyperText Markup Language
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q28206788; format OS/2 Bitmap, version 2.0
+id: Q28600763; format Electronic Arts INF
+id: Q27826469; format Cascading Style Sheets Level 3
+id: Q66134804; format Access Project file format
+id: Q1888930; format Vector Markup Language
+id: Q27596100; format Windows Bitmap, version 1
+id: Q28205733; format Award BIOS logo, version 1
+id: Q27596325; format Windows Bitmap, version 4
+id: Q28206262; format HSI JPEG
+id: Q28205674; format Alpha Microsystems BMP
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q28205736; format Award BIOS logo, version 2
+id: Q28206497; format Lossless JPEG
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q8811; format HyperText Markup Language
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q2053; format HTML5
+id: Q28206771; format OS/2 Bitmap Array
+id: Q63061679; format Windows Bitmap, version 3.0 NT
+id: Q27596417; format Windows Bitmap, version 5
+id: Q684554; format Autorun.inf
+id: Q1952321; format Multi Picture Object

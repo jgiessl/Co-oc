@@ -1,0 +1,34 @@
+39002082685943.json
+top ranked environments: 
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 18.901
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.9697652173913043
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
+environment_number: 2; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
+environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
+
+number of files:  691
+number of files with unknown format: 180
+number of files with known format: 511
+rate of files with known format: 0.7395079594790159
+contained formats: 
+id: Q44070571; format STATA Data File Format, version 114
+id: Q34284437; format Pascal script
+id: Q28205883; format Desktop Color Separation
+id: Q28207569; format Zeiss BIVAS
+id: Q44069213; format STATA Data File Format, version 104
+id: Q32979463; format STATA DTA file format, version 119
+id: Q95994246; format Agilent Microarray file format
+id: Q44069766; format STATA Data File Format, version 110
+id: Q15938816; format MATLAB M-File
+id: Q28975650; format Recon Mesh
+id: Q58006953; format TRIM Context Reference File
+id: Q32979267; format STATA Data File Format, version 118
+id: Q3807693; format ASCII tab
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q44070042; format STATA Data File Format, version 111
+id: Q723030; format AsciiDoc
+id: Q44071424; format STATA Data File Format, version 117
+id: Q44069463; format STATA Data File Format, version 105
+id: Q27979156; format ASCII art
+id: Q44070148; format STATA Data File Format, version 113
+id: Q44071250; format STATA Data File Format, version 115

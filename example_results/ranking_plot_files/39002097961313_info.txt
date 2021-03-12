@@ -1,0 +1,43 @@
+39002097961313.json
+top ranked environments: 
+environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 7.218058782330649
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.844604146106439
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 3.364772995318583
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 3.3006857006151176
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.6901551724137924
+
+number of files:  122
+number of files with unknown format: 0
+number of files with known format: 122
+rate of files with known format: 1.0
+contained formats: 
+id: Q935809; format comma-separated values
+id: Q27487348; format Shapefile spatial index part 2
+id: Q59999470; format ESRI Spatial Index File
+id: Q28205439; format Sony ARW
+id: Q51954585; format dBASE Database
+id: Q51753252; format AutoCAD Compiled Shape/Font File
+id: Q60628005; format FoxPro Database, version 2
+id: Q27487130; format Shapefile dBASE table
+id: Q51753051; format 3D Studio Shapes
+id: Q27487109; format Shapefile index file
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q56827141; format SeqBox file
+id: Q51954521; format Microsoft FoxPro Database, version 2.6
+id: Q28975875; format OOGL TLIST Projective file
+id: Q60628025; format FoxPro Database, version 2.5
+id: Q27487343; format Shapefile spatial index part 1
+id: Q29465378; format UltraEdit project file
+id: Q52834849; format dBASE for Windows database, version 5
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q66134804; format Access Project file format
+id: Q61971919; format Microsoft Visual FoxPro Database Table File
+id: Q27486884; format Shapefile main file
+id: Q27487424; format Shapefile projections definitions file
+id: Q27823195; format Binary Terrain External Projection file
+id: Q28207085; format PrintMaster Graphics file
+id: Q48004869; format Microsoft Access Database, version 95
+id: Q44933672; format dBASE IV
+id: Q48021763; format Microsoft Access Database, version 2002
+id: Q61971917; format FoxPro Database, version 2x

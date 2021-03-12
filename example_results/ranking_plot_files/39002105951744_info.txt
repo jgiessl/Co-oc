@@ -1,0 +1,23 @@
+39002105951744.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
+environment_number: 1; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
+environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.0001
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) Base V2 + Microsoft Works Suite 99 13401; score: 0.0001
+
+number of files:  1039
+number of files with unknown format: 17
+number of files with known format: 1022
+rate of files with known format: 0.983638113570741
+contained formats: 
+id: Q16976440; format Segmented Hyper Graphics
+id: Q29904539; format Statistical Analysis System output file
+id: Q58103465; format Adobe Font List
+id: Q34284437; format Pascal script
+id: Q217570; format Waveform Audio File Format
+id: Q28755628; format Exact Yearbook LST file
+id: Q4045294; format New Executable
+id: Q27596243; format Windows Bitmap, version 3
+id: Q79241659; format Lotus Accessory
+id: Q29650311; format POV-Ray scene description

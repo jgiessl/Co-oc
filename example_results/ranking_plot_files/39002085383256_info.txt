@@ -1,0 +1,31 @@
+39002085383256.json
+top ranked environments: 
+environment_number: 8; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.5178470588235294
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.11784705882352942
+environment_number: 10; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.11784705882352942
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 0.11784705882352942
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.11784705882352942
+
+number of files:  381
+number of files with unknown format: 47
+number of files with known format: 334
+rate of files with known format: 0.8766404199475065
+contained formats: 
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q16996920; format Windows Setup Information File
+id: Q3807693; format ASCII tab
+id: Q58006953; format TRIM Context Reference File
+id: Q95994246; format Agilent Microarray file format
+id: Q1072083; format Windows Metafile
+id: Q1662484; format Information Presentation Facility
+id: Q27967388; format Adlib Tracker instrument
+id: Q723030; format AsciiDoc
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q99184084; format Atom web feed
+id: Q27979156; format ASCII art
+id: Q684554; format Autorun.inf
+id: Q1141412; format INI file
+id: Q194831; format Cabinet

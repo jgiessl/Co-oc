@@ -1,0 +1,64 @@
+39002069348929.json
+top ranked environments: 
+environment_number: 4; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 10.921399999999998
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit Base V1 + AutoCAD LT 2006 - 5788; score: 10.921399999999998
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.400999999999994
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.1202
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
+
+number of files:  17
+number of files with unknown format: 0
+number of files with known format: 17
+rate of files with known format: 1.0
+contained formats: 
+id: Q4042979; format Linear Executable
+id: Q44070571; format STATA Data File Format, version 114
+id: Q1076355; format Portable Executable
+id: Q59492197; format Statistical Analysis System Catalog (Unix)
+id: Q28207569; format Zeiss BIVAS
+id: Q95994246; format Agilent Microarray file format
+id: Q44069213; format STATA Data File Format, version 104
+id: Q32979463; format STATA DTA file format, version 119
+id: Q47486934; format Statistical Analysis System Catalog (Unix)
+id: Q44069766; format STATA Data File Format, version 110
+id: Q1192568; format .sys
+id: Q28848214; format Statistical Package for the Social Sciences data file
+id: Q47483382; format Statistical Analysis System Data (Unix)
+id: Q47483371; format Statistical Analysis System Data (Windows)
+id: Q29943965; format Statistical Package for the Social Sciences portable data format
+id: Q58006953; format TRIM Context Reference File
+id: Q27979407; format Spectrum 512 Anispec
+id: Q28206625; format MSX BASIC graphics
+id: Q47486873; format Statistical Analysis System Catalog (Windows)
+id: Q29904535; format Statistical Analysis System program
+id: Q28757684; format Nintendo Game Boy cartridge SAV file
+id: Q27995538; format Borderlands save file
+id: Q28009482; format SimCity 2000 Saved City
+id: Q32979267; format STATA Data File Format, version 118
+id: Q47455565; format Windows Portable Executable file format, 64-bit
+id: Q47483863; format Statistical Analysis System Data (Unix)
+id: Q59492181; format Statistical Analysis System Catalog (Windows)
+id: Q47455466; format Windows Portable Executable file format, 32-bit
+id: Q59961716; format Sound Designer II Audio File
+id: Q34290760; format Statistical Package for the Social Sciences syntax file
+id: Q3807693; format ASCII tab
+id: Q47483645; format Statistical Analysis System Data (Windows)
+id: Q27996239; format Faster than Light saved game
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28600476; format DOS device driver
+id: Q44070042; format STATA Data File Format, version 111
+id: Q47486880; format Statistical Analysis System Catalog (Unix)
+id: Q47486887; format Statistical Analysis System Catalog (Windows)
+id: Q27978800; format Spectrum 512 Smooshed
+id: Q47486901; format Statistical Analysis System Catalog (Windows)
+id: Q47483398; format Statistical Analysis System Data (Windows)
+id: Q47483338; format Statistical Analysis System data set (Unix)
+id: Q29904547; format Statistical Analysis System catalog
+id: Q47483489; format Statistical Analysis System Data (Unix)
+id: Q723030; format AsciiDoc
+id: Q7271574; format Quetzal file format
+id: Q44071424; format STATA Data File Format, version 117
+id: Q44069463; format STATA Data File Format, version 105
+id: Q27979156; format ASCII art
+id: Q44070148; format STATA Data File Format, version 113
+id: Q44071250; format STATA Data File Format, version 115

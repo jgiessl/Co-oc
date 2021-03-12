@@ -1,0 +1,24 @@
+39002053670635.json
+top ranked environments: 
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.4003
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.2528315789473683
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 0.8157870112510923
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 0.8157870112510923
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.8157870112510923
+
+number of files:  825
+number of files with unknown format: 0
+number of files with known format: 825
+rate of files with known format: 1.0
+contained formats: 
+id: Q3807693; format ASCII tab
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q939636; format CorelDRAW Document
+id: Q58006953; format TRIM Context Reference File
+id: Q28205439; format Sony ARW
+id: Q95994246; format Agilent Microarray file format
+id: Q723030; format AsciiDoc
+id: Q28206109; format farbfeld
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q99184084; format Atom web feed
+id: Q27979156; format ASCII art

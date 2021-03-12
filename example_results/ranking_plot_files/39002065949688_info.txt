@@ -1,0 +1,25 @@
+39002065949688.json
+top ranked environments: 
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 7.727872727272725
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 4.091309090909091
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 4.091309090909091
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.0457545454545454
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.1820181818181818
+
+number of files:  1086
+number of files with unknown format: 0
+number of files with known format: 1086
+rate of files with known format: 1.0
+contained formats: 
+id: Q28600454; format DB (Watcom-SQL)
+id: Q51035227; format Paradox Database Table, version 4
+id: Q28600435; format Consolidated.db
+id: Q930281; format Windows thumbnail cache
+id: Q51034969; format Paradox Database Table format, version 3
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q51837224; format Paradox Database Table, version 7
+id: Q178051; format Portable Network Graphics
+id: Q99184084; format Atom web feed
+id: Q51035340; format Paradox Database Table, version 5
+id: Q921122; format Java archive
+id: Q28600453; format SQLite database file format

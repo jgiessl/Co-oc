@@ -1,0 +1,40 @@
+39002090547903.json
+top ranked environments: 
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.1669666819415145
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.1669666819415145
+environment_number: 11; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.7022143782978598
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.44072619811361446
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.23106923076923078
+
+number of files:  200
+number of files with unknown format: 1
+number of files with known format: 199
+rate of files with known format: 0.995
+contained formats: 
+id: Q28786544; format Netscape bookmarks
+id: Q1076355; format Portable Executable
+id: Q1141412; format INI file
+id: Q1662484; format Information Presentation Facility
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q166074; format Extensible HyperText Markup Language
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q74550562; format SAP2000 DataBase
+id: Q28206109; format farbfeld
+id: Q99184084; format Atom web feed
+id: Q62626012; format HyperText Markup Language
+id: Q28600763; format Electronic Arts INF
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1888930; format Vector Markup Language
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q8811; format HyperText Markup Language
+id: Q28600412; format Attribute-Relation File Format
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q2053; format HTML5
+id: Q921122; format Java archive
+id: Q98815369; format Microsoft Access Database Link
+id: Q684554; format Autorun.inf
+id: Q27826469; format Cascading Style Sheets Level 3

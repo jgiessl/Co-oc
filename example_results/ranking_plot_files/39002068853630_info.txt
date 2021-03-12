@@ -1,0 +1,12 @@
+39002068853630.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 0.0001
+
+number of files:  69
+number of files with unknown format: 1
+number of files with known format: 68
+rate of files with known format: 0.9855072463768116
+contained formats: 
+id: Q28975650; format Recon Mesh
+id: Q15938816; format MATLAB M-File
+id: Q28205883; format Desktop Color Separation

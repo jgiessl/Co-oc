@@ -1,0 +1,113 @@
+39002068854117.json
+top ranked environments: 
+environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 21.41453449390594
+environment_number: 26; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 10.61441728928578
+environment_number: 7; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 9.699424485745588
+environment_number: 21; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 9.335788122109228
+environment_number: 12; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 9.174330812892869
+
+number of files:  1286
+number of files with unknown format: 679
+number of files with known format: 607
+rate of files with known format: 0.47200622083981336
+contained formats: 
+id: Q29944206; format OpenOffice Draw template, version 1.0
+id: Q284651; format iCalendar
+id: Q27967540; format Cyber Paint Sequence
+id: Q47462143; format Caligari TrueSpace file format
+id: Q34312718; format Macromedia Director, compressed Macintosh variant
+id: Q28018470; format MPEG-1 program stream
+id: Q28975650; format Recon Mesh
+id: Q29944987; format Rich Text Format, version 0
+id: Q28975633; format NextEngine Scan
+id: Q49989019; format Macromedia (Adobe) Director Compressed Resource file
+id: Q50223921; format Adobe Air
+id: Q28758207; format Adaptive Prediction Trees
+id: Q5153426; format Common Log Format
+id: Q29000614; format Resource File
+id: Q28205367; format DCR
+id: Q73675958; format 3M Printscape
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q34312565; format Macromedia Director, compressed PC variant
+id: Q34743342; format Softimage Scene
+id: Q28771221; format MAT-file, Level 5, version 7.3
+id: Q48004869; format Microsoft Access Database, version 95
+id: Q66811836; format Inform source code file
+id: Q5448342; format File change log
+id: Q4836515; format BSAVE
+id: Q29904540; format Statistical Analysis System log file
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q28206771; format OS/2 Bitmap Array
+id: Q48021763; format Microsoft Access Database, version 2002
+id: Q28206359; format Intergraph Raster
+id: Q684554; format Autorun.inf
+id: Q3509055; format STEP file
+id: Q87066063; format LEADTools Lead 1Bit Compressed Image
+id: Q47512572; format man page
+id: Q28205846; format ColoRIX
+id: Q28205883; format Desktop Color Separation
+id: Q50288247; format Adobe Air, v2
+id: Q47462131; format Caligari TrueSpace file format
+id: Q15938816; format MATLAB M-File
+id: Q28771107; format MAT-file, Level 4
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q34746769; format STATISTICA Report File
+id: Q729366; format ICO
+id: Q21040945; format Digitrakker format
+id: Q1601835; format Standard Test Data Format
+id: Q28975875; format OOGL TLIST Projective file
+id: Q29944785; format Rich Text Format, version 1.8
+id: Q28207389; format TIM
+id: Q66134804; format Access Project file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q61707607; format Microsoft Outlook Email Message
+id: Q50288226; format Adobe Air, v1.5
+id: Q27487424; format Shapefile projections definitions file
+id: Q28206138; format Freedom of Press Info
+id: Q58335773; format Verity Collection Stop List
+id: Q85415853; format SureThing Project File
+id: Q1076355; format Portable Executable
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q95994246; format Agilent Microarray file format
+id: Q751800; format TrueType Font
+id: Q28770728; format MAT-file, Level 5, version 6
+id: Q28018471; format MPEG-2 program stream
+id: Q3807693; format ASCII tab
+id: Q87066066; format LEADToolsCompressed Image
+id: Q27823195; format Binary Terrain External Projection file
+id: Q28206756; format NIST IHead
+id: Q29944776; format Rich Text Format, version 1.2
+id: Q28771220; format MAT-file, Level 5, version 7
+id: Q16996920; format Windows Setup Information File
+id: Q27979156; format ASCII art
+id: Q2044200; format PICT
+id: Q28049547; format STAD image
+id: Q336284; format MPEG-1
+id: Q1662484; format Information Presentation Facility
+id: Q28205580; format OS/2 Icon
+id: Q81413909; format Macromedia Director Shockwave Cast
+id: Q10852293; format RPT
+id: Q17029350; format Image Cytometry Standard
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q58006953; format TRIM Context Reference File
+id: Q20965861; format Material Template Library
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q99184084; format Atom web feed
+id: Q28600223; format APT
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q5421818; format Extended Log Format
+id: Q28206147; format Freedom of Press Bitamp
+id: Q28600763; format Electronic Arts INF
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q29465378; format UltraEdit project file
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q29944777; format Rich Text Format, version 1.3
+id: Q4045294; format New Executable
+id: Q28205626; format Sun icon
+id: Q46118545; format Lotus Approach View File
+id: Q723030; format AsciiDoc
+id: Q29944773; format Rich Text Format, version 1.1
+id: Q27967404; format EdLib packed module
+id: Q29944782; format Rich Text Format, version 1.6

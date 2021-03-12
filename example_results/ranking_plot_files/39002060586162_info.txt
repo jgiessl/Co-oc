@@ -1,0 +1,65 @@
+39002060586162.json
+top ranked environments: 
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 27.456609584103674
+environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 20.24726673788978
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 12.18434825906077
+environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 11.658916339869247
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 10.96895192637365
+
+number of files:  175
+number of files with unknown format: 0
+number of files with known format: 175
+rate of files with known format: 1.0
+contained formats: 
+id: Q28858068; format Binary Interchange File Format, version 8
+id: Q51035227; format Paradox Database Table, version 4
+id: Q535473; format PCX
+id: Q930281; format Windows thumbnail cache
+id: Q47012412; format FoxPro Memo file format
+id: Q60886323; format Microsoft Excel 2000-2003 Workbook
+id: Q95994246; format Agilent Microarray file format
+id: Q1662484; format Information Presentation Facility
+id: Q60886160; format Microsoft Excel 97 Workbook
+id: Q27967181; format Farandole Composer pattern
+id: Q51954585; format dBASE Database
+id: Q43866871; format PCX, version 2
+id: Q51034969; format Paradox Database Table format, version 3
+id: Q60628005; format FoxPro Database, version 2
+id: Q27487130; format Shapefile dBASE table
+id: Q58006953; format TRIM Context Reference File
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q51837224; format Paradox Database Table, version 7
+id: Q51954521; format Microsoft FoxPro Database, version 2.6
+id: Q28756196; format FWKCS NDX file
+id: Q28600454; format DB (Watcom-SQL)
+id: Q51035340; format Paradox Database Table, version 5
+id: Q1144005; format WinHelp
+id: Q28600453; format SQLite database file format
+id: Q60806257; format Microsoft Excel 4.0 Worksheet (xls)
+id: Q27596243; format Windows Bitmap, version 3
+id: Q60628025; format FoxPro Database, version 2.5
+id: Q28600435; format Consolidated.db
+id: Q28600763; format Electronic Arts INF
+id: Q3807693; format ASCII tab
+id: Q52834849; format dBASE for Windows database, version 5
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q66134804; format Access Project file format
+id: Q61971919; format Microsoft Visual FoxPro Database Table File
+id: Q60806040; format Microsoft Excel 3.0 Worksheet (xls)
+id: Q43870269; format PCX, version 4
+id: Q52834888; format Microsoft Excel 2.x Worksheet
+id: Q48809727; format dBASE Text Memo
+id: Q43869672; format PCX, version 3
+id: Q47539061; format AutoCAD dbConnect Template Set
+id: Q60873199; format Excel 95 Workbook
+id: Q48004869; format Microsoft Access Database, version 95
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q44933672; format dBASE IV
+id: Q43870624; format PCX, version 5
+id: Q723030; format AsciiDoc
+id: Q48021763; format Microsoft Access Database, version 2002
+id: Q27979156; format ASCII art
+id: Q684554; format Autorun.inf
+id: Q61971917; format FoxPro Database, version 2x

@@ -1,0 +1,42 @@
+39002051654904.json
+top ranked environments: 
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 30.389334468157493
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 28.98925114286898
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 28.309999760619796
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 26.03958264273906
+environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 24.902935381300836
+
+number of files:  470
+number of files with unknown format: 1
+number of files with known format: 469
+rate of files with known format: 0.997872340425532
+contained formats: 
+id: Q34312151; format Macromedia Director, uncompressed PC variant
+id: Q1076355; format Portable Executable
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q95994246; format Agilent Microarray file format
+id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
+id: Q28600764; format Electronic Arts MOV
+id: Q29944987; format Rich Text Format, version 0
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q58006953; format TRIM Context Reference File
+id: Q178051; format Portable Network Graphics
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q27923693; format DTED Cells Directory File
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q27596243; format Windows Bitmap, version 3
+id: Q1569639; format Interchange File Format
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q29944785; format Rich Text Format, version 1.8
+id: Q3807693; format ASCII tab
+id: Q942350; format QuickTime File Format
+id: Q29944776; format Rich Text Format, version 1.2
+id: Q27925722; format DTED Level 1 Gazetteer Directory file
+id: Q29944777; format Rich Text Format, version 1.3
+id: Q4045294; format New Executable
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q723030; format AsciiDoc
+id: Q29944773; format Rich Text Format, version 1.1
+id: Q27979156; format ASCII art
+id: Q29944782; format Rich Text Format, version 1.6

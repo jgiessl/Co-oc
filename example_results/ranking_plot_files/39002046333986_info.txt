@@ -1,0 +1,11 @@
+39002046333986.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2  + Family Tree Maker 2009 Essentials; score: 0.0001
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32-Bit - Base V2 + Platinum Family Tree Maker 2008; score: 0.0001
+
+number of files:  2
+number of files with unknown format: 1
+number of files with known format: 1
+rate of files with known format: 0.5
+contained formats: 
+id: Q47512572; format man page

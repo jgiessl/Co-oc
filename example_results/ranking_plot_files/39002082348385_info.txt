@@ -1,0 +1,42 @@
+39002082348385.json
+top ranked environments: 
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 13.62200966341657
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 4.524309523809524
+environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.8716285714285714
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.5479190476190475
+environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.5479190476190475
+
+number of files:  2045
+number of files with unknown format: 444
+number of files with known format: 1601
+rate of files with known format: 0.7828850855745721
+contained formats: 
+id: Q1076355; format Portable Executable
+id: Q95994246; format Agilent Microarray file format
+id: Q28055391; format Printfox bitmap
+id: Q217570; format Waveform Audio File Format
+id: Q28452000; format TERSE
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q58006953; format TRIM Context Reference File
+id: Q28206493; format Lightning Strike
+id: Q99184084; format Atom web feed
+id: Q29650319; format PIM
+id: Q27596243; format Windows Bitmap, version 3
+id: Q61901831; format Peak Graphical Waveform File
+id: Q1343830; format Executable and Linkable Format
+id: Q27979410; format Binary Text
+id: Q3807693; format ASCII tab
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q66134804; format Access Project file format
+id: Q28207302; format True Colour Sprite
+id: Q29650316; format Packed Font File Format
+id: Q48004869; format Microsoft Access Database, version 95
+id: Q1882400; format MacBinary
+id: Q4045294; format New Executable
+id: Q28344723; format Turbo Pascal chain file
+id: Q723030; format AsciiDoc
+id: Q28600412; format Attribute-Relation File Format
+id: Q48021763; format Microsoft Access Database, version 2002
+id: Q27979156; format ASCII art
+id: Q1141412; format INI file

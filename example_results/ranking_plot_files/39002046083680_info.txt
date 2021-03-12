@@ -1,0 +1,16 @@
+39002046083680.json
+top ranked environments: 
+environment_number: 0; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
+environment_number: 1; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
+environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.0001
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) Base V2 + Microsoft Works Suite 99 13401; score: 0.0001
+
+number of files:  44
+number of files with unknown format: 34
+number of files with known format: 10
+rate of files with known format: 0.22727272727272727
+contained formats: 
+id: Q1076355; format Portable Executable
+id: Q4045294; format New Executable
+id: Q27596243; format Windows Bitmap, version 3

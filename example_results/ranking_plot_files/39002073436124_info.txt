@@ -1,0 +1,25 @@
+39002073436124.json
+top ranked environments: 
+environment_number: 9; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 2.22993932666742
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.8290770053475935
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2  + Family Tree Maker 2009 Essentials; score: 0.1820181818181818
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-Bit - Base V2 + Platinum Family Tree Maker 2008; score: 0.1820181818181818
+environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + Adobe PhotoDeluxe 13079; score: 0.0001
+
+number of files:  427
+number of files with unknown format: 4
+number of files with known format: 423
+rate of files with known format: 0.990632318501171
+contained formats: 
+id: Q43866871; format PCX, version 2
+id: Q43869672; format PCX, version 3
+id: Q47512572; format man page
+id: Q28206147; format Freedom of Press Bitamp
+id: Q535473; format PCX
+id: Q28206138; format Freedom of Press Info
+id: Q4045294; format New Executable
+id: Q43870624; format PCX, version 5
+id: Q28205583; format OS/2 Pointer
+id: Q817650; format COM
+id: Q43870269; format PCX, version 4
+id: Q1258721; format NFO

@@ -1,0 +1,9 @@
+Number of files in data set: 65 
+Number of files with unknown format in data set: 22 
+Rate of files with known format: 0.6615384615384615 
+ 
+fmt/18: Acrobat PDF 1.4 - Portable Document Format 
+fmt/20: Acrobat PDF 1.6 - Portable Document Format 
+fmt/43: JPEG File Interchange Format 
+fmt/831: Polygon File Format 
+x-fmt/111: Plain Text File 

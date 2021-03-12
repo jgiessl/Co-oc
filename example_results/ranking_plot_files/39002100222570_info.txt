@@ -1,0 +1,32 @@
+39002100222570.json
+top ranked environments: 
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 6.051630644510973
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 4.188534188034189
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 2.513220512820513
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.513220512820513
+environment_number: 1; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 1.2567102564102564
+
+number of files:  121
+number of files with unknown format: 0
+number of files with known format: 121
+rate of files with known format: 1.0
+contained formats: 
+id: Q1134089; format world file
+id: Q1076355; format Portable Executable
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q1141412; format INI file
+id: Q27826346; format Reduced resolution dataset file
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q27826340; format Auxiliary file, AUX variant
+id: Q17092932; format JPEG-XT
+id: Q1144005; format WinHelp
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q26385770; format Still Picture Interchange File Format
+id: Q194831; format Cabinet
+id: Q66134804; format Access Project file format
+id: Q28206262; format HSI JPEG
+id: Q27826389; format Proxy AUX file, AUX variant
+id: Q4045294; format New Executable
+id: Q28206497; format Lossless JPEG
+id: Q28206359; format Intergraph Raster
+id: Q1952321; format Multi Picture Object

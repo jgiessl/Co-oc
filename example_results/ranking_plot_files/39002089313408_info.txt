@@ -1,0 +1,19 @@
+39002089313408.json
+top ranked environments: 
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.2002000000000002
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
+environment_number: 2; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
+environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 0.0001
+
+number of files:  4
+number of files with unknown format: 0
+number of files with known format: 4
+rate of files with known format: 1.0
+contained formats: 
+id: Q3807693; format ASCII tab
+id: Q58006953; format TRIM Context Reference File
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q95994246; format Agilent Microarray file format
+id: Q723030; format AsciiDoc
+id: Q27979156; format ASCII art

@@ -1,0 +1,61 @@
+39002067757808.json
+top ranked environments: 
+environment_number: 11; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 8.25571914893617
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit Base V1 + AutoCAD LT 2006 - 5788; score: 8.25571914893617
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.100318158942068
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 1.6757463533448138
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 1.6757463533448138
+
+number of files:  5134
+number of files with unknown format: 1629
+number of files with known format: 3505
+rate of files with known format: 0.6827035449941566
+contained formats: 
+id: Q3928271; format RGBE image format
+id: Q34312151; format Macromedia Director, uncompressed PC variant
+id: Q1076355; format Portable Executable
+id: Q27473691; format BIL/BIP/BSQ Header File
+id: Q59468295; format Statistical Analysis System Data XPT (Windows)
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q95994246; format Agilent Microarray file format
+id: Q28758102; format InstallShield CAB
+id: Q1662484; format Information Presentation Facility
+id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
+id: Q28848214; format Statistical Package for the Social Sciences data file
+id: Q28055391; format Printfox bitmap
+id: Q28206310; format Analyze HDR
+id: Q2193155; format Java class file
+id: Q921122; format Java archive
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q58006953; format TRIM Context Reference File
+id: Q28206109; format farbfeld
+id: Q27923693; format DTED Cells Directory File
+id: Q1144005; format WinHelp
+id: Q99184084; format Atom web feed
+id: Q47516383; format Statistical Analysis System Catalog XPT (Windows) v.9.1
+id: Q59468329; format Statistical Analysis System Data XPT (Unix)
+id: Q27596243; format Windows Bitmap, version 3
+id: Q27995538; format Borderlands save file
+id: Q28757684; format Nintendo Game Boy cartridge SAV file
+id: Q194831; format Cabinet
+id: Q1343830; format Executable and Linkable Format
+id: Q27979410; format Binary Text
+id: Q28600763; format Electronic Arts INF
+id: Q3807693; format ASCII tab
+id: Q66134804; format Access Project file format
+id: Q27996239; format Faster than Light saved game
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q47516360; format Statistical Analysis System Catalog XPT (Unix) v.9.1
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q59961105; format InstallShield Compiled Rules File
+id: Q27925722; format DTED Level 1 Gazetteer Directory file
+id: Q47455968; format SafeGuard Encrypted Virtual Disk
+id: Q16996920; format Windows Setup Information File
+id: Q66811836; format Inform source code file
+id: Q4045294; format New Executable
+id: Q1882400; format MacBinary
+id: Q723030; format AsciiDoc
+id: Q7271574; format Quetzal file format
+id: Q27979156; format ASCII art
+id: Q684554; format Autorun.inf
+id: Q1141412; format INI file
