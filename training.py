@@ -506,11 +506,6 @@ def main(argv):
             elif currentArgument in ("-n", "--new"):
                 path_to_objects = currentValue
 
-                # training
-                # if len(os.listdir(path_to_objects)) > 4:
-                #     print("should work")
-                # else:
-                #     print(len(os.listdir(path_to_objects)))
                 otp.load_format_id_map()
                 otp.pre_process_data_objects(path_to_objects)
 

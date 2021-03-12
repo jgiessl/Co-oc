@@ -283,7 +283,7 @@ class ObjectProcessor:
                         if y['id'] not in self.formatIdMap_puid:
                             self.add_format_id_puid(y["id"])
                         formats.add(self.formatIdMap_puid[y["id"]])
-                        distinct_formats.add(y['id'])
+                        distinct_formats.add((y['id'], y['format']))
 
                         # collect format id for current data object
                         self.formats_of_current_data_puid.add(self.formatIdMap_puid[y['id']])
@@ -291,7 +291,7 @@ class ObjectProcessor:
                         if y['id'] not in self.formatIdMap:
                             self.add_format_id(y["id"])
                         formats.add(self.formatIdMap[y["id"]])
-                        distinct_formats.add(y['id'])
+                        distinct_formats.add((y['id'], y['format']))
 
                         # collect format id for current data object
                         self.formats_of_current_data.add(self.formatIdMap[y['id']])
@@ -309,9 +309,15 @@ class ObjectProcessor:
 
             # adding statistics
             if mode == Mode.pronom:
-                self.stats_puid[filename] = [file_counter, unknown_counter, distinct_formats]
+                temp_list = []
+                for x in distinct_formats:
+                    temp_list.append([x[0], x[1]])
+                self.stats_puid[filename] = [file_counter, unknown_counter, temp_list]
             else:
-                self.stats[filename] = [file_counter, unknown_counter, distinct_formats]
+                temp_list = []
+                for x in distinct_formats:
+                    temp_list.append([x[0], x[1]])
+                self.stats[filename] = [file_counter, unknown_counter, temp_list]
             # adding the co-occurrences the the matrices
             for x in directory_format_combinations:
                 for y in x:

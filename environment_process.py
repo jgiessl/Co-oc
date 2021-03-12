@@ -36,6 +36,10 @@ class EnvironmentProcessor:
 
         self.readable_formats_of_environment_puid = {}
 
+        self.format_map_changed = False
+
+        self.format_map_puid_changed = False
+
     def add_environment(self, name):
         """
         Adds an environment Id
@@ -45,6 +49,26 @@ class EnvironmentProcessor:
             self.environmentIdMap[name] = self.idCounter
             self.environmentIdMap_reverse[self.idCounter] = name
             self.idCounter += 1
+
+    def add_format_id(self, file_format):
+        """
+        Adds file format to an index map
+        :param file_format: Wikidata-ID of the file
+        """
+        if file_format not in self.formatIdMap:
+            self.formatIdMap[file_format] = self.formatIdCounter
+            self.formatIdMap_reverse[self.formatIdCounter] = file_format
+            self.formatIdCounter += 1
+
+    def add_format_id_puid(self, file_format):
+        """
+        Adds file format to an index map
+        :param file_format: PUID of the file
+        """
+        if file_format not in self.formatIdMap_puid:
+            self.formatIdMap_puid[file_format] = self.formatIdCounter_puid
+            self.formatIdMap_reverse_puid[self.formatIdCounter_puid] = file_format
+            self.formatIdCounter_puid += 1
 
     def pre_process_environments(self, path, filename, formatIdMap):
         """
@@ -218,8 +242,9 @@ class EnvironmentProcessor:
         res = set()
         for x in list(formats):
             if x not in formatIdMap_puid:
-                # TODO - maybe change this, i.e. add those formats to ID map
-                continue
+                self.add_format_id_puid(x)
+                self.format_map_puid_changed = True
+                res.add(formatIdMap_puid[x])
             else:
                 res.add(formatIdMap_puid[x])
         return res
@@ -251,8 +276,9 @@ class EnvironmentProcessor:
         res = set()
         for x in list(formats):
             if x not in formatIdMap:
-                # TODO - maybe change this, i.e. add those formats to ID map
-                continue
+                self.add_format_id(x)
+                self.format_map_changed = True
+                res.add(formatIdMap[x])
             else:
                 res.add(formatIdMap[x])
         return res
@@ -345,6 +371,32 @@ class EnvironmentProcessor:
                 max_key = keys
         self.formatIdCounter_puid = max_key + 1
 
+    def save_format_id_map_to_files(self, mode):
+        """
+        Saves the format ids into a file
+        :param mode: Mode of the program, i.e. does program run using PUID or Wikidata-ID
+        """
+        sep = os.sep
+        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+        if mode == Mode.pronom:
+            file = 'format_id_map_puid.json'
+            file1 = 'format_id_map_reverse_puid.json'
+            with open(os.path.join(path, file), 'w+', encoding='utf8',
+                      errors='ignore') as json_file:
+                json.dump(self.formatIdMap_puid, json_file)
+            with open(os.path.join(path, file1), 'w+', encoding='utf8',
+                      errors='ignore') as json_file:
+                json.dump(self.formatIdMap_reverse_puid, json_file)
+        else:
+            file = 'format_id_map.json'
+            file1 = 'format_id_map_reverse.json'
+            with open(os.path.join(path, file), 'w+', encoding='utf8',
+                      errors='ignore') as json_file:
+                json.dump(self.formatIdMap, json_file)
+            with open(os.path.join(path, file1), 'w+', encoding='utf8',
+                      errors='ignore') as json_file:
+                json.dump(self.formatIdMap_reverse, json_file)
+
     def add_environment_to_data(self, path_environment_file):
         sep = os.sep
         l = path_environment_file.split(sep)
@@ -398,10 +450,18 @@ class EnvironmentProcessor:
                         if y["matchedFormatQID"] not in tmp_read_wiki:
                             if y["matchedFormatQID"] in self.formatIdMap:
                                 tmp_read_wiki.add(self.formatIdMap[y["matchedFormatQID"]])
+                            else:
+                                self.add_format_id(y["matchedFormatQID"])
+                                self.format_map_changed = True
+                                tmp_read_wiki.add(self.formatIdMap[y["matchedFormatQID"]])
                     pronom_string = self.strip_pronom(y["matchedFormatPronomID"])
                     if pronom_string != "NULL":
                         if pronom_string not in tmp_read_puid:
                             if pronom_string in self.formatIdMap_puid:
+                                tmp_read_puid.add(self.formatIdMap_puid[pronom_string])
+                            else:
+                                self.add_format_id_puid(pronom_string)
+                                self.format_map_puid_changed = True
                                 tmp_read_puid.add(self.formatIdMap_puid[pronom_string])
             if "openParameters" in data[x]:
                 for y in data[x]["openParameters"]:
@@ -409,10 +469,18 @@ class EnvironmentProcessor:
                         if y["matchedFormatQID"] not in tmp_read_wiki:
                             if y["matchedFormatQID"] in self.formatIdMap:
                                 tmp_read_wiki.add(self.formatIdMap[y["matchedFormatQID"]])
+                            else:
+                                self.add_format_id(y["matchedFormatQID"])
+                                self.format_map_changed = True
+                                tmp_read_wiki.add(self.formatIdMap[y["matchedFormatQID"]])
                     pronom_string = self.strip_pronom(y["matchedFormatPronomID"])
                     if pronom_string != "NULL":
                         if pronom_string not in tmp_read_puid:
                             if pronom_string in self.formatIdMap_puid:
+                                tmp_read_puid.add(self.formatIdMap_puid[pronom_string])
+                            else:
+                                self.add_format_id_puid(pronom_string)
+                                self.format_map_puid_changed = True
                                 tmp_read_puid.add(self.formatIdMap_puid[pronom_string])
             if "otherSaveParameters" in data[x]:
                 for y in data[x]["otherSaveParameters"]:
@@ -420,10 +488,18 @@ class EnvironmentProcessor:
                         if y["matchedFormatQID"] not in tmp_read_wiki:
                             if y["matchedFormatQID"] in self.formatIdMap:
                                 tmp_read_wiki.add(self.formatIdMap[y["matchedFormatQID"]])
+                            else:
+                                self.add_format_id(y["matchedFormatQID"])
+                                self.format_map_changed = True
+                                tmp_read_wiki.add(self.formatIdMap[y["matchedFormatQID"]])
                     pronom_string = self.strip_pronom(y["matchedFormatPronomID"])
                     if pronom_string != "NULL":
                         if pronom_string not in tmp_read_puid:
                             if pronom_string in self.formatIdMap_puid:
+                                tmp_read_puid.add(self.formatIdMap_puid[pronom_string])
+                            else:
+                                self.add_format_id_puid(pronom_string)
+                                self.format_map_puid_changed = True
                                 tmp_read_puid.add(self.formatIdMap_puid[pronom_string])
             if "exportParameters" in data[x]:
                 for y in data[x]["exportParameters"]:
@@ -431,10 +507,18 @@ class EnvironmentProcessor:
                         if y["matchedFormatQID"] not in tmp_read_wiki:
                             if y["matchedFormatQID"] in self.formatIdMap:
                                 tmp_read_wiki.add(self.formatIdMap[y["matchedFormatQID"]])
+                            else:
+                                self.add_format_id(y["matchedFormatQID"])
+                                self.format_map_changed = True
+                                tmp_read_wiki.add(self.formatIdMap[y["matchedFormatQID"]])
                     pronom_string = self.strip_pronom(y["matchedFormatPronomID"])
                     if pronom_string != "NULL":
                         if pronom_string not in tmp_read_puid:
                             if pronom_string in self.formatIdMap_puid:
+                                tmp_read_puid.add(self.formatIdMap_puid[pronom_string])
+                            else:
+                                self.add_format_id_puid(pronom_string)
+                                self.format_map_puid_changed = True
                                 tmp_read_puid.add(self.formatIdMap_puid[pronom_string])
             self.readable_formats_of_environment[self.environmentIdMap[env_name]] = tmp_read_wiki
             self.readable_formats_of_environment_puid[self.environmentIdMap[env_name]] = tmp_read_puid
@@ -516,6 +600,11 @@ def main_test(argv):
     except getopt.error as err:
         # output error, and return with an error code
         print(str(err))
+
+    if ep.format_map_changed:
+        ep.save_format_id_map_to_files(Mode.wikidata)
+    if ep.format_map_puid_changed:
+        ep.save_format_id_map_to_files(Mode.pronom)
 
 
 def usage():

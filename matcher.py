@@ -57,7 +57,7 @@ class Matcher:
         for item in environmentIdMap.items():
             overlap = self.calculate_object_environment_overlap_weight(item[1], data_object_matrix)
             tmp.append((item[0], overlap))
-        return tmp  # sorted(tmp, key=lambda tup: tup[1], reverse=True)
+        return tmp
 
     def rank_environments_for_object_puid(self, data_object_matrix, environmentIdMap):
         """
@@ -71,7 +71,7 @@ class Matcher:
         for item in environmentIdMap.items():
             overlap = self.calculate_object_environment_overlap_weight_puid(item[1], data_object_matrix)
             tmp.append((item[0], overlap))
-        return tmp  # sorted(tmp, key=lambda tup: tup[1], reverse=True)
+        return tmp
 
     def check_for_all_known_formats(self, offset_matrix, environmentIdMap):
         d = dict()

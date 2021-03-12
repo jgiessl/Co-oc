@@ -191,7 +191,7 @@ def create_data_object_info_file(filename, formats, number_unknown_files, number
     string += "contained formats: "
     string += "\n"
     for x in formats:
-        string += x
+        string += "id: {0}; format {1}".format(x[0], x[1])
         string += "\n"
     name = filename.split(".").pop(0) + "_info.txt"
     with open(os.path.join(path, name), 'w+', encoding='utf8',

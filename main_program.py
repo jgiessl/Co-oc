@@ -3,7 +3,6 @@ from matcher import *
 import json
 from environment_process import *
 from ast import literal_eval as mt
-import time
 import multiprocessing as mp
 from training import Mode
 
@@ -42,13 +41,16 @@ class Calculator:
 
         self.matcher = Matcher()
 
-        # new
         self.readable_formats_of_environment_puid = {}
 
         self.formatIdMap_puid = {}
+
         self.formatIdMap_reverse_puid = {}
+
         self.formatIdCounter_puid = 0
+
         self.global_co_occurrence_matrix_puid = {}
+
         self.global_co_occurrence_matrix_dir_puid = {}
 
     def load_format_id_map(self):
@@ -67,7 +69,6 @@ class Calculator:
                 self.formatIdMap_reverse[int(keys)] = value
         max_key = 0
         for keys in self.formatIdMap_reverse:
-            # print(keys)
             if keys > max_key:
                 max_key = keys
         self.formatIdCounter = max_key + 1
@@ -80,21 +81,16 @@ class Calculator:
         with open(os.path.join(path, file), 'r+', encoding='utf8',
                   errors='ignore') as json_file:
             data = json.load(json_file)
-            # self.formatIdMap = data
             self.formatIdMap_puid = data
         with open(os.path.join(path, file1), 'r+', encoding='utf8',
                   errors='ignore') as json_file:
             data = json.load(json_file)
             for keys, value in data.items():
                 self.formatIdMap_reverse_puid[int(keys)] = value
-                # self.formatIdMap_reverse[int(keys)] = value
         max_key = 0
-        # for keys in self.formatIdMap_reverse:
         for keys in self.formatIdMap_reverse_puid:
-            # print(keys)
             if keys > max_key:
                 max_key = keys
-        # self.formatIdCounter = max_key + 1
         self.formatIdCounter_puid = max_key + 1
 
     def load_environment_id_map(self):
@@ -372,7 +368,7 @@ class Calculator:
             # getting additoinal information and formatting the output
             number_files = self.op.stats_puid[filename][0]
             number_unknown_files = self.op.stats_puid[filename][1]
-            formats = list(self.op.stats_puid[filename][2])
+            formats = self.op.stats_puid[filename][2]
             allknown = self.matcher.check_for_all_known_formats_puid(off, self.environmentIdMap)
             res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown)
         else:
@@ -380,7 +376,7 @@ class Calculator:
             # getting additoinal information and formatting the output
             number_files = self.op.stats[filename][0]
             number_unknown_files = self.op.stats[filename][1]
-            formats = list(self.op.stats[filename][2])
+            formats = self.op.stats[filename][2]
             allknown = self.matcher.check_for_all_known_formats(off, self.environmentIdMap)
             res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown)
 
@@ -455,7 +451,7 @@ class Calculator:
                 # getting additional information and formatting the output
                 number_files = self.op.stats_puid[filename][0]
                 number_unknown_files = self.op.stats_puid[filename][1]
-                formats = list(self.op.stats_puid[filename][2])
+                formats = self.op.stats_puid[filename][2]
                 allknown = self.matcher.check_for_all_known_formats_puid(off, self.environmentIdMap)
                 res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown)
             else:
@@ -463,7 +459,7 @@ class Calculator:
                 # getting additoinal information and formatting the output
                 number_files = self.op.stats[filename][0]
                 number_unknown_files = self.op.stats[filename][1]
-                formats = list(self.op.stats[filename][2])
+                formats = self.op.stats[filename][2]
                 allknown = self.matcher.check_for_all_known_formats(off, self.environmentIdMap)
                 res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown)
             dumping_results(res)
