@@ -1,6 +1,6 @@
 # Co-oc-tool  
 The co-oc-tool provides five 'tools'. The 'main tool' takes the siegfried output of a data-object
-in JSON format (the by siegfried used identifier has to be pronom xor wikidata) as input
+in JSON format (the by siegfried used identifier has to be pronom xor wikidata) as input (or a folder of such siegfried outputs)  
 and recommends(ranks) an environment from a set of environments known to the tool.  
 The 'training tool' takes a folder of 'siegfried- JSONs' as specified above to train the
 decision model (used in the' main tool').  
@@ -27,7 +27,10 @@ pip3 install -r requirements.txt
 #### use cases of the tools
 ##### main tool
 To get an environment recommendation(ranking) for a specific data-object use:  
-python3 main_program.py <(absolut)Path/to/object/file.json>
+python3 main_program.py <(absolut)Path/to/object/file.json>  
+or  
+To get an environment recommendation(ranking) for a set data-object use:  
+python3 main_program.py <(absolut)Path/to/folder/object/files>  
 
 The results are then stored in the temp_result folder
 ##### training tool
@@ -49,7 +52,7 @@ To add a collection of environment use:
 python3 environment_process.py -A <(absolut)Path/to/environment/file/folder>  
 
 To remove a specific environment use:
-python3 environment_process.py -r <name of the environment>
+python3 environment_process.py -r \<name of the environment>
 
 To remove all environments use:
 python3 environment_process.py -R
@@ -59,7 +62,7 @@ pip3 install -r requirements.txt
 Then the tool can be used by running  
 python3 cluster.py <Path/to/dataset/folder>  
 or  
-python3 cluster.py <Path/to/dataset/folder> -t \<number>  
+python3 cluster.py -t \<number> <Path/to/dataset/folder>     
 The tool will create the following files in the plots folder:  
 a file cluster.png depicting the co-occurrence graph representing the given dataset.  
 In Graph edges which have a weight smaller then average edge weight have a blue color.  
@@ -74,7 +77,7 @@ Lastly the tool creates bar plots file format in the in the dataset
 which depict the highest co-occurring formats for a given format.  
 By default the ten highest co-occurring formats are plotted if more than ten co-occurring
 formats exist. This number can be changed by running the tool with a corresponding option:  
-python3 cluster.py <Path/to/dataset/folder> -t \<number\> 
+python3 cluster.py -t \<number> <Path/to/dataset/folder>    
 
 ###### plot tool  
 To use the plot tool move to the plot_tool folder an run  
@@ -96,7 +99,10 @@ store data.
 #### use cases of the tools
 ##### main tool
 To get an environment recommendation(ranking) for a specific data-object use:  
-./main.sh <(absolut)Path/to/object/file.json> <(absolut)Path/to/the/folder/where/the/results/should/go>
+./main.sh <(absolut)Path/to/object/file.json> <(absolut)Path/to/the/folder/where/the/results/should/go>  
+or  
+To get an environment recommendation(ranking) for a set of data-objects use:  
+./main.sh <(absolut)Path/to/folder/withobject/files> <(absolut)Path/to/the/folder/where/the/results/should/go>
 
 ##### training tool
 To train the model you can use the training tool as follows:  
@@ -117,7 +123,7 @@ To add a collection of environment use:
 ./environment.sh -A <(absolut)Path/to/environment/file/folder>  
 
 To remove a specific environment use:
-./environment.sh -r <name of the environment>
+./environment.sh -r \<name of the environment>
 
 To remove all environments use:
 ./environment.sh -R  
@@ -139,7 +145,7 @@ Lastly the tool creates bar plots file format in the in the dataset
 which depict the highest co-occurring formats for a given format.  
 By default the ten highest co-occurring formats are plotted if more than ten co-occurring
 formats exist. This number can be changed by running the tool with a corresponding option:  
-python3 cluster.py <Path/to/dataset/folder> -t \<number>    
+./cluster.sh -t \<number> <(absolut)Path/to/dataset/folder> <(absolut)Path/to/the/folder/where/the/results/should/go>      
 
 ##### plot tool
 To use the plot tool run  
