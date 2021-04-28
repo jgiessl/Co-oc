@@ -12,7 +12,7 @@ number of files with known format: 2
 rate of files with known format: 0.5
 contained formats: 
 id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q28206771; format OS/2 Bitmap Array
-id: Q729366; format ICO
 id: Q28205580; format OS/2 Icon
+id: Q28205626; format Sun icon
+id: Q729366; format ICO
+id: Q28206771; format OS/2 Bitmap Array

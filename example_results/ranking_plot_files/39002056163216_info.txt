@@ -1,50 +1,50 @@
 39002056163216.json
 top ranked environments: 
-environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.5002999999999997
-environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.3890888888888888
-environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 1.0396156862745096
-environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.7890292216996128
-environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.627184126984127
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 4.365801496615341
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.1641744843397945
+environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.892221645631578
+environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.634957370869079
+environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 2.4250237704361175
 
 number of files:  174
 number of files with unknown format: 129
 number of files with known format: 45
 rate of files with known format: 0.25862068965517243
 contained formats: 
-id: Q4042979; format Linear Executable
-id: Q28777715; format NSIS
-id: Q34284437; format Pascal script
-id: Q1076355; format Portable Executable
-id: Q7311459; format Relocatable Object Module Format
-id: Q29000647; format PLG
-id: Q95994246; format Agilent Microarray file format
-id: Q28055391; format Printfox bitmap
-id: Q29650311; format POV-Ray scene description
-id: Q382011; format Program information file
-id: Q3888665; format Package interchange format
-id: Q58006953; format TRIM Context Reference File
-id: Q28771319; format Microsoft Library
-id: Q99184084; format Atom web feed
-id: Q6043826; format Intellifont
-id: Q817650; format COM
-id: Q47455565; format Windows Portable Executable file format, 64-bit
-id: Q1343830; format Executable and Linkable Format
-id: Q47455466; format Windows Portable Executable file format, 32-bit
-id: Q27979410; format Binary Text
-id: Q27967123; format Buzzic v1.x
-id: Q479833; format ا تهكير لعبة ببجي
 id: Q3807693; format ASCII tab
+id: Q27967123; format Buzzic v1.x
+id: Q4045294; format New Executable
+id: Q47455565; format Windows Portable Executable file format, 64-bit
+id: Q95994246; format Agilent Microarray file format
 id: Q28344021; format Imagine Object File
+id: Q479833; format ا تهكير لعبة ببجي
+id: Q28600412; format Attribute-Relation File Format
+id: Q817650; format COM
+id: Q29650311; format POV-Ray scene description
+id: Q28771319; format Microsoft Library
+id: Q7311459; format Relocatable Object Module Format
+id: Q27979156; format ASCII art
+id: Q623334; format .exe
+id: Q4042979; format Linear Executable
+id: Q74690581; format TomeRaider e-book/document
+id: Q34284437; format Pascal script
+id: Q58006953; format TRIM Context Reference File
+id: Q856364; format Common Object File Format
+id: Q723030; format AsciiDoc
 id: Q29000498; format OrCAD library
 id: Q28758002; format Inno Setup self-extracting archive
-id: Q1882110; format DOS MZ executable
 id: Q1882400; format MacBinary
-id: Q66244789; format ScreenCam stand-alone Movies format
-id: Q4045294; format New Executable
-id: Q623334; format .exe
-id: Q856364; format Common Object File Format
+id: Q28777715; format NSIS
+id: Q1076355; format Portable Executable
+id: Q28055391; format Printfox bitmap
+id: Q1343830; format Executable and Linkable Format
+id: Q99184084; format Atom web feed
+id: Q382011; format Program information file
+id: Q1882110; format DOS MZ executable
 id: Q2119595; format Wavefront .obj file
-id: Q723030; format AsciiDoc
-id: Q28600412; format Attribute-Relation File Format
-id: Q27979156; format ASCII art
-id: Q74690581; format TomeRaider e-book/document
+id: Q29000647; format PLG
+id: Q3888665; format Package interchange format
+id: Q27979410; format Binary Text
+id: Q47455466; format Windows Portable Executable file format, 32-bit
+id: Q66244789; format ScreenCam stand-alone Movies format
+id: Q6043826; format Intellifont

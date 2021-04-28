@@ -7,8 +7,8 @@ number of files with unknown format: 0
 number of files with known format: 14
 rate of files with known format: 1.0
 contained formats: 
-id: Q79241659; format Lotus Accessory
 id: Q42591; format MP3g
-id: Q336284; format MPEG-1
+id: Q79241659; format Lotus Accessory
 id: Q28018471; format MPEG-2 program stream
+id: Q336284; format MPEG-1
 id: Q28018470; format MPEG-1 program stream

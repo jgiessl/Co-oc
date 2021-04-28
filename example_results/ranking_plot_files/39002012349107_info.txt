@@ -1,83 +1,83 @@
 39002012349107.json
 top ranked environments: 
-environment_number: 13; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 45.077639353399896
-environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 39.05126572702629
-environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 37.652759156576906
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 35.73789275858166
-environment_number: 21; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 29.393305013310332
+environment_number: 13; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 182.8497549657241
+environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 167.11176075045725
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 154.29065948835148
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 141.96099586291103
+environment_number: 21; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 124.31990766589601
 
 number of files:  793
 number of files with unknown format: 0
 number of files with known format: 793
 rate of files with known format: 1.0
 contained formats: 
-id: Q28207499; format Windows Device-Dependent Bitmap
 id: Q28786544; format Netscape bookmarks
-id: Q1076355; format Portable Executable
-id: Q29944758; format Rich Text Format, version 1.0
-id: Q28858032; format Microsoft Word Binary File Format
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q29650304; format PRT scene description
+id: Q66811836; format Inform source code file
+id: Q29944785; format Rich Text Format, version 1.8
 id: Q95994246; format Agilent Microarray file format
-id: Q6912474; format Mork
-id: Q1662484; format Information Presentation Facility
-id: Q684554; format Autorun.inf
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q28758112; format Internet Explorer history file
-id: Q47233167; format LDR
-id: Q28049770; format DKBTrace scene description
 id: Q28755606; format Exact Yearbook DAT file
+id: Q28206109; format farbfeld
+id: Q1952321; format Multi Picture Object
+id: Q32097899; format Fallout v2 DAT
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q29944777; format Rich Text Format, version 1.3
+id: Q29944776; format Rich Text Format, version 1.2
+id: Q28207108; format The Print Shop Graphics file
+id: Q28205733; format Award BIOS logo, version 1
+id: Q27979156; format ASCII art
+id: Q34747804; format Supaplex Level format
+id: Q1662484; format Information Presentation Facility
+id: Q28207499; format Windows Device-Dependent Bitmap
+id: Q29944782; format Rich Text Format, version 1.6
+id: Q63061679; format Windows Bitmap, version 3.0 NT
+id: Q28206359; format Intergraph Raster
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q28758112; format Internet Explorer history file
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q62626012; format HyperText Markup Language
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q27596243; format Windows Bitmap, version 3
+id: Q81526664; format Palm Desktop DateBook
+id: Q1076355; format Portable Executable
+id: Q1888930; format Vector Markup Language
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q28600763; format Electronic Arts INF
+id: Q28206497; format Lossless JPEG
+id: Q6912474; format Mork
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q99184084; format Atom web feed
+id: Q8811; format HyperText Markup Language
+id: Q28205736; format Award BIOS logo, version 2
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q27596325; format Windows Bitmap, version 4
+id: Q28206788; format OS/2 Bitmap, version 2.0
+id: Q28205674; format Alpha Microsystems BMP
+id: Q28206771; format OS/2 Bitmap Array
+id: Q28049770; format DKBTrace scene description
+id: Q28206262; format HSI JPEG
+id: Q27596417; format Windows Bitmap, version 5
+id: Q27596184; format Windows Bitmap, version 2
+id: Q166074; format Extensible HyperText Markup Language
+id: Q66134804; format Access Project file format
 id: Q29944987; format Rich Text Format, version 0
+id: Q81526528; format MicroStation Resource data
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q17092932; format JPEG-XT
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q2053; format HTML5
 id: Q32097740; format Fallout DAT
 id: Q29944773; format Rich Text Format, version 1.1
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q28206359; format Intergraph Raster
-id: Q58006953; format TRIM Context Reference File
-id: Q17092932; format JPEG-XT
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q81526528; format MicroStation Resource data
-id: Q29944780; format Rich Text Format, version 1.5
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q26329648; format JPEG File Interchange Format, version 1.0
-id: Q27596184; format Windows Bitmap, version 2
-id: Q29944786; format Rich Text Format, version 1.9
-id: Q27596243; format Windows Bitmap, version 3
-id: Q62626012; format HyperText Markup Language
-id: Q26385770; format Still Picture Interchange File Format
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q32097899; format Fallout v2 DAT
-id: Q28206788; format OS/2 Bitmap, version 2.0
-id: Q29944779; format Rich Text Format, version 1.4
-id: Q81526664; format Palm Desktop DateBook
-id: Q29944785; format Rich Text Format, version 1.8
-id: Q3807693; format ASCII tab
-id: Q28600763; format Electronic Arts INF
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q29650304; format PRT scene description
-id: Q1888930; format Vector Markup Language
-id: Q27596100; format Windows Bitmap, version 1
-id: Q28205733; format Award BIOS logo, version 1
-id: Q27596325; format Windows Bitmap, version 4
 id: Q66439259; format WordPerfect Merge Data file format
-id: Q28206262; format HSI JPEG
-id: Q28205674; format Alpha Microsystems BMP
-id: Q29944776; format Rich Text Format, version 1.2
-id: Q34747804; format Supaplex Level format
-id: Q29944777; format Rich Text Format, version 1.3
+id: Q26385770; format Still Picture Interchange File Format
 id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q28205736; format Award BIOS logo, version 2
-id: Q28206497; format Lossless JPEG
-id: Q8811; format HyperText Markup Language
-id: Q723030; format AsciiDoc
-id: Q29944783; format Rich Text Format, version 1.7
-id: Q2053; format HTML5
-id: Q28206771; format OS/2 Bitmap Array
-id: Q63061679; format Windows Bitmap, version 3.0 NT
-id: Q27596417; format Windows Bitmap, version 5
-id: Q27979156; format ASCII art
-id: Q29944782; format Rich Text Format, version 1.6
-id: Q1952321; format Multi Picture Object
+id: Q27596100; format Windows Bitmap, version 1
+id: Q47233167; format LDR
+id: Q28009496; format Zelda Solarus DX saved game

@@ -1,69 +1,69 @@
 39002072914139.json
 top ranked environments: 
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 8.469065079479115
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 4.192907792207791
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 3.647153246753248
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 1.1912641747428878
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 1.1912641747428878
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 20.971445363456223
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 13.348181586666925
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 12.25523266630477
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 1.7362568671106273
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 1.7362568671106273
 
 number of files:  15882
 number of files with unknown format: 77
 number of files with known format: 15805
 rate of files with known format: 0.9951517441128321
 contained formats: 
-id: Q27866077; format ABC notation, version 2.1
-id: Q51035227; format Paradox Database Table, version 4
-id: Q930281; format Windows thumbnail cache
-id: Q1076355; format Portable Executable
-id: Q1141412; format INI file
-id: Q6912474; format Mork
-id: Q1662484; format Information Presentation Facility
-id: Q8043148; format Xara Flare
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q28758112; format Internet Explorer history file
-id: Q5924007; format JavaScript
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q47233167; format LDR
-id: Q28049770; format DKBTrace scene description
-id: Q28755606; format Exact Yearbook DAT file
-id: Q51034969; format Paradox Database Table format, version 3
-id: Q32097740; format Fallout DAT
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q1093556; format eXtensible ARchive format
-id: Q795136; format Alembic
-id: Q27866076; format ABC notation, version 2.0
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q81526528; format MicroStation Resource data
-id: Q51837224; format Paradox Database Table, version 7
-id: Q28206109; format farbfeld
-id: Q28771319; format Microsoft Library
-id: Q6043826; format Intellifont
-id: Q99184084; format Atom web feed
-id: Q28600454; format DB (Watcom-SQL)
-id: Q28600453; format SQLite database file format
-id: Q51035340; format Paradox Database Table, version 5
-id: Q32097899; format Fallout v2 DAT
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q28600435; format Consolidated.db
-id: Q28600763; format Electronic Arts INF
-id: Q81526664; format Palm Desktop DateBook
-id: Q66134804; format Access Project file format
+id: Q27826469; format Cascading Style Sheets Level 3
+id: Q4045294; format New Executable
 id: Q29650304; format PRT scene description
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q27866075; format ABC notation, version 1.6
+id: Q66811836; format Inform source code file
+id: Q27866077; format ABC notation, version 2.1
+id: Q28755606; format Exact Yearbook DAT file
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q8043148; format Xara Flare
+id: Q28600435; format Consolidated.db
+id: Q32097899; format Fallout v2 DAT
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q28207108; format The Print Shop Graphics file
+id: Q28771319; format Microsoft Library
+id: Q34747804; format Supaplex Level format
+id: Q1662484; format Information Presentation Facility
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q27866076; format ABC notation, version 2.0
+id: Q28758112; format Internet Explorer history file
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q81526664; format Palm Desktop DateBook
 id: Q29000498; format OrCAD library
 id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q8043144; format Xar
-id: Q28445577; format Advanced Authoring System
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q34747804; format Supaplex Level format
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q34746472; format STATISTICA Spreadsheet File
 id: Q98815369; format Microsoft Access Database Link
+id: Q28600763; format Electronic Arts INF
+id: Q27866075; format ABC notation, version 1.6
+id: Q1076355; format Portable Executable
+id: Q5924007; format JavaScript
+id: Q51034969; format Paradox Database Table format, version 3
+id: Q6912474; format Mork
+id: Q930281; format Windows thumbnail cache
+id: Q99184084; format Atom web feed
+id: Q28600453; format SQLite database file format
+id: Q51035340; format Paradox Database Table, version 5
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q28049770; format DKBTrace scene description
+id: Q28445577; format Advanced Authoring System
+id: Q28600454; format DB (Watcom-SQL)
+id: Q1141412; format INI file
+id: Q1093556; format eXtensible ARchive format
+id: Q795136; format Alembic
+id: Q66134804; format Access Project file format
+id: Q81526528; format MicroStation Resource data
+id: Q8043144; format Xar
 id: Q684554; format Autorun.inf
-id: Q27826469; format Cascading Style Sheets Level 3
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q32097740; format Fallout DAT
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q51035227; format Paradox Database Table, version 4
+id: Q6043826; format Intellifont
+id: Q51837224; format Paradox Database Table, version 7
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q16996920; format Windows Setup Information File
+id: Q47233167; format LDR
+id: Q28009496; format Zelda Solarus DX saved game

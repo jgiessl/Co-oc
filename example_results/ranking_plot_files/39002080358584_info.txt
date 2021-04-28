@@ -1,101 +1,101 @@
 39002080358584.json
 top ranked environments: 
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.1811330392943062
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.8105438652766641
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.5094548249131249
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.41740080192461915
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.20880040096230953
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 8.13463250977156
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 7.555726619368408
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 4.585633136306989
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.0552849826641055
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.823742254201011
 
 number of files:  183
 number of files with unknown format: 0
 number of files with known format: 183
 rate of files with known format: 1.0
 contained formats: 
-id: Q29011566; format Shockwave Flash, version 15
-id: Q28728783; format VOTable
-id: Q29011977; format Shockwave Flash, version 23
-id: Q29017304; format Shockwave Flash, version 31
-id: Q29011646; format Shockwave Flash, version 18
-id: Q3551300; format Universal Subtitle Format
-id: Q29011315; format Shockwave Flash, version 4
-id: Q29011710; format Shockwave Flash, version 19
-id: Q66811836; format Inform source code file
-id: Q100136218; format XDOMEA 2.2.0
-id: Q796483; format DocBook
-id: Q29011538; format Shockwave Flash, version 13
-id: Q29011223; format Shockwave Flash, version 2
-id: Q29017312; format Shockwave Flash, version 35
-id: Q100135637; format XDOMEA 2.1.0
-id: Q28206771; format OS/2 Bitmap Array
-id: Q684554; format Autorun.inf
-id: Q50378320; format INTERLIS Transfer File, version 2.2
-id: Q66759482; format InfoPath Form file
-id: Q29000578; format Android Resource file
-id: Q2819247; format ALTO
-id: Q27967351; format iTunes Music Library, XML variant
-id: Q27910000; format RADARSAT-2 Product Information File
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q166074; format Extensible HyperText Markup Language
-id: Q729366; format ICO
-id: Q59851506; format DROID File Collection File Format
-id: Q29011824; format Shockwave Flash, version 21
-id: Q29011365; format Shockwave Flash, version 10
-id: Q29011514; format Shockwave Flash, version 12
-id: Q29012120; format Shockwave Flash, version 25
-id: Q29011363; format Shockwave Flash, version 9
-id: Q653301; format MusicXML
-id: Q29011579; format Shockwave Flash, version 17
-id: Q71178742; format PIPE2 file format
-id: Q29011549; format Shockwave Flash, version 14
-id: Q29011271; format Shockwave Flash, version 3
-id: Q28600421; format Ant build file
-id: Q28771320; format Microsoft Office File List
-id: Q29017314; format Shockwave Flash, version 36
-id: Q29011347; format Shockwave Flash, version 5
-id: Q641213; format XBEL
-id: Q1076355; format Portable Executable
-id: Q29012285; format Shockwave Flash, version 29
-id: Q29017311; format Shockwave Flash, version 34
-id: Q95994246; format Agilent Microarray file format
-id: Q959950; format eXtensible Business Reporting Language
-id: Q99973606; format XDOMEA 2.0.0
-id: Q29017309; format Shockwave Flash, version 33
-id: Q29011079; format Shockwave Flash, version 1
-id: Q29012190; format Shockwave Flash, version 26
-id: Q29011361; format Shockwave Flash, version 8
-id: Q28600760; format Early Mind Manager XML format
-id: Q3807693; format ASCII tab
-id: Q29012206; format Shockwave Flash, version 27
-id: Q100136960; format XDOMEA 2.4.0
-id: Q45432; format RSS
-id: Q29011569; format Shockwave Flash, version 16
-id: Q100136955; format XDOMEA 2.3.0
-id: Q16996920; format Windows Setup Information File
-id: Q29011357; format Shockwave Flash, version 6
-id: Q29011892; format Shockwave Flash, version 22
-id: Q29011358; format Shockwave Flash, version 7
-id: Q25339304; format Timed Text Markup Language
-id: Q27979156; format ASCII art
-id: Q34306669; format Scifer archive XML header
-id: Q4042481; format LOGML
-id: Q1662484; format Information Presentation Facility
-id: Q29011774; format Shockwave Flash, version 20
-id: Q29012224; format Shockwave Flash, version 28
-id: Q28205580; format OS/2 Icon
-id: Q99976195; format XDOMEA 2.0.1
-id: Q29012350; format Shockwave Flash, version 30
-id: Q58006953; format TRIM Context Reference File
-id: Q99184084; format Atom web feed
-id: Q2313301; format SpreadsheetML
 id: Q72273742; format TPN
-id: Q28600763; format Electronic Arts INF
-id: Q29012054; format Shockwave Flash, version 24
-id: Q29017306; format Shockwave Flash, version 32
-id: Q452197; format Systems Biology Markup Language
+id: Q95994246; format Agilent Microarray file format
+id: Q29012350; format Shockwave Flash, version 30
 id: Q59851322; format DROID Signature File Format
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q723030; format AsciiDoc
-id: Q99973597; format XDOMEA 1.0 file format
-id: Q27487531; format Shapefile metadata for ArcGIS
+id: Q29011710; format Shockwave Flash, version 19
+id: Q729366; format ICO
+id: Q29017312; format Shockwave Flash, version 35
+id: Q99973606; format XDOMEA 2.0.0
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q29011514; format Shockwave Flash, version 12
+id: Q29011223; format Shockwave Flash, version 2
+id: Q29011365; format Shockwave Flash, version 10
+id: Q27967351; format iTunes Music Library, XML variant
 id: Q29011484; format Shockwave Flash, version 11
+id: Q796483; format DocBook
+id: Q99184084; format Atom web feed
+id: Q27910000; format RADARSAT-2 Product Information File
+id: Q29011271; format Shockwave Flash, version 3
+id: Q28206771; format OS/2 Bitmap Array
+id: Q166074; format Extensible HyperText Markup Language
+id: Q28205580; format OS/2 Icon
+id: Q29011361; format Shockwave Flash, version 8
+id: Q684554; format Autorun.inf
+id: Q653301; format MusicXML
+id: Q28600760; format Early Mind Manager XML format
+id: Q27487531; format Shapefile metadata for ArcGIS
+id: Q25339304; format Timed Text Markup Language
+id: Q3551300; format Universal Subtitle Format
+id: Q100135637; format XDOMEA 2.1.0
+id: Q28600421; format Ant build file
+id: Q66811836; format Inform source code file
+id: Q29012285; format Shockwave Flash, version 29
+id: Q29012120; format Shockwave Flash, version 25
+id: Q29011549; format Shockwave Flash, version 14
+id: Q29011892; format Shockwave Flash, version 22
+id: Q58006953; format TRIM Context Reference File
+id: Q28728783; format VOTable
+id: Q29017309; format Shockwave Flash, version 33
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q29011079; format Shockwave Flash, version 1
+id: Q29011347; format Shockwave Flash, version 5
+id: Q29011358; format Shockwave Flash, version 7
+id: Q29017314; format Shockwave Flash, version 36
+id: Q16996920; format Windows Setup Information File
+id: Q4042481; format LOGML
+id: Q66759482; format InfoPath Form file
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q71178742; format PIPE2 file format
+id: Q100136218; format XDOMEA 2.2.0
+id: Q452197; format Systems Biology Markup Language
+id: Q28205626; format Sun icon
+id: Q29011538; format Shockwave Flash, version 13
+id: Q29011566; format Shockwave Flash, version 15
+id: Q29012224; format Shockwave Flash, version 28
+id: Q29011579; format Shockwave Flash, version 17
+id: Q100136960; format XDOMEA 2.4.0
+id: Q100136955; format XDOMEA 2.3.0
+id: Q29011363; format Shockwave Flash, version 9
+id: Q29011357; format Shockwave Flash, version 6
+id: Q29012054; format Shockwave Flash, version 24
+id: Q29011646; format Shockwave Flash, version 18
+id: Q29017311; format Shockwave Flash, version 34
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q29017306; format Shockwave Flash, version 32
+id: Q29011824; format Shockwave Flash, version 21
+id: Q29011569; format Shockwave Flash, version 16
+id: Q45432; format RSS
+id: Q29012206; format Shockwave Flash, version 27
+id: Q50378320; format INTERLIS Transfer File, version 2.2
+id: Q99976195; format XDOMEA 2.0.1
+id: Q29011977; format Shockwave Flash, version 23
+id: Q959950; format eXtensible Business Reporting Language
+id: Q29011315; format Shockwave Flash, version 4
+id: Q28771320; format Microsoft Office File List
+id: Q641213; format XBEL
+id: Q723030; format AsciiDoc
+id: Q2313301; format SpreadsheetML
+id: Q59851506; format DROID File Collection File Format
+id: Q29017304; format Shockwave Flash, version 31
+id: Q34306669; format Scifer archive XML header
+id: Q29000578; format Android Resource file
+id: Q99973597; format XDOMEA 1.0 file format
+id: Q2819247; format ALTO
+id: Q29012190; format Shockwave Flash, version 26
+id: Q29011774; format Shockwave Flash, version 20

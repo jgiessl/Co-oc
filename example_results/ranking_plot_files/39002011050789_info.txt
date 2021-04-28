@@ -1,7 +1,7 @@
 39002011050789.json
 top ranked environments: 
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 3.4980066230559967
-environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.6651110640673519
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 3.808827934455464
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.9267702711073658
 environment_number: 0; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
 environment_number: 1; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
 environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.0001
@@ -11,9 +11,9 @@ number of files with unknown format: 3
 number of files with known format: 96
 rate of files with known format: 0.9696969696969697
 contained formats: 
-id: Q47538629; format AutoCAD Colour-Dependant Plot Style Table
-id: Q217570; format Waveform Audio File Format
-id: Q4045294; format New Executable
 id: Q939636; format CorelDRAW Document
+id: Q4045294; format New Executable
+id: Q47538629; format AutoCAD Colour-Dependant Plot Style Table
 id: Q28206359; format Intergraph Raster
 id: Q27596243; format Windows Bitmap, version 3
+id: Q217570; format Waveform Audio File Format

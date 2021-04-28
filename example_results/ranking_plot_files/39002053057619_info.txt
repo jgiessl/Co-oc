@@ -1,6 +1,6 @@
 39002053057619.json
 top ranked environments: 
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.2859142857142857
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.30958890802955963
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Illustrator CS3; score: 0.0001
 environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
 environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
@@ -12,10 +12,10 @@ number of files with known format: 51
 rate of files with known format: 0.7846153846153846
 contained formats: 
 id: Q28975650; format Recon Mesh
-id: Q29650301; format Pack
-id: Q28205883; format Desktop Color Separation
-id: Q29209269; format Z
 id: Q15938816; format MATLAB M-File
-id: Q28758103; format InstallShield Z
-id: Q28600764; format Electronic Arts MOV
 id: Q942350; format QuickTime File Format
+id: Q28600764; format Electronic Arts MOV
+id: Q28758103; format InstallShield Z
+id: Q29650301; format Pack
+id: Q29209269; format Z
+id: Q28205883; format Desktop Color Separation

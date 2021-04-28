@@ -1,45 +1,45 @@
 39002012317385.json
 top ranked environments: 
-environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 7.312327956989245
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.864716129032258
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.5015406947890818
-environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.19384838709677418
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.06471612903225807
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 23.897213492794048
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.3480252764908776
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.9752589101936087
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.7203256355331862
+environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.4705271450662747
 
 number of files:  55
 number of files with unknown format: 12
 number of files with known format: 43
 rate of files with known format: 0.7818181818181819
 contained formats: 
-id: Q1076355; format Portable Executable
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q34310996; format Security Catalog
+id: Q66811836; format Inform source code file
 id: Q95994246; format Agilent Microarray file format
+id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
+id: Q28205626; format Sun icon
+id: Q28206109; format farbfeld
+id: Q3509055; format STEP file
+id: Q729366; format ICO
+id: Q27979156; format ASCII art
 id: Q1662484; format Information Presentation Facility
 id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
-id: Q28205580; format OS/2 Icon
 id: Q29000741; format WorldBuilder
-id: Q1676669; format JPEG File Interchange Format, version 1.02
 id: Q58006953; format TRIM Context Reference File
-id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
+id: Q723030; format AsciiDoc
+id: Q1076355; format Portable Executable
 id: Q28600763; format Electronic Arts INF
-id: Q3807693; format ASCII tab
+id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
+id: Q99184084; format Atom web feed
+id: Q28206771; format OS/2 Bitmap Array
+id: Q58335773; format Verity Collection Stop List
+id: Q28205580; format OS/2 Icon
+id: Q28206952; format PhotoDeluxe
+id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q29000651; format WLD
+id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q16996920; format Windows Setup Information File
 id: Q58335745; format Acrobat Catalog Cat File
 id: Q1566078; format HTML Application
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q28206952; format PhotoDeluxe
-id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
-id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q58335773; format Verity Collection Stop List
-id: Q28205626; format Sun icon
-id: Q723030; format AsciiDoc
-id: Q29000651; format WLD
-id: Q34310996; format Security Catalog
-id: Q28206771; format OS/2 Bitmap Array
-id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
-id: Q3509055; format STEP file

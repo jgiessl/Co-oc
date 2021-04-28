@@ -1,118 +1,118 @@
 39002082348096.json
 top ranked environments: 
-environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 29.186183325346438
-environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 27.82673476096404
-environment_number: 15; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 25.443006141786313
-environment_number: 8; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 24.804384561894462
-environment_number: 24; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 23.051942110137286
+environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 138.22219069366162
+environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 134.25454992524698
+environment_number: 8; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 121.91890768078954
+environment_number: 24; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 119.54354735933367
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 117.0740026608356
 
 number of files:  652
 number of files with unknown format: 8
 number of files with known format: 644
 rate of files with known format: 0.9877300613496932
 contained formats: 
-id: Q29011566; format Shockwave Flash, version 15
-id: Q28049770; format DKBTrace scene description
-id: Q29944987; format Rich Text Format, version 0
-id: Q32097740; format Fallout DAT
-id: Q17092932; format JPEG-XT
-id: Q29011977; format Shockwave Flash, version 23
-id: Q29017304; format Shockwave Flash, version 31
-id: Q29011646; format Shockwave Flash, version 18
-id: Q29011315; format Shockwave Flash, version 4
-id: Q29011710; format Shockwave Flash, version 19
-id: Q28757747; format GEM bitmap font
-id: Q66811836; format Inform source code file
-id: Q29011538; format Shockwave Flash, version 13
-id: Q29011223; format Shockwave Flash, version 2
-id: Q29017312; format Shockwave Flash, version 35
-id: Q29944783; format Rich Text Format, version 1.7
-id: Q28206771; format OS/2 Bitmap Array
-id: Q28206359; format Intergraph Raster
-id: Q684554; format Autorun.inf
+id: Q27826469; format Cascading Style Sheets Level 3
+id: Q28755606; format Exact Yearbook DAT file
+id: Q29012350; format Shockwave Flash, version 30
 id: Q1952321; format Multi Picture Object
-id: Q6912474; format Mork
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q81526528; format MicroStation Resource data
-id: Q28206109; format farbfeld
-id: Q28106114; format GRASP font
-id: Q729366; format ICO
+id: Q29011710; format Shockwave Flash, version 19
 id: Q26329648; format JPEG File Interchange Format, version 1.0
-id: Q29151645; format Research Articles in Simplified HTML
-id: Q81526664; format Palm Desktop DateBook
-id: Q29011824; format Shockwave Flash, version 21
-id: Q29944785; format Rich Text Format, version 1.8
-id: Q66134804; format Access Project file format
-id: Q29011365; format Shockwave Flash, version 10
+id: Q28207108; format The Print Shop Graphics file
+id: Q729366; format ICO
+id: Q29017312; format Shockwave Flash, version 35
+id: Q1662484; format Information Presentation Facility
 id: Q29011514; format Shockwave Flash, version 12
-id: Q29012120; format Shockwave Flash, version 25
-id: Q29011363; format Shockwave Flash, version 9
-id: Q29011579; format Shockwave Flash, version 17
-id: Q34747804; format Supaplex Level format
-id: Q29011549; format Shockwave Flash, version 14
-id: Q29011271; format Shockwave Flash, version 3
+id: Q28758112; format Internet Explorer history file
+id: Q25378623; format Font-File Format
+id: Q29011223; format Shockwave Flash, version 2
+id: Q29011365; format Shockwave Flash, version 10
+id: Q29011484; format Shockwave Flash, version 11
+id: Q1888930; format Vector Markup Language
 id: Q28206497; format Lossless JPEG
-id: Q8811; format HyperText Markup Language
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q29017314; format Shockwave Flash, version 36
-id: Q2053; format HTML5
+id: Q99184084; format Atom web feed
+id: Q29011271; format Shockwave Flash, version 3
+id: Q28206771; format OS/2 Bitmap Array
+id: Q28206262; format HSI JPEG
+id: Q166074; format Extensible HyperText Markup Language
+id: Q29011361; format Shockwave Flash, version 8
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q29944773; format Rich Text Format, version 1.1
+id: Q28786544; format Netscape bookmarks
+id: Q66811836; format Inform source code file
+id: Q29151645; format Research Articles in Simplified HTML
+id: Q29012285; format Shockwave Flash, version 29
+id: Q29944777; format Rich Text Format, version 1.3
+id: Q29012120; format Shockwave Flash, version 25
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q29011549; format Shockwave Flash, version 14
+id: Q29011892; format Shockwave Flash, version 22
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q27596243; format Windows Bitmap, version 3
+id: Q29017309; format Shockwave Flash, version 33
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q29011079; format Shockwave Flash, version 1
 id: Q29011347; format Shockwave Flash, version 5
 id: Q29944758; format Rich Text Format, version 1.0
-id: Q29012285; format Shockwave Flash, version 29
-id: Q29017311; format Shockwave Flash, version 34
-id: Q1076355; format Portable Executable
-id: Q28758112; format Internet Explorer history file
-id: Q29017309; format Shockwave Flash, version 33
-id: Q288405; format hOCR
-id: Q29011079; format Shockwave Flash, version 1
-id: Q29012190; format Shockwave Flash, version 26
-id: Q29011361; format Shockwave Flash, version 8
-id: Q28755606; format Exact Yearbook DAT file
-id: Q27596243; format Windows Bitmap, version 3
-id: Q32097899; format Fallout v2 DAT
-id: Q26385770; format Still Picture Interchange File Format
-id: Q29650304; format PRT scene description
-id: Q29012206; format Shockwave Flash, version 27
-id: Q1888930; format Vector Markup Language
-id: Q29011569; format Shockwave Flash, version 16
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q29944776; format Rich Text Format, version 1.2
-id: Q16996920; format Windows Setup Information File
-id: Q29011357; format Shockwave Flash, version 6
-id: Q29011892; format Shockwave Flash, version 22
 id: Q29011358; format Shockwave Flash, version 7
-id: Q27826469; format Cascading Style Sheets Level 3
-id: Q28786544; format Netscape bookmarks
-id: Q1662484; format Information Presentation Facility
-id: Q17073241; format Opera Show Format
-id: Q29011774; format Shockwave Flash, version 20
-id: Q29012224; format Shockwave Flash, version 28
-id: Q25378623; format Font-File Format
-id: Q28205580; format OS/2 Icon
-id: Q47233167; format LDR
-id: Q29012350; format Shockwave Flash, version 30
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q29944780; format Rich Text Format, version 1.5
-id: Q99184084; format Atom web feed
-id: Q29944786; format Rich Text Format, version 1.9
-id: Q62626012; format HyperText Markup Language
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q673906; format Simple Standards-Based Slide Show System
-id: Q29012054; format Shockwave Flash, version 24
-id: Q28600763; format Electronic Arts INF
-id: Q29944779; format Rich Text Format, version 1.4
-id: Q29017306; format Shockwave Flash, version 32
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q28206262; format HSI JPEG
-id: Q29944777; format Rich Text Format, version 1.3
+id: Q28106114; format GRASP font
+id: Q29017314; format Shockwave Flash, version 36
+id: Q16996920; format Windows Setup Information File
+id: Q28049770; format DKBTrace scene description
 id: Q4045294; format New Executable
+id: Q29650304; format PRT scene description
 id: Q28205626; format Sun icon
+id: Q29011538; format Shockwave Flash, version 13
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q29944776; format Rich Text Format, version 1.2
+id: Q29011566; format Shockwave Flash, version 15
+id: Q29012224; format Shockwave Flash, version 28
+id: Q29011579; format Shockwave Flash, version 17
+id: Q17073241; format Opera Show Format
+id: Q28206359; format Intergraph Raster
+id: Q81526664; format Palm Desktop DateBook
+id: Q29011357; format Shockwave Flash, version 6
+id: Q29011363; format Shockwave Flash, version 9
+id: Q29012054; format Shockwave Flash, version 24
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q6912474; format Mork
+id: Q8811; format HyperText Markup Language
+id: Q29011646; format Shockwave Flash, version 18
+id: Q29017311; format Shockwave Flash, version 34
+id: Q66134804; format Access Project file format
+id: Q29944987; format Rich Text Format, version 0
+id: Q28757747; format GEM bitmap font
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q2053; format HTML5
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q29017306; format Shockwave Flash, version 32
+id: Q29011824; format Shockwave Flash, version 21
+id: Q29944785; format Rich Text Format, version 1.8
+id: Q29011569; format Shockwave Flash, version 16
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q32097899; format Fallout v2 DAT
+id: Q29012206; format Shockwave Flash, version 27
+id: Q34747804; format Supaplex Level format
 id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q29944773; format Rich Text Format, version 1.1
+id: Q288405; format hOCR
 id: Q29944782; format Rich Text Format, version 1.6
-id: Q29011484; format Shockwave Flash, version 11
+id: Q29011977; format Shockwave Flash, version 23
+id: Q62626012; format HyperText Markup Language
+id: Q29011315; format Shockwave Flash, version 4
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q29017304; format Shockwave Flash, version 31
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q81526528; format MicroStation Resource data
+id: Q29012190; format Shockwave Flash, version 26
+id: Q29011774; format Shockwave Flash, version 20
+id: Q17092932; format JPEG-XT
+id: Q32097740; format Fallout DAT
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q26385770; format Still Picture Interchange File Format
+id: Q47233167; format LDR

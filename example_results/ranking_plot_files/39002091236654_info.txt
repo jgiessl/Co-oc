@@ -1,9 +1,9 @@
 39002091236654.json
 top ranked environments: 
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.5462526315789473
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.4109142857142857
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.12519999999999998
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.12519999999999998
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.8112901502263985
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.6457214747168625
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.308735027293573
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.308735027293573
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 
 number of files:  41
@@ -12,19 +12,19 @@ number of files with known format: 37
 rate of files with known format: 0.9024390243902439
 contained formats: 
 id: Q28600763; format Electronic Arts INF
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q1076355; format Portable Executable
-id: Q4045294; format New Executable
-id: Q1676669; format JPEG File Interchange Format, version 1.02
 id: Q3807693; format ASCII tab
-id: Q95994246; format Agilent Microarray file format
-id: Q58006953; format TRIM Context Reference File
-id: Q1662484; format Information Presentation Facility
-id: Q723030; format AsciiDoc
-id: Q28206109; format farbfeld
-id: Q27596243; format Windows Bitmap, version 3
-id: Q99184084; format Atom web feed
 id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
+id: Q1662484; format Information Presentation Facility
+id: Q4045294; format New Executable
 id: Q61777776; format Play SID Audio, version 1
+id: Q66811836; format Inform source code file
+id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q95994246; format Agilent Microarray file format
+id: Q99184084; format Atom web feed
+id: Q28206109; format farbfeld
+id: Q16996920; format Windows Setup Information File
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q27596243; format Windows Bitmap, version 3

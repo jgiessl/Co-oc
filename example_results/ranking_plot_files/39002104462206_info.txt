@@ -1,6 +1,6 @@
 39002104462206.json
 top ranked environments: 
-environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.1024108666420118
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.3674483852894626
 environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 0.0001
 environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.0001
 environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.0001
@@ -11,10 +11,10 @@ number of files with known format: 8
 rate of files with known format: 0.5714285714285714
 contained formats: 
 id: Q3807693; format ASCII tab
-id: Q58006953; format TRIM Context Reference File
-id: Q95994246; format Agilent Microarray file format
-id: Q723030; format AsciiDoc
-id: Q10287816; format GZIP
-id: Q283579; format tar
-id: Q99184084; format Atom web feed
 id: Q27979156; format ASCII art
+id: Q10287816; format GZIP
+id: Q95994246; format Agilent Microarray file format
+id: Q99184084; format Atom web feed
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q283579; format tar

@@ -1,6 +1,6 @@
 39002079169067.json
 top ranked environments: 
-environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.611311111111111
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.2669206176120391
 environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 0.0001
 environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.0001
 environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
@@ -11,16 +11,16 @@ number of files with unknown format: 1
 number of files with known format: 18
 rate of files with known format: 0.9473684210526315
 contained formats: 
-id: Q48106551; format DataFlex Query Tag Name
 id: Q28600763; format Electronic Arts INF
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q28205626; format Sun icon
-id: Q4045294; format New Executable
 id: Q1076355; format Portable Executable
 id: Q1662484; format Information Presentation Facility
-id: Q28600412; format Attribute-Relation File Format
-id: Q28206771; format OS/2 Bitmap Array
-id: Q729366; format ICO
+id: Q4045294; format New Executable
 id: Q28205580; format OS/2 Icon
+id: Q66811836; format Inform source code file
 id: Q684554; format Autorun.inf
+id: Q28205626; format Sun icon
+id: Q16996920; format Windows Setup Information File
+id: Q28600412; format Attribute-Relation File Format
+id: Q729366; format ICO
+id: Q28206771; format OS/2 Bitmap Array
+id: Q48106551; format DataFlex Query Tag Name

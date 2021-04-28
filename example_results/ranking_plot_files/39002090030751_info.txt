@@ -12,9 +12,9 @@ number of files with known format: 1324
 rate of files with known format: 0.8891873740765615
 contained formats: 
 id: Q28600763; format Electronic Arts INF
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q42591; format MP3g
 id: Q1662484; format Information Presentation Facility
+id: Q42591; format MP3g
+id: Q66811836; format Inform source code file
 id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q16996920; format Windows Setup Information File

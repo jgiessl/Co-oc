@@ -1,8 +1,8 @@
 39002012392479.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.1540461538461537
-environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.15404615384615383
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.15404615384615383
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.419083672493605
+environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.17129786574496358
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.17129786574496358
 environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.0001
 environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 
@@ -12,16 +12,16 @@ number of files with known format: 317
 rate of files with known format: 0.9937304075235109
 contained formats: 
 id: Q28975650; format Recon Mesh
-id: Q47012492; format Nota Bene Text file format
-id: Q15860313; format Mathematica Notebook
-id: Q28206272; format HTC splashscreen
-id: Q3807693; format ASCII tab
-id: Q28205883; format Desktop Color Separation
-id: Q58006953; format TRIM Context Reference File
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q95994246; format Agilent Microarray file format
-id: Q27979156; format ASCII art
 id: Q723030; format AsciiDoc
 id: Q15938816; format MATLAB M-File
+id: Q3807693; format ASCII tab
+id: Q27979156; format ASCII art
+id: Q47012492; format Nota Bene Text file format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q95994246; format Agilent Microarray file format
 id: Q50288102; format Mathcad Document, binary file format
+id: Q15860313; format Mathematica Notebook
+id: Q58006953; format TRIM Context Reference File
+id: Q28206272; format HTC splashscreen
+id: Q28205883; format Desktop Color Separation
 id: Q28445577; format Advanced Authoring System

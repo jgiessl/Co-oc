@@ -1,56 +1,56 @@
 39002056626147.json
 top ranked environments: 
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 8.476690476190477
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.619247619047619
-environment_number: 8; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 0.31448571428571426
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit Base V1 + AutoCAD LT 2006 - 5788; score: 0.31448571428571426
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.28611428571428565
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 25.061576011995264
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.8842851376950702
+environment_number: 8; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 1.6335372172338376
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit Base V1 + AutoCAD LT 2006 - 5788; score: 1.6335372172338376
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.4764038993844893
 
 number of files:  246
 number of files with unknown format: 96
 number of files with known format: 150
 rate of files with known format: 0.6097560975609756
 contained formats: 
-id: Q27979154; format ArtWorx Data Format
-id: Q1076355; format Portable Executable
-id: Q28600482; format DSK (Apple II)
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q34310996; format Security Catalog
+id: Q66811836; format Inform source code file
 id: Q95994246; format Agilent Microarray file format
+id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
 id: Q28600483; format DSK (CPCEMU)
-id: Q1662484; format Information Presentation Facility
-id: Q50604441; format SNAP Archive Data File
-id: Q28600764; format Electronic Arts MOV
-id: Q58237034; format Adobe Multiple Master Metrics font file
-id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
-id: Q4746193; format Amiga Disk File
-id: Q27925705; format DTED Readme file
-id: Q29000741; format WorldBuilder
+id: Q3509055; format STEP file
+id: Q1144005; format WinHelp
 id: Q79242428; format Antenna Data File
+id: Q58237034; format Adobe Multiple Master Metrics font file
+id: Q27925705; format DTED Readme file
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q61777776; format Play SID Audio, version 1
+id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
+id: Q58725633; format Adobe PostScript Font Metrics file
+id: Q29000741; format WorldBuilder
 id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q283579; format tar
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
 id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
 id: Q27578057; format Adobe Type 1 Printer Font Metrics
+id: Q28600482; format DSK (Apple II)
 id: Q27349804; format ESRI Arc/Info Binary Grid
-id: Q1144005; format WinHelp
-id: Q28600763; format Electronic Arts INF
-id: Q3807693; format ASCII tab
 id: Q6026738; format PFB
-id: Q58725633; format Adobe PostScript Font Metrics file
-id: Q58335745; format Acrobat Catalog Cat File
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q28206952; format PhotoDeluxe
-id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
-id: Q942350; format QuickTime File Format
-id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q58335773; format Verity Collection Stop List
-id: Q28206894; format Portable Float Map
-id: Q723030; format AsciiDoc
-id: Q29000651; format WLD
-id: Q283579; format tar
-id: Q34310996; format Security Catalog
-id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
 id: Q1141412; format INI file
-id: Q3509055; format STEP file
-id: Q61777776; format Play SID Audio, version 1
+id: Q942350; format QuickTime File Format
+id: Q58335773; format Verity Collection Stop List
+id: Q28600764; format Electronic Arts MOV
+id: Q28206952; format PhotoDeluxe
+id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q29000651; format WLD
+id: Q27979154; format ArtWorx Data Format
+id: Q50604441; format SNAP Archive Data File
+id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q58335745; format Acrobat Catalog Cat File
+id: Q16996920; format Windows Setup Information File
+id: Q28206894; format Portable Float Map
+id: Q4746193; format Amiga Disk File

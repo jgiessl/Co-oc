@@ -159,101 +159,38 @@ class Calculator:
                 format_ids = set()
                 for y in data[x][0]:
                     format_ids.add(formatIdmap_puid[y])
-                # self.readable_formats_of_environment[data[x][1]] = format_ids
                 self.readable_formats_of_environment_puid[data[x][1]] = format_ids
 
     def load_normalized_matrices(self):
-        if os.cpu_count() >= 3:
-            p1 = mp.Process(target=self.process_target_directory_matrix)
-            p2 = mp.Process(target=self.process_target_object_matrix)
-            p2.start()
-            p1.start()
-            # print(mp.active_children())
-            p1.join()
-            p2.join()
-        else:
-            sep = os.sep
-            path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
-            file = 'normalized_directory_matrix.json'
-            file1 = 'normalized_object_matrix.json'
-            with open(os.path.join(path, file), 'r+', encoding='utf8', errors='ignore') as json_file:
-                data = json.load(json_file)
-                for keys, value in data.items():
-                    key = mt(keys)
-                    self.global_co_occurrence_matrix_dir[key] = value
-            with open(os.path.join(path, file1), 'r+', encoding='utf8', errors='ignore') as json_file:
-                data = json.load(json_file)
-                for keys, value in data.items():
-                    key = mt(keys)
-                    self.global_co_occurrence_matrix[key] = value
-
-    def load_normalized_matrices_puid(self):
-        if os.cpu_count() >= 3:
-            p1 = mp.Process(target=self.process_target_directory_matrix_puid)
-            p2 = mp.Process(target=self.process_target_object_matrix_puid)
-            p2.start()
-            p1.start()
-            # print(mp.active_children())
-            p1.join()
-            p2.join()
-        else:
-            sep = os.sep
-            path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
-            file = 'normalized_directory_matrix_puid.json'
-            file1 = 'normalized_object_matrix_puid.json'
-            with open(os.path.join(path, file), 'r+', encoding='utf8', errors='ignore') as json_file:
-                data = json.load(json_file)
-                for keys, value in data.items():
-                    key = mt(keys)
-                    # self.global_co_occurrence_matrix_dir[key] = value
-                    self.global_co_occurrence_matrix_dir_puid[key] = value
-            with open(os.path.join(path, file1), 'r+', encoding='utf8', errors='ignore') as json_file:
-                data = json.load(json_file)
-                for keys, value in data.items():
-                    key = mt(keys)
-                    # self.global_co_occurrence_matrix[key] = value
-                    self.global_co_occurrence_matrix_puid[key] = value
-
-    def process_target_directory_matrix(self):
         sep = os.sep
         path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
         file = 'normalized_directory_matrix.json'
+        file1 = 'normalized_object_matrix.json'
         with open(os.path.join(path, file), 'r+', encoding='utf8', errors='ignore') as json_file:
             data = json.load(json_file)
             for keys, value in data.items():
                 key = mt(keys)
                 self.global_co_occurrence_matrix_dir[key] = value
-
-    def process_target_directory_matrix_puid(self):
-        sep = os.sep
-        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
-        file = 'normalized_directory_matrix_puid.json'
-        with open(os.path.join(path, file), 'r+', encoding='utf8', errors='ignore') as json_file:
-            data = json.load(json_file)
-            for keys, value in data.items():
-                key = mt(keys)
-                # self.global_co_occurrence_matrix_dir[key] = value
-                self.global_co_occurrence_matrix_dir_puid[key] = value
-
-    def process_target_object_matrix(self):
-        sep = os.sep
-        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
-        file1 = 'normalized_object_matrix.json'
         with open(os.path.join(path, file1), 'r+', encoding='utf8', errors='ignore') as json_file:
             data = json.load(json_file)
             for keys, value in data.items():
                 key = mt(keys)
                 self.global_co_occurrence_matrix[key] = value
 
-    def process_target_object_matrix_puid(self):
+    def load_normalized_matrices_puid(self):
         sep = os.sep
         path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+        file = 'normalized_directory_matrix_puid.json'
         file1 = 'normalized_object_matrix_puid.json'
+        with open(os.path.join(path, file), 'r+', encoding='utf8', errors='ignore') as json_file:
+            data = json.load(json_file)
+            for keys, value in data.items():
+                key = mt(keys)
+                self.global_co_occurrence_matrix_dir_puid[key] = value
         with open(os.path.join(path, file1), 'r+', encoding='utf8', errors='ignore') as json_file:
             data = json.load(json_file)
             for keys, value in data.items():
                 key = mt(keys)
-                # self.global_co_occurrence_matrix[key] = value
                 self.global_co_occurrence_matrix_puid[key] = value
 
     def setup(self, mode):

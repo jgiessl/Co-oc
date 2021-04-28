@@ -1,7 +1,7 @@
 39002012441797.json
 top ranked environments: 
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.2002000000000002
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.2002000000000002
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 3.044147812358125
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 3.044147812358125
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
 environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
@@ -11,9 +11,9 @@ number of files with unknown format: 2
 number of files with known format: 1
 rate of files with known format: 0.3333333333333333
 contained formats: 
+id: Q1888930; format Vector Markup Language
 id: Q28786544; format Netscape bookmarks
 id: Q166074; format Extensible HyperText Markup Language
-id: Q1888930; format Vector Markup Language
 id: Q8811; format HyperText Markup Language
 id: Q2053; format HTML5
 id: Q62626012; format HyperText Markup Language

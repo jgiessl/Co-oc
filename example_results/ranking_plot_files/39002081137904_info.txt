@@ -1,8 +1,8 @@
 39002081137904.json
 top ranked environments: 
-environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.1793218696869079
-environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.39186666666666664
-environment_number: 4; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.12519999999999998
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 4.0258064513887035
+environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.0474761731675948
+environment_number: 4; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.2993791597442492
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 3; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
 
@@ -12,19 +12,19 @@ number of files with known format: 98
 rate of files with known format: 1.0
 contained formats: 
 id: Q28600763; format Electronic Arts INF
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q1076355; format Portable Executable
-id: Q4045294; format New Executable
 id: Q3807693; format ASCII tab
-id: Q58006953; format TRIM Context Reference File
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q4045294; format New Executable
+id: Q28205580; format OS/2 Icon
+id: Q66811836; format Inform source code file
+id: Q684554; format Autorun.inf
 id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
 id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q28205580; format OS/2 Icon
-id: Q723030; format AsciiDoc
 id: Q28205626; format Sun icon
-id: Q28206771; format OS/2 Bitmap Array
 id: Q729366; format ICO
-id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
+id: Q16996920; format Windows Setup Information File
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q28206771; format OS/2 Bitmap Array

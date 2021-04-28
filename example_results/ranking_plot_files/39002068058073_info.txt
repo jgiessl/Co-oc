@@ -1,45 +1,45 @@
 39002068058073.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 7.990147311827954
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 7.990147311827954
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 7.473918279569889
-environment_number: 10; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 2.3874967741935484
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.1456612903225802
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 28.382064009062766
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 26.839892700384834
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 26.686742263169
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 7.570993043716286
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 7.264243396456714
 
 number of files:  373
 number of files with unknown format: 26
 number of files with known format: 347
 rate of files with known format: 0.9302949061662198
 contained formats: 
-id: Q87066063; format LEADTools Lead 1Bit Compressed Image
-id: Q535473; format PCX
-id: Q1076355; format Portable Executable
-id: Q28205439; format Sony ARW
-id: Q28205580; format OS/2 Icon
-id: Q51954585; format dBASE Database
-id: Q43866871; format PCX, version 2
-id: Q217570; format Waveform Audio File Format
+id: Q52834849; format dBASE for Windows database, version 5
+id: Q4045294; format New Executable
+id: Q27979389; format NEOchrome Animation
 id: Q60628005; format FoxPro Database, version 2
-id: Q27487130; format Shapefile dBASE table
-id: Q10610388; format Standard MIDI File
 id: Q51954521; format Microsoft FoxPro Database, version 2.6
+id: Q28205626; format Sun icon
+id: Q479833; format ا تهكير لعبة ببجي
 id: Q45350403; format Lotus 1-2-3 Spreadsheet Formatting File, version 2.3-2.4
+id: Q28600412; format Attribute-Relation File Format
+id: Q44933672; format dBASE IV
 id: Q295711; format Windows Animated Cursor
 id: Q729366; format ICO
-id: Q27596243; format Windows Bitmap, version 3
-id: Q60628025; format FoxPro Database, version 2.5
-id: Q479833; format ا تهكير لعبة ببجي
-id: Q52834849; format dBASE for Windows database, version 5
-id: Q61971919; format Microsoft Visual FoxPro Database Table File
-id: Q43870269; format PCX, version 4
-id: Q87066066; format LEADToolsCompressed Image
-id: Q27979389; format NEOchrome Animation
-id: Q43869672; format PCX, version 3
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q44933672; format dBASE IV
-id: Q43870624; format PCX, version 5
-id: Q28600412; format Attribute-Relation File Format
-id: Q28206771; format OS/2 Bitmap Array
-id: Q28206359; format Intergraph Raster
 id: Q61971917; format FoxPro Database, version 2x
+id: Q43870624; format PCX, version 5
+id: Q43866871; format PCX, version 2
+id: Q28206359; format Intergraph Raster
+id: Q87066063; format LEADTools Lead 1Bit Compressed Image
+id: Q27487130; format Shapefile dBASE table
+id: Q27596243; format Windows Bitmap, version 3
+id: Q10610388; format Standard MIDI File
+id: Q217570; format Waveform Audio File Format
+id: Q1076355; format Portable Executable
+id: Q535473; format PCX
+id: Q61971919; format Microsoft Visual FoxPro Database Table File
+id: Q60628025; format FoxPro Database, version 2.5
+id: Q28205439; format Sony ARW
+id: Q43870269; format PCX, version 4
+id: Q28206771; format OS/2 Bitmap Array
+id: Q28205580; format OS/2 Icon
+id: Q87066066; format LEADToolsCompressed Image
+id: Q43869672; format PCX, version 3
+id: Q51954585; format dBASE Database

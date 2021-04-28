@@ -1,23 +1,23 @@
 39002012220530.json
 top ranked environments: 
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 4.000400000000001
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.000400000000001
-environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.6668666666666666
-environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.6668666666666666
-environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 0.6668666666666666
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 12.239198100449357
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 12.239198100449357
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 1.7974508076877025
+environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 1.7974508076877025
+environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 1.7974508076877025
 
 number of files:  3
 number of files with unknown format: 2
 number of files with known format: 1
 rate of files with known format: 0.3333333333333333
 contained formats: 
-id: Q673906; format Simple Standards-Based Slide Show System
-id: Q28786544; format Netscape bookmarks
-id: Q166074; format Extensible HyperText Markup Language
 id: Q1888930; format Vector Markup Language
-id: Q8811; format HyperText Markup Language
-id: Q17073241; format Opera Show Format
-id: Q2053; format HTML5
+id: Q28786544; format Netscape bookmarks
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q166074; format Extensible HyperText Markup Language
 id: Q288405; format hOCR
+id: Q8811; format HyperText Markup Language
+id: Q2053; format HTML5
+id: Q17073241; format Opera Show Format
 id: Q29151645; format Research Articles in Simplified HTML
 id: Q62626012; format HyperText Markup Language

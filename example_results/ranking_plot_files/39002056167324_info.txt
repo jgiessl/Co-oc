@@ -1,7 +1,7 @@
 39002056167324.json
 top ranked environments: 
-environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.1668666666666667
-environment_number: 1; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 0.6382711874576983
+environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.4319041853141177
+environment_number: 1; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 1.4078121784422675
 
 number of files:  1015
 number of files with unknown format: 0
@@ -9,15 +9,15 @@ number of files with known format: 1015
 rate of files with known format: 1.0
 contained formats: 
 id: Q28975650; format Recon Mesh
-id: Q28771220; format MAT-file, Level 5, version 7
-id: Q28771221; format MAT-file, Level 5, version 7.3
-id: Q5301; format TeX
-id: Q28771107; format MAT-file, Level 4
-id: Q3807693; format ASCII tab
-id: Q28205883; format Desktop Color Separation
-id: Q58006953; format TRIM Context Reference File
-id: Q95994246; format Agilent Microarray file format
-id: Q723030; format AsciiDoc
 id: Q15938816; format MATLAB M-File
-id: Q28770728; format MAT-file, Level 5, version 6
+id: Q5301; format TeX
+id: Q3807693; format ASCII tab
+id: Q28771221; format MAT-file, Level 5, version 7.3
 id: Q27979156; format ASCII art
+id: Q28771107; format MAT-file, Level 4
+id: Q28771220; format MAT-file, Level 5, version 7
+id: Q95994246; format Agilent Microarray file format
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q28205883; format Desktop Color Separation
+id: Q28770728; format MAT-file, Level 5, version 6

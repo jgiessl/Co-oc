@@ -1,8 +1,8 @@
 39002083335118.json
 top ranked environments: 
-environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.5054631578947368
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.3160894736842105
-environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.10546315789473684
+environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.7705006765421873
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.7294864005033797
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.3530693360804112
 environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.0001
 
@@ -11,23 +11,23 @@ number of files with unknown format: 1
 number of files with known format: 311
 rate of files with known format: 0.9967948717948718
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q28600288; format ActiveMime
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q194831; format Cabinet
-id: Q28600763; format Electronic Arts INF
 id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
+id: Q28206109; format farbfeld
+id: Q28600288; format ActiveMime
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q194831; format Cabinet
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q99184084; format Atom web feed
+id: Q1141412; format INI file
 id: Q66134804; format Access Project file format
+id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
 id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
 id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q723030; format AsciiDoc
-id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
-id: Q1141412; format INI file

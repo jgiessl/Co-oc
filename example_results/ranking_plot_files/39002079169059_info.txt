@@ -1,45 +1,45 @@
 39002079169059.json
 top ranked environments: 
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.0456612903225806
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.9938483870967741
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.45191290322580635
-environment_number: 9; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.45191290322580635
-environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.4160706093189963
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.037331097498503
+environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.8653366159291482
+environment_number: 9; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.600975283909137
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.564137821488757
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.075563167773845
 
 number of files:  793
 number of files with unknown format: 311
 number of files with known format: 482
 rate of files with known format: 0.6078184110970997
 contained formats: 
-id: Q3928271; format RGBE image format
-id: Q34312151; format Macromedia Director, uncompressed PC variant
-id: Q1076355; format Portable Executable
-id: Q27473691; format BIL/BIP/BSQ Header File
-id: Q939636; format CorelDRAW Document
+id: Q3807693; format ASCII tab
 id: Q28758102; format InstallShield CAB
+id: Q4045294; format New Executable
+id: Q47455968; format SafeGuard Encrypted Virtual Disk
+id: Q34312151; format Macromedia Director, uncompressed PC variant
 id: Q95994246; format Agilent Microarray file format
 id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
-id: Q28055391; format Printfox bitmap
-id: Q28600764; format Electronic Arts MOV
-id: Q28206310; format Analyze HDR
-id: Q217570; format Waveform Audio File Format
-id: Q58006953; format TRIM Context Reference File
-id: Q27923693; format DTED Cells Directory File
-id: Q2138624; format registry file
-id: Q194831; format Cabinet
-id: Q1343830; format Executable and Linkable Format
-id: Q27979410; format Binary Text
-id: Q1569639; format Interchange File Format
-id: Q3807693; format ASCII tab
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q59961105; format InstallShield Compiled Rules File
-id: Q942350; format QuickTime File Format
-id: Q27925722; format DTED Level 1 Gazetteer Directory file
-id: Q47455968; format SafeGuard Encrypted Virtual Disk
-id: Q1882400; format MacBinary
-id: Q27979513; format Manga Studio Story
-id: Q4045294; format New Executable
-id: Q307271; format .DS_Store
-id: Q723030; format AsciiDoc
+id: Q27473691; format BIL/BIP/BSQ Header File
+id: Q3928271; format RGBE image format
 id: Q27979156; format ASCII art
+id: Q58006953; format TRIM Context Reference File
+id: Q59961105; format InstallShield Compiled Rules File
+id: Q1882400; format MacBinary
+id: Q723030; format AsciiDoc
+id: Q194831; format Cabinet
+id: Q1569639; format Interchange File Format
+id: Q1076355; format Portable Executable
+id: Q217570; format Waveform Audio File Format
+id: Q27979513; format Manga Studio Story
+id: Q28055391; format Printfox bitmap
+id: Q307271; format .DS_Store
+id: Q1343830; format Executable and Linkable Format
+id: Q27925722; format DTED Level 1 Gazetteer Directory file
+id: Q2138624; format registry file
 id: Q1141412; format INI file
+id: Q27979410; format Binary Text
+id: Q939636; format CorelDRAW Document
+id: Q942350; format QuickTime File Format
+id: Q28206310; format Analyze HDR
+id: Q28600764; format Electronic Arts MOV
+id: Q27923693; format DTED Cells Directory File
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode

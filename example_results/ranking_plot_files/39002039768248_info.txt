@@ -1,40 +1,40 @@
 39002039768248.json
 top ranked environments: 
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.3609831979753286
-environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.7147796331756985
-environment_number: 5; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.2993452991452991
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.20786716701519964
-environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.20786716701519964
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 5.413665696082637
+environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.238056479771767
+environment_number: 5; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.335280180692528
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.4493586267486076
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.44041502643424824
 
 number of files:  14
 number of files with unknown format: 3
 number of files with known format: 11
 rate of files with known format: 0.7857142857142857
 contained formats: 
-id: Q6912474; format Mork
-id: Q95994246; format Agilent Microarray file format
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q28758112; format Internet Explorer history file
-id: Q28055391; format Printfox bitmap
-id: Q47233167; format LDR
-id: Q28049770; format DKBTrace scene description
-id: Q28755606; format Exact Yearbook DAT file
-id: Q32097740; format Fallout DAT
-id: Q751800; format TrueType Font
-id: Q58006953; format TRIM Context Reference File
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q81526528; format MicroStation Resource data
-id: Q32097899; format Fallout v2 DAT
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q1343830; format Executable and Linkable Format
-id: Q27979410; format Binary Text
-id: Q81526664; format Palm Desktop DateBook
 id: Q3807693; format ASCII tab
-id: Q29650304; format PRT scene description
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q34747804; format Supaplex Level format
-id: Q1882400; format MacBinary
 id: Q4045294; format New Executable
-id: Q723030; format AsciiDoc
+id: Q29650304; format PRT scene description
+id: Q95994246; format Agilent Microarray file format
+id: Q28755606; format Exact Yearbook DAT file
+id: Q32097899; format Fallout v2 DAT
+id: Q28207108; format The Print Shop Graphics file
+id: Q34747804; format Supaplex Level format
 id: Q27979156; format ASCII art
+id: Q28758112; format Internet Explorer history file
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q58006953; format TRIM Context Reference File
+id: Q1882400; format MacBinary
+id: Q81526664; format Palm Desktop DateBook
+id: Q723030; format AsciiDoc
+id: Q751800; format TrueType Font
+id: Q6912474; format Mork
+id: Q28055391; format Printfox bitmap
+id: Q1343830; format Executable and Linkable Format
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q28049770; format DKBTrace scene description
+id: Q27979410; format Binary Text
+id: Q81526528; format MicroStation Resource data
+id: Q32097740; format Fallout DAT
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q47233167; format LDR

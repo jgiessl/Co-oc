@@ -1,10 +1,10 @@
 39002055100888.json
 top ranked environments: 
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 11.950389742783194
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 8.208608118985978
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.6974436814589784
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.0266437908496733
-environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.7781777777777779
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 36.79730443452451
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 30.78014274247388
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 5.486657184365841
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.395875371630877
+environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.8712953553902234
 
 number of files:  2097
 number of files with unknown format: 2
@@ -12,39 +12,39 @@ number of files with known format: 2095
 rate of files with known format: 0.9990462565569862
 contained formats: 
 id: Q28786544; format Netscape bookmarks
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q28205580; format OS/2 Icon
-id: Q79241659; format Lotus Accessory
-id: Q217570; format Waveform Audio File Format
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q48005022; format Microsoft Access Database, version 95
-id: Q58006953; format TRIM Context Reference File
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
-id: Q27596243; format Windows Bitmap, version 3
-id: Q62626012; format HyperText Markup Language
-id: Q28600763; format Electronic Arts INF
 id: Q3807693; format ASCII tab
-id: Q48021588; format Microsoft Access Database, version 2000
-id: Q48004607; format Microsoft Access Database, version 2
-id: Q66134804; format Access Project file format
-id: Q1888930; format Vector Markup Language
-id: Q28205588; format PaintShop Pro Browser Cache
-id: Q48004869; format Microsoft Access Database, version 95
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
+id: Q28205588; format PaintShop Pro Browser Cache
 id: Q28205626; format Sun icon
-id: Q27967388; format Adlib Tracker instrument
-id: Q8811; format HyperText Markup Language
-id: Q723030; format AsciiDoc
-id: Q2053; format HTML5
-id: Q28206771; format OS/2 Bitmap Array
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q28206109; format farbfeld
+id: Q729366; format ICO
+id: Q48004869; format Microsoft Access Database, version 95
 id: Q48021763; format Microsoft Access Database, version 2002
+id: Q1662484; format Information Presentation Facility
 id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
+id: Q62626012; format HyperText Markup Language
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q27596243; format Windows Bitmap, version 3
+id: Q217570; format Waveform Audio File Format
+id: Q28600763; format Electronic Arts INF
+id: Q1888930; format Vector Markup Language
+id: Q1076355; format Portable Executable
+id: Q27967388; format Adlib Tracker instrument
+id: Q99184084; format Atom web feed
+id: Q8811; format HyperText Markup Language
+id: Q28206771; format OS/2 Bitmap Array
 id: Q1141412; format INI file
+id: Q166074; format Extensible HyperText Markup Language
+id: Q66134804; format Access Project file format
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q2053; format HTML5
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q79241659; format Lotus Accessory
+id: Q16996920; format Windows Setup Information File

@@ -1,18 +1,18 @@
 39002073626203.json
 top ranked environments: 
-environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 9.000399999999999
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 9.000399999999999
-environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 9.000399999999999
-environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 9.000399999999999
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 9.000399999999999
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 22.759472235500496
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 22.759472235500496
+environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 22.759472235500496
+environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 22.759472235500496
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 22.759472235500496
 
 number of files:  1
 number of files with unknown format: 0
 number of files with known format: 1
 rate of files with known format: 1.0
 contained formats: 
-id: Q59714459; format Encapsulated PostScript File Format
-id: Q66134564; format Photoshop DCS 1.0
-id: Q28205883; format Desktop Color Separation
 id: Q1047541; format Encapsulated PostScript
+id: Q66134564; format Photoshop DCS 1.0
 id: Q48625328; format Encapsulated PostScript, v2
+id: Q28205883; format Desktop Color Separation
+id: Q59714459; format Encapsulated PostScript File Format

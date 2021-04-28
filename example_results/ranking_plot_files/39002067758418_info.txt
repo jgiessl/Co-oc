@@ -1,7 +1,7 @@
 39002067758418.json
 top ranked environments: 
-environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.2502
-environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.2502
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.3993220715033378
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.3993220715033378
 environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.0001
 environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.0001
 
@@ -10,12 +10,12 @@ number of files with unknown format: 49
 number of files with known format: 31
 rate of files with known format: 0.3875
 contained formats: 
-id: Q29904539; format Statistical Analysis System output file
-id: Q217570; format Waveform Audio File Format
-id: Q58103465; format Adobe Font List
-id: Q28755628; format Exact Yearbook LST file
-id: Q67377613; format CaseWare 2005 Compressed file
-id: Q4045294; format New Executable
 id: Q939636; format CorelDRAW Document
+id: Q29904539; format Statistical Analysis System output file
+id: Q4045294; format New Executable
+id: Q58103465; format Adobe Font List
+id: Q67377613; format CaseWare 2005 Compressed file
+id: Q28755628; format Exact Yearbook LST file
 id: Q64858274; format Corel Presentations Master file format
 id: Q1141412; format INI file
+id: Q217570; format Waveform Audio File Format

@@ -1,7 +1,7 @@
 39002056118400.json
 top ranked environments: 
-environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.8573428571428571
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.8573428571428571
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.31324074328625
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 1.31324074328625
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.0001
@@ -11,11 +11,11 @@ number of files with unknown format: 12
 number of files with known format: 420
 rate of files with known format: 0.9722222222222222
 contained formats: 
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q27826469; format Cascading Style Sheets Level 3
 id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q28206109; format farbfeld
+id: Q1676669; format JPEG File Interchange Format, version 1.02
 id: Q99184084; format Atom web feed
 id: Q27826466; format Cascading Style Sheets Level 2
-id: Q27826469; format Cascading Style Sheets Level 3
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q34746472; format STATISTICA Spreadsheet File

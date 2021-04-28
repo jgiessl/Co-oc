@@ -1,69 +1,69 @@
 39002082349300.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 24.934544182694626
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 24.09418477820067
-environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 23.458639057239065
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 23.39879306622859
-environment_number: 10; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 22.940261471572125
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 109.06227391313607
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 107.33921163692743
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 106.79646750192026
+environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 106.2658527807237
+environment_number: 10; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 103.64571507804588
 
 number of files:  699
 number of files with unknown format: 313
 number of files with known format: 386
 rate of files with known format: 0.5522174535050072
 contained formats: 
-id: Q4042979; format Linear Executable
-id: Q29944758; format Rich Text Format, version 1.0
-id: Q1076355; format Portable Executable
-id: Q939636; format CorelDRAW Document
-id: Q6912474; format Mork
-id: Q27967105; format SHO
-id: Q1662484; format Information Presentation Facility
-id: Q684554; format Autorun.inf
-id: Q1192568; format .sys
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q28758112; format Internet Explorer history file
-id: Q79241659; format Lotus Accessory
-id: Q47233167; format LDR
-id: Q28049770; format DKBTrace scene description
-id: Q28755606; format Exact Yearbook DAT file
-id: Q29904539; format Statistical Analysis System output file
-id: Q217570; format Waveform Audio File Format
-id: Q29944987; format Rich Text Format, version 0
-id: Q32097740; format Fallout DAT
-id: Q751800; format TrueType Font
-id: Q28206493; format Lightning Strike
-id: Q64858274; format Corel Presentations Master file format
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q81526528; format MicroStation Resource data
-id: Q29944780; format Rich Text Format, version 1.5
-id: Q28205796; format Master of Orion saved game
-id: Q29944786; format Rich Text Format, version 1.9
-id: Q27596243; format Windows Bitmap, version 3
-id: Q32097899; format Fallout v2 DAT
-id: Q47455565; format Windows Portable Executable file format, 64-bit
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q47455466; format Windows Portable Executable file format, 32-bit
-id: Q28600763; format Electronic Arts INF
-id: Q29944779; format Rich Text Format, version 1.4
-id: Q81526664; format Palm Desktop DateBook
-id: Q29944785; format Rich Text Format, version 1.8
-id: Q28755628; format Exact Yearbook LST file
-id: Q28207194; format QRT Ray Tracer bitmap
-id: Q28600476; format DOS device driver
-id: Q29650304; format PRT scene description
-id: Q66134804; format Access Project file format
-id: Q59961105; format InstallShield Compiled Rules File
-id: Q28205588; format PaintShop Pro Browser Cache
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q29944776; format Rich Text Format, version 1.2
-id: Q58103465; format Adobe Font List
-id: Q34747804; format Supaplex Level format
-id: Q29944777; format Rich Text Format, version 1.3
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q4045294; format New Executable
-id: Q29944783; format Rich Text Format, version 1.7
-id: Q29944773; format Rich Text Format, version 1.1
+id: Q29650304; format PRT scene description
+id: Q47455565; format Windows Portable Executable file format, 64-bit
+id: Q66811836; format Inform source code file
+id: Q29944785; format Rich Text Format, version 1.8
+id: Q28205588; format PaintShop Pro Browser Cache
+id: Q28755606; format Exact Yearbook DAT file
+id: Q1192568; format .sys
+id: Q32097899; format Fallout v2 DAT
+id: Q29944776; format Rich Text Format, version 1.2
+id: Q29944777; format Rich Text Format, version 1.3
+id: Q28207108; format The Print Shop Graphics file
+id: Q27967105; format SHO
+id: Q29904539; format Statistical Analysis System output file
+id: Q34747804; format Supaplex Level format
+id: Q1662484; format Information Presentation Facility
+id: Q4042979; format Linear Executable
+id: Q28600476; format DOS device driver
 id: Q29944782; format Rich Text Format, version 1.6
+id: Q28758112; format Internet Explorer history file
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q59961105; format InstallShield Compiled Rules File
+id: Q81526664; format Palm Desktop DateBook
+id: Q27596243; format Windows Bitmap, version 3
+id: Q217570; format Waveform Audio File Format
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q1076355; format Portable Executable
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q28600763; format Electronic Arts INF
+id: Q751800; format TrueType Font
+id: Q6912474; format Mork
+id: Q58103465; format Adobe Font List
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q28205796; format Master of Orion saved game
+id: Q28207194; format QRT Ray Tracer bitmap
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q28049770; format DKBTrace scene description
 id: Q1141412; format INI file
+id: Q939636; format CorelDRAW Document
+id: Q29944987; format Rich Text Format, version 0
+id: Q81526528; format MicroStation Resource data
+id: Q64858274; format Corel Presentations Master file format
+id: Q66134804; format Access Project file format
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q47455466; format Windows Portable Executable file format, 32-bit
+id: Q684554; format Autorun.inf
+id: Q32097740; format Fallout DAT
+id: Q29944773; format Rich Text Format, version 1.1
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q79241659; format Lotus Accessory
+id: Q16996920; format Windows Setup Information File
+id: Q28755628; format Exact Yearbook LST file
+id: Q47233167; format LDR
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q28206493; format Lightning Strike

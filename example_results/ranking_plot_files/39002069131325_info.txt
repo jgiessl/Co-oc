@@ -1,46 +1,46 @@
 39002069131325.json
 top ranked environments: 
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.1255
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.8754
-environment_number: 8; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.819378947368421
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 0.6878
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.6878
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.840277592465789
+environment_number: 8; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.4640263701995275
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 1.251050042036855
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.819507252295719
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 0.7368344838764403
 
 number of files:  183
 number of files with unknown format: 78
 number of files with known format: 105
 rate of files with known format: 0.5737704918032787
 contained formats: 
-id: Q28207379; format TIFF for Fax eXtended
-id: Q1076355; format Portable Executable
-id: Q28858032; format Microsoft Word Binary File Format
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
 id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q5924007; format JavaScript
+id: Q28207379; format TIFF for Fax eXtended
+id: Q28206109; format farbfeld
+id: Q1144005; format WinHelp
 id: Q58237034; format Adobe Multiple Master Metrics font file
 id: Q29904539; format Statistical Analysis System output file
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q27578057; format Adobe Type 1 Printer Font Metrics
-id: Q28206109; format farbfeld
-id: Q7670377; format Tagged Image File Format/Electronic Photography
-id: Q99184084; format Atom web feed
-id: Q1144005; format WinHelp
-id: Q194831; format Cabinet
-id: Q28600763; format Electronic Arts INF
-id: Q28755628; format Exact Yearbook LST file
-id: Q3807693; format ASCII tab
-id: Q6026738; format PFB
-id: Q58725633; format Adobe PostScript Font Metrics file
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q58103465; format Adobe Font List
-id: Q28207384; format TIFF/IT
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q28206894; format Portable Float Map
-id: Q723030; format AsciiDoc
-id: Q28205771; format BigTIFF
 id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
+id: Q1662484; format Information Presentation Facility
+id: Q58725633; format Adobe PostScript Font Metrics file
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q194831; format Cabinet
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q5924007; format JavaScript
+id: Q58103465; format Adobe Font List
+id: Q27578057; format Adobe Type 1 Printer Font Metrics
+id: Q28205771; format BigTIFF
+id: Q99184084; format Atom web feed
+id: Q6026738; format PFB
 id: Q1141412; format INI file
+id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q28207384; format TIFF/IT
+id: Q7670377; format Tagged Image File Format/Electronic Photography
+id: Q16996920; format Windows Setup Information File
+id: Q28755628; format Exact Yearbook LST file
+id: Q28206894; format Portable Float Map

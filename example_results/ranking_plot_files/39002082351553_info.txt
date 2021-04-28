@@ -1,7 +1,7 @@
 39002082351553.json
 top ranked environments: 
-environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.9669666666666665
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.10020000000000001
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.6556412772333107
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.10608428754057071
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Illustrator CS3; score: 0.0001
 environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
 environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
@@ -11,24 +11,24 @@ number of files with unknown format: 54
 number of files with known format: 63
 rate of files with known format: 0.5384615384615384
 contained formats: 
+id: Q50419827; format Microsoft PRX File
+id: Q4045294; format New Executable
+id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
+id: Q51370033; format Freelance file format
+id: Q1144005; format WinHelp
 id: Q28344713; format Package File
 id: Q29904539; format Statistical Analysis System output file
-id: Q28755621; format Exact Yearbook ID file
-id: Q29209269; format Z
-id: Q28758103; format InstallShield Z
-id: Q6043826; format Intellifont
 id: Q28771319; format Microsoft Library
-id: Q1144005; format WinHelp
-id: Q89029185; format American Greetings Project 10-23
-id: Q1343830; format Executable and Linkable Format
-id: Q51370033; format Freelance file format
-id: Q28755628; format Exact Yearbook LST file
 id: Q19599377; format AppleLink Package Compression Format
 id: Q29000498; format OrCAD library
-id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
-id: Q58103465; format Adobe Font List
 id: Q29650301; format Pack
-id: Q4045294; format New Executable
+id: Q58103465; format Adobe Font List
 id: Q27967388; format Adlib Tracker instrument
-id: Q50419827; format Microsoft PRX File
+id: Q1343830; format Executable and Linkable Format
+id: Q28758103; format InstallShield Z
+id: Q28755621; format Exact Yearbook ID file
 id: Q1141412; format INI file
+id: Q89029185; format American Greetings Project 10-23
+id: Q6043826; format Intellifont
+id: Q29209269; format Z
+id: Q28755628; format Exact Yearbook LST file

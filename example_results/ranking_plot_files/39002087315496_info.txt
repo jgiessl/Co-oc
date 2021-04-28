@@ -1,27 +1,27 @@
 39002087315496.json
 top ranked environments: 
-environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 20.770230769230725
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 16.616284615384586
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 16.616284615384586
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 16.616284615384586
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 9.693007692307686
+environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 71.04168799992328
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 55.190914630333516
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 55.190914630333516
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 55.190914630333516
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 27.630571823313673
 
 number of files:  23
 number of files with unknown format: 0
 number of files with known format: 23
 rate of files with known format: 1.0
 contained formats: 
-id: Q28205674; format Alpha Microsystems BMP
-id: Q28207499; format Windows Device-Dependent Bitmap
-id: Q28206788; format OS/2 Bitmap, version 2.0
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q27596325; format Windows Bitmap, version 4
-id: Q28205439; format Sony ARW
-id: Q28205736; format Award BIOS logo, version 2
-id: Q28205733; format Award BIOS logo, version 1
-id: Q28206771; format OS/2 Bitmap Array
-id: Q63061679; format Windows Bitmap, version 3.0 NT
 id: Q27596417; format Windows Bitmap, version 5
 id: Q27596184; format Windows Bitmap, version 2
+id: Q28205733; format Award BIOS logo, version 1
+id: Q28207499; format Windows Device-Dependent Bitmap
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q63061679; format Windows Bitmap, version 3.0 NT
+id: Q28205736; format Award BIOS logo, version 2
+id: Q28205674; format Alpha Microsystems BMP
 id: Q27596100; format Windows Bitmap, version 1
+id: Q28205439; format Sony ARW
+id: Q27596325; format Windows Bitmap, version 4
+id: Q28206788; format OS/2 Bitmap, version 2.0
 id: Q27596243; format Windows Bitmap, version 3
+id: Q28206771; format OS/2 Bitmap Array

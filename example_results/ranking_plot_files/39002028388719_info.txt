@@ -1,55 +1,55 @@
 39002028388719.json
 top ranked environments: 
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 35.10388737038944
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 30.63584634146329
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 30.09055265423231
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 29.855258536585257
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 29.1234512195121
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 149.29472582305863
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 143.66591492738647
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 143.03022776538288
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 142.57456364878854
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 141.24847149821514
 
 number of files:  943
 number of files with unknown format: 158
 number of files with known format: 785
 rate of files with known format: 0.8324496288441146
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q27229642; format Portable Network Graphics, version 1.2
-id: Q1141412; format INI file
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q5924007; format JavaScript
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q28205580; format OS/2 Icon
-id: Q26207734; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2011
-id: Q26207821; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2012
-id: Q26208253; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2008, with Microsoft extensions
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q26211338; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2011, with Microsoft extensions
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
-id: Q26207712; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2008
-id: Q3570403; format Office Open XML Spreadsheet Document, ECMA-376 1st Edition
-id: Q26211536; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2012, with Microsoft extensions
-id: Q28600763; format Electronic Arts INF
-id: Q3807693; format ASCII tab
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q26211510; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2011, with Microsoft extensions
-id: Q26207808; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2012
-id: Q26207986; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2008, with Microsoft extensions
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q26207792; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2011
-id: Q723030; format AsciiDoc
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q28206771; format OS/2 Bitmap Array
-id: Q26205771; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2008
-id: Q27979156; format ASCII art
-id: Q26211528; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2012, with Microsoft extensions
-id: Q684554; format Autorun.inf
 id: Q27826469; format Cascading Style Sheets Level 3
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
+id: Q26207986; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2008, with Microsoft extensions
+id: Q26205771; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2008
+id: Q26211536; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2012, with Microsoft extensions
+id: Q28205626; format Sun icon
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q26211528; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2012, with Microsoft extensions
+id: Q26207792; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2011
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q729366; format ICO
+id: Q27229642; format Portable Network Graphics, version 1.2
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q26211338; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2011, with Microsoft extensions
+id: Q26207821; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2012
+id: Q3570403; format Office Open XML Spreadsheet Document, ECMA-376 1st Edition
+id: Q58006953; format TRIM Context Reference File
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q723030; format AsciiDoc
+id: Q1076355; format Portable Executable
+id: Q26207712; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2008
+id: Q26207808; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2012
+id: Q28600763; format Electronic Arts INF
+id: Q5924007; format JavaScript
+id: Q99184084; format Atom web feed
+id: Q26211510; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2011, with Microsoft extensions
+id: Q28206771; format OS/2 Bitmap Array
+id: Q1141412; format INI file
+id: Q66134804; format Access Project file format
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26208253; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2008, with Microsoft extensions
+id: Q16996920; format Windows Setup Information File
+id: Q26207734; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2011

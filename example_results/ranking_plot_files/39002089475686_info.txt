@@ -1,9 +1,9 @@
 39002089475686.json
 top ranked environments: 
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.030022128134704
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.8335333333333332
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.8335333333333332
-environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.5002
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.3851808320286216
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.0951925403733473
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.0951925403733473
+environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.5878210565743058
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 
 number of files:  102
@@ -13,6 +13,6 @@ rate of files with known format: 1.0
 contained formats: 
 id: Q939636; format CorelDRAW Document
 id: Q66134804; format Access Project file format
-id: Q28205439; format Sony ARW
 id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28205439; format Sony ARW
 id: Q27596243; format Windows Bitmap, version 3

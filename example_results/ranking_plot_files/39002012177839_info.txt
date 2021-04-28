@@ -1,7 +1,7 @@
 39002012177839.json
 top ranked environments: 
-environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 4.05313157894737
-environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.8160894736842104
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 20.638017114752166
+environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.906667797525181
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 environment_number: 2; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
@@ -11,23 +11,23 @@ number of files with unknown format: 0
 number of files with known format: 217
 rate of files with known format: 1.0
 contained formats: 
+id: Q4045294; format New Executable
+id: Q53756551; format git packfile index, version 2
 id: Q27979378; format VobSub index
-id: Q1076355; format Portable Executable
+id: Q66811836; format Inform source code file
+id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
+id: Q29904540; format Statistical Analysis System log file
+id: Q5448342; format File change log
 id: Q1662484; format Information Presentation Facility
 id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
-id: Q53756539; format git packfile index, version 1
-id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
-id: Q5153426; format Common Log Format
 id: Q5421818; format Extended Log Format
-id: Q53756551; format git packfile index, version 2
+id: Q1076355; format Portable Executable
 id: Q28600763; format Electronic Arts INF
-id: Q50223812; format Bluetooth Snoop Packet Capture
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
-id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q5448342; format File change log
-id: Q29904540; format Statistical Analysis System log file
+id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
 id: Q684554; format Autorun.inf
+id: Q5153426; format Common Log Format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q16996920; format Windows Setup Information File
+id: Q53756539; format git packfile index, version 1

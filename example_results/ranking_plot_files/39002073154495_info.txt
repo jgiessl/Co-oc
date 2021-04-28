@@ -1,92 +1,92 @@
 39002073154495.json
 top ranked environments: 
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 104.35513974285236
-environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 12.303726019121767
-environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 11.631898415630955
-environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 11.5294402795402
-environment_number: 22; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 10.244935545390584
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 482.6887302940306
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 47.83490758102183
+environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 45.26412639194316
+environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 44.00054074984882
+environment_number: 22; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 40.732356072820515
 
 number of files:  2632
 number of files with unknown format: 0
 number of files with known format: 2632
 rate of files with known format: 1.0
 contained formats: 
-id: Q26085319; format Portable Document Format, version 1.6
-id: Q60886323; format Microsoft Excel 2000-2003 Workbook
-id: Q26543628; format Portable Document Format/Archive, version 1 Basic
-id: Q26085339; format Portable Document Format, version 1.0
-id: Q79241659; format Lotus Accessory
-id: Q47498736; format Adobe Illustrator file format, version 14
-id: Q17092932; format JPEG-XT
-id: Q60806257; format Microsoft Excel 4.0 Worksheet (xls)
-id: Q47498745; format Adobe Illustrator file format, version 15
-id: Q42332; format Portable Document Format
-id: Q47498565; format Adobe Illustrator file format, version 13
-id: Q60806040; format Microsoft Excel 3.0 Worksheet (xls)
-id: Q29946810; format Portable Document Format/Exchange 2:2003
-id: Q66811836; format Inform source code file
-id: Q29946883; format Portable Document Format/Exchange 4p
-id: Q26085336; format Portable Document Format, version 1.1
-id: Q28206359; format Intergraph Raster
-id: Q684554; format Autorun.inf
-id: Q1952321; format Multi Picture Object
-id: Q29946845; format Portable Document Format/Exchange 3:2003
-id: Q26085317; format Portable Document Format, version 1.7
-id: Q26085333; format Portable Document Format, version 1.2
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q28206109; format farbfeld
-id: Q29946134; format Portable Document Format/Variable Data and Transactional Printing, multi-file exchange variant
-id: Q26329648; format JPEG File Interchange Format, version 1.0
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q26545877; format Portable Document Format/Archive, version 2 Accessible
-id: Q52834888; format Microsoft Excel 2.x Worksheet
-id: Q60873199; format Excel 95 Workbook
-id: Q28206497; format Lossless JPEG
-id: Q8811; format HyperText Markup Language
-id: Q2053; format HTML5
-id: Q47498749; format Adobe Illustrator file format, version 16
-id: Q29946121; format Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant
-id: Q28858068; format Binary Interchange File Format, version 8
-id: Q29946692; format Portable Document Format/Exchange 1:1999
-id: Q29946141; format Portable Document Format/Variable Data and Transactional Printing, streamed delivery variant
-id: Q26541013; format Portable Document Format/Archive, version 1 Accessible
-id: Q1076355; format Portable Executable
-id: Q29946937; format Portable Document Format/Exchange 5pg
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q24834502; format PowerPoint Binary File Format
-id: Q5533911; format GeoPDF
-id: Q47498538; format Adobe Illustrator file format, version 9
-id: Q60886160; format Microsoft Excel 97 Workbook
-id: Q29946771; format Portable Document Format/Exchange 1a:2003
-id: Q29946829; format Portable Document Format/Exchange 3:2002
-id: Q2043942; format Portable Document Format for Engineering
 id: Q55429627; format Portable Document Format, version 2.0
-id: Q29946726; format Portable Document Format/Exchange 1a:2001
-id: Q27596243; format Windows Bitmap, version 3
-id: Q26385770; format Still Picture Interchange File Format
-id: Q26547917; format Portable Document Format/Archive, version 3 Accessible
-id: Q26546575; format Portable Document Format/Archive, version 2 Basic
-id: Q1888930; format Vector Markup Language
-id: Q29946898; format Portable Document Format/Exchange 5g
-id: Q29946914; format Portable Document Format/Exchange 5n
-id: Q26547266; format Portable Document Format/Archive, version 2 Unicode
-id: Q29946866; format Portable Document Format/Exchange 4
-id: Q16996920; format Windows Setup Information File
-id: Q26548590; format Portable Document Format/Archive, version 3 Basic
-id: Q47498555; format Adobe Illustrator file format, version 12
-id: Q28786544; format Netscape bookmarks
-id: Q1662484; format Information Presentation Facility
-id: Q26085326; format Portable Document Format, version 1.4
-id: Q26085330; format Portable Document Format, version 1.3
-id: Q47498552; format Adobe Illustrator file format, version 11
-id: Q99184084; format Atom web feed
-id: Q29946713; format Portable Document Format/Exchange 1:2001
-id: Q62626012; format HyperText Markup Language
+id: Q1952321; format Multi Picture Object
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q26545877; format Portable Document Format/Archive, version 2 Accessible
 id: Q47498547; format Adobe Illustrator file format, version 10
-id: Q28600763; format Electronic Arts INF
-id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q26541013; format Portable Document Format/Archive, version 1 Accessible
+id: Q1662484; format Information Presentation Facility
+id: Q26085336; format Portable Document Format, version 1.1
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q26085339; format Portable Document Format, version 1.0
+id: Q29946726; format Portable Document Format/Exchange 1a:2001
+id: Q1888930; format Vector Markup Language
+id: Q26085333; format Portable Document Format, version 1.2
+id: Q28206497; format Lossless JPEG
+id: Q29946937; format Portable Document Format/Exchange 5pg
+id: Q99184084; format Atom web feed
+id: Q60806040; format Microsoft Excel 3.0 Worksheet (xls)
 id: Q28206262; format HSI JPEG
+id: Q166074; format Extensible HyperText Markup Language
+id: Q47498552; format Adobe Illustrator file format, version 11
+id: Q684554; format Autorun.inf
+id: Q47498749; format Adobe Illustrator file format, version 16
 id: Q26085322; format Portable Document Format, version 1.5
+id: Q60886160; format Microsoft Excel 97 Workbook
+id: Q26085330; format Portable Document Format, version 1.3
+id: Q29946692; format Portable Document Format/Exchange 1:1999
+id: Q28786544; format Netscape bookmarks
+id: Q29946141; format Portable Document Format/Variable Data and Transactional Printing, streamed delivery variant
+id: Q66811836; format Inform source code file
+id: Q47498538; format Adobe Illustrator file format, version 9
+id: Q29946810; format Portable Document Format/Exchange 2:2003
+id: Q26548590; format Portable Document Format/Archive, version 3 Basic
+id: Q27596243; format Windows Bitmap, version 3
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q26543628; format Portable Document Format/Archive, version 1 Basic
+id: Q29946898; format Portable Document Format/Exchange 5g
+id: Q47498565; format Adobe Illustrator file format, version 13
+id: Q29946914; format Portable Document Format/Exchange 5n
+id: Q16996920; format Windows Setup Information File
+id: Q79241659; format Lotus Accessory
+id: Q26085319; format Portable Document Format, version 1.6
+id: Q2043942; format Portable Document Format for Engineering
 id: Q4045294; format New Executable
+id: Q29946829; format Portable Document Format/Exchange 3:2002
+id: Q29946866; format Portable Document Format/Exchange 4
+id: Q26085317; format Portable Document Format, version 1.7
+id: Q47498745; format Adobe Illustrator file format, version 15
+id: Q28206359; format Intergraph Raster
+id: Q28858068; format Binary Interchange File Format, version 8
+id: Q52834888; format Microsoft Excel 2.x Worksheet
+id: Q47498736; format Adobe Illustrator file format, version 14
+id: Q29946883; format Portable Document Format/Exchange 4p
+id: Q29946121; format Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant
+id: Q47498555; format Adobe Illustrator file format, version 12
+id: Q24834502; format PowerPoint Binary File Format
+id: Q8811; format HyperText Markup Language
+id: Q66134804; format Access Project file format
+id: Q29946845; format Portable Document Format/Exchange 3:2003
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26085326; format Portable Document Format, version 1.4
+id: Q2053; format HTML5
+id: Q5533911; format GeoPDF
+id: Q29946134; format Portable Document Format/Variable Data and Transactional Printing, multi-file exchange variant
+id: Q29946713; format Portable Document Format/Exchange 1:2001
+id: Q26547917; format Portable Document Format/Archive, version 3 Accessible
+id: Q28206109; format farbfeld
+id: Q60806257; format Microsoft Excel 4.0 Worksheet (xls)
+id: Q26546575; format Portable Document Format/Archive, version 2 Basic
+id: Q62626012; format HyperText Markup Language
+id: Q26547266; format Portable Document Format/Archive, version 2 Unicode
+id: Q29946771; format Portable Document Format/Exchange 1a:2003
+id: Q42332; format Portable Document Format
+id: Q60873199; format Excel 95 Workbook
+id: Q60886323; format Microsoft Excel 2000-2003 Workbook
+id: Q17092932; format JPEG-XT
+id: Q26385770; format Still Picture Interchange File Format

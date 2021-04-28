@@ -1,6 +1,6 @@
 39002097055355.json
 top ranked environments: 
-environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.782251282051282
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.0472888006987326
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 2; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
 environment_number: 3; environment_name: Windows 98 Second Edition (SE) + WordPerfect Family Pack 5 9794; score: 0.0001
@@ -11,16 +11,16 @@ number of files with unknown format: 10
 number of files with known format: 57
 rate of files with known format: 0.8507462686567164
 contained formats: 
-id: Q3563777; format MicroDVD
-id: Q479833; format ا تهكير لعبة ببجي
-id: Q28758107; format Instant Artist GFX
 id: Q3807693; format ASCII tab
+id: Q27979156; format ASCII art
+id: Q28205760; format Borland Graphics Interface image
 id: Q4045294; format New Executable
-id: Q58006953; format TRIM Context Reference File
+id: Q3563777; format MicroDVD
 id: Q95994246; format Agilent Microarray file format
 id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q723030; format AsciiDoc
+id: Q28758107; format Instant Artist GFX
+id: Q479833; format ا تهكير لعبة ببجي
 id: Q27979377; format VobSub subtitle
+id: Q58006953; format TRIM Context Reference File
 id: Q817650; format COM
-id: Q28205760; format Borland Graphics Interface image
-id: Q27979156; format ASCII art
+id: Q723030; format AsciiDoc

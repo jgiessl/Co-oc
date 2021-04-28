@@ -1,29 +1,29 @@
 39002105329677.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.2461305428893579
-environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.5673942489706456
-environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.5673942489706456
-environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.5673942489706456
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 0.5673942489706456
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 4.092615124591154
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.1155080754597542
+environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.1155080754597542
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 1.1155080754597542
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 1.1155080754597542
 
 number of files:  1629
 number of files with unknown format: 34
 number of files with known format: 1595
 rate of files with known format: 0.9791282995702886
 contained formats: 
-id: Q29904539; format Statistical Analysis System output file
-id: Q58103465; format Adobe Font List
-id: Q28755628; format Exact Yearbook LST file
 id: Q1076355; format Portable Executable
 id: Q3807693; format ASCII tab
+id: Q27979156; format ASCII art
 id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q58006953; format TRIM Context Reference File
+id: Q1141412; format INI file
+id: Q58103465; format Adobe Font List
 id: Q28205580; format OS/2 Icon
 id: Q95994246; format Agilent Microarray file format
-id: Q723030; format AsciiDoc
-id: Q28206771; format OS/2 Bitmap Array
+id: Q28205626; format Sun icon
 id: Q729366; format ICO
-id: Q27979156; format ASCII art
+id: Q28755628; format Exact Yearbook LST file
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
 id: Q27596243; format Windows Bitmap, version 3
-id: Q1141412; format INI file
+id: Q28206771; format OS/2 Bitmap Array
+id: Q29904539; format Statistical Analysis System output file

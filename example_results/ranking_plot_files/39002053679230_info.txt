@@ -1,8 +1,8 @@
 39002053679230.json
 top ranked environments: 
-environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 4.24621403508772
-environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.24621403508772
-environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.3721298245614035
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 26.41080360889193
+environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 26.41080360889193
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.6371673432088545
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.0001
 
@@ -11,23 +11,23 @@ number of files with unknown format: 0
 number of files with known format: 1884
 rate of files with known format: 1.0
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q29904539; format Statistical Analysis System output file
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q48005022; format Microsoft Access Database, version 95
-id: Q58006953; format TRIM Context Reference File
-id: Q194831; format Cabinet
-id: Q28755628; format Exact Yearbook LST file
 id: Q3807693; format ASCII tab
-id: Q48021588; format Microsoft Access Database, version 2000
-id: Q48004607; format Microsoft Access Database, version 2
-id: Q58103465; format Adobe Font List
-id: Q48004869; format Microsoft Access Database, version 95
 id: Q4045294; format New Executable
-id: Q95994804; format Spatial Data Transfer Standard format
-id: Q723030; format AsciiDoc
-id: Q28600412; format Attribute-Relation File Format
 id: Q29644119; format ISO/IEC 8211 Data Descriptive File
+id: Q95994246; format Agilent Microarray file format
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q95994804; format Spatial Data Transfer Standard format
+id: Q28600412; format Attribute-Relation File Format
+id: Q29904539; format Statistical Analysis System output file
+id: Q48004869; format Microsoft Access Database, version 95
 id: Q48021763; format Microsoft Access Database, version 2002
 id: Q27979156; format ASCII art
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q194831; format Cabinet
+id: Q1076355; format Portable Executable
+id: Q58103465; format Adobe Font List
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q28755628; format Exact Yearbook LST file

@@ -1,41 +1,41 @@
 39002103623212.json
 top ranked environments: 
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 11.285985285285285
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 10.470970470470476
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.2848003898635477
-environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.07427407407407408
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 0.07427407407407408
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 34.02719543004548
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 32.39824675855821
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.5498379085109986
+environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.14584551843898674
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 0.14584551843898674
 
 number of files:  75
 number of files with unknown format: 7
 number of files with known format: 68
 rate of files with known format: 0.9066666666666666
 contained formats: 
-id: Q28344713; format Package File
-id: Q47512572; format man page
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q28755621; format Exact Yearbook ID file
-id: Q48005022; format Microsoft Access Database, version 95
-id: Q58006953; format TRIM Context Reference File
-id: Q28771319; format Microsoft Library
-id: Q1144005; format WinHelp
-id: Q6043826; format Intellifont
-id: Q27967091; format Funcom ISS
-id: Q27596243; format Windows Bitmap, version 3
-id: Q28206147; format Freedom of Press Bitamp
 id: Q3807693; format ASCII tab
-id: Q48021588; format Microsoft Access Database, version 2000
-id: Q48004607; format Microsoft Access Database, version 2
-id: Q66134804; format Access Project file format
-id: Q19599377; format AppleLink Package Compression Format
-id: Q29000498; format OrCAD library
-id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
-id: Q48004869; format Microsoft Access Database, version 95
-id: Q28206138; format Freedom of Press Info
+id: Q27967091; format Funcom ISS
 id: Q4045294; format New Executable
-id: Q27967388; format Adlib Tracker instrument
-id: Q723030; format AsciiDoc
+id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
+id: Q95994246; format Agilent Microarray file format
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q28206138; format Freedom of Press Info
+id: Q1144005; format WinHelp
+id: Q28344713; format Package File
+id: Q28771319; format Microsoft Library
+id: Q48004869; format Microsoft Access Database, version 95
 id: Q48021763; format Microsoft Access Database, version 2002
 id: Q27979156; format ASCII art
+id: Q19599377; format AppleLink Package Compression Format
+id: Q28206147; format Freedom of Press Bitamp
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q27596243; format Windows Bitmap, version 3
+id: Q29000498; format OrCAD library
+id: Q1076355; format Portable Executable
+id: Q27967388; format Adlib Tracker instrument
+id: Q47512572; format man page
+id: Q28755621; format Exact Yearbook ID file
 id: Q1141412; format INI file
+id: Q66134804; format Access Project file format
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q6043826; format Intellifont

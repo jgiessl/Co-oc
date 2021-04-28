@@ -1,6 +1,6 @@
 39002068862672.json
 top ranked environments: 
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.258483712298165
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.794422099143524
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 environment_number: 2; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
@@ -11,23 +11,23 @@ number of files with unknown format: 1
 number of files with known format: 213
 rate of files with known format: 0.9953271028037384
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q28205846; format ColoRIX
-id: Q34312718; format Macromedia Director, compressed Macintosh variant
-id: Q1662484; format Information Presentation Facility
-id: Q28600764; format Electronic Arts MOV
-id: Q81413909; format Macromedia Director Shockwave Cast
 id: Q49989019; format Macromedia (Adobe) Director Compressed Resource file
-id: Q28206625; format MSX BASIC graphics
-id: Q28600763; format Electronic Arts INF
-id: Q28205367; format DCR
-id: Q34312565; format Macromedia Director, compressed PC variant
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q942350; format QuickTime File Format
-id: Q85415606; format Sonic Scenarist Closed Caption Format
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q4045294; format New Executable
-id: Q684554; format Autorun.inf
+id: Q66811836; format Inform source code file
+id: Q28205367; format DCR
+id: Q1662484; format Information Presentation Facility
+id: Q85415606; format Sonic Scenarist Closed Caption Format
+id: Q1076355; format Portable Executable
+id: Q34312565; format Macromedia Director, compressed PC variant
+id: Q28600763; format Electronic Arts INF
+id: Q28206625; format MSX BASIC graphics
+id: Q81413909; format Macromedia Director Shockwave Cast
+id: Q28205846; format ColoRIX
 id: Q1141412; format INI file
+id: Q34312718; format Macromedia Director, compressed Macintosh variant
+id: Q66134804; format Access Project file format
+id: Q942350; format QuickTime File Format
+id: Q28600764; format Electronic Arts MOV
+id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q16996920; format Windows Setup Information File

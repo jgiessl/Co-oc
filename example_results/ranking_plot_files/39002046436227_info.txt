@@ -1,21 +1,21 @@
 39002046436227.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 24.000799999999977
-environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 12.85774285714286
-environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 12.85774285714286
-environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 12.85774285714286
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 8.571928571428572
+environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 64.57572172240522
+environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 41.233518894207904
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 41.233518894207904
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 41.233518894207904
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 27.489112596138593
 
 number of files:  2
 number of files with unknown format: 0
 number of files with known format: 2
 rate of files with known format: 1.0
 contained formats: 
-id: Q28858068; format Binary Interchange File Format, version 8
+id: Q66134804; format Access Project file format
 id: Q60873199; format Excel 95 Workbook
 id: Q60886323; format Microsoft Excel 2000-2003 Workbook
-id: Q66134804; format Access Project file format
 id: Q60806040; format Microsoft Excel 3.0 Worksheet (xls)
+id: Q28858068; format Binary Interchange File Format, version 8
 id: Q60886160; format Microsoft Excel 97 Workbook
 id: Q52834888; format Microsoft Excel 2.x Worksheet
 id: Q60806257; format Microsoft Excel 4.0 Worksheet (xls)

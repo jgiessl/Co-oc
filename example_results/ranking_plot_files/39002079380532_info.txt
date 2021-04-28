@@ -1,6 +1,6 @@
 39002079380532.json
 top ranked environments: 
-environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 1.5003
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 4.67698939566729
 environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.0001
 
@@ -9,16 +9,16 @@ number of files with unknown format: 0
 number of files with known format: 4
 rate of files with known format: 1.0
 contained formats: 
+id: Q1076355; format Portable Executable
+id: Q623334; format .exe
 id: Q4042979; format Linear Executable
-id: Q1343830; format Executable and Linkable Format
-id: Q28777715; format NSIS
+id: Q4045294; format New Executable
+id: Q47455565; format Windows Portable Executable file format, 64-bit
 id: Q47455466; format Windows Portable Executable file format, 32-bit
+id: Q66244789; format ScreenCam stand-alone Movies format
+id: Q1343830; format Executable and Linkable Format
 id: Q479833; format ا تهكير لعبة ببجي
 id: Q1882110; format DOS MZ executable
-id: Q1076355; format Portable Executable
-id: Q66244789; format ScreenCam stand-alone Movies format
-id: Q4045294; format New Executable
-id: Q623334; format .exe
 id: Q380319; format dynamic-link library
 id: Q28758002; format Inno Setup self-extracting archive
-id: Q47455565; format Windows Portable Executable file format, 64-bit
+id: Q28777715; format NSIS

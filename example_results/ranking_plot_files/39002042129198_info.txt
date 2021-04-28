@@ -1,43 +1,43 @@
 39002042129198.json
 top ranked environments: 
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.732052455590385
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 1.4024988505747125
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 1.4024988505747125
-environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.7786251231527092
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.06916551724137932
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 8.540199329585699
+environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.4232725459838163
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 1.947491542942452
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 1.947491542942452
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.31677169542705363
 
 number of files:  203
 number of files with unknown format: 55
 number of files with known format: 148
 rate of files with known format: 0.729064039408867
 contained formats: 
-id: Q27960787; format HS2
-id: Q1076355; format Portable Executable
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q28848214; format Statistical Package for the Social Sciences data file
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q27596243; format Windows Bitmap, version 3
-id: Q27995538; format Borderlands save file
-id: Q5153426; format Common Log Format
-id: Q5421818; format Extended Log Format
-id: Q28757684; format Nintendo Game Boy cartridge SAV file
-id: Q28600763; format Electronic Arts INF
 id: Q3807693; format ASCII tab
-id: Q50223812; format Bluetooth Snoop Packet Capture
-id: Q27996239; format Faster than Light saved game
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q4045294; format New Executable
-id: Q5448342; format File change log
-id: Q723030; format AsciiDoc
-id: Q29904540; format Statistical Analysis System log file
 id: Q7271574; format Quetzal file format
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
+id: Q28848214; format Statistical Package for the Social Sciences data file
+id: Q29904540; format Statistical Analysis System log file
+id: Q28206109; format farbfeld
+id: Q5448342; format File change log
 id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q5421818; format Extended Log Format
+id: Q27996239; format Faster than Light saved game
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q27596243; format Windows Bitmap, version 3
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q27995538; format Borderlands save file
+id: Q28757684; format Nintendo Game Boy cartridge SAV file
+id: Q99184084; format Atom web feed
 id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q5153426; format Common Log Format
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q16996920; format Windows Setup Information File
+id: Q27960787; format HS2

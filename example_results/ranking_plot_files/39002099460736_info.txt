@@ -1,8 +1,8 @@
 39002099460736.json
 top ranked environments: 
-environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.2002000000000002
-environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.2002000000000002
-environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.2002000000000002
+environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.2361348815472293
+environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 2.2361348815472293
+environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.2378049313909978
 environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.0001
 environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 0.0001
 
@@ -11,9 +11,9 @@ number of files with unknown format: 0
 number of files with known format: 3
 rate of files with known format: 1.0
 contained formats: 
-id: Q1343830; format Executable and Linkable Format
 id: Q27979410; format Binary Text
+id: Q28055391; format Printfox bitmap
+id: Q1343830; format Executable and Linkable Format
+id: Q2138624; format registry file
 id: Q1882400; format MacBinary
 id: Q29650305; format PSI-MI XML
-id: Q28055391; format Printfox bitmap
-id: Q2138624; format registry file

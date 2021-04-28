@@ -1,7 +1,7 @@
 39002084754358.json
 top ranked environments: 
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.6669666666666667
-environment_number: 5; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.2224222222222222
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.2500991451469634
+environment_number: 5; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.3242244700315911
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
 environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
@@ -11,13 +11,13 @@ number of files with unknown format: 0
 number of files with known format: 120
 rate of files with known format: 1.0
 contained formats: 
-id: Q27826464; format Cascading Style Sheets Level 1
+id: Q27826469; format Cascading Style Sheets Level 3
 id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
 id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q28206109; format farbfeld
-id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
 id: Q99184084; format Atom web feed
 id: Q27826466; format Cascading Style Sheets Level 2
-id: Q27826469; format Cascading Style Sheets Level 3
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q27526733; format Graphics Interchange Format, version 87a

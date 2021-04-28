@@ -1,6 +1,6 @@
 39002078209963.json
 top ranked environments: 
-environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.8890888888888888
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.15412640753634
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 2; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
 environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
@@ -12,12 +12,12 @@ number of files with known format: 22
 rate of files with known format: 1.0
 contained formats: 
 id: Q28975650; format Recon Mesh
-id: Q96075738; format Pajek format
+id: Q15938816; format MATLAB M-File
 id: Q3807693; format ASCII tab
-id: Q28205883; format Desktop Color Separation
-id: Q58006953; format TRIM Context Reference File
+id: Q27979156; format ASCII art
 id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
 id: Q95994246; format Agilent Microarray file format
+id: Q58006953; format TRIM Context Reference File
+id: Q96075738; format Pajek format
 id: Q723030; format AsciiDoc
-id: Q15938816; format MATLAB M-File
-id: Q27979156; format ASCII art
+id: Q28205883; format Desktop Color Separation

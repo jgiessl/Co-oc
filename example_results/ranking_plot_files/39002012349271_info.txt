@@ -1,6 +1,6 @@
 39002012349271.json
 top ranked environments: 
-environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.571828571428572
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 4.077672087403148
 environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.0001
 environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.0001
@@ -11,25 +11,25 @@ number of files with unknown format: 18
 number of files with known format: 159
 rate of files with known format: 0.8983050847457628
 contained formats: 
-id: Q939636; format CorelDRAW Document
-id: Q28205439; format Sony ARW
-id: Q95994246; format Agilent Microarray file format
-id: Q59653905; format Maya ASCII File Format
-id: Q50809785; format Portable Database, version 3
-id: Q55758993; format Microsoft Program Database file format, version 7
-id: Q55758988; format Microsoft Program Database file format, version 2
-id: Q28206843; format Palm Database ImageViewer
-id: Q58006953; format TRIM Context Reference File
-id: Q28207256; format ScreenShot Hack PDB
-id: Q50809753; format Portable Database, version 2
-id: Q29650793; format PalmOS Database
-id: Q3406936; format Program database
-id: Q3063041; format Filmbox
+id: Q28207363; format TealPaint PDB
 id: Q3807693; format ASCII tab
 id: Q27487495; format Shapefile spatial index of features part 2
-id: Q50809751; format Portable Database, version 1
-id: Q58799889; format PowerProject Teamplan
-id: Q723030; format AsciiDoc
+id: Q95994246; format Agilent Microarray file format
+id: Q59653905; format Maya ASCII File Format
 id: Q87816075; format Broderbund Print Shop Deluxe 5-6
-id: Q28207363; format TealPaint PDB
 id: Q27979156; format ASCII art
+id: Q3063041; format Filmbox
+id: Q58799889; format PowerProject Teamplan
+id: Q28207256; format ScreenShot Hack PDB
+id: Q29650793; format PalmOS Database
+id: Q55758988; format Microsoft Program Database file format, version 2
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q28206843; format Palm Database ImageViewer
+id: Q50809785; format Portable Database, version 3
+id: Q50809751; format Portable Database, version 1
+id: Q28205439; format Sony ARW
+id: Q939636; format CorelDRAW Document
+id: Q50809753; format Portable Database, version 2
+id: Q55758993; format Microsoft Program Database file format, version 7
+id: Q3406936; format Program database

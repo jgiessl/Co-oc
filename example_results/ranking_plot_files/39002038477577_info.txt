@@ -1,8 +1,8 @@
 39002038477577.json
 top ranked environments: 
-environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.3729490196078433
-environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.5689274509803922
-environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.11131111111111111
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 4.495723909493027
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.4384270076258765
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.20337293133179712
 environment_number: 2; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
 environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.0001
 
@@ -11,22 +11,22 @@ number of files with unknown format: 16
 number of files with known format: 93
 rate of files with known format: 0.8532110091743119
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q939636; format CorelDRAW Document
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q28205580; format OS/2 Icon
-id: Q58006953; format TRIM Context Reference File
-id: Q729366; format ICO
-id: Q28600763; format Electronic Arts INF
 id: Q3807693; format ASCII tab
-id: Q66134804; format Access Project file format
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
 id: Q28205626; format Sun icon
-id: Q723030; format AsciiDoc
-id: Q28206771; format OS/2 Bitmap Array
+id: Q729366; format ICO
 id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
+id: Q1662484; format Information Presentation Facility
 id: Q61777776; format Play SID Audio, version 1
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q28206771; format OS/2 Bitmap Array
+id: Q939636; format CorelDRAW Document
+id: Q66134804; format Access Project file format
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q16996920; format Windows Setup Information File

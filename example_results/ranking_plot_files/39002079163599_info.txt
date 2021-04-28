@@ -1,19 +1,19 @@
 39002079163599.json
 top ranked environments: 
-environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 7.200399999999998
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 7.200399999999998
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) Base V2 + Microsoft Works Suite 99 13401; score: 7.200399999999998
-environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 7.200399999999998
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 7.200399999999998
+environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 12.997286405989797
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 12.997286405989797
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) Base V2 + Microsoft Works Suite 99 13401; score: 12.997286405989797
+environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 12.997286405989797
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 12.997286405989797
 
 number of files:  1
 number of files with unknown format: 0
 number of files with known format: 1
 rate of files with known format: 1.0
 contained formats: 
-id: Q28205824; format CgBI
-id: Q27229642; format Portable Network Graphics, version 1.2
 id: Q27229608; format Portable Network Graphics, version 1.1
-id: Q178051; format Portable Network Graphics
-id: Q27229565; format Portable Network Graphics, version 1.0
 id: Q433224; format APNG
+id: Q178051; format Portable Network Graphics
+id: Q28205824; format CgBI
+id: Q27229565; format Portable Network Graphics, version 1.0
+id: Q27229642; format Portable Network Graphics, version 1.2

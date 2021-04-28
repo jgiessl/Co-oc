@@ -1,9 +1,9 @@
 39002070805123.json
 top ranked environments: 
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.010691723742068
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 1.1146404798559213
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.825474825174825
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.3780031582284955
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.1540429412195845
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.4701222480059317
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 1.6724998808946339
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.8339010443718885
 environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.0001
 
 number of files:  110
@@ -11,17 +11,17 @@ number of files with unknown format: 0
 number of files with known format: 110
 rate of files with known format: 1.0
 contained formats: 
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q3807693; format ASCII tab
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q58006953; format TRIM Context Reference File
-id: Q66134804; format Access Project file format
-id: Q95994246; format Agilent Microarray file format
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q723030; format AsciiDoc
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q99184084; format Atom web feed
-id: Q27979156; format ASCII art
-id: Q27826466; format Cascading Style Sheets Level 2
 id: Q27826469; format Cascading Style Sheets Level 3
+id: Q3807693; format ASCII tab
+id: Q66134804; format Access Project file format
+id: Q27979156; format ASCII art
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q95994246; format Agilent Microarray file format
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q99184084; format Atom web feed
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q58006953; format TRIM Context Reference File
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q723030; format AsciiDoc

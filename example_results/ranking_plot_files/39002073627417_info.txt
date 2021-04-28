@@ -1,6 +1,6 @@
 39002073627417.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.5002
+environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.6129464568302369
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.0001
 environment_number: 2; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
@@ -11,8 +11,8 @@ number of files with unknown format: 2
 number of files with known format: 1278
 rate of files with known format: 0.9984375
 contained formats: 
-id: Q217570; format Waveform Audio File Format
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
 id: Q5924007; format JavaScript
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q99184084; format Atom web feed
+id: Q28206109; format farbfeld
+id: Q217570; format Waveform Audio File Format

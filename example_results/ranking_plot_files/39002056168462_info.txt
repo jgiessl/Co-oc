@@ -1,63 +1,63 @@
 39002056168462.json
 top ranked environments: 
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 3.408663265306122
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.035921821036107
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.1227489795918368
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.3487086342229199
-environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.12274897959183671
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 19.99354880111092
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 6.651007431214153
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.9692335612936325
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.6966258330315405
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.6079442511727247
 
 number of files:  75
 number of files with unknown format: 34
 number of files with known format: 41
 rate of files with known format: 0.5466666666666666
 contained formats: 
-id: Q34284437; format Pascal script
-id: Q28770260; format Hugo
-id: Q29650305; format PSI-MI XML
-id: Q7311459; format Relocatable Object Module Format
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q572649; format Intel HEX
-id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
-id: Q28205580; format OS/2 Icon
-id: Q29650311; format POV-Ray scene description
-id: Q29000741; format WorldBuilder
-id: Q777561; format BinHex
-id: Q382011; format Program information file
-id: Q3888665; format Package interchange format
-id: Q58006953; format TRIM Context Reference File
-id: Q49620373; format Revit Workspace
-id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
-id: Q28919155; format Rhino Worksession
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
-id: Q5153426; format Common Log Format
-id: Q5421818; format Extended Log Format
-id: Q29000614; format Resource File
-id: Q27967123; format Buzzic v1.x
-id: Q28600763; format Electronic Arts INF
 id: Q3807693; format ASCII tab
-id: Q58335745; format Acrobat Catalog Cat File
-id: Q50223812; format Bluetooth Snoop Packet Capture
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q28206952; format PhotoDeluxe
-id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q27967123; format Buzzic v1.x
+id: Q4045294; format New Executable
+id: Q34310996; format Security Catalog
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
 id: Q28344021; format Imagine Object File
 id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q58335773; format Verity Collection Stop List
-id: Q5448342; format File change log
 id: Q28205626; format Sun icon
-id: Q856364; format Common Object File Format
-id: Q2119595; format Wavefront .obj file
-id: Q29000651; format WLD
-id: Q34310996; format Security Catalog
 id: Q29904540; format Statistical Analysis System log file
-id: Q723030; format AsciiDoc
-id: Q28206771; format OS/2 Bitmap Array
-id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
+id: Q28206109; format farbfeld
 id: Q3509055; format STEP file
+id: Q729366; format ICO
+id: Q5448342; format File change log
+id: Q29650311; format POV-Ray scene description
+id: Q7311459; format Relocatable Object Module Format
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
+id: Q34284437; format Pascal script
+id: Q5421818; format Extended Log Format
+id: Q29000741; format WorldBuilder
+id: Q777561; format BinHex
+id: Q58006953; format TRIM Context Reference File
+id: Q856364; format Common Object File Format
+id: Q723030; format AsciiDoc
+id: Q28770260; format Hugo
+id: Q29000614; format Resource File
+id: Q28600763; format Electronic Arts INF
+id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
+id: Q99184084; format Atom web feed
+id: Q382011; format Program information file
+id: Q28919155; format Rhino Worksession
+id: Q49620373; format Revit Workspace
+id: Q2119595; format Wavefront .obj file
+id: Q572649; format Intel HEX
+id: Q3888665; format Package interchange format
+id: Q28206771; format OS/2 Bitmap Array
+id: Q29650305; format PSI-MI XML
+id: Q58335773; format Verity Collection Stop List
+id: Q28205580; format OS/2 Icon
+id: Q28206952; format PhotoDeluxe
+id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q5153426; format Common Log Format
+id: Q29000651; format WLD
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q58335745; format Acrobat Catalog Cat File
+id: Q16996920; format Windows Setup Information File

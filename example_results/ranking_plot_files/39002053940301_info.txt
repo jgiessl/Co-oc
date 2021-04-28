@@ -9,11 +9,11 @@ number of files with unknown format: 4
 number of files with known format: 18
 rate of files with known format: 0.8181818181818182
 contained formats: 
-id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
-id: Q28755621; format Exact Yearbook ID file
-id: Q29650305; format PSI-MI XML
 id: Q4045294; format New Executable
-id: Q29151494; format Quantum compressed archive
+id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
 id: Q28600412; format Attribute-Relation File Format
 id: Q1144005; format WinHelp
+id: Q28755621; format Exact Yearbook ID file
+id: Q29151494; format Quantum compressed archive
+id: Q29650305; format PSI-MI XML
 id: Q27925705; format DTED Readme file

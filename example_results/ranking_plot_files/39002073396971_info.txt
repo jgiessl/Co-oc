@@ -1,40 +1,40 @@
 39002073396971.json
 top ranked environments: 
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 21.64608279314235
-environment_number: 10; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 17.044839739749552
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit Base V1 + AutoCAD LT 2006 - 5788; score: 17.044839739749552
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 12.140288287647822
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 9.725874725274723
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 64.97772166765235
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 41.214187064993034
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 38.101650762339744
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 38.101650762339744
+environment_number: 10; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 37.641820774389736
 
 number of files:  1143
 number of files with unknown format: 0
 number of files with known format: 1143
 rate of files with known format: 1.0
 contained formats: 
-id: Q28858068; format Binary Interchange File Format, version 8
-id: Q60886323; format Microsoft Excel 2000-2003 Workbook
-id: Q95994246; format Agilent Microarray file format
-id: Q60886160; format Microsoft Excel 97 Workbook
-id: Q47483382; format Statistical Analysis System Data (Unix)
-id: Q47483371; format Statistical Analysis System Data (Windows)
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q29904535; format Statistical Analysis System program
-id: Q60806257; format Microsoft Excel 4.0 Worksheet (xls)
-id: Q47483863; format Statistical Analysis System Data (Unix)
-id: Q59961716; format Sound Designer II Audio File
 id: Q3807693; format ASCII tab
+id: Q95994246; format Agilent Microarray file format
+id: Q28206109; format farbfeld
 id: Q47483645; format Statistical Analysis System Data (Windows)
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q60806040; format Microsoft Excel 3.0 Worksheet (xls)
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q52834888; format Microsoft Excel 2.x Worksheet
-id: Q60873199; format Excel 95 Workbook
-id: Q47483398; format Statistical Analysis System Data (Windows)
-id: Q47483338; format Statistical Analysis System data set (Unix)
-id: Q47483489; format Statistical Analysis System Data (Unix)
-id: Q723030; format AsciiDoc
+id: Q60806257; format Microsoft Excel 4.0 Worksheet (xls)
 id: Q27979156; format ASCII art
+id: Q28858068; format Binary Interchange File Format, version 8
+id: Q52834888; format Microsoft Excel 2.x Worksheet
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q47483489; format Statistical Analysis System Data (Unix)
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q59961716; format Sound Designer II Audio File
+id: Q47483382; format Statistical Analysis System Data (Unix)
+id: Q99184084; format Atom web feed
+id: Q60806040; format Microsoft Excel 3.0 Worksheet (xls)
+id: Q47483338; format Statistical Analysis System data set (Unix)
+id: Q47483371; format Statistical Analysis System Data (Windows)
+id: Q47483863; format Statistical Analysis System Data (Unix)
+id: Q66134804; format Access Project file format
+id: Q60873199; format Excel 95 Workbook
+id: Q60886323; format Microsoft Excel 2000-2003 Workbook
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q60886160; format Microsoft Excel 97 Workbook
+id: Q47483398; format Statistical Analysis System Data (Windows)
+id: Q29904535; format Statistical Analysis System program

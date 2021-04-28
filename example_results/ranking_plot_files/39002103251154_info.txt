@@ -1,9 +1,9 @@
 39002103251154.json
 top ranked environments: 
-environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 6.0001999999999995
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 6.0001999999999995
-environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 6.0001999999999995
-environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 6.0001999999999995
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 6.646470979324201
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 6.646470979324201
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 6.646470979324201
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 6.646470979324201
 environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.0001
 
 number of files:  3
@@ -11,5 +11,5 @@ number of files with unknown format: 0
 number of files with known format: 3
 rate of files with known format: 1.0
 contained formats: 
-id: Q24834502; format PowerPoint Binary File Format
 id: Q60342897; format Microsoft PowerPoint Show
+id: Q24834502; format PowerPoint Binary File Format

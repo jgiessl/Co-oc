@@ -1,106 +1,106 @@
 39002068056770.json
 top ranked environments: 
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 9.97245868634142
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.722804314122012
-environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 4.3824772269454755
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 4.107259049441304
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 2.3486946073474892
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 47.9063266462447
+environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 25.28541478293807
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 24.483761097928106
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 23.884093554443147
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 15.39069082412824
 
 number of files:  2035
 number of files with unknown format: 486
 number of files with known format: 1549
 rate of files with known format: 0.7611793611793611
 contained formats: 
-id: Q61727602; format PrimeOCR file format, version 4.3
-id: Q59999653; format ESRI Arc/View Project
-id: Q73514615; format KiCad Project
-id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
-id: Q27231651; format Tag Image File Format, version 5.0
-id: Q777561; format BinHex
-id: Q28049770; format DKBTrace scene description
-id: Q32097740; format Fallout DAT
-id: Q27231634; format Tag Image File Format, version 4.0
-id: Q27349804; format ESRI Arc/Info Binary Grid
-id: Q27866059; format Digital Negative, version 1.1
-id: Q66663925; format OS/2 Metafile
-id: Q61971919; format Microsoft Visual FoxPro Database Table File
-id: Q27866063; format Digital Negative, version 1.4
-id: Q27473828; format BIL/BIP/BSQ Color File
-id: Q283579; format tar
-id: Q61971917; format FoxPro Database, version 2x
-id: Q28207379; format TIFF for Fax eXtended
 id: Q34312151; format Macromedia Director, uncompressed PC variant
-id: Q61727114; format PrimeOCR file format, version 3
-id: Q6912474; format Mork
-id: Q28205439; format Sony ARW
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q61727504; format PrimeOCR file format, version 3.8
-id: Q50604441; format SNAP Archive Data File
-id: Q28207108; format The Print Shop Graphics file
 id: Q60628005; format FoxPro Database, version 2
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q27487130; format Shapefile dBASE table
-id: Q28206057; format ERDAS IMAGINE Gray-scale Bitmap Image
-id: Q51954521; format Microsoft FoxPro Database, version 2.6
-id: Q81526528; format MicroStation Resource data
-id: Q28206109; format farbfeld
-id: Q81526664; format Palm Desktop DateBook
-id: Q67383890; format Source Engine Compiled AI Nodegraph
-id: Q52834849; format dBASE for Windows database, version 5
-id: Q48814895; format ESRI ArcView Project
-id: Q28207384; format TIFF/IT
-id: Q34747804; format Supaplex Level format
-id: Q44933672; format dBASE IV
-id: Q8811; format HyperText Markup Language
-id: Q28205771; format BigTIFF
-id: Q2053; format HTML5
-id: Q61727569; format PrimeOCR file format, version 4.2
-id: Q5616826; format ChordPro
-id: Q1076355; format Portable Executable
 id: Q95994246; format Agilent Microarray file format
-id: Q46118194; format Lotus Approach View File, version 97
-id: Q28758112; format Internet Explorer history file
-id: Q27960128; format Computerized Speech Lab NSP
-id: Q4746193; format Amiga Disk File
+id: Q51954521; format Microsoft FoxPro Database, version 2.6
 id: Q28755606; format Exact Yearbook DAT file
-id: Q51753252; format AutoCAD Compiled Shape/Font File
-id: Q27231654; format Tag Image File Format, version 6.0
-id: Q51753051; format 3D Studio Shapes
-id: Q29904450; format Presentation Manager Metafile
-id: Q27487109; format Shapefile index file
-id: Q27487512; format Shapefile header index
-id: Q32097899; format Fallout v2 DAT
-id: Q3807693; format ASCII tab
-id: Q29650304; format PRT scene description
-id: Q1888930; format Vector Markup Language
-id: Q1502796; format GeoTIFF
-id: Q27486884; format Shapefile main file
-id: Q28207085; format PrintMaster Graphics file
-id: Q27925722; format DTED Level 1 Gazetteer Directory file
-id: Q27866062; format Digital Negative, version 1.3
-id: Q27979156; format ASCII art
-id: Q1134089; format world file
-id: Q27979154; format ArtWorx Data Format
-id: Q28786544; format Netscape bookmarks
-id: Q28205372; format Kodak TIFF
-id: Q27487522; format Shapefile attribute index part 1
-id: Q47233167; format LDR
+id: Q28207108; format The Print Shop Graphics file
 id: Q79242428; format Antenna Data File
-id: Q51954585; format dBASE Database
-id: Q58006953; format TRIM Context Reference File
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q7670377; format Tagged Image File Format/Electronic Photography
-id: Q27923693; format DTED Cells Directory File
-id: Q99184084; format Atom web feed
-id: Q62626012; format HyperText Markup Language
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q60628025; format FoxPro Database, version 2.5
+id: Q27979156; format ASCII art
+id: Q28758112; format Internet Explorer history file
 id: Q47538951; format AutoCAD Compiled Menu
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q47012501; format OmniPage Pro Document file format
-id: Q66439259; format WordPerfect Merge Data file format
+id: Q777561; format BinHex
+id: Q283579; format tar
+id: Q1888930; format Vector Markup Language
+id: Q99184084; format Atom web feed
+id: Q27473828; format BIL/BIP/BSQ Color File
+id: Q61727602; format PrimeOCR file format, version 4.3
+id: Q166074; format Extensible HyperText Markup Language
+id: Q59999653; format ESRI Arc/View Project
+id: Q51753252; format AutoCAD Compiled Shape/Font File
+id: Q27979154; format ArtWorx Data Format
+id: Q51954585; format dBASE Database
+id: Q52834849; format dBASE for Windows database, version 5
+id: Q28786544; format Netscape bookmarks
+id: Q61727504; format PrimeOCR file format, version 3.8
+id: Q61727569; format PrimeOCR file format, version 4.2
+id: Q44933672; format dBASE IV
+id: Q27960128; format Computerized Speech Lab NSP
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q58006953; format TRIM Context Reference File
+id: Q27487130; format Shapefile dBASE table
 id: Q61727514; format PrimeOCR file format, version 3.9
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q1076355; format Portable Executable
+id: Q73514615; format KiCad Project
+id: Q28207085; format PrintMaster Graphics file
+id: Q27487512; format Shapefile header index
+id: Q27925722; format DTED Level 1 Gazetteer Directory file
+id: Q27231651; format Tag Image File Format, version 5.0
+id: Q27866062; format Digital Negative, version 1.3
+id: Q28049770; format DKBTrace scene description
+id: Q28207379; format TIFF for Fax eXtended
+id: Q27487109; format Shapefile index file
+id: Q27231634; format Tag Image File Format, version 4.0
+id: Q3807693; format ASCII tab
 id: Q4045294; format New Executable
+id: Q29650304; format PRT scene description
+id: Q29904450; format Presentation Manager Metafile
+id: Q61971917; format FoxPro Database, version 2x
+id: Q28206057; format ERDAS IMAGINE Gray-scale Bitmap Image
+id: Q81526664; format Palm Desktop DateBook
+id: Q51753051; format 3D Studio Shapes
+id: Q6912474; format Mork
+id: Q28205771; format BigTIFF
+id: Q60628025; format FoxPro Database, version 2.5
+id: Q1502796; format GeoTIFF
+id: Q8811; format HyperText Markup Language
 id: Q61727559; format PrimeOCR file format, version 4
+id: Q47012501; format OmniPage Pro Document file format
+id: Q61727114; format PrimeOCR file format, version 3
+id: Q28205439; format Sony ARW
+id: Q27349804; format ESRI Arc/Info Binary Grid
+id: Q27486884; format Shapefile main file
+id: Q27923693; format DTED Cells Directory File
+id: Q1134089; format world file
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q27866063; format Digital Negative, version 1.4
+id: Q2053; format HTML5
+id: Q50604441; format SNAP Archive Data File
+id: Q5616826; format ChordPro
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q4746193; format Amiga Disk File
+id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
+id: Q28206109; format farbfeld
+id: Q48814895; format ESRI ArcView Project
+id: Q32097899; format Fallout v2 DAT
+id: Q34747804; format Supaplex Level format
+id: Q27866059; format Digital Negative, version 1.1
+id: Q62626012; format HyperText Markup Language
 id: Q723030; format AsciiDoc
+id: Q27231654; format Tag Image File Format, version 6.0
+id: Q61971919; format Microsoft Visual FoxPro Database Table File
+id: Q27487522; format Shapefile attribute index part 1
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q67383890; format Source Engine Compiled AI Nodegraph
+id: Q28205372; format Kodak TIFF
+id: Q81526528; format MicroStation Resource data
+id: Q46118194; format Lotus Approach View File, version 97
+id: Q32097740; format Fallout DAT
+id: Q28207384; format TIFF/IT
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q7670377; format Tagged Image File Format/Electronic Photography
+id: Q47233167; format LDR
+id: Q66663925; format OS/2 Metafile

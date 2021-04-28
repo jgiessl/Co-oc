@@ -1,6 +1,6 @@
 39002067187139.json
 top ranked environments: 
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.6483404481404481
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.9534841371623473
 environment_number: 0; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
 environment_number: 1; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
 environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
@@ -13,12 +13,12 @@ rate of files with known format: 0.534896401308615
 contained formats: 
 id: Q2276274; format System.map
 id: Q7311459; format Relocatable Object Module Format
-id: Q856364; format Common Object File Format
-id: Q6457314; format LBR
-id: Q2119595; format Wavefront .obj file
-id: Q28771288; format Mapsforge Binary Map
-id: Q28344021; format Imagine Object File
-id: Q29167914; format PCRaster Map
-id: Q28009488; format Tibia map file
 id: Q29905095; format Statistical Analysis System multi-dimensional database file
+id: Q28344021; format Imagine Object File
 id: Q27596100; format Windows Bitmap, version 1
+id: Q29167914; format PCRaster Map
+id: Q2119595; format Wavefront .obj file
+id: Q28009488; format Tibia map file
+id: Q856364; format Common Object File Format
+id: Q28771288; format Mapsforge Binary Map
+id: Q6457314; format LBR

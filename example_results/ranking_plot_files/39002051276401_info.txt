@@ -1,8 +1,8 @@
 39002051276401.json
 top ranked environments: 
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.7780777777777779
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 0.5557555555555556
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.47494747474747473
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.7399849933949256
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.8207040372821565
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 0.5871078541895142
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Illustrator CS3; score: 0.0001
 
@@ -11,22 +11,22 @@ number of files with unknown format: 11
 number of files with known format: 19
 rate of files with known format: 0.6333333333333333
 contained formats: 
-id: Q28955450; format GenBank file format
-id: Q34312151; format Macromedia Director, uncompressed PC variant
-id: Q51839184; format Ventura Publisher
-id: Q95994246; format Agilent Microarray file format
-id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
-id: Q34740514; format Softdisk Family Tree 2 Person Data
-id: Q58006953; format TRIM Context Reference File
-id: Q29209269; format Z
-id: Q28758103; format InstallShield Z
-id: Q1144005; format WinHelp
-id: Q27923693; format DTED Cells Directory File
 id: Q3807693; format ASCII tab
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q27925722; format DTED Level 1 Gazetteer Directory file
-id: Q29650301; format Pack
 id: Q4045294; format New Executable
+id: Q95994246; format Agilent Microarray file format
+id: Q34312151; format Macromedia Director, uncompressed PC variant
+id: Q34740514; format Softdisk Family Tree 2 Person Data
 id: Q27350220; format ADRG General Information File
-id: Q723030; format AsciiDoc
+id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
+id: Q1144005; format WinHelp
 id: Q27979156; format ASCII art
+id: Q28955450; format GenBank file format
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q29650301; format Pack
+id: Q28758103; format InstallShield Z
+id: Q27925722; format DTED Level 1 Gazetteer Directory file
+id: Q27923693; format DTED Cells Directory File
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q51839184; format Ventura Publisher
+id: Q29209269; format Z

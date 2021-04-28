@@ -1,43 +1,43 @@
 39002120594776.json
 top ranked environments: 
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 18.86635619205167
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 10.503263054187187
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 10.503263054187187
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 9.606511330049257
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 8.64612019704433
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 62.27329900879762
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 39.76604113510463
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 39.602676291707745
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 37.982287367114274
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 28.559640948198446
 
 number of files:  3767
 number of files with unknown format: 45
 number of files with known format: 3722
 rate of files with known format: 0.9880541544996018
 contained formats: 
-id: Q28858068; format Binary Interchange File Format, version 8
-id: Q29000599; format Windows Shortcut
-id: Q60886323; format Microsoft Excel 2000-2003 Workbook
-id: Q1076355; format Portable Executable
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
 id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q60886160; format Microsoft Excel 97 Workbook
-id: Q28205580; format OS/2 Icon
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q178051; format Portable Network Graphics
-id: Q99184084; format Atom web feed
+id: Q28205626; format Sun icon
+id: Q28600412; format Attribute-Relation File Format
 id: Q729366; format ICO
 id: Q60806257; format Microsoft Excel 4.0 Worksheet (xls)
-id: Q28600763; format Electronic Arts INF
-id: Q3807693; format ASCII tab
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q60806040; format Microsoft Excel 3.0 Worksheet (xls)
-id: Q52834888; format Microsoft Excel 2.x Worksheet
-id: Q60873199; format Excel 95 Workbook
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q723030; format AsciiDoc
-id: Q28600412; format Attribute-Relation File Format
-id: Q28206771; format OS/2 Bitmap Array
 id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q28858068; format Binary Interchange File Format, version 8
+id: Q178051; format Portable Network Graphics
+id: Q52834888; format Microsoft Excel 2.x Worksheet
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q99184084; format Atom web feed
+id: Q60806040; format Microsoft Excel 3.0 Worksheet (xls)
+id: Q29000599; format Windows Shortcut
+id: Q28206771; format OS/2 Bitmap Array
+id: Q66134804; format Access Project file format
+id: Q60873199; format Excel 95 Workbook
+id: Q28205580; format OS/2 Icon
+id: Q60886323; format Microsoft Excel 2000-2003 Workbook
 id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q60886160; format Microsoft Excel 97 Workbook
+id: Q16996920; format Windows Setup Information File

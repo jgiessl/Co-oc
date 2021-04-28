@@ -1,35 +1,35 @@
 39002053927795.json
 top ranked environments: 
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.2860142857142856
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.6668666666666666
-environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.4287714285714285
-environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 0.4287714285714285
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.4287714285714285
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.9319041853141177
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.7685500207505573
+environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.5346469198937751
+environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 0.5346469198937751
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.53415586078974
 
 number of files:  120
 number of files with unknown format: 1
 number of files with known format: 119
 rate of files with known format: 0.9916666666666667
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q28600764; format Electronic Arts MOV
-id: Q58006953; format TRIM Context Reference File
-id: Q29209269; format Z
-id: Q28771319; format Microsoft Library
-id: Q6043826; format Intellifont
-id: Q28758103; format InstallShield Z
-id: Q27596243; format Windows Bitmap, version 3
-id: Q479833; format ا تهكير لعبة ببجي
-id: Q60615282; format Write for Windows Document, version 3
 id: Q3807693; format ASCII tab
-id: Q66134804; format Access Project file format
-id: Q29000498; format OrCAD library
-id: Q942350; format QuickTime File Format
-id: Q27526866; format Write for Windows Document, version 3.1
-id: Q29650301; format Pack
 id: Q4045294; format New Executable
-id: Q27967388; format Adlib Tracker instrument
-id: Q723030; format AsciiDoc
+id: Q95994246; format Agilent Microarray file format
+id: Q479833; format ا تهكير لعبة ببجي
+id: Q28771319; format Microsoft Library
 id: Q27979156; format ASCII art
+id: Q58006953; format TRIM Context Reference File
+id: Q27526866; format Write for Windows Document, version 3.1
+id: Q723030; format AsciiDoc
+id: Q29650301; format Pack
+id: Q27596243; format Windows Bitmap, version 3
+id: Q29000498; format OrCAD library
+id: Q1076355; format Portable Executable
+id: Q60615282; format Write for Windows Document, version 3
+id: Q27967388; format Adlib Tracker instrument
+id: Q28758103; format InstallShield Z
 id: Q1141412; format INI file
+id: Q66134804; format Access Project file format
+id: Q942350; format QuickTime File Format
+id: Q28600764; format Electronic Arts MOV
+id: Q6043826; format Intellifont
+id: Q29209269; format Z

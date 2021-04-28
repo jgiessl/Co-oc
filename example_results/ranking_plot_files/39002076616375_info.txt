@@ -1,9 +1,9 @@
 39002076616375.json
 top ranked environments: 
-environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.2103840336134453
-environment_number: 2; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.4035613445378151
-environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.4035613445378151
-environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.11784705882352942
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.101522404990312
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.4999924780232863
+environment_number: 2; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.4985558569980975
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.199366672108564
 environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.0001
 
 number of files:  171
@@ -11,21 +11,21 @@ number of files with unknown format: 0
 number of files with known format: 171
 rate of files with known format: 1.0
 contained formats: 
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q217570; format Waveform Audio File Format
-id: Q27826464; format Cascading Style Sheets Level 1
 id: Q28600763; format Electronic Arts INF
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q28205626; format Sun icon
+id: Q27826469; format Cascading Style Sheets Level 3
 id: Q66134804; format Access Project file format
 id: Q1662484; format Information Presentation Facility
 id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q28206109; format farbfeld
-id: Q28206771; format OS/2 Bitmap Array
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
 id: Q28205580; format OS/2 Icon
+id: Q66811836; format Inform source code file
 id: Q684554; format Autorun.inf
-id: Q27826469; format Cascading Style Sheets Level 3
+id: Q99184084; format Atom web feed
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q28205626; format Sun icon
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q16996920; format Windows Setup Information File
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q729366; format ICO
+id: Q28206771; format OS/2 Bitmap Array
+id: Q217570; format Waveform Audio File Format

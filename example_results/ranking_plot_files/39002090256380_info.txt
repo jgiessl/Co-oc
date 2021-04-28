@@ -8,13 +8,13 @@ number of files with unknown format: 2
 number of files with known format: 7
 rate of files with known format: 0.7777777777777778
 contained formats: 
+id: Q942350; format QuickTime File Format
+id: Q61777776; format Play SID Audio, version 1
+id: Q28600764; format Electronic Arts MOV
+id: Q967056; format SoundFont
+id: Q27923693; format DTED Cells Directory File
+id: Q29905089; format Statistical Analysis System consolidation database file
 id: Q34312151; format Macromedia Director, uncompressed PC variant
+id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
 id: Q27925722; format DTED Level 1 Gazetteer Directory file
 id: Q27967384; format SoundFont 2.0
-id: Q967056; format SoundFont
-id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
-id: Q27923693; format DTED Cells Directory File
-id: Q28600764; format Electronic Arts MOV
-id: Q942350; format QuickTime File Format
-id: Q29905089; format Statistical Analysis System consolidation database file
-id: Q61777776; format Play SID Audio, version 1

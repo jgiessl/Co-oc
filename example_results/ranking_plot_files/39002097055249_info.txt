@@ -1,94 +1,94 @@
 39002097055249.json
 top ranked environments: 
-environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 8.048216658981039
-environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 7.485549171518147
-environment_number: 10; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 6.806116148504552
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 5.1413445800910145
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 4.87921468875952
+environment_number: 10; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 34.51884307748461
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 27.86132117673447
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 21.852898559195246
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 17.46618963960308
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 17.264036726342116
 
 number of files:  898
 number of files with unknown format: 316
 number of files with known format: 582
 rate of files with known format: 0.6481069042316259
 contained formats: 
-id: Q2627217; format Mach-O
-id: Q61727602; format PrimeOCR file format, version 4.3
-id: Q73514615; format KiCad Project
-id: Q51034969; format Paradox Database Table format, version 3
 id: Q66310989; format Pantry Files
-id: Q51837224; format Paradox Database Table, version 7
-id: Q28771302; format Matlab figure
-id: Q28009488; format Tibia map file
-id: Q29650330; format PGP public key
-id: Q27967116; format ASC Sound Master module
-id: Q62625561; format Bash script
-id: Q856364; format Common Object File Format
-id: Q28206771; format OS/2 Bitmap Array
-id: Q44044; format N-Triples
-id: Q27349828; format ESRI Arc/Info ASCII Grid
-id: Q47512572; format man page
-id: Q2276274; format System.map
-id: Q61727114; format PrimeOCR file format, version 3
-id: Q28205883; format Desktop Color Separation
-id: Q28771288; format Mapsforge Binary Map
-id: Q61727504; format PrimeOCR file format, version 3.8
-id: Q34284525; format Perl script
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q27967223; format StarTrekker/Star Tracker module
-id: Q1194435; format MPEG-2 transport stream
-id: Q28206109; format farbfeld
-id: Q29167914; format PCRaster Map
-id: Q51035340; format Paradox Database Table, version 5
-id: Q729366; format ICO
-id: Q29151645; format Research Articles in Simplified HTML
-id: Q28600256; format ASCII Encoded HP 48 Object
-id: Q27967123; format Buzzic v1.x
-id: Q28205667; format Public Key Cryptography Standard 10
-id: Q29650343; format PEM encoded RSA private key
-id: Q29650342; format PEM encoded certificate
-id: Q28206138; format Freedom of Press Info
-id: Q8811; format HyperText Markup Language
-id: Q2053; format HTML5
-id: Q279254; format a.out
-id: Q61727569; format PrimeOCR file format, version 4.2
-id: Q5616826; format ChordPro
-id: Q930281; format Windows thumbnail cache
-id: Q1076355; format Portable Executable
-id: Q29650305; format PSI-MI XML
-id: Q95994246; format Agilent Microarray file format
-id: Q28049670; format Autodesk 3D Studio ASCII format
-id: Q288405; format hOCR
-id: Q1343830; format Executable and Linkable Format
-id: Q3807693; format ASCII tab
-id: Q1888930; format Vector Markup Language
-id: Q8041715; format XCOFF
-id: Q627554; format certificate signing request
-id: Q27979156; format ASCII art
-id: Q51035227; format Paradox Database Table, version 4
-id: Q28786544; format Netscape bookmarks
-id: Q17073241; format Opera Show Format
 id: Q10287816; format GZIP
+id: Q95994246; format Agilent Microarray file format
+id: Q3513566; format tab-separated values
+id: Q28771302; format Matlab figure
+id: Q729366; format ICO
+id: Q27979156; format ASCII art
+id: Q28206147; format Freedom of Press Bitamp
+id: Q66219660; format shtml
+id: Q29167914; format PCRaster Map
+id: Q28205883; format Desktop Color Separation
+id: Q1888930; format Vector Markup Language
+id: Q930281; format Windows thumbnail cache
+id: Q99184084; format Atom web feed
+id: Q29650342; format PEM encoded certificate
+id: Q61727602; format PrimeOCR file format, version 4.3
+id: Q51035340; format Paradox Database Table, version 5
+id: Q28009488; format Tibia map file
+id: Q28206771; format OS/2 Bitmap Array
+id: Q166074; format Extensible HyperText Markup Language
 id: Q28205580; format OS/2 Icon
 id: Q34285652; format Perl Common Gateway Interface script
-id: Q58006953; format TRIM Context Reference File
-id: Q63036182; format 8-bit ASCII Text
-id: Q99184084; format Atom web feed
-id: Q28600454; format DB (Watcom-SQL)
-id: Q29650322; format PKCS#7 certificate
-id: Q28600453; format SQLite database file format
-id: Q62626012; format HyperText Markup Language
-id: Q28756261; format FIG
-id: Q673906; format Simple Standards-Based Slide Show System
-id: Q28600435; format Consolidated.db
-id: Q28206147; format Freedom of Press Bitamp
-id: Q5322705; format Extended Common Object File Format
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q66219660; format shtml
-id: Q61727514; format PrimeOCR file format, version 3.9
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q61727559; format PrimeOCR file format, version 4
+id: Q28786544; format Netscape bookmarks
+id: Q61727504; format PrimeOCR file format, version 3.8
+id: Q61727569; format PrimeOCR file format, version 4.2
+id: Q29151645; format Research Articles in Simplified HTML
 id: Q62619688; format 7-bit ASCII Text
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q29650343; format PEM encoded RSA private key
+id: Q2627217; format Mach-O
+id: Q58006953; format TRIM Context Reference File
+id: Q27967223; format StarTrekker/Star Tracker module
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q61727514; format PrimeOCR file format, version 3.9
+id: Q1076355; format Portable Executable
+id: Q73514615; format KiCad Project
+id: Q1343830; format Executable and Linkable Format
+id: Q28049670; format Autodesk 3D Studio ASCII format
+id: Q5322705; format Extended Common Object File Format
+id: Q29650305; format PSI-MI XML
+id: Q2276274; format System.map
+id: Q3807693; format ASCII tab
+id: Q27967123; format Buzzic v1.x
+id: Q4045294; format New Executable
+id: Q44044; format N-Triples
+id: Q28205626; format Sun icon
+id: Q28206138; format Freedom of Press Info
+id: Q28205667; format Public Key Cryptography Standard 10
+id: Q28600435; format Consolidated.db
+id: Q17073241; format Opera Show Format
+id: Q29650330; format PGP public key
+id: Q51034969; format Paradox Database Table format, version 3
+id: Q27349828; format ESRI Arc/Info ASCII Grid
+id: Q27967116; format ASC Sound Master module
+id: Q8811; format HyperText Markup Language
+id: Q61727559; format PrimeOCR file format, version 4
+id: Q61727114; format PrimeOCR file format, version 3
+id: Q63036182; format 8-bit ASCII Text
+id: Q28600454; format DB (Watcom-SQL)
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q2053; format HTML5
+id: Q5616826; format ChordPro
+id: Q29650322; format PKCS#7 certificate
+id: Q8041715; format XCOFF
+id: Q1194435; format MPEG-2 transport stream
+id: Q279254; format a.out
+id: Q627554; format certificate signing request
+id: Q28206109; format farbfeld
+id: Q288405; format hOCR
+id: Q62626012; format HyperText Markup Language
+id: Q856364; format Common Object File Format
 id: Q723030; format AsciiDoc
-id: Q3513566; format tab-separated values
+id: Q62625561; format Bash script
+id: Q34284525; format Perl script
+id: Q28756261; format FIG
+id: Q47512572; format man page
+id: Q28600453; format SQLite database file format
+id: Q28600256; format ASCII Encoded HP 48 Object
+id: Q51035227; format Paradox Database Table, version 4
+id: Q51837224; format Paradox Database Table, version 7
+id: Q28771288; format Mapsforge Binary Map

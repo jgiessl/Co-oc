@@ -1,23 +1,23 @@
 39002053672722.json
 top ranked environments: 
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.666966666666666
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 4.222422222222223
-environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.0224222222222221
-environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.2224222222222222
-environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 0.2224222222222222
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.935579784564544
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 4.38880211810417
+environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.287459740869673
+environment_number: 9; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.3040812668316325
+environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.2429963996287417
 
 number of files:  1101
 number of files with unknown format: 0
 number of files with known format: 1101
 rate of files with known format: 1.0
 contained formats: 
-id: Q218170; format PostScript
 id: Q3807693; format ASCII tab
-id: Q58006953; format TRIM Context Reference File
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q95994246; format Agilent Microarray file format
-id: Q723030; format AsciiDoc
-id: Q178051; format Portable Network Graphics
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
 id: Q27979156; format ASCII art
+id: Q218170; format PostScript
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q99184084; format Atom web feed
+id: Q95994246; format Agilent Microarray file format
+id: Q28206109; format farbfeld
+id: Q178051; format Portable Network Graphics
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc

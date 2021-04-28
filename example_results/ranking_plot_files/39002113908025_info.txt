@@ -10,7 +10,7 @@ number of files with unknown format: 0
 number of files with known format: 52
 rate of files with known format: 1.0
 contained formats: 
-id: Q28018471; format MPEG-2 program stream
 id: Q939636; format CorelDRAW Document
 id: Q28018470; format MPEG-1 program stream
+id: Q28018471; format MPEG-2 program stream
 id: Q336284; format MPEG-1

@@ -1,65 +1,65 @@
 39002078207041.json
 top ranked environments: 
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.681150478774105
-environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 4.087835067963092
-environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.032039228805681
-environment_number: 10; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.2438060543515654
-environment_number: 21; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 1.03274770240735
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 15.317367611450543
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 14.003435524712145
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 8.928556260551087
+environment_number: 10; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 4.232223013571362
+environment_number: 21; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 3.415923924262007
 
 number of files:  1082
 number of files with unknown format: 4
 number of files with known format: 1078
 rate of files with known format: 0.9963031423290203
 contained formats: 
-id: Q1023647; format Microsoft Compiled HTML Help
 id: Q28786544; format Netscape bookmarks
-id: Q1076355; format Portable Executable
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q188199; format Ogg
-id: Q6912474; format Mork
-id: Q1662484; format Information Presentation Facility
-id: Q17073241; format Opera Show Format
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q28600764; format Electronic Arts MOV
-id: Q28758112; format Internet Explorer history file
-id: Q288405; format hOCR
-id: Q28205580; format OS/2 Icon
-id: Q47233167; format LDR
-id: Q28049770; format DKBTrace scene description
-id: Q28755606; format Exact Yearbook DAT file
-id: Q32097740; format Fallout DAT
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q27895063; format Windows Media Video
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q81526528; format MicroStation Resource data
-id: Q178051; format Portable Network Graphics
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
-id: Q29151645; format Research Articles in Simplified HTML
-id: Q62626012; format HyperText Markup Language
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q32097899; format Fallout v2 DAT
-id: Q194831; format Cabinet
-id: Q55394748; format ChemDraw file
-id: Q673906; format Simple Standards-Based Slide Show System
-id: Q28600763; format Electronic Arts INF
-id: Q81526664; format Palm Desktop DateBook
-id: Q29650304; format PRT scene description
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q66134804; format Access Project file format
-id: Q1888930; format Vector Markup Language
-id: Q942350; format QuickTime File Format
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q34747804; format Supaplex Level format
-id: Q1353763; format WMV HD
-id: Q16996920; format Windows Setup Information File
 id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
+id: Q29650304; format PRT scene description
 id: Q66811836; format Inform source code file
+id: Q28205626; format Sun icon
+id: Q29151645; format Research Articles in Simplified HTML
+id: Q28755606; format Exact Yearbook DAT file
+id: Q28206109; format farbfeld
+id: Q1023647; format Microsoft Compiled HTML Help
+id: Q32097899; format Fallout v2 DAT
+id: Q28207108; format The Print Shop Graphics file
+id: Q729366; format ICO
+id: Q27895063; format Windows Media Video
+id: Q34747804; format Supaplex Level format
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q1662484; format Information Presentation Facility
+id: Q188199; format Ogg
+id: Q288405; format hOCR
+id: Q17073241; format Opera Show Format
+id: Q1353763; format WMV HD
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q28758112; format Internet Explorer history file
+id: Q178051; format Portable Network Graphics
+id: Q62626012; format HyperText Markup Language
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q81526664; format Palm Desktop DateBook
+id: Q194831; format Cabinet
+id: Q1888930; format Vector Markup Language
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q6912474; format Mork
+id: Q99184084; format Atom web feed
 id: Q8811; format HyperText Markup Language
-id: Q2053; format HTML5
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q28049770; format DKBTrace scene description
 id: Q28206771; format OS/2 Bitmap Array
+id: Q166074; format Extensible HyperText Markup Language
+id: Q81526528; format MicroStation Resource data
+id: Q942350; format QuickTime File Format
+id: Q66134804; format Access Project file format
+id: Q28600764; format Electronic Arts MOV
+id: Q28205580; format OS/2 Icon
 id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q32097740; format Fallout DAT
+id: Q2053; format HTML5
+id: Q55394748; format ChemDraw file
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q16996920; format Windows Setup Information File
+id: Q47233167; format LDR
+id: Q28009496; format Zelda Solarus DX saved game

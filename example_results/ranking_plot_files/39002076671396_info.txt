@@ -1,44 +1,44 @@
 39002076671396.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 18.20139999999999
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 15.60129999999996
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 15.60129999999996
-environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 13.201199999999968
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 13.201199999999968
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 105.86226772403126
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 96.17202801696133
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 96.15331915555369
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 95.48888037241917
+environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 93.37274518413396
 
 number of files:  14
 number of files with unknown format: 4
 number of files with known format: 10
 rate of files with known format: 0.7142857142857143
 contained formats: 
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q29944785; format Rich Text Format, version 1.8
 id: Q34312151; format Macromedia Director, uncompressed PC variant
-id: Q29944758; format Rich Text Format, version 1.0
 id: Q95994246; format Agilent Microarray file format
 id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
-id: Q28205580; format OS/2 Icon
-id: Q382011; format Program information file
-id: Q29944987; format Rich Text Format, version 0
-id: Q3888665; format Package interchange format
-id: Q58006953; format TRIM Context Reference File
-id: Q29944780; format Rich Text Format, version 1.5
-id: Q27923693; format DTED Cells Directory File
-id: Q729366; format ICO
-id: Q29944786; format Rich Text Format, version 1.9
-id: Q60615282; format Write for Windows Document, version 3
-id: Q29944779; format Rich Text Format, version 1.4
-id: Q479833; format ا تهكير لعبة ببجي
-id: Q29944785; format Rich Text Format, version 1.8
-id: Q3807693; format ASCII tab
-id: Q66134804; format Access Project file format
-id: Q27526866; format Write for Windows Document, version 3.1
-id: Q29944776; format Rich Text Format, version 1.2
-id: Q27925722; format DTED Level 1 Gazetteer Directory file
-id: Q29944777; format Rich Text Format, version 1.3
-id: Q4045294; format New Executable
 id: Q28205626; format Sun icon
-id: Q29944783; format Rich Text Format, version 1.7
-id: Q723030; format AsciiDoc
-id: Q28206771; format OS/2 Bitmap Array
-id: Q29944773; format Rich Text Format, version 1.1
+id: Q479833; format ا تهكير لعبة ببجي
+id: Q29944776; format Rich Text Format, version 1.2
+id: Q29944777; format Rich Text Format, version 1.3
+id: Q729366; format ICO
 id: Q27979156; format ASCII art
 id: Q29944782; format Rich Text Format, version 1.6
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q58006953; format TRIM Context Reference File
+id: Q27526866; format Write for Windows Document, version 3.1
+id: Q723030; format AsciiDoc
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q60615282; format Write for Windows Document, version 3
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q382011; format Program information file
+id: Q27925722; format DTED Level 1 Gazetteer Directory file
+id: Q3888665; format Package interchange format
+id: Q28206771; format OS/2 Bitmap Array
+id: Q29944987; format Rich Text Format, version 0
+id: Q66134804; format Access Project file format
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q28205580; format OS/2 Icon
+id: Q27923693; format DTED Cells Directory File
+id: Q29944773; format Rich Text Format, version 1.1

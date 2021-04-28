@@ -1,67 +1,67 @@
 39002099461205.json
 top ranked environments: 
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 11.774826796205724
-environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 5.971567082624758
-environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 5.7610407668352845
-environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 4.57375515136017
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 4.470645268697809
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 32.86641734836602
+environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 22.620172494318208
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 21.267973855226145
+environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 19.443560893002843
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 15.772676152994793
 
 number of files:  496
 number of files with unknown format: 1
 number of files with known format: 495
 rate of files with known format: 0.9979838709677419
 contained formats: 
-id: Q27979378; format VobSub index
 id: Q28786544; format Netscape bookmarks
-id: Q27229642; format Portable Network Graphics, version 1.2
-id: Q1076355; format Portable Executable
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q5924007; format JavaScript
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q79241659; format Lotus Accessory
-id: Q53756539; format git packfile index, version 1
-id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q17092932; format JPEG-XT
-id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
-id: Q178051; format Portable Network Graphics
-id: Q28206109; format farbfeld
-id: Q1952321; format Multi Picture Object
-id: Q99184084; format Atom web feed
-id: Q26329648; format JPEG File Interchange Format, version 1.0
-id: Q62626012; format HyperText Markup Language
-id: Q26385770; format Still Picture Interchange File Format
-id: Q53756551; format git packfile index, version 2
-id: Q5421818; format Extended Log Format
-id: Q5153426; format Common Log Format
-id: Q28600763; format Electronic Arts INF
+id: Q27826469; format Cascading Style Sheets Level 3
 id: Q3807693; format ASCII tab
-id: Q50223812; format Bluetooth Snoop Packet Capture
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q1888930; format Vector Markup Language
-id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q53756551; format git packfile index, version 2
+id: Q27979378; format VobSub index
+id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
+id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
+id: Q29904540; format Statistical Analysis System log file
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q1952321; format Multi Picture Object
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q27229642; format Portable Network Graphics, version 1.2
+id: Q5448342; format File change log
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q28206359; format Intergraph Raster
+id: Q178051; format Portable Network Graphics
+id: Q5421818; format Extended Log Format
+id: Q62626012; format HyperText Markup Language
+id: Q58006953; format TRIM Context Reference File
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q723030; format AsciiDoc
 id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q28600763; format Electronic Arts INF
+id: Q1888930; format Vector Markup Language
+id: Q1076355; format Portable Executable
+id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
+id: Q5924007; format JavaScript
+id: Q28206497; format Lossless JPEG
+id: Q99184084; format Atom web feed
+id: Q8811; format HyperText Markup Language
 id: Q28445577; format Advanced Authoring System
 id: Q28206262; format HSI JPEG
-id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q5448342; format File change log
-id: Q28206497; format Lossless JPEG
-id: Q8811; format HyperText Markup Language
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q29904540; format Statistical Analysis System log file
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q2053; format HTML5
-id: Q723030; format AsciiDoc
-id: Q28206359; format Intergraph Raster
-id: Q27979156; format ASCII art
+id: Q166074; format Extensible HyperText Markup Language
+id: Q66134804; format Access Project file format
 id: Q684554; format Autorun.inf
-id: Q27826469; format Cascading Style Sheets Level 3
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q17092932; format JPEG-XT
+id: Q2053; format HTML5
+id: Q5153426; format Common Log Format
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q79241659; format Lotus Accessory
+id: Q16996920; format Windows Setup Information File
+id: Q26385770; format Still Picture Interchange File Format
+id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q53756539; format git packfile index, version 1

@@ -1,10 +1,10 @@
 39002067755562.json
 top ranked environments: 
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 11.500800000000002
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 10.625700000000002
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.7086333333333332
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 1.4585333333333332
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 1.4585333333333332
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 34.93914391214632
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 33.51530440863592
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.654296359798
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 2.0736676815549946
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 2.0736676815549946
 
 number of files:  757
 number of files with unknown format: 0
@@ -12,19 +12,19 @@ number of files with known format: 757
 rate of files with known format: 1.0
 contained formats: 
 id: Q28600763; format Electronic Arts INF
-id: Q48004869; format Microsoft Access Database, version 95
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q751800; format TrueType Font
-id: Q48021588; format Microsoft Access Database, version 2000
-id: Q48004607; format Microsoft Access Database, version 2
-id: Q48005022; format Microsoft Access Database, version 95
-id: Q939636; format CorelDRAW Document
-id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q48004869; format Microsoft Access Database, version 95
+id: Q48021763; format Microsoft Access Database, version 2002
 id: Q1662484; format Information Presentation Facility
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q939636; format CorelDRAW Document
+id: Q66811836; format Inform source code file
+id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
 id: Q99184084; format Atom web feed
 id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q178051; format Portable Network Graphics
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q48005022; format Microsoft Access Database, version 95
 id: Q28206109; format farbfeld
-id: Q48021763; format Microsoft Access Database, version 2002
-id: Q684554; format Autorun.inf
+id: Q178051; format Portable Network Graphics
+id: Q16996920; format Windows Setup Information File

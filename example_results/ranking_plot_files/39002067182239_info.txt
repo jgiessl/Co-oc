@@ -1,101 +1,101 @@
 39002067182239.json
 top ranked environments: 
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 11.468219958983097
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 8.716027392526113
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 4.865467816091953
-environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 3.9154827586206946
-environment_number: 2; environment_name: Windows 95 C (OSR 2.5) - Base V2 + Microsoft Word 2000 + 6953; score: 1.5454275862068958
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 67.08219870204721
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 50.64913302463832
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 37.4714989063306
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 30.035350602646766
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) - Base V2 + Microsoft Word 2000 + 6953; score: 12.321959339880202
 
 number of files:  828
 number of files with unknown format: 187
 number of files with known format: 641
 rate of files with known format: 0.7741545893719807
 contained formats: 
-id: Q28758102; format InstallShield CAB
-id: Q85621726; format PFS:First Choice Document
-id: Q28055391; format Printfox bitmap
-id: Q28049770; format DKBTrace scene description
-id: Q32097740; format Fallout DAT
-id: Q28009488; format Tibia map file
-id: Q1228757; format Apple Disk Image
-id: Q62664735; format Wordperfect Secondary File, version 5.1 and 5.2
 id: Q28206218; format GRF
-id: Q27355592; format ADRG Geo Data File
-id: Q28858035; format Word Binary File Format, version nFib=0x00C1
-id: Q63061396; format Microsoft Word Document
-id: Q686498; format doc
-id: Q28206306; format Analyze IMG
-id: Q3928271; format RGBE image format
-id: Q47512572; format man page
-id: Q28206049; format ERDAS Imagine IMG
-id: Q2276274; format System.map
-id: Q51801746; format Stationery for Mac OS X
-id: Q28205883; format Desktop Color Separation
-id: Q6912474; format Mork
-id: Q60628185; format Wordperfect Secondary File, version 5
-id: Q28205944; format Doré Raster
-id: Q28771288; format Mapsforge Binary Map
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q60000066; format Microsoft Office Owner File
-id: Q61641368; format Microsoft Word for Windows Document, version 2
-id: Q48782238; format Microsoft Word for MS-DOS Document, version 5
-id: Q81526528; format MicroStation Resource data
-id: Q29167914; format PCRaster Map
-id: Q28858042; format Word Binary File Format, version nFibNew=0x010C
-id: Q81526664; format Palm Desktop DateBook
-id: Q28858037; format Word Binary File Format, version nFib=0x00C0
-id: Q28205801; format IMG Picture Format
-id: Q34747804; format Supaplex Level format
-id: Q48782202; format Microsoft Word for MS-DOS Document, version 4
-id: Q28207469; format Vivid IMG
-id: Q28205670; format Alias PIX
-id: Q48782394; format Microsoft Word for MS-DOS Document, version 5.5
-id: Q28858044; format Word Binary File Format, version nFibNew=0x0112
-id: Q27473691; format BIL/BIP/BSQ Header File
-id: Q1076355; format Portable Executable
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q95994246; format Agilent Microarray file format
-id: Q28758112; format Internet Explorer history file
-id: Q28206310; format Analyze HDR
-id: Q28755606; format Exact Yearbook DAT file
-id: Q28206795; format OS/2 Boot Logo
-id: Q28206272; format HTC splashscreen
-id: Q817650; format COM
-id: Q32097899; format Fallout v2 DAT
-id: Q1343830; format Executable and Linkable Format
-id: Q479833; format ا تهكير لعبة ببجي
-id: Q28206162; format GEM Raster
-id: Q3807693; format ASCII tab
-id: Q29650304; format PRT scene description
-id: Q61639409; format Microsoft Word for Windows Document, version 1
 id: Q28206883; format Planetary Data System
-id: Q16965621; format Video Image Communication And Retrieval
-id: Q1882400; format MacBinary
-id: Q28858041; format Word Binary File Format, version nFibNew=0x0101
-id: Q27979156; format ASCII art
+id: Q95994246; format Agilent Microarray file format
+id: Q48782394; format Microsoft Word for MS-DOS Document, version 5.5
+id: Q3513566; format tab-separated values
+id: Q28206306; format Analyze IMG
+id: Q28755606; format Exact Yearbook DAT file
+id: Q28207108; format The Print Shop Graphics file
 id: Q3146723; format Raw disk image
-id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
-id: Q28205965; format Digital Video Interactive Green Channel
-id: Q47233167; format LDR
-id: Q6753724; format MapInfo TAB format
-id: Q63061514; format Microsoft Word Document, version 97-2003
-id: Q85621806; format PFS:First Choice Document 3
-id: Q58006953; format TRIM Context Reference File
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q66439286; format DisplayWrite Document file format, version 5
-id: Q99184084; format Atom web feed
-id: Q1144005; format WinHelp
-id: Q48915661; format Interleaf Document
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q28206373; format Interleaf image
-id: Q27979410; format Binary Text
+id: Q3928271; format RGBE image format
 id: Q28858038; format Word Binary File Format, version nFib=0x00C2
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q47455968; format SafeGuard Encrypted Virtual Disk
-id: Q4045294; format New Executable
-id: Q723030; format AsciiDoc
+id: Q27979156; format ASCII art
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q28758112; format Internet Explorer history file
 id: Q877050; format ISO image
+id: Q29167914; format PCRaster Map
+id: Q28205883; format Desktop Color Separation
+id: Q686498; format doc
+id: Q99184084; format Atom web feed
+id: Q16965621; format Video Image Communication And Retrieval
+id: Q61639409; format Microsoft Word for Windows Document, version 1
+id: Q28009488; format Tibia map file
+id: Q28858041; format Word Binary File Format, version nFibNew=0x0101
+id: Q28206310; format Analyze HDR
+id: Q62664735; format Wordperfect Secondary File, version 5.1 and 5.2
+id: Q28205944; format Doré Raster
+id: Q51801746; format Stationery for Mac OS X
+id: Q28758102; format InstallShield CAB
+id: Q479833; format ا تهكير لعبة ببجي
+id: Q28206049; format ERDAS Imagine IMG
+id: Q27473691; format BIL/BIP/BSQ Header File
+id: Q85621726; format PFS:First Choice Document
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q58006953; format TRIM Context Reference File
+id: Q1882400; format MacBinary
+id: Q1076355; format Portable Executable
+id: Q28055391; format Printfox bitmap
+id: Q1343830; format Executable and Linkable Format
+id: Q28205801; format IMG Picture Format
+id: Q28858037; format Word Binary File Format, version nFib=0x00C0
+id: Q28858042; format Word Binary File Format, version nFibNew=0x010C
+id: Q2276274; format System.map
+id: Q28858044; format Word Binary File Format, version nFibNew=0x0112
+id: Q28049770; format DKBTrace scene description
 id: Q48782098; format Microsoft Word for MS-DOS Document, version 3
 id: Q28858039; format Word Binary File Format, version nFibNew=0x00D9
-id: Q3513566; format tab-separated values
+id: Q3807693; format ASCII tab
+id: Q47455968; format SafeGuard Encrypted Virtual Disk
+id: Q29650304; format PRT scene description
+id: Q4045294; format New Executable
+id: Q28858035; format Word Binary File Format, version nFib=0x00C1
+id: Q1144005; format WinHelp
+id: Q63061514; format Microsoft Word Document, version 97-2003
+id: Q1228757; format Apple Disk Image
+id: Q81526664; format Palm Desktop DateBook
+id: Q6912474; format Mork
+id: Q28205965; format Digital Video Interactive Green Channel
+id: Q28206373; format Interleaf image
+id: Q63061396; format Microsoft Word Document
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q28206272; format HTC splashscreen
+id: Q48782202; format Microsoft Word for MS-DOS Document, version 4
+id: Q85621806; format PFS:First Choice Document 3
+id: Q32097899; format Fallout v2 DAT
+id: Q817650; format COM
+id: Q34747804; format Supaplex Level format
+id: Q60628185; format Wordperfect Secondary File, version 5
+id: Q28207469; format Vivid IMG
+id: Q28206795; format OS/2 Boot Logo
+id: Q60000066; format Microsoft Office Owner File
+id: Q723030; format AsciiDoc
+id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
+id: Q66439286; format DisplayWrite Document file format, version 5
+id: Q48782238; format Microsoft Word for MS-DOS Document, version 5
+id: Q47512572; format man page
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q27355592; format ADRG Geo Data File
+id: Q27979410; format Binary Text
+id: Q81526528; format MicroStation Resource data
+id: Q28205670; format Alias PIX
+id: Q32097740; format Fallout DAT
+id: Q48915661; format Interleaf Document
+id: Q6753724; format MapInfo TAB format
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q28206162; format GEM Raster
+id: Q47233167; format LDR
+id: Q61641368; format Microsoft Word for Windows Document, version 2
+id: Q28771288; format Mapsforge Binary Map

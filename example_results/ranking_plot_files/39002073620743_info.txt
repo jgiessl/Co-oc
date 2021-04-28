@@ -1,65 +1,65 @@
 39002073620743.json
 top ranked environments: 
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 17.443812157409855
-environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 11.094896020466038
-environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 11.094896020466038
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 10.713111717426282
-environment_number: 22; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 9.546465422235705
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 40.784807434716384
+environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 35.3214569841029
+environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 32.66022999163833
+environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 32.66022999163833
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 30.856206833242126
 
 number of files:  3329
 number of files with unknown format: 28
 number of files with known format: 3301
 rate of files with known format: 0.9915890657855212
 contained formats: 
-id: Q28207379; format TIFF for Fax eXtended
-id: Q218170; format PostScript
-id: Q28206700; format Portable Pixmap, text variant
 id: Q28786544; format Netscape bookmarks
-id: Q28205883; format Desktop Color Separation
-id: Q95994246; format Agilent Microarray file format
-id: Q28205439; format Sony ARW
-id: Q17073241; format Opera Show Format
-id: Q15938816; format MATLAB M-File
-id: Q288405; format hOCR
-id: Q5924007; format JavaScript
-id: Q28206714; format Portable Anymap
-id: Q79241659; format Lotus Accessory
 id: Q28975650; format Recon Mesh
-id: Q2193155; format Java class file
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q66134564; format Photoshop DCS 1.0
+id: Q3807693; format ASCII tab
+id: Q15938816; format MATLAB M-File
+id: Q28206700; format Portable Pixmap, text variant
+id: Q95994246; format Agilent Microarray file format
+id: Q28206714; format Portable Anymap
+id: Q27526739; format Graphics Interchange Format, version 89a
+id: Q29151645; format Research Articles in Simplified HTML
+id: Q29904540; format Statistical Analysis System log file
+id: Q28206109; format farbfeld
+id: Q59714459; format Encapsulated PostScript File Format
+id: Q5448342; format File change log
+id: Q27979156; format ASCII art
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q288405; format hOCR
+id: Q218170; format PostScript
+id: Q17073241; format Opera Show Format
+id: Q48625328; format Encapsulated PostScript, v2
+id: Q5421818; format Extended Log Format
+id: Q178051; format Portable Network Graphics
+id: Q62626012; format HyperText Markup Language
+id: Q28206708; format Portable Pixmap, binary variant
 id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q28205883; format Desktop Color Separation
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q1888930; format Vector Markup Language
+id: Q2192; format Graphics Interchange Format
+id: Q5924007; format JavaScript
+id: Q28205771; format BigTIFF
+id: Q1343830; format Executable and Linkable Format
+id: Q99184084; format Atom web feed
+id: Q8811; format HyperText Markup Language
+id: Q2193155; format Java class file
 id: Q28206695; format Portable Graymap, binary variant
 id: Q49243071; format Java language source code file
-id: Q178051; format Portable Network Graphics
-id: Q28206109; format farbfeld
-id: Q7670377; format Tagged Image File Format/Electronic Photography
-id: Q99184084; format Atom web feed
-id: Q2192; format Graphics Interchange Format
-id: Q1047541; format Encapsulated PostScript
-id: Q29151645; format Research Articles in Simplified HTML
-id: Q62626012; format HyperText Markup Language
-id: Q5153426; format Common Log Format
-id: Q5421818; format Extended Log Format
-id: Q1343830; format Executable and Linkable Format
-id: Q59714459; format Encapsulated PostScript File Format
-id: Q673906; format Simple Standards-Based Slide Show System
-id: Q28207114; format The New Print Shop Names file
-id: Q27526739; format Graphics Interchange Format, version 89a
-id: Q3807693; format ASCII tab
-id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q28205439; format Sony ARW
 id: Q66134804; format Access Project file format
+id: Q166074; format Extensible HyperText Markup Language
+id: Q1676669; format JPEG File Interchange Format, version 1.02
 id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q1888930; format Vector Markup Language
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q48625328; format Encapsulated PostScript, v2
 id: Q28207384; format TIFF/IT
-id: Q5448342; format File change log
-id: Q8811; format HyperText Markup Language
-id: Q723030; format AsciiDoc
-id: Q29904540; format Statistical Analysis System log file
 id: Q2053; format HTML5
-id: Q28205771; format BigTIFF
-id: Q28206708; format Portable Pixmap, binary variant
-id: Q27979156; format ASCII art
+id: Q1047541; format Encapsulated PostScript
+id: Q66134564; format Photoshop DCS 1.0
+id: Q5153426; format Common Log Format
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q79241659; format Lotus Accessory
+id: Q7670377; format Tagged Image File Format/Electronic Photography
+id: Q28207114; format The New Print Shop Names file
+id: Q28207379; format TIFF for Fax eXtended

@@ -1,37 +1,37 @@
 39002068056598.json
 top ranked environments: 
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 8.474286774727737
-environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 4.826786956521744
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.826786956521744
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 4.826786956521744
-environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 2.120065217391304
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 33.99814621486438
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 26.4600399813272
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 26.4600399813272
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 26.4600399813272
+environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 10.617814114818595
 
 number of files:  66
 number of files with unknown format: 0
 number of files with known format: 66
 rate of files with known format: 1.0
 contained formats: 
-id: Q27349828; format ESRI Arc/Info ASCII Grid
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q28049670; format Autodesk 3D Studio ASCII format
-id: Q51954585; format dBASE Database
-id: Q60628005; format FoxPro Database, version 2
-id: Q27487130; format Shapefile dBASE table
-id: Q58006953; format TRIM Context Reference File
-id: Q63036182; format 8-bit ASCII Text
-id: Q51954521; format Microsoft FoxPro Database, version 2.6
-id: Q28756196; format FWKCS NDX file
-id: Q29650330; format PGP public key
-id: Q27967116; format ASC Sound Master module
-id: Q28600256; format ASCII Encoded HP 48 Object
-id: Q60628025; format FoxPro Database, version 2.5
-id: Q479833; format ا تهكير لعبة ببجي
-id: Q3807693; format ASCII tab
 id: Q52834849; format dBASE for Windows database, version 5
-id: Q61971919; format Microsoft Visual FoxPro Database Table File
+id: Q3807693; format ASCII tab
+id: Q95994246; format Agilent Microarray file format
+id: Q60628005; format FoxPro Database, version 2
+id: Q51954521; format Microsoft FoxPro Database, version 2.6
+id: Q479833; format ا تهكير لعبة ببجي
 id: Q44933672; format dBASE IV
 id: Q62619688; format 7-bit ASCII Text
-id: Q723030; format AsciiDoc
-id: Q27979156; format ASCII art
 id: Q61971917; format FoxPro Database, version 2x
+id: Q27979156; format ASCII art
+id: Q29650330; format PGP public key
+id: Q27487130; format Shapefile dBASE table
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q1076355; format Portable Executable
+id: Q27349828; format ESRI Arc/Info ASCII Grid
+id: Q61971919; format Microsoft Visual FoxPro Database Table File
+id: Q27967116; format ASC Sound Master module
+id: Q60628025; format FoxPro Database, version 2.5
+id: Q28049670; format Autodesk 3D Studio ASCII format
+id: Q28756196; format FWKCS NDX file
+id: Q63036182; format 8-bit ASCII Text
+id: Q28600256; format ASCII Encoded HP 48 Object
+id: Q51954585; format dBASE Database

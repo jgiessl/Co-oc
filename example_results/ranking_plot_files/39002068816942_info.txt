@@ -8,5 +8,5 @@ number of files with unknown format: 1
 number of files with known format: 17
 rate of files with known format: 0.9444444444444444
 contained formats: 
-id: Q28600764; format Electronic Arts MOV
 id: Q942350; format QuickTime File Format
+id: Q28600764; format Electronic Arts MOV

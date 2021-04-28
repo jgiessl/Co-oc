@@ -1,71 +1,71 @@
 39002064085534.json
 top ranked environments: 
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.781536325165935
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.8358501323689866
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 2.621271059371612
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 2.2578099654603636
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 2.1195478619871486
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 16.130524248698528
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 11.075917817347909
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 7.640364709909875
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 4.90950351249402
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 3.5942942354894893
 
 number of files:  217
 number of files with unknown format: 1
 number of files with known format: 216
 rate of files with known format: 0.9953917050691244
 contained formats: 
-id: Q66759482; format InfoPath Form file
-id: Q29000578; format Android Resource file
-id: Q641213; format XBEL
-id: Q2819247; format ALTO
-id: Q34306669; format Scifer archive XML header
-id: Q1076355; format Portable Executable
-id: Q27967351; format iTunes Music Library, XML variant
-id: Q4042481; format LOGML
-id: Q28728783; format VOTable
-id: Q1662484; format Information Presentation Facility
-id: Q684554; format Autorun.inf
-id: Q10287816; format GZIP
-id: Q959950; format eXtensible Business Reporting Language
-id: Q99973606; format XDOMEA 2.0.0
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q217570; format Waveform Audio File Format
-id: Q99976195; format XDOMEA 2.0.1
-id: Q27895063; format Windows Media Video
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q27910000; format RADARSAT-2 Product Information File
-id: Q166074; format Extensible HyperText Markup Language
-id: Q178051; format Portable Network Graphics
-id: Q28206109; format farbfeld
-id: Q201093; format RealAudio
-id: Q99184084; format Atom web feed
-id: Q3551300; format Universal Subtitle Format
-id: Q2313301; format SpreadsheetML
-id: Q72273742; format TPN
-id: Q28600760; format Early Mind Manager XML format
-id: Q28600763; format Electronic Arts INF
-id: Q59851506; format DROID File Collection File Format
-id: Q66134804; format Access Project file format
-id: Q452197; format Systems Biology Markup Language
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q100136960; format XDOMEA 2.4.0
-id: Q653301; format MusicXML
-id: Q28445577; format Advanced Authoring System
-id: Q71178742; format PIPE2 file format
-id: Q59851322; format DROID Signature File Format
-id: Q45432; format RSS
-id: Q100136955; format XDOMEA 2.3.0
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q1353763; format WMV HD
-id: Q16996920; format Windows Setup Information File
-id: Q4045294; format New Executable
-id: Q100136218; format XDOMEA 2.2.0
-id: Q66811836; format Inform source code file
-id: Q796483; format DocBook
 id: Q28600421; format Ant build file
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q25339304; format Timed Text Markup Language
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q28771320; format Microsoft Office File List
-id: Q100135637; format XDOMEA 2.1.0
-id: Q99973597; format XDOMEA 1.0 file format
-id: Q27487531; format Shapefile metadata for ArcGIS
-id: Q50378320; format INTERLIS Transfer File, version 2.2
 id: Q27826469; format Cascading Style Sheets Level 3
+id: Q72273742; format TPN
+id: Q4045294; format New Executable
+id: Q10287816; format GZIP
+id: Q71178742; format PIPE2 file format
+id: Q66811836; format Inform source code file
+id: Q100136218; format XDOMEA 2.2.0
+id: Q452197; format Systems Biology Markup Language
+id: Q45432; format RSS
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q59851322; format DROID Signature File Format
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q27895063; format Windows Media Video
+id: Q201093; format RealAudio
+id: Q99973606; format XDOMEA 2.0.0
+id: Q1662484; format Information Presentation Facility
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q100136960; format XDOMEA 2.4.0
+id: Q50378320; format INTERLIS Transfer File, version 2.2
+id: Q99976195; format XDOMEA 2.0.1
+id: Q1353763; format WMV HD
+id: Q100136955; format XDOMEA 2.3.0
+id: Q178051; format Portable Network Graphics
+id: Q959950; format eXtensible Business Reporting Language
+id: Q28771320; format Microsoft Office File List
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q641213; format XBEL
+id: Q28728783; format VOTable
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q27967351; format iTunes Music Library, XML variant
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q217570; format Waveform Audio File Format
+id: Q2313301; format SpreadsheetML
+id: Q59851506; format DROID File Collection File Format
+id: Q796483; format DocBook
+id: Q99184084; format Atom web feed
+id: Q27910000; format RADARSAT-2 Product Information File
+id: Q34306669; format Scifer archive XML header
+id: Q29000578; format Android Resource file
+id: Q28445577; format Advanced Authoring System
+id: Q99973597; format XDOMEA 1.0 file format
+id: Q2819247; format ALTO
+id: Q66134804; format Access Project file format
+id: Q166074; format Extensible HyperText Markup Language
+id: Q28600760; format Early Mind Manager XML format
+id: Q653301; format MusicXML
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q684554; format Autorun.inf
+id: Q27487531; format Shapefile metadata for ArcGIS
+id: Q25339304; format Timed Text Markup Language
+id: Q16996920; format Windows Setup Information File
+id: Q4042481; format LOGML
+id: Q3551300; format Universal Subtitle Format
+id: Q100135637; format XDOMEA 2.1.0
+id: Q66759482; format InfoPath Form file

@@ -1,38 +1,38 @@
 39002053920071.json
 top ranked environments: 
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 2.963070793981856
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 1.1809705009613933
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 1.1809705009613933
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.1809705009613933
-environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.5835333333333333
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 4.589852296267409
+environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.748570851980784
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 2.558807088190275
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 2.517454770990519
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 2.517454770990519
 
 number of files:  612
 number of files with unknown format: 10
 number of files with known format: 602
 rate of files with known format: 0.9836601307189542
 contained formats: 
-id: Q28206700; format Portable Pixmap, text variant
-id: Q95994246; format Agilent Microarray file format
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q28206683; format Portable Graymap, text variant
-id: Q2193155; format Java class file
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q28206695; format Portable Graymap, binary variant
-id: Q58006953; format TRIM Context Reference File
-id: Q49243071; format Java language source code file
-id: Q178051; format Portable Network Graphics
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q27979156; format ASCII art
+id: Q27826469; format Cascading Style Sheets Level 3
 id: Q3807693; format ASCII tab
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q62625561; format Bash script
-id: Q99844768; format MicroStation Base File
+id: Q28206700; format Portable Pixmap, text variant
+id: Q921122; format Java archive
+id: Q95994246; format Agilent Microarray file format
+id: Q28206109; format farbfeld
 id: Q27826464; format Cascading Style Sheets Level 1
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q723030; format AsciiDoc
 id: Q28600412; format Attribute-Relation File Format
 id: Q34746472; format STATISTICA Spreadsheet File
+id: Q27979156; format ASCII art
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
 id: Q28206708; format Portable Pixmap, binary variant
-id: Q921122; format Java archive
-id: Q27826469; format Cascading Style Sheets Level 3
+id: Q178051; format Portable Network Graphics
+id: Q58006953; format TRIM Context Reference File
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q28206683; format Portable Graymap, text variant
+id: Q723030; format AsciiDoc
+id: Q62625561; format Bash script
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q2193155; format Java class file
+id: Q99184084; format Atom web feed
+id: Q28206695; format Portable Graymap, binary variant
+id: Q49243071; format Java language source code file
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q99844768; format MicroStation Base File

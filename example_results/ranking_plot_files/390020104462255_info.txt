@@ -1,28 +1,28 @@
 390020104462255.json
 top ranked environments: 
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.481119970601689
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.2268427801053077
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 1.2268427801053077
-environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.7951056848874023
-environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 0.7951056848874023
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 6.381900925537257
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.670497918241764
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 2.670497918241764
+environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 2.1188020670877097
+environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 2.1188020670877097
 
 number of files:  3806
 number of files with unknown format: 1984
 number of files with known format: 1822
 rate of files with known format: 0.47871781397792956
 contained formats: 
-id: Q1343830; format Executable and Linkable Format
-id: Q29650301; format Pack
-id: Q2627217; format Mach-O
-id: Q47512572; format man page
 id: Q27960138; format SPPACK
-id: Q28206328; format Img Software Set Red Component
+id: Q279254; format a.out
 id: Q28205727; format AVS X image
-id: Q856364; format Common Object File Format
+id: Q1343830; format Executable and Linkable Format
+id: Q28758103; format InstallShield Z
+id: Q29650301; format Pack
+id: Q47512572; format man page
 id: Q4545483; format X File Format
 id: Q29209269; format Z
+id: Q2627217; format Mach-O
 id: Q5322705; format Extended Common Object File Format
+id: Q856364; format Common Object File Format
+id: Q28206328; format Img Software Set Red Component
 id: Q8041715; format XCOFF
 id: Q283579; format tar
-id: Q28758103; format InstallShield Z
-id: Q279254; format a.out

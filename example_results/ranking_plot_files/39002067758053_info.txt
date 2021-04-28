@@ -1,45 +1,45 @@
 39002067758053.json
 top ranked environments: 
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 29.119672260811925
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 26.280862583392583
-environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 26.280862583392583
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 24.366891397849457
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 22.592597849462386
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 116.36660679449065
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 110.814392094404
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 109.6307142086974
+environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 106.93999876513932
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 104.9370710827368
 
 number of files:  569
 number of files with unknown format: 2
 number of files with known format: 567
 rate of files with known format: 0.9964850615114236
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q29944758; format Rich Text Format, version 1.0
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q5924007; format JavaScript
-id: Q29904539; format Statistical Analysis System output file
-id: Q29944987; format Rich Text Format, version 0
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q28206109; format farbfeld
-id: Q29944780; format Rich Text Format, version 1.5
-id: Q99184084; format Atom web feed
-id: Q29944786; format Rich Text Format, version 1.9
-id: Q28600763; format Electronic Arts INF
-id: Q29944779; format Rich Text Format, version 1.4
-id: Q28755628; format Exact Yearbook LST file
-id: Q29944785; format Rich Text Format, version 1.8
 id: Q3807693; format ASCII tab
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q29944776; format Rich Text Format, version 1.2
-id: Q58103465; format Adobe Font List
-id: Q29944777; format Rich Text Format, version 1.3
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q4045294; format New Executable
-id: Q29944782; format Rich Text Format, version 1.6
-id: Q723030; format AsciiDoc
-id: Q29944783; format Rich Text Format, version 1.7
-id: Q29944773; format Rich Text Format, version 1.1
+id: Q66811836; format Inform source code file
+id: Q29944785; format Rich Text Format, version 1.8
+id: Q95994246; format Agilent Microarray file format
+id: Q28206109; format farbfeld
+id: Q29944776; format Rich Text Format, version 1.2
+id: Q29944777; format Rich Text Format, version 1.3
+id: Q29904539; format Statistical Analysis System output file
 id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q29944782; format Rich Text Format, version 1.6
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q5924007; format JavaScript
+id: Q58103465; format Adobe Font List
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q99184084; format Atom web feed
+id: Q66134804; format Access Project file format
+id: Q29944987; format Rich Text Format, version 0
+id: Q29944758; format Rich Text Format, version 1.0
 id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q29944773; format Rich Text Format, version 1.1
+id: Q16996920; format Windows Setup Information File
+id: Q28755628; format Exact Yearbook LST file

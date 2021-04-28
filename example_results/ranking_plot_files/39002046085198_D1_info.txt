@@ -1,53 +1,53 @@
 39002046085198_D1.json
 top ranked environments: 
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.91372051282051
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 3.7442897435897415
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 3.7442897435897415
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.4366974358974334
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 1.1080923076923073
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 23.51503553302977
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 21.671336265145143
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 21.63777587179813
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 10.006364253976917
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 6.4848389299554725
 
 number of files:  17003
 number of files with unknown format: 347
 number of files with known format: 16656
 rate of files with known format: 0.9795918367346939
 contained formats: 
+id: Q52834849; format dBASE for Windows database, version 5
+id: Q3807693; format ASCII tab
+id: Q85513175; format Cindex Document, version 2
+id: Q53756551; format git packfile index, version 2
+id: Q27979378; format VobSub index
+id: Q95994246; format Agilent Microarray file format
+id: Q60628005; format FoxPro Database, version 2
+id: Q51954521; format Microsoft FoxPro Database, version 2.6
+id: Q479833; format ا تهكير لعبة ببجي
+id: Q45350403; format Lotus 1-2-3 Spreadsheet Formatting File, version 2.3-2.4
+id: Q1144005; format WinHelp
+id: Q44933672; format dBASE IV
+id: Q79242428; format Antenna Data File
+id: Q61971917; format FoxPro Database, version 2x
+id: Q71837258; format CorelDraw Compressed Drawing file format
+id: Q27979156; format ASCII art
+id: Q3596396; format MDX
+id: Q58006953; format TRIM Context Reference File
+id: Q27487130; format Shapefile dBASE table
+id: Q61974843; format FoxPro Compound Index File
+id: Q723030; format AsciiDoc
+id: Q27596243; format Windows Bitmap, version 3
+id: Q217570; format Waveform Audio File Format
+id: Q61971919; format Microsoft Visual FoxPro Database Table File
+id: Q60628025; format FoxPro Database, version 2.5
+id: Q380665; format PLS
+id: Q28205659; format Ability Office PhotoPaint
+id: Q28205439; format Sony ARW
+id: Q27349804; format ESRI Arc/Info Binary Grid
+id: Q29650305; format PSI-MI XML
+id: Q27966906; format MDX
+id: Q4746193; format Amiga Disk File
+id: Q1676669; format JPEG File Interchange Format, version 1.02
 id: Q47538013; format CDX Internet Archive Index format
 id: Q27979154; format ArtWorx Data Format
-id: Q27979378; format VobSub index
-id: Q61974843; format FoxPro Compound Index File
-id: Q29650305; format PSI-MI XML
-id: Q95994246; format Agilent Microarray file format
-id: Q28205439; format Sony ARW
-id: Q27966906; format MDX
 id: Q50604441; format SNAP Archive Data File
-id: Q4746193; format Amiga Disk File
 id: Q79241659; format Lotus Accessory
-id: Q53756539; format git packfile index, version 1
-id: Q28205659; format Ability Office PhotoPaint
 id: Q51954585; format dBASE Database
-id: Q79242428; format Antenna Data File
-id: Q217570; format Waveform Audio File Format
-id: Q60628005; format FoxPro Database, version 2
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q27487130; format Shapefile dBASE table
-id: Q58006953; format TRIM Context Reference File
-id: Q51954521; format Microsoft FoxPro Database, version 2.6
-id: Q27349804; format ESRI Arc/Info Binary Grid
-id: Q1144005; format WinHelp
-id: Q45350403; format Lotus 1-2-3 Spreadsheet Formatting File, version 2.3-2.4
-id: Q380665; format PLS
-id: Q27596243; format Windows Bitmap, version 3
-id: Q53756551; format git packfile index, version 2
-id: Q60628025; format FoxPro Database, version 2.5
-id: Q479833; format ا تهكير لعبة ببجي
-id: Q3807693; format ASCII tab
-id: Q52834849; format dBASE for Windows database, version 5
 id: Q5010021; format CDX Format
-id: Q61971919; format Microsoft Visual FoxPro Database Table File
-id: Q85513175; format Cindex Document, version 2
-id: Q71837258; format CorelDraw Compressed Drawing file format
-id: Q3596396; format MDX
-id: Q44933672; format dBASE IV
-id: Q723030; format AsciiDoc
-id: Q27979156; format ASCII art
-id: Q61971917; format FoxPro Database, version 2x
+id: Q53756539; format git packfile index, version 1

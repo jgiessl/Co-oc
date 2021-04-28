@@ -1,40 +1,40 @@
 39002078162352.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 21.56139999999999
-environment_number: 11; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 21.56139999999999
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 19.481400000000015
-environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 18.48129999999999
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 18.48129999999999
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 104.96220981096754
+environment_number: 11; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 104.29903060666192
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 104.2606720641958
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 100.06203627571828
+environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 99.6149808563842
 
 number of files:  25
 number of files with unknown format: 1
 number of files with known format: 24
 rate of files with known format: 0.96
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q29944758; format Rich Text Format, version 1.0
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q1662484; format Information Presentation Facility
-id: Q684554; format Autorun.inf
-id: Q28205580; format OS/2 Icon
-id: Q29944987; format Rich Text Format, version 0
-id: Q29944780; format Rich Text Format, version 1.5
-id: Q729366; format ICO
-id: Q29944786; format Rich Text Format, version 1.9
-id: Q27596243; format Windows Bitmap, version 3
-id: Q28600763; format Electronic Arts INF
-id: Q29944779; format Rich Text Format, version 1.4
+id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
 id: Q29944785; format Rich Text Format, version 1.8
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28205626; format Sun icon
 id: Q29944776; format Rich Text Format, version 1.2
 id: Q29944777; format Rich Text Format, version 1.3
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
+id: Q729366; format ICO
+id: Q1662484; format Information Presentation Facility
+id: Q29944782; format Rich Text Format, version 1.6
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q27596243; format Windows Bitmap, version 3
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q29944786; format Rich Text Format, version 1.9
 id: Q29944783; format Rich Text Format, version 1.7
 id: Q28206771; format OS/2 Bitmap Array
-id: Q29944773; format Rich Text Format, version 1.1
-id: Q29944782; format Rich Text Format, version 1.6
 id: Q1141412; format INI file
+id: Q66134804; format Access Project file format
+id: Q29944987; format Rich Text Format, version 0
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q29944773; format Rich Text Format, version 1.1
+id: Q16996920; format Windows Setup Information File

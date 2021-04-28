@@ -1,93 +1,93 @@
 39002100909051.json
 top ranked environments: 
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 45.811565448386965
-environment_number: 8; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 7.431958031734716
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit Base V1 + AutoCAD LT 2006 - 5788; score: 7.431958031734716
-environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 2.9404614191478005
-environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 2.287125548226067
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 352.3636525278669
+environment_number: 8; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 54.19123297854583
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit Base V1 + AutoCAD LT 2006 - 5788; score: 54.19123297854583
+environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 21.615676093884517
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 18.167417253864866
 
 number of files:  15
 number of files with unknown format: 0
 number of files with known format: 15
 rate of files with known format: 1.0
 contained formats: 
-id: Q26085319; format Portable Document Format, version 1.6
-id: Q26543628; format Portable Document Format/Archive, version 1 Basic
-id: Q59492197; format Statistical Analysis System Catalog (Unix)
-id: Q26085339; format Portable Document Format, version 1.0
-id: Q47483371; format Statistical Analysis System Data (Windows)
-id: Q47498736; format Adobe Illustrator file format, version 14
-id: Q47486873; format Statistical Analysis System Catalog (Windows)
-id: Q47498745; format Adobe Illustrator file format, version 15
-id: Q42332; format Portable Document Format
-id: Q47498565; format Adobe Illustrator file format, version 13
-id: Q29946810; format Portable Document Format/Exchange 2:2003
-id: Q47486901; format Statistical Analysis System Catalog (Windows)
-id: Q47483398; format Statistical Analysis System Data (Windows)
-id: Q66811836; format Inform source code file
-id: Q47483489; format Statistical Analysis System Data (Unix)
-id: Q29946883; format Portable Document Format/Exchange 4p
-id: Q7271574; format Quetzal file format
-id: Q26085336; format Portable Document Format, version 1.1
-id: Q684554; format Autorun.inf
-id: Q47486934; format Statistical Analysis System Catalog (Unix)
-id: Q28848214; format Statistical Package for the Social Sciences data file
-id: Q29946845; format Portable Document Format/Exchange 3:2003
-id: Q26085317; format Portable Document Format, version 1.7
-id: Q26085333; format Portable Document Format, version 1.2
-id: Q29946134; format Portable Document Format/Variable Data and Transactional Printing, multi-file exchange variant
-id: Q27995538; format Borderlands save file
-id: Q34290760; format Statistical Package for the Social Sciences syntax file
-id: Q47483645; format Statistical Analysis System Data (Windows)
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q26545877; format Portable Document Format/Archive, version 2 Accessible
-id: Q47483338; format Statistical Analysis System data set (Unix)
-id: Q47498749; format Adobe Illustrator file format, version 16
-id: Q29946121; format Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant
-id: Q29946692; format Portable Document Format/Exchange 1:1999
-id: Q29946141; format Portable Document Format/Variable Data and Transactional Printing, streamed delivery variant
-id: Q26541013; format Portable Document Format/Archive, version 1 Accessible
-id: Q29946937; format Portable Document Format/Exchange 5pg
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q5533911; format GeoPDF
-id: Q47498538; format Adobe Illustrator file format, version 9
-id: Q29946771; format Portable Document Format/Exchange 1a:2003
-id: Q29946829; format Portable Document Format/Exchange 3:2002
-id: Q2043942; format Portable Document Format for Engineering
 id: Q55429627; format Portable Document Format, version 2.0
-id: Q29946726; format Portable Document Format/Exchange 1a:2001
-id: Q27979407; format Spectrum 512 Anispec
-id: Q28757684; format Nintendo Game Boy cartridge SAV file
-id: Q47483863; format Statistical Analysis System Data (Unix)
-id: Q59492181; format Statistical Analysis System Catalog (Windows)
-id: Q26547917; format Portable Document Format/Archive, version 3 Accessible
-id: Q3807693; format ASCII tab
-id: Q26546575; format Portable Document Format/Archive, version 2 Basic
-id: Q27996239; format Faster than Light saved game
-id: Q47486887; format Statistical Analysis System Catalog (Windows)
-id: Q29946898; format Portable Document Format/Exchange 5g
-id: Q29946914; format Portable Document Format/Exchange 5n
-id: Q26547266; format Portable Document Format/Archive, version 2 Unicode
-id: Q29946866; format Portable Document Format/Exchange 4
-id: Q16996920; format Windows Setup Information File
-id: Q26548590; format Portable Document Format/Archive, version 3 Basic
-id: Q47498555; format Adobe Illustrator file format, version 12
+id: Q95994246; format Agilent Microarray file format
+id: Q26545877; format Portable Document Format/Archive, version 2 Accessible
+id: Q47498547; format Adobe Illustrator file format, version 10
+id: Q26541013; format Portable Document Format/Archive, version 1 Accessible
 id: Q27979156; format ASCII art
 id: Q1662484; format Information Presentation Facility
-id: Q47483382; format Statistical Analysis System Data (Unix)
-id: Q26085326; format Portable Document Format, version 1.4
-id: Q26085330; format Portable Document Format, version 1.3
-id: Q47498552; format Adobe Illustrator file format, version 11
-id: Q58006953; format TRIM Context Reference File
+id: Q26085336; format Portable Document Format, version 1.1
+id: Q26085339; format Portable Document Format, version 1.0
+id: Q29946726; format Portable Document Format/Exchange 1a:2001
+id: Q26085333; format Portable Document Format, version 1.2
+id: Q28757684; format Nintendo Game Boy cartridge SAV file
+id: Q29946937; format Portable Document Format/Exchange 5pg
 id: Q99184084; format Atom web feed
-id: Q29904535; format Statistical Analysis System program
-id: Q29946713; format Portable Document Format/Exchange 1:2001
-id: Q47498547; format Adobe Illustrator file format, version 10
-id: Q28600763; format Electronic Arts INF
-id: Q47486880; format Statistical Analysis System Catalog (Unix)
-id: Q27978800; format Spectrum 512 Smooshed
+id: Q47483371; format Statistical Analysis System Data (Windows)
+id: Q47498552; format Adobe Illustrator file format, version 11
+id: Q684554; format Autorun.inf
+id: Q47498749; format Adobe Illustrator file format, version 16
 id: Q26085322; format Portable Document Format, version 1.5
-id: Q4045294; format New Executable
+id: Q26085330; format Portable Document Format, version 1.3
+id: Q27978800; format Spectrum 512 Smooshed
+id: Q29946692; format Portable Document Format/Exchange 1:1999
+id: Q29946141; format Portable Document Format/Variable Data and Transactional Printing, streamed delivery variant
 id: Q29904547; format Statistical Analysis System catalog
+id: Q66811836; format Inform source code file
+id: Q47486934; format Statistical Analysis System Catalog (Unix)
+id: Q27979407; format Spectrum 512 Anispec
+id: Q47498538; format Adobe Illustrator file format, version 9
+id: Q29946810; format Portable Document Format/Exchange 2:2003
+id: Q26548590; format Portable Document Format/Archive, version 3 Basic
+id: Q58006953; format TRIM Context Reference File
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q47486873; format Statistical Analysis System Catalog (Windows)
+id: Q47486901; format Statistical Analysis System Catalog (Windows)
+id: Q26543628; format Portable Document Format/Archive, version 1 Basic
+id: Q34290760; format Statistical Package for the Social Sciences syntax file
+id: Q29946898; format Portable Document Format/Exchange 5g
+id: Q47498565; format Adobe Illustrator file format, version 13
+id: Q47483398; format Statistical Analysis System Data (Windows)
+id: Q29946914; format Portable Document Format/Exchange 5n
+id: Q16996920; format Windows Setup Information File
+id: Q26085319; format Portable Document Format, version 1.6
+id: Q2043942; format Portable Document Format for Engineering
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q29946829; format Portable Document Format/Exchange 3:2002
+id: Q28848214; format Statistical Package for the Social Sciences data file
+id: Q29946866; format Portable Document Format/Exchange 4
+id: Q26085317; format Portable Document Format, version 1.7
+id: Q47498745; format Adobe Illustrator file format, version 15
+id: Q27996239; format Faster than Light saved game
+id: Q47498736; format Adobe Illustrator file format, version 14
+id: Q29946883; format Portable Document Format/Exchange 4p
+id: Q29946121; format Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant
+id: Q47498555; format Adobe Illustrator file format, version 12
+id: Q47483382; format Statistical Analysis System Data (Unix)
+id: Q59492181; format Statistical Analysis System Catalog (Windows)
+id: Q47486887; format Statistical Analysis System Catalog (Windows)
+id: Q29946845; format Portable Document Format/Exchange 3:2003
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q26085326; format Portable Document Format, version 1.4
+id: Q5533911; format GeoPDF
+id: Q7271574; format Quetzal file format
+id: Q29946134; format Portable Document Format/Variable Data and Transactional Printing, multi-file exchange variant
+id: Q29946713; format Portable Document Format/Exchange 1:2001
+id: Q26547917; format Portable Document Format/Archive, version 3 Accessible
+id: Q47483645; format Statistical Analysis System Data (Windows)
+id: Q26546575; format Portable Document Format/Archive, version 2 Basic
 id: Q723030; format AsciiDoc
+id: Q47483489; format Statistical Analysis System Data (Unix)
+id: Q26547266; format Portable Document Format/Archive, version 2 Unicode
+id: Q27995538; format Borderlands save file
+id: Q29946771; format Portable Document Format/Exchange 1a:2003
+id: Q47483338; format Statistical Analysis System data set (Unix)
+id: Q47486880; format Statistical Analysis System Catalog (Unix)
+id: Q47483863; format Statistical Analysis System Data (Unix)
+id: Q42332; format Portable Document Format
+id: Q59492197; format Statistical Analysis System Catalog (Unix)
+id: Q29904535; format Statistical Analysis System program

@@ -1,18 +1,18 @@
 temp4.json
 top ranked environments: 
-environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.7502
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.4524557463820496
 
 number of files:  9
 number of files with unknown format: 0
 number of files with known format: 9
 rate of files with known format: 1.0
 contained formats: 
+id: Q5153426; format Common Log Format
 id: Q44044; format N-Triples
-id: Q5448342; format File change log
-id: Q50223812; format Bluetooth Snoop Packet Capture
 id: Q29904540; format Statistical Analysis System log file
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q5421818; format Extended Log Format
 id: Q28600412; format Attribute-Relation File Format
 id: Q27967223; format StarTrekker/Star Tracker module
-id: Q5421818; format Extended Log Format
-id: Q5153426; format Common Log Format
 id: Q194831; format Cabinet
+id: Q5448342; format File change log

@@ -1,6 +1,6 @@
 39002064886162.json
 top ranked environments: 
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.6668666666666666
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.9041873166454131
 environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.0001
 environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.0001
@@ -12,6 +12,6 @@ number of files with known format: 34
 rate of files with known format: 1.0
 contained formats: 
 id: Q1076355; format Portable Executable
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
 id: Q4045294; format New Executable
 id: Q28858032; format Microsoft Word Binary File Format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode

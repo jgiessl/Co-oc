@@ -1,67 +1,67 @@
 39002046087368.json
 top ranked environments: 
-environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 9.94765158712729
-environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 7.0970181604836755
-environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 5.924682319741873
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.396095772634146
-environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 2.207316527351127
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 35.68828370376364
+environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 29.49065837720376
+environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 25.892972560367774
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 9.074742337911644
+environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 8.830379536269188
 
 number of files:  4047
 number of files with unknown format: 162
 number of files with known format: 3885
 rate of files with known format: 0.9599703484062269
 contained formats: 
-id: Q34284437; format Pascal script
-id: Q27979378; format VobSub index
-id: Q1076355; format Portable Executable
-id: Q29650305; format PSI-MI XML
-id: Q28600482; format DSK (Apple II)
-id: Q18245359; format Control Panel Applet
-id: Q95994246; format Agilent Microarray file format
-id: Q28205439; format Sony ARW
-id: Q28600483; format DSK (CPCEMU)
-id: Q27966906; format MDX
-id: Q1662484; format Information Presentation Facility
-id: Q53756539; format git packfile index, version 1
-id: Q79241659; format Lotus Accessory
-id: Q28205580; format OS/2 Icon
-id: Q29650311; format POV-Ray scene description
-id: Q51954585; format dBASE Database
-id: Q29904539; format Statistical Analysis System output file
-id: Q34284525; format Perl script
-id: Q60628005; format FoxPro Database, version 2
-id: Q66310989; format Pantry Files
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q27487130; format Shapefile dBASE table
-id: Q58006953; format TRIM Context Reference File
-id: Q64858274; format Corel Presentations Master file format
-id: Q51954521; format Microsoft FoxPro Database, version 2.6
-id: Q1144005; format WinHelp
-id: Q45350403; format Lotus 1-2-3 Spreadsheet Formatting File, version 2.3-2.4
-id: Q380665; format PLS
-id: Q729366; format ICO
-id: Q27596243; format Windows Bitmap, version 3
-id: Q53756551; format git packfile index, version 2
-id: Q60628025; format FoxPro Database, version 2.5
-id: Q28600763; format Electronic Arts INF
-id: Q28755628; format Exact Yearbook LST file
-id: Q3807693; format ASCII tab
 id: Q52834849; format dBASE for Windows database, version 5
-id: Q61971919; format Microsoft Visual FoxPro Database Table File
-id: Q29151494; format Quantum compressed archive
-id: Q2043681; format PAK
-id: Q48809727; format dBASE Text Memo
-id: Q58103465; format Adobe Font List
-id: Q3596396; format MDX
-id: Q47539061; format AutoCAD dbConnect Template Set
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
+id: Q66310989; format Pantry Files
+id: Q3807693; format ASCII tab
+id: Q53756551; format git packfile index, version 2
+id: Q27979378; format VobSub index
 id: Q4045294; format New Executable
+id: Q48809727; format dBASE Text Memo
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
+id: Q60628005; format FoxPro Database, version 2
+id: Q51954521; format Microsoft FoxPro Database, version 2.6
 id: Q28205626; format Sun icon
+id: Q28600483; format DSK (CPCEMU)
+id: Q45350403; format Lotus 1-2-3 Spreadsheet Formatting File, version 2.3-2.4
+id: Q1144005; format WinHelp
 id: Q44933672; format dBASE IV
-id: Q723030; format AsciiDoc
-id: Q28206771; format OS/2 Bitmap Array
-id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
-id: Q1141412; format INI file
+id: Q729366; format ICO
 id: Q61971917; format FoxPro Database, version 2x
+id: Q29904539; format Statistical Analysis System output file
+id: Q18245359; format Control Panel Applet
+id: Q29650311; format POV-Ray scene description
+id: Q47539061; format AutoCAD dbConnect Template Set
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q3596396; format MDX
+id: Q34284437; format Pascal script
+id: Q58006953; format TRIM Context Reference File
+id: Q27487130; format Shapefile dBASE table
+id: Q723030; format AsciiDoc
+id: Q27596243; format Windows Bitmap, version 3
+id: Q29151494; format Quantum compressed archive
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q34284525; format Perl script
+id: Q61971919; format Microsoft Visual FoxPro Database Table File
+id: Q58103465; format Adobe Font List
+id: Q60628025; format FoxPro Database, version 2.5
+id: Q380665; format PLS
+id: Q28600482; format DSK (Apple II)
+id: Q28205439; format Sony ARW
+id: Q28206771; format OS/2 Bitmap Array
+id: Q29650305; format PSI-MI XML
+id: Q1141412; format INI file
+id: Q27966906; format MDX
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q2043681; format PAK
+id: Q79241659; format Lotus Accessory
+id: Q51954585; format dBASE Database
+id: Q28755628; format Exact Yearbook LST file
+id: Q16996920; format Windows Setup Information File
+id: Q64858274; format Corel Presentations Master file format
+id: Q53756539; format git packfile index, version 1

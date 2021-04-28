@@ -1,8 +1,8 @@
 39002068057794.json
 top ranked environments: 
-environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.9389615384615397
-environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 3.3234769230769228
-environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 3.3234769230769228
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 13.039945303200914
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 11.931556342628449
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 11.931556342628449
 environment_number: 2; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 0.0001
 environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.0001
 
@@ -11,17 +11,17 @@ number of files with unknown format: 54
 number of files with known format: 15639
 rate of files with known format: 0.9965589753393232
 contained formats: 
-id: Q28600435; format Consolidated.db
-id: Q51035227; format Paradox Database Table, version 4
-id: Q930281; format Windows thumbnail cache
 id: Q51034969; format Paradox Database Table format, version 3
-id: Q29465141; format Valve Map Format
-id: Q28205439; format Sony ARW
-id: Q51837224; format Paradox Database Table, version 7
+id: Q930281; format Windows thumbnail cache
+id: Q51035227; format Paradox Database Table, version 4
 id: Q99184084; format Atom web feed
+id: Q51837224; format Paradox Database Table, version 7
 id: Q51916170; format Pagemaker TableEditor Graphics
-id: Q7671270; format TRANS.TBL
-id: Q28600454; format DB (Watcom-SQL)
-id: Q51035340; format Paradox Database Table, version 5
 id: Q28600453; format SQLite database file format
+id: Q28600435; format Consolidated.db
+id: Q51035340; format Paradox Database Table, version 5
+id: Q28205439; format Sony ARW
+id: Q29465141; format Valve Map Format
+id: Q28600454; format DB (Watcom-SQL)
 id: Q1141412; format INI file
+id: Q7671270; format TRANS.TBL

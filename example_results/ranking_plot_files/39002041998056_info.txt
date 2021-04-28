@@ -1,46 +1,46 @@
 39002041998056.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.9150727272727273
-environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.6341285714285714
-environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.6341285714285714
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.6341285714285714
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 0.6341285714285714
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.7615573089745236
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.5900659112441216
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.18224239791768
+environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.18224239791768
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 1.18224239791768
 
 number of files:  44
 number of files with unknown format: 18
 number of files with known format: 26
 rate of files with known format: 0.5909090909090909
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q7311459; format Relocatable Object Module Format
+id: Q28207363; format TealPaint PDB
+id: Q3807693; format ASCII tab
+id: Q27967123; format Buzzic v1.x
+id: Q4045294; format New Executable
 id: Q95994246; format Agilent Microarray file format
-id: Q50809785; format Portable Database, version 3
-id: Q55758993; format Microsoft Program Database file format, version 7
-id: Q55758988; format Microsoft Program Database file format, version 2
-id: Q28205580; format OS/2 Icon
-id: Q28206843; format Palm Database ImageViewer
-id: Q58006953; format TRIM Context Reference File
-id: Q28207256; format ScreenShot Hack PDB
-id: Q50809753; format Portable Database, version 2
-id: Q28206568; format MicroDesign Page
+id: Q28344021; format Imagine Object File
+id: Q28205626; format Sun icon
 id: Q1144005; format WinHelp
-id: Q29650793; format PalmOS Database
-id: Q3406936; format Program database
 id: Q729366; format ICO
+id: Q87816075; format Broderbund Print Shop Deluxe 5-6
+id: Q7311459; format Relocatable Object Module Format
+id: Q27979156; format ASCII art
+id: Q58799889; format PowerProject Teamplan
+id: Q28207256; format ScreenShot Hack PDB
+id: Q29650793; format PalmOS Database
+id: Q55758988; format Microsoft Program Database file format, version 2
+id: Q58006953; format TRIM Context Reference File
+id: Q856364; format Common Object File Format
+id: Q723030; format AsciiDoc
 id: Q27596243; format Windows Bitmap, version 3
 id: Q29000614; format Resource File
-id: Q27967123; format Buzzic v1.x
-id: Q3807693; format ASCII tab
+id: Q1076355; format Portable Executable
+id: Q28206843; format Palm Database ImageViewer
+id: Q28206568; format MicroDesign Page
+id: Q50809785; format Portable Database, version 3
 id: Q50809751; format Portable Database, version 1
-id: Q28344021; format Imagine Object File
-id: Q58799889; format PowerProject Teamplan
-id: Q27967113; format AProSys module
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q856364; format Common Object File Format
 id: Q2119595; format Wavefront .obj file
-id: Q723030; format AsciiDoc
-id: Q87816075; format Broderbund Print Shop Deluxe 5-6
-id: Q28207363; format TealPaint PDB
 id: Q28206771; format OS/2 Bitmap Array
-id: Q27979156; format ASCII art
+id: Q27967113; format AProSys module
+id: Q50809753; format Portable Database, version 2
+id: Q28205580; format OS/2 Icon
+id: Q55758993; format Microsoft Program Database file format, version 7
+id: Q3406936; format Program database

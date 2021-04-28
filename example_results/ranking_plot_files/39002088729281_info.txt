@@ -1,9 +1,9 @@
 39002088729281.json
 top ranked environments: 
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.5002999999999997
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 2.166866666666667
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 2.166866666666667
-environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.16686666666666666
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.3728846279318083
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 2.711859359034406
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 2.711859359034406
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.41447284485234104
 environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
 
 number of files:  167
@@ -11,16 +11,16 @@ number of files with unknown format: 0
 number of files with known format: 167
 rate of files with known format: 1.0
 contained formats: 
-id: Q28600763; format Electronic Arts INF
 id: Q1076355; format Portable Executable
-id: Q16996920; format Windows Setup Information File
-id: Q4045294; format New Executable
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q66811836; format Inform source code file
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28600763; format Electronic Arts INF
 id: Q1662484; format Information Presentation Facility
-id: Q28206109; format farbfeld
-id: Q817650; format COM
-id: Q99184084; format Atom web feed
-id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
 id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q99184084; format Atom web feed
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q28206109; format farbfeld
+id: Q16996920; format Windows Setup Information File
+id: Q817650; format COM
+id: Q27526733; format Graphics Interchange Format, version 87a

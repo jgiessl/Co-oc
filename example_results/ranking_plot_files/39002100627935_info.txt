@@ -1,10 +1,10 @@
 39002100627935.json
 top ranked environments: 
-environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 8.904199337090686
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 5.322475813154865
-environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 4.584956389899528
-environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 3.6002310494356604
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 2.2293550734691436
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 24.50236085024167
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 21.24549721509
+environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 17.064079196852685
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 14.288902656488322
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 8.082196785017855
 
 number of files:  1795
 number of files with unknown format: 14
@@ -12,55 +12,55 @@ number of files with known format: 1781
 rate of files with known format: 0.9922005571030641
 contained formats: 
 id: Q28786544; format Netscape bookmarks
-id: Q1076355; format Portable Executable
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q28205439; format Sony ARW
-id: Q336284; format MPEG-1
-id: Q1662484; format Information Presentation Facility
-id: Q95994246; format Agilent Microarray file format
-id: Q28600764; format Electronic Arts MOV
-id: Q5924007; format JavaScript
-id: Q28205580; format OS/2 Icon
-id: Q28018470; format MPEG-1 program stream
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q27895063; format Windows Media Video
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q166074; format Extensible HyperText Markup Language
-id: Q58006953; format TRIM Context Reference File
-id: Q17092932; format JPEG-XT
-id: Q178051; format Portable Network Graphics
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
-id: Q26329648; format JPEG File Interchange Format, version 1.0
-id: Q28018471; format MPEG-2 program stream
-id: Q62626012; format HyperText Markup Language
-id: Q26385770; format Still Picture Interchange File Format
-id: Q28600763; format Electronic Arts INF
-id: Q3807693; format ASCII tab
-id: Q42591; format MP3g
 id: Q27826469; format Cascading Style Sheets Level 3
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q66134804; format Access Project file format
-id: Q1888930; format Vector Markup Language
-id: Q27967087; format Electronic Arts AS4/ASF Music
-id: Q942350; format QuickTime File Format
-id: Q28206262; format HSI JPEG
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q1353763; format WMV HD
-id: Q28205626; format Sun icon
+id: Q3807693; format ASCII tab
 id: Q4045294; format New Executable
-id: Q379741; format Advanced Systems Format
-id: Q28206497; format Lossless JPEG
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q723030; format AsciiDoc
-id: Q8811; format HyperText Markup Language
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q2053; format HTML5
-id: Q28206771; format OS/2 Bitmap Array
-id: Q28206359; format Intergraph Raster
-id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
+id: Q28205626; format Sun icon
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
 id: Q1952321; format Multi Picture Object
+id: Q28018471; format MPEG-2 program stream
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q729366; format ICO
+id: Q27895063; format Windows Media Video
+id: Q28018470; format MPEG-1 program stream
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q27967087; format Electronic Arts AS4/ASF Music
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q1353763; format WMV HD
+id: Q28206359; format Intergraph Raster
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q178051; format Portable Network Graphics
+id: Q62626012; format HyperText Markup Language
+id: Q58006953; format TRIM Context Reference File
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q723030; format AsciiDoc
+id: Q28600763; format Electronic Arts INF
+id: Q1888930; format Vector Markup Language
+id: Q1076355; format Portable Executable
+id: Q5924007; format JavaScript
+id: Q28206497; format Lossless JPEG
+id: Q42591; format MP3g
+id: Q99184084; format Atom web feed
+id: Q379741; format Advanced Systems Format
+id: Q8811; format HyperText Markup Language
+id: Q28205439; format Sony ARW
+id: Q28206771; format OS/2 Bitmap Array
+id: Q28206262; format HSI JPEG
+id: Q166074; format Extensible HyperText Markup Language
+id: Q66134804; format Access Project file format
+id: Q942350; format QuickTime File Format
+id: Q28600764; format Electronic Arts MOV
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q17092932; format JPEG-XT
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q2053; format HTML5
+id: Q26385770; format Still Picture Interchange File Format
+id: Q16996920; format Windows Setup Information File
+id: Q336284; format MPEG-1

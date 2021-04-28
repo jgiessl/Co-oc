@@ -1,45 +1,45 @@
 39002053710746.json
 top ranked environments: 
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 31.458975121386718
-environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 29.44236021505364
-environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 28.766794932935305
-environment_number: 10; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 28.766794932935305
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 27.872367741935378
+environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 117.8186304607974
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 117.19032258919626
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 114.60332381386513
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 111.27603780706522
+environment_number: 10; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 111.26386008616478
 
 number of files:  826
 number of files with unknown format: 3
 number of files with known format: 823
 rate of files with known format: 0.9963680387409201
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q29944758; format Rich Text Format, version 1.0
-id: Q939636; format CorelDRAW Document
-id: Q95994246; format Agilent Microarray file format
-id: Q336284; format MPEG-1
-id: Q28205580; format OS/2 Icon
-id: Q28018470; format MPEG-1 program stream
-id: Q217570; format Waveform Audio File Format
-id: Q921122; format Java archive
-id: Q29944987; format Rich Text Format, version 0
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q29944780; format Rich Text Format, version 1.5
-id: Q1144005; format WinHelp
-id: Q729366; format ICO
-id: Q28018471; format MPEG-2 program stream
-id: Q29944786; format Rich Text Format, version 1.9
-id: Q27596243; format Windows Bitmap, version 3
-id: Q29944779; format Rich Text Format, version 1.4
-id: Q29944785; format Rich Text Format, version 1.8
 id: Q3807693; format ASCII tab
-id: Q66134804; format Access Project file format
+id: Q4045294; format New Executable
+id: Q29944785; format Rich Text Format, version 1.8
+id: Q95994246; format Agilent Microarray file format
+id: Q921122; format Java archive
+id: Q28205626; format Sun icon
+id: Q1144005; format WinHelp
+id: Q28018471; format MPEG-2 program stream
 id: Q29944776; format Rich Text Format, version 1.2
 id: Q29944777; format Rich Text Format, version 1.3
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q29944783; format Rich Text Format, version 1.7
-id: Q723030; format AsciiDoc
-id: Q28206771; format OS/2 Bitmap Array
-id: Q29944773; format Rich Text Format, version 1.1
+id: Q729366; format ICO
+id: Q28018470; format MPEG-1 program stream
 id: Q27979156; format ASCII art
 id: Q29944782; format Rich Text Format, version 1.6
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q27596243; format Windows Bitmap, version 3
+id: Q217570; format Waveform Audio File Format
+id: Q1076355; format Portable Executable
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q28206771; format OS/2 Bitmap Array
+id: Q939636; format CorelDRAW Document
+id: Q29944987; format Rich Text Format, version 0
+id: Q66134804; format Access Project file format
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q28205580; format OS/2 Icon
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q29944773; format Rich Text Format, version 1.1
+id: Q336284; format MPEG-1

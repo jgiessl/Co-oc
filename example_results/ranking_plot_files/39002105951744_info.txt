@@ -11,13 +11,13 @@ number of files with unknown format: 17
 number of files with known format: 1022
 rate of files with known format: 0.983638113570741
 contained formats: 
-id: Q16976440; format Segmented Hyper Graphics
-id: Q29904539; format Statistical Analysis System output file
-id: Q58103465; format Adobe Font List
-id: Q34284437; format Pascal script
-id: Q217570; format Waveform Audio File Format
-id: Q28755628; format Exact Yearbook LST file
 id: Q4045294; format New Executable
-id: Q27596243; format Windows Bitmap, version 3
-id: Q79241659; format Lotus Accessory
+id: Q16976440; format Segmented Hyper Graphics
+id: Q58103465; format Adobe Font List
 id: Q29650311; format POV-Ray scene description
+id: Q34284437; format Pascal script
+id: Q79241659; format Lotus Accessory
+id: Q28755628; format Exact Yearbook LST file
+id: Q27596243; format Windows Bitmap, version 3
+id: Q29904539; format Statistical Analysis System output file
+id: Q217570; format Waveform Audio File Format

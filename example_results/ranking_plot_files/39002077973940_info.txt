@@ -1,52 +1,52 @@
 39002077973940.json
 top ranked environments: 
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 6.8189328437570325
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 4.0773952914423015
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 4.0773952914423015
-environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 2.522234851995265
-environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 2.522234851995265
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 14.072490415125861
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 8.795627926979446
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 8.795627926979446
+environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 6.449428448791364
+environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 6.449428448791364
 
 number of files:  147
 number of files with unknown format: 1
 number of files with known format: 146
 rate of files with known format: 0.9931972789115646
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q5924007; format JavaScript
-id: Q28205580; format OS/2 Icon
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q217570; format Waveform Audio File Format
-id: Q2193155; format Java class file
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q49243071; format Java language source code file
-id: Q28206109; format farbfeld
-id: Q1144005; format WinHelp
-id: Q729366; format ICO
-id: Q99184084; format Atom web feed
-id: Q2192; format Graphics Interchange Format
-id: Q27596243; format Windows Bitmap, version 3
-id: Q5153426; format Common Log Format
-id: Q5421818; format Extended Log Format
-id: Q28600763; format Electronic Arts INF
-id: Q27526739; format Graphics Interchange Format, version 89a
-id: Q3807693; format ASCII tab
-id: Q50223812; format Bluetooth Snoop Packet Capture
 id: Q27826469; format Cascading Style Sheets Level 3
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q28205626; format Sun icon
+id: Q3807693; format ASCII tab
 id: Q4045294; format New Executable
-id: Q5448342; format File change log
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q723030; format AsciiDoc
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
+id: Q28205626; format Sun icon
+id: Q27526739; format Graphics Interchange Format, version 89a
 id: Q29904540; format Statistical Analysis System log file
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q1144005; format WinHelp
 id: Q34746472; format STATISTICA Spreadsheet File
-id: Q28206771; format OS/2 Bitmap Array
+id: Q729366; format ICO
+id: Q5448342; format File change log
 id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
+id: Q1662484; format Information Presentation Facility
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q5421818; format Extended Log Format
+id: Q58006953; format TRIM Context Reference File
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q723030; format AsciiDoc
+id: Q27596243; format Windows Bitmap, version 3
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q217570; format Waveform Audio File Format
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q2192; format Graphics Interchange Format
+id: Q5924007; format JavaScript
+id: Q2193155; format Java class file
+id: Q99184084; format Atom web feed
+id: Q49243071; format Java language source code file
+id: Q28206771; format OS/2 Bitmap Array
 id: Q1141412; format INI file
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q5153426; format Common Log Format
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q16996920; format Windows Setup Information File

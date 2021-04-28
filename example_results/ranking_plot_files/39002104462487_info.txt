@@ -1,7 +1,7 @@
 39002104462487.json
 top ranked environments: 
-environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.6004
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.6002000000000001
+environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 8.983652467405067
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.4057134706130037
 environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.0001
 
 number of files:  243
@@ -9,14 +9,14 @@ number of files with unknown format: 193
 number of files with known format: 50
 rate of files with known format: 0.205761316872428
 contained formats: 
-id: Q479833; format ا تهكير لعبة ببجي
 id: Q3807693; format ASCII tab
-id: Q28205883; format Desktop Color Separation
-id: Q58006953; format TRIM Context Reference File
+id: Q27979156; format ASCII art
 id: Q95994246; format Agilent Microarray file format
 id: Q76142694; format VisualBasic Project
-id: Q723030; format AsciiDoc
-id: Q59653966; format MySQL Table Definition Format
+id: Q479833; format ا تهكير لعبة ببجي
 id: Q66439261; format WordPerfect Merge Forms file format
-id: Q27979156; format ASCII art
+id: Q59653966; format MySQL Table Definition Format
 id: Q28206381; format VisualBasic form
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q28205883; format Desktop Color Separation

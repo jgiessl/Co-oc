@@ -1,6 +1,6 @@
 39002042129396.json
 top ranked environments: 
-environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.5002
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.7652375186474507
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 environment_number: 3; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
@@ -12,15 +12,15 @@ number of files with known format: 4
 rate of files with known format: 0.4444444444444444
 contained formats: 
 id: Q28600763; format Electronic Arts INF
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q3807693; format ASCII tab
 id: Q1076355; format Portable Executable
-id: Q58006953; format TRIM Context Reference File
+id: Q3807693; format ASCII tab
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
 id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
+id: Q684554; format Autorun.inf
 id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
 id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
+id: Q16996920; format Windows Setup Information File
+id: Q58006953; format TRIM Context Reference File
 id: Q723030; format AsciiDoc
-id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf

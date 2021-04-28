@@ -1,57 +1,57 @@
 39002041993271.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 8.261136932389572
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.5034712473572938
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.5034712473572938
-environment_number: 2; environment_name: Windows 95 C (OSR 2.5) - Base V2 + Microsoft Word 2000 + 6953; score: 0.41034799154334034
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.41034799154334034
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 16.36637006132065
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.2830843795449332
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) - Base V2 + Microsoft Word 2000 + 6953; score: 1.1776175906789748
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.1776175906789748
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.5750977046351794
 
 number of files:  407
 number of files with unknown format: 127
 number of files with known format: 280
 rate of files with known format: 0.687960687960688
 contained formats: 
-id: Q61984337; format Microsoft Visual FoxPro database container (table files)
-id: Q61727569; format PrimeOCR file format, version 4.2
-id: Q5616826; format ChordPro
-id: Q29000599; format Windows Shortcut
-id: Q28975874; format OOGL TLIST Group file
-id: Q28206171; format GIMP Animated Brush
-id: Q70892047; format GameBoy Color ROM File
-id: Q61727114; format PrimeOCR file format, version 3
-id: Q34745761; format StarCraft group file
-id: Q29650305; format PSI-MI XML
-id: Q28205883; format Desktop Color Separation
-id: Q61727602; format PrimeOCR file format, version 4.3
-id: Q1076355; format Portable Executable
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q95994246; format Agilent Microarray file format
-id: Q61641450; format WordPerfect for MS-DOS Document
-id: Q73514615; format KiCad Project
-id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
-id: Q61727504; format PrimeOCR file format, version 3.8
-id: Q29904539; format Statistical Analysis System output file
-id: Q58006953; format TRIM Context Reference File
-id: Q28206625; format MSX BASIC graphics
-id: Q28106114; format GRASP font
-id: Q1144005; format WinHelp
-id: Q28206109; format farbfeld
-id: Q27979156; format ASCII art
-id: Q99184084; format Atom web feed
-id: Q50308743; format WordPerfect file format, v4
-id: Q479833; format ا تهكير لعبة ببجي
-id: Q28755628; format Exact Yearbook LST file
 id: Q3807693; format ASCII tab
-id: Q28205604; format RIPscrip version 1 Icon Mask
-id: Q28791524; format Parchive, version 1
-id: Q48551303; format Word Perfect for Windows Document file format
-id: Q61727514; format PrimeOCR file format, version 3.9
-id: Q1068805; format .properties
-id: Q58103465; format Adobe Font List
 id: Q4045294; format New Executable
-id: Q61727559; format PrimeOCR file format, version 4
-id: Q27473654; format Band Interleaved by Pixel Image File
-id: Q28600412; format Attribute-Relation File Format
-id: Q723030; format AsciiDoc
+id: Q61727504; format PrimeOCR file format, version 3.8
 id: Q921122; format Java archive
+id: Q95994246; format Agilent Microarray file format
+id: Q61727569; format PrimeOCR file format, version 4.2
+id: Q28791524; format Parchive, version 1
+id: Q479833; format ا تهكير لعبة ببجي
+id: Q28205604; format RIPscrip version 1 Icon Mask
+id: Q28206109; format farbfeld
+id: Q28600412; format Attribute-Relation File Format
+id: Q1144005; format WinHelp
+id: Q28975874; format OOGL TLIST Group file
+id: Q50308743; format WordPerfect file format, v4
+id: Q28206171; format GIMP Animated Brush
+id: Q29904539; format Statistical Analysis System output file
+id: Q48551303; format Word Perfect for Windows Document file format
+id: Q27979156; format ASCII art
+id: Q28858032; format Microsoft Word Binary File Format
 id: Q305976; format deb
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q28205883; format Desktop Color Separation
+id: Q61727514; format PrimeOCR file format, version 3.9
+id: Q1076355; format Portable Executable
+id: Q73514615; format KiCad Project
+id: Q28206625; format MSX BASIC graphics
+id: Q58103465; format Adobe Font List
+id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
+id: Q29000599; format Windows Shortcut
+id: Q99184084; format Atom web feed
+id: Q61727559; format PrimeOCR file format, version 4
+id: Q61727114; format PrimeOCR file format, version 3
+id: Q1068805; format .properties
+id: Q61727602; format PrimeOCR file format, version 4.3
+id: Q61641450; format WordPerfect for MS-DOS Document
+id: Q61984337; format Microsoft Visual FoxPro database container (table files)
+id: Q27473654; format Band Interleaved by Pixel Image File
+id: Q29650305; format PSI-MI XML
+id: Q28106114; format GRASP font
+id: Q5616826; format ChordPro
+id: Q28755628; format Exact Yearbook LST file
+id: Q70892047; format GameBoy Color ROM File
+id: Q34745761; format StarCraft group file

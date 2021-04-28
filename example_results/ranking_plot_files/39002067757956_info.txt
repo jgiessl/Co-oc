@@ -1,9 +1,9 @@
 39002067757956.json
 top ranked environments: 
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 1.6178470588235294
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.6178470588235294
-environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.824953840010077
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.5178470588235294
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.78288457747098
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 1.8013820861171024
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.8013820861171024
+environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.9002292078713772
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 
 number of files:  2658
@@ -11,21 +11,21 @@ number of files with unknown format: 347
 number of files with known format: 2311
 rate of files with known format: 0.8694507148231754
 contained formats: 
-id: Q29904539; format Statistical Analysis System output file
-id: Q58103465; format Adobe Font List
-id: Q28205488; format Windows Cursor
-id: Q28755628; format Exact Yearbook LST file
 id: Q1076355; format Portable Executable
 id: Q3807693; format ASCII tab
-id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q27979156; format ASCII art
 id: Q4045294; format New Executable
-id: Q58006953; format TRIM Context Reference File
+id: Q28018470; format MPEG-1 program stream
+id: Q58103465; format Adobe Font List
 id: Q95994246; format Agilent Microarray file format
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q28205488; format Windows Cursor
+id: Q28206359; format Intergraph Raster
+id: Q28755628; format Exact Yearbook LST file
+id: Q28018471; format MPEG-2 program stream
+id: Q58006953; format TRIM Context Reference File
 id: Q336284; format MPEG-1
 id: Q723030; format AsciiDoc
-id: Q28018471; format MPEG-2 program stream
-id: Q28206359; format Intergraph Raster
-id: Q27979156; format ASCII art
 id: Q27596243; format Windows Bitmap, version 3
-id: Q28018470; format MPEG-1 program stream
 id: Q194831; format Cabinet
+id: Q29904539; format Statistical Analysis System output file

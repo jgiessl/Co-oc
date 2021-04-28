@@ -1,6 +1,6 @@
 39002074386096.json
 top ranked environments: 
-environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.0002
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.0644452911075173
 environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 0.0001
 environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.0001

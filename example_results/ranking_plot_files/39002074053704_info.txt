@@ -1,54 +1,54 @@
 39002074053704.json
 top ranked environments: 
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 5.356283017803693
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.5228688669660858
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.4967905491740836
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.4967905491740836
-environment_number: 9; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 0.3946074837591321
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 33.07110830532636
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.6584806616207532
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.6584806616207532
+environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 2.3686498778020084
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 2.2623734798450443
 
 number of files:  276
 number of files with unknown format: 78
 number of files with known format: 198
 rate of files with known format: 0.717391304347826
 contained formats: 
-id: Q27349828; format ESRI Arc/Info ASCII Grid
-id: Q47012412; format FoxPro Memo file format
-id: Q1076355; format Portable Executable
-id: Q28205883; format Desktop Color Separation
-id: Q6912474; format Mork
-id: Q95994246; format Agilent Microarray file format
-id: Q28049670; format Autodesk 3D Studio ASCII format
-id: Q15938816; format MATLAB M-File
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q28758112; format Internet Explorer history file
-id: Q47233167; format LDR
 id: Q28975650; format Recon Mesh
-id: Q28049770; format DKBTrace scene description
-id: Q217570; format Waveform Audio File Format
-id: Q28755606; format Exact Yearbook DAT file
-id: Q32097740; format Fallout DAT
-id: Q28771107; format MAT-file, Level 4
-id: Q58006953; format TRIM Context Reference File
-id: Q63036182; format 8-bit ASCII Text
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q81526528; format MicroStation Resource data
-id: Q28770728; format MAT-file, Level 5, version 6
-id: Q29650330; format PGP public key
-id: Q27967116; format ASC Sound Master module
-id: Q21040945; format Digitrakker format
-id: Q32097899; format Fallout v2 DAT
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q28600256; format ASCII Encoded HP 48 Object
-id: Q81526664; format Palm Desktop DateBook
+id: Q15938816; format MATLAB M-File
 id: Q3807693; format ASCII tab
-id: Q29650304; format PRT scene description
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q28771220; format MAT-file, Level 5, version 7
-id: Q28771221; format MAT-file, Level 5, version 7.3
-id: Q34747804; format Supaplex Level format
 id: Q4045294; format New Executable
+id: Q29650304; format PRT scene description
+id: Q95994246; format Agilent Microarray file format
+id: Q28755606; format Exact Yearbook DAT file
+id: Q32097899; format Fallout v2 DAT
+id: Q28207108; format The Print Shop Graphics file
 id: Q62619688; format 7-bit ASCII Text
-id: Q723030; format AsciiDoc
+id: Q34747804; format Supaplex Level format
 id: Q27979156; format ASCII art
+id: Q28758112; format Internet Explorer history file
+id: Q21040945; format Digitrakker format
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q29650330; format PGP public key
+id: Q58006953; format TRIM Context Reference File
+id: Q81526664; format Palm Desktop DateBook
+id: Q28205883; format Desktop Color Separation
+id: Q723030; format AsciiDoc
+id: Q217570; format Waveform Audio File Format
+id: Q1076355; format Portable Executable
+id: Q27349828; format ESRI Arc/Info ASCII Grid
+id: Q6912474; format Mork
+id: Q27967116; format ASC Sound Master module
+id: Q28049670; format Autodesk 3D Studio ASCII format
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q63036182; format 8-bit ASCII Text
+id: Q47012412; format FoxPro Memo file format
+id: Q28600256; format ASCII Encoded HP 48 Object
+id: Q81526528; format MicroStation Resource data
+id: Q28771221; format MAT-file, Level 5, version 7.3
+id: Q28771107; format MAT-file, Level 4
+id: Q28771220; format MAT-file, Level 5, version 7
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q32097740; format Fallout DAT
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q47233167; format LDR
+id: Q28049770; format DKBTrace scene description
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q28770728; format MAT-file, Level 5, version 6

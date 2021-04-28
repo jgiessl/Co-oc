@@ -1,7 +1,7 @@
 39002098057772.json
 top ranked environments: 
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 15.000599999999999
-environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 10.000499999999999
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 37.58594452921632
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 31.92777628808775
 
 number of files:  8
 number of files with unknown format: 0
@@ -9,9 +9,9 @@ number of files with known format: 8
 rate of files with known format: 1.0
 contained formats: 
 id: Q48004869; format Microsoft Access Database, version 95
+id: Q48021763; format Microsoft Access Database, version 2002
+id: Q66134804; format Access Project file format
+id: Q48004607; format Microsoft Access Database, version 2
 id: Q48021588; format Microsoft Access Database, version 2000
 id: Q48005022; format Microsoft Access Database, version 95
-id: Q48004607; format Microsoft Access Database, version 2
-id: Q66134804; format Access Project file format
 id: Q28205439; format Sony ARW
-id: Q48021763; format Microsoft Access Database, version 2002

@@ -1,9 +1,9 @@
 39002089155825.json
 top ranked environments: 
-environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.257759200561935
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.212421212121212
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.1820181818181818
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.1820181818181818
+environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 4.902406623393041
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.7740125138292255
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.4296243600038562
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.2586826553617746
 environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.0001
 
 number of files:  332
@@ -13,13 +13,13 @@ rate of files with known format: 0.9939759036144579
 contained formats: 
 id: Q1076355; format Portable Executable
 id: Q3807693; format ASCII tab
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q58006953; format TRIM Context Reference File
+id: Q27979156; format ASCII art
 id: Q4045294; format New Executable
 id: Q95994246; format Agilent Microarray file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q723030; format AsciiDoc
-id: Q28206109; format farbfeld
+id: Q1676669; format JPEG File Interchange Format, version 1.02
 id: Q99184084; format Atom web feed
-id: Q27979156; format ASCII art
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q28206109; format farbfeld
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc

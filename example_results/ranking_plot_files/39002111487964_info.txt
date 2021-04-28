@@ -1,70 +1,70 @@
 39002111487964.json
 top ranked environments: 
-environment_number: 10; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 19.445552713781407
-environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 15.275687431952782
-environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 14.948059603207316
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 14.047065952413671
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 13.150650649350602
+environment_number: 10; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 72.98626690593797
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 56.063827518889795
+environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 54.31148086768007
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 52.621695967362555
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 41.483319608406106
 
 number of files:  791
 number of files with unknown format: 52
 number of files with known format: 739
 rate of files with known format: 0.934260429835651
 contained formats: 
-id: Q4042979; format Linear Executable
-id: Q27596417; format Windows Bitmap, version 5
-id: Q28777715; format NSIS
-id: Q28207499; format Windows Device-Dependent Bitmap
-id: Q1076355; format Portable Executable
-id: Q28205846; format ColoRIX
-id: Q27526471; format Broadcast Wave Format, version 1
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q28205580; format OS/2 Icon
-id: Q27526426; format Broadcast Wave Format, version 0
-id: Q63082675; format Waveform Audio (WAVEFORMATEXTENSIBLE)
-id: Q217570; format Waveform Audio File Format
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q17092932; format JPEG-XT
-id: Q61707565; format Waveform Audio (WAVEFORMATEX)
-id: Q26329648; format JPEG File Interchange Format, version 1.0
-id: Q729366; format ICO
-id: Q27596184; format Windows Bitmap, version 2
-id: Q27596243; format Windows Bitmap, version 3
-id: Q26385770; format Still Picture Interchange File Format
-id: Q47455565; format Windows Portable Executable file format, 64-bit
-id: Q1343830; format Executable and Linkable Format
-id: Q47455466; format Windows Portable Executable file format, 32-bit
-id: Q28600763; format Electronic Arts INF
-id: Q28206788; format OS/2 Bitmap, version 2.0
-id: Q61693036; format Waveform Audio
-id: Q59821004; format Exchangeable Image File Format (Audio)
 id: Q3807693; format ASCII tab
-id: Q3928266; format RF64
-id: Q61707607; format Microsoft Outlook Email Message
-id: Q43976633; format Exchangeable Image File Format (Audio)
-id: Q28758002; format Inno Setup self-extracting archive
-id: Q27596100; format Windows Bitmap, version 1
-id: Q28205733; format Award BIOS logo, version 1
-id: Q27596325; format Windows Bitmap, version 4
-id: Q28206262; format HSI JPEG
-id: Q28205674; format Alpha Microsystems BMP
-id: Q1882110; format DOS MZ executable
-id: Q16996920; format Windows Setup Information File
-id: Q66244789; format ScreenCam stand-alone Movies format
-id: Q28205626; format Sun icon
-id: Q623334; format .exe
-id: Q27960082; format DCT
 id: Q27526504; format Broadcast Wave Format, version 2
 id: Q4045294; format New Executable
+id: Q61693036; format Waveform Audio
+id: Q47455565; format Windows Portable Executable file format, 64-bit
 id: Q66811836; format Inform source code file
-id: Q28206497; format Lossless JPEG
-id: Q28205736; format Award BIOS logo, version 2
-id: Q723030; format AsciiDoc
-id: Q28206771; format OS/2 Bitmap Array
+id: Q95994246; format Agilent Microarray file format
+id: Q28205626; format Sun icon
+id: Q59821004; format Exchangeable Image File Format (Audio)
+id: Q1952321; format Multi Picture Object
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q729366; format ICO
+id: Q28205733; format Award BIOS logo, version 1
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q623334; format .exe
+id: Q4042979; format Linear Executable
+id: Q28207499; format Windows Device-Dependent Bitmap
 id: Q63061679; format Windows Bitmap, version 3.0 NT
 id: Q28206359; format Intergraph Raster
-id: Q27979156; format ASCII art
+id: Q3928266; format RF64
+id: Q27526471; format Broadcast Wave Format, version 1
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q27596243; format Windows Bitmap, version 3
+id: Q28758002; format Inno Setup self-extracting archive
+id: Q28777715; format NSIS
+id: Q217570; format Waveform Audio File Format
+id: Q61707565; format Waveform Audio (WAVEFORMATEX)
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q28206497; format Lossless JPEG
+id: Q1343830; format Executable and Linkable Format
+id: Q28205846; format ColoRIX
+id: Q28205736; format Award BIOS logo, version 2
+id: Q1882110; format DOS MZ executable
+id: Q27596325; format Windows Bitmap, version 4
+id: Q28206788; format OS/2 Bitmap, version 2.0
+id: Q28205674; format Alpha Microsystems BMP
+id: Q28206771; format OS/2 Bitmap Array
+id: Q28206262; format HSI JPEG
+id: Q27596417; format Windows Bitmap, version 5
+id: Q27596184; format Windows Bitmap, version 2
+id: Q27960082; format DCT
+id: Q28205580; format OS/2 Icon
+id: Q63082675; format Waveform Audio (WAVEFORMATEXTENSIBLE)
+id: Q61707607; format Microsoft Outlook Email Message
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q17092932; format JPEG-XT
+id: Q66244789; format ScreenCam stand-alone Movies format
+id: Q47455466; format Windows Portable Executable file format, 32-bit
 id: Q684554; format Autorun.inf
-id: Q1952321; format Multi Picture Object
+id: Q26385770; format Still Picture Interchange File Format
+id: Q27526426; format Broadcast Wave Format, version 0
+id: Q43976633; format Exchangeable Image File Format (Audio)
+id: Q16996920; format Windows Setup Information File
+id: Q27596100; format Windows Bitmap, version 1

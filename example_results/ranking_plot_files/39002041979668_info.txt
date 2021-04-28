@@ -1,6 +1,6 @@
 39002041979668.json
 top ranked environments: 
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.8573428571428571
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.1223803757903084
 environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.0001
 environment_number: 1; environment_name: Windows 95 C (OSR 2.5) - Base V2 + Microsoft Word 2000 + 6953; score: 0.0001
 environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
@@ -11,11 +11,11 @@ number of files with unknown format: 0
 number of files with known format: 9
 rate of files with known format: 1.0
 contained formats: 
-id: Q47012492; format Nota Bene Text file format
-id: Q15860313; format Mathematica Notebook
-id: Q28206272; format HTC splashscreen
-id: Q3807693; format ASCII tab
-id: Q58006953; format TRIM Context Reference File
-id: Q95994246; format Agilent Microarray file format
 id: Q723030; format AsciiDoc
+id: Q3807693; format ASCII tab
 id: Q27979156; format ASCII art
+id: Q47012492; format Nota Bene Text file format
+id: Q95994246; format Agilent Microarray file format
+id: Q15860313; format Mathematica Notebook
+id: Q58006953; format TRIM Context Reference File
+id: Q28206272; format HTC splashscreen

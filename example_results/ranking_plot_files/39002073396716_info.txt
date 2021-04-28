@@ -1,39 +1,39 @@
 39002073396716.json
 top ranked environments: 
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.990976190476191
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.9433571428571426
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 1.6232571428571425
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.6708761904761906
-environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.2403
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 6.067581284509986
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 4.968419799318325
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 4.427731008870724
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 3.2657217214106518
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.8625048648523648
 
 number of files:  27
 number of files with unknown format: 0
 number of files with known format: 27
 rate of files with known format: 1.0
 contained formats: 
-id: Q4042979; format Linear Executable
-id: Q28777715; format NSIS
 id: Q28786544; format Netscape bookmarks
-id: Q1076355; format Portable Executable
-id: Q1662484; format Information Presentation Facility
-id: Q24834502; format PowerPoint Binary File Format
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q28206109; format farbfeld
-id: Q62626012; format HyperText Markup Language
-id: Q47455565; format Windows Portable Executable file format, 64-bit
-id: Q1343830; format Executable and Linkable Format
-id: Q47455466; format Windows Portable Executable file format, 32-bit
-id: Q28600763; format Electronic Arts INF
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q1888930; format Vector Markup Language
-id: Q28758002; format Inno Setup self-extracting archive
-id: Q1882110; format DOS MZ executable
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q66244789; format ScreenCam stand-alone Movies format
-id: Q623334; format .exe
 id: Q4045294; format New Executable
+id: Q47455565; format Windows Portable Executable file format, 64-bit
+id: Q66811836; format Inform source code file
+id: Q28206109; format farbfeld
+id: Q1662484; format Information Presentation Facility
+id: Q623334; format .exe
+id: Q4042979; format Linear Executable
+id: Q62626012; format HyperText Markup Language
+id: Q28758002; format Inno Setup self-extracting archive
+id: Q28777715; format NSIS
+id: Q28600763; format Electronic Arts INF
+id: Q1888930; format Vector Markup Language
+id: Q1076355; format Portable Executable
+id: Q1343830; format Executable and Linkable Format
+id: Q24834502; format PowerPoint Binary File Format
 id: Q8811; format HyperText Markup Language
-id: Q2053; format HTML5
+id: Q1882110; format DOS MZ executable
+id: Q166074; format Extensible HyperText Markup Language
+id: Q47455466; format Windows Portable Executable file format, 32-bit
 id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q66244789; format ScreenCam stand-alone Movies format
+id: Q2053; format HTML5
+id: Q16996920; format Windows Setup Information File

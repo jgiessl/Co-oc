@@ -1,74 +1,74 @@
 39002073157902.json
 top ranked environments: 
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.013709328903791
-environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.7896273140199224
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.0838333333333332
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.44392467416739495
-environment_number: 9; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.35029999999999994
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 15.249000247784368
+environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 8.512089114356122
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.538444571170475
+environment_number: 9; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.1602140428076637
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.8316471598224419
 
 number of files:  430
 number of files with unknown format: 64
 number of files with known format: 366
 rate of files with known format: 0.8511627906976744
 contained formats: 
-id: Q7395247; format SYBYL line notation
-id: Q34284437; format Pascal script
-id: Q1076355; format Portable Executable
-id: Q28205846; format ColoRIX
-id: Q29650305; format PSI-MI XML
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q7311459; format Relocatable Object Module Format
-id: Q28205883; format Desktop Color Separation
+id: Q28207363; format TealPaint PDB
+id: Q27960138; format SPPACK
+id: Q3807693; format ASCII tab
+id: Q27967123; format Buzzic v1.x
+id: Q4045294; format New Executable
 id: Q95994246; format Agilent Microarray file format
+id: Q28344021; format Imagine Object File
+id: Q28205626; format Sun icon
 id: Q76142694; format VisualBasic Project
+id: Q29904540; format Statistical Analysis System log file
+id: Q66439261; format WordPerfect Merge Forms file format
+id: Q7395247; format SYBYL line notation
+id: Q729366; format ICO
+id: Q28771319; format Microsoft Library
+id: Q87816075; format Broderbund Print Shop Deluxe 5-6
+id: Q5448342; format File change log
+id: Q7311459; format Relocatable Object Module Format
+id: Q27979156; format ASCII art
 id: Q58007215; format Visual Basic File
-id: Q50809785; format Portable Database, version 3
-id: Q55758993; format Microsoft Program Database file format, version 7
+id: Q58799889; format PowerProject Teamplan
+id: Q28207256; format ScreenShot Hack PDB
+id: Q29650793; format PalmOS Database
 id: Q55758988; format Microsoft Program Database file format, version 2
-id: Q28205580; format OS/2 Icon
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q34284437; format Pascal script
+id: Q5421818; format Extended Log Format
+id: Q58006953; format TRIM Context Reference File
+id: Q856364; format Common Object File Format
+id: Q723030; format AsciiDoc
+id: Q29000498; format OrCAD library
+id: Q28205883; format Desktop Color Separation
+id: Q29000614; format Resource File
+id: Q98815369; format Microsoft Access Database Link
+id: Q27596243; format Windows Bitmap, version 3
+id: Q1076355; format Portable Executable
 id: Q28206843; format Palm Database ImageViewer
 id: Q751800; format TrueType Font
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q28207256; format ScreenShot Hack PDB
-id: Q50809753; format Portable Database, version 2
-id: Q59653966; format MySQL Table Definition Format
-id: Q66439261; format WordPerfect Merge Forms file format
-id: Q28771319; format Microsoft Library
-id: Q99184084; format Atom web feed
-id: Q29650793; format PalmOS Database
-id: Q3406936; format Program database
-id: Q6043826; format Intellifont
-id: Q729366; format ICO
-id: Q29167436; format Microsoft Object Description Language
-id: Q27596243; format Windows Bitmap, version 3
-id: Q5153426; format Common Log Format
-id: Q5421818; format Extended Log Format
-id: Q29000614; format Resource File
-id: Q27967123; format Buzzic v1.x
-id: Q3807693; format ASCII tab
-id: Q50223812; format Bluetooth Snoop Packet Capture
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q50809751; format Portable Database, version 1
-id: Q28344021; format Imagine Object File
-id: Q29000498; format OrCAD library
-id: Q28445577; format Advanced Authoring System
 id: Q85415606; format Sonic Scenarist Closed Caption Format
-id: Q58799889; format PowerProject Teamplan
-id: Q27960138; format SPPACK
-id: Q28206328; format Img Software Set Red Component
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q5448342; format File change log
-id: Q856364; format Common Object File Format
 id: Q28206625; format MSX BASIC graphics
+id: Q50809785; format Portable Database, version 3
+id: Q99184084; format Atom web feed
+id: Q28205846; format ColoRIX
+id: Q50809751; format Portable Database, version 1
+id: Q59653966; format MySQL Table Definition Format
 id: Q2119595; format Wavefront .obj file
-id: Q87816075; format Broderbund Print Shop Deluxe 5-6
-id: Q723030; format AsciiDoc
-id: Q28207363; format TealPaint PDB
-id: Q29904540; format Statistical Analysis System log file
+id: Q28206328; format Img Software Set Red Component
+id: Q28445577; format Advanced Authoring System
+id: Q29650305; format PSI-MI XML
 id: Q28206771; format OS/2 Bitmap Array
-id: Q27979156; format ASCII art
-id: Q98815369; format Microsoft Access Database Link
+id: Q66134804; format Access Project file format
+id: Q50809753; format Portable Database, version 2
+id: Q28205580; format OS/2 Icon
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q5153426; format Common Log Format
+id: Q55758993; format Microsoft Program Database file format, version 7
+id: Q29167436; format Microsoft Object Description Language
+id: Q6043826; format Intellifont
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q3406936; format Program database
 id: Q28206381; format VisualBasic form

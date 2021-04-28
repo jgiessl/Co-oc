@@ -1,9 +1,9 @@
 39002076958272.json
 top ranked environments: 
-environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.48064478621724427
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.46183846153846153
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.15404615384615383
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.15404615384615383
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 1.0196978625771742
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.6211791386329001
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.6099440399895468
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.23071062738974663
 environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.0001
 
 number of files:  216
@@ -11,17 +11,17 @@ number of files with unknown format: 0
 number of files with known format: 216
 rate of files with known format: 1.0
 contained formats: 
-id: Q27826464; format Cascading Style Sheets Level 1
 id: Q28600763; format Electronic Arts INF
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q28858032; format Microsoft Word Binary File Format
+id: Q27826469; format Cascading Style Sheets Level 3
 id: Q1662484; format Information Presentation Facility
 id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q66811836; format Inform source code file
 id: Q684554; format Autorun.inf
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q28206109; format farbfeld
+id: Q1676669; format JPEG File Interchange Format, version 1.02
 id: Q99184084; format Atom web feed
 id: Q27826466; format Cascading Style Sheets Level 2
-id: Q27826469; format Cascading Style Sheets Level 3
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q16996920; format Windows Setup Information File
+id: Q34746472; format STATISTICA Spreadsheet File

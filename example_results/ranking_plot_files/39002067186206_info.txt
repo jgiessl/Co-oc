@@ -11,7 +11,7 @@ number of files with unknown format: 0
 number of files with known format: 11
 rate of files with known format: 1.0
 contained formats: 
-id: Q27526866; format Write for Windows Document, version 3.1
-id: Q4045294; format New Executable
 id: Q60615282; format Write for Windows Document, version 3
+id: Q27526866; format Write for Windows Document, version 3.1
 id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q4045294; format New Executable

@@ -1,7 +1,7 @@
 39002085626738.json
 top ranked environments: 
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.5003
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 1.8335333333333332
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 6.059722971307798
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 1.9968833660159828
 environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.0001
 environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
@@ -11,8 +11,8 @@ number of files with unknown format: 0
 number of files with known format: 14
 rate of files with known format: 1.0
 contained formats: 
-id: Q28858032; format Microsoft Word Binary File Format
 id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
 id: Q24834502; format PowerPoint Binary File Format
-id: Q28206109; format farbfeld
 id: Q99184084; format Atom web feed
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q28206109; format farbfeld

@@ -1,87 +1,87 @@
 39002085935717.json
 top ranked environments: 
-environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 6.411558904109585
-environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 6.274472602739724
-environment_number: 1; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 6.164783561643834
-environment_number: 3; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 6.164783561643834
-environment_number: 5; environment_name: Windows 95 + Visio Standard  5; score: 6.164783561643834
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 20.54253806548082
+environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 20.128410103045034
+environment_number: 1; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 19.923855797144327
+environment_number: 3; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 19.923855797144327
+environment_number: 5; environment_name: Windows 95 + Visio Standard  5; score: 19.923855797144327
 
 number of files:  256
 number of files with unknown format: 106
 number of files with known format: 150
 rate of files with known format: 0.5859375
 contained formats: 
-id: Q34312151; format Macromedia Director, uncompressed PC variant
-id: Q29011566; format Shockwave Flash, version 15
-id: Q1076355; format Portable Executable
-id: Q29012285; format Shockwave Flash, version 29
-id: Q29017311; format Shockwave Flash, version 34
-id: Q28205883; format Desktop Color Separation
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q29011824; format Shockwave Flash, version 21
+id: Q66811836; format Inform source code file
 id: Q95994246; format Agilent Microarray file format
-id: Q336284; format MPEG-1
-id: Q1662484; format Information Presentation Facility
-id: Q29011774; format Shockwave Flash, version 20
+id: Q34312151; format Macromedia Director, uncompressed PC variant
 id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
-id: Q29012224; format Shockwave Flash, version 28
-id: Q29017309; format Shockwave Flash, version 33
-id: Q5924007; format JavaScript
-id: Q58237034; format Adobe Multiple Master Metrics font file
-id: Q29011079; format Shockwave Flash, version 1
-id: Q28018470; format MPEG-1 program stream
-id: Q29012190; format Shockwave Flash, version 26
-id: Q29011361; format Shockwave Flash, version 8
-id: Q29904539; format Statistical Analysis System output file
-id: Q66134564; format Photoshop DCS 1.0
-id: Q29012350; format Shockwave Flash, version 30
-id: Q58006953; format TRIM Context Reference File
-id: Q29011977; format Shockwave Flash, version 23
-id: Q27578057; format Adobe Type 1 Printer Font Metrics
-id: Q29017304; format Shockwave Flash, version 31
+id: Q29011569; format Shockwave Flash, version 16
+id: Q29011538; format Shockwave Flash, version 13
 id: Q28206109; format farbfeld
-id: Q27923693; format DTED Cells Directory File
+id: Q29012350; format Shockwave Flash, version 30
+id: Q28018471; format MPEG-2 program stream
+id: Q29012285; format Shockwave Flash, version 29
+id: Q29011710; format Shockwave Flash, version 19
+id: Q28018470; format MPEG-1 program stream
+id: Q58237034; format Adobe Multiple Master Metrics font file
+id: Q29012206; format Shockwave Flash, version 27
+id: Q29011566; format Shockwave Flash, version 15
+id: Q29904539; format Statistical Analysis System output file
+id: Q29017312; format Shockwave Flash, version 35
+id: Q29012120; format Shockwave Flash, version 25
+id: Q59714459; format Encapsulated PostScript File Format
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q29011549; format Shockwave Flash, version 14
+id: Q61777776; format Play SID Audio, version 1
+id: Q29012224; format Shockwave Flash, version 28
+id: Q29011579; format Shockwave Flash, version 17
+id: Q58725633; format Adobe PostScript Font Metrics file
+id: Q29011514; format Shockwave Flash, version 12
+id: Q29011977; format Shockwave Flash, version 23
+id: Q29011892; format Shockwave Flash, version 22
+id: Q48625328; format Encapsulated PostScript, v2
+id: Q29011223; format Shockwave Flash, version 2
+id: Q29011315; format Shockwave Flash, version 4
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q28205883; format Desktop Color Separation
+id: Q29017309; format Shockwave Flash, version 33
+id: Q29011365; format Shockwave Flash, version 10
+id: Q29011363; format Shockwave Flash, version 9
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q29011484; format Shockwave Flash, version 11
+id: Q29011357; format Shockwave Flash, version 6
+id: Q5924007; format JavaScript
+id: Q29012054; format Shockwave Flash, version 24
+id: Q58103465; format Adobe Font List
+id: Q27578057; format Adobe Type 1 Printer Font Metrics
 id: Q99184084; format Atom web feed
 id: Q29011646; format Shockwave Flash, version 18
-id: Q28018471; format MPEG-2 program stream
-id: Q1047541; format Encapsulated PostScript
-id: Q59714459; format Encapsulated PostScript File Format
-id: Q28600763; format Electronic Arts INF
-id: Q29011315; format Shockwave Flash, version 4
-id: Q28755628; format Exact Yearbook LST file
-id: Q29012054; format Shockwave Flash, version 24
-id: Q3807693; format ASCII tab
-id: Q6026738; format PFB
-id: Q58725633; format Adobe PostScript Font Metrics file
-id: Q29011824; format Shockwave Flash, version 21
-id: Q29011710; format Shockwave Flash, version 19
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q29012206; format Shockwave Flash, version 27
-id: Q29017306; format Shockwave Flash, version 32
-id: Q29011365; format Shockwave Flash, version 10
-id: Q66134804; format Access Project file format
-id: Q29011514; format Shockwave Flash, version 12
-id: Q29012120; format Shockwave Flash, version 25
-id: Q29011363; format Shockwave Flash, version 9
-id: Q29011579; format Shockwave Flash, version 17
-id: Q29011484; format Shockwave Flash, version 11
-id: Q48625328; format Encapsulated PostScript, v2
-id: Q29011569; format Shockwave Flash, version 16
-id: Q58103465; format Adobe Font List
-id: Q27925722; format DTED Level 1 Gazetteer Directory file
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q29011549; format Shockwave Flash, version 14
-id: Q28206894; format Portable Float Map
+id: Q29017304; format Shockwave Flash, version 31
 id: Q29011271; format Shockwave Flash, version 3
-id: Q29011357; format Shockwave Flash, version 6
-id: Q29011538; format Shockwave Flash, version 13
-id: Q29017312; format Shockwave Flash, version 35
-id: Q29011892; format Shockwave Flash, version 22
-id: Q723030; format AsciiDoc
-id: Q29011358; format Shockwave Flash, version 7
-id: Q29011223; format Shockwave Flash, version 2
-id: Q29017314; format Shockwave Flash, version 36
+id: Q27925722; format DTED Level 1 Gazetteer Directory file
+id: Q29011079; format Shockwave Flash, version 1
+id: Q6026738; format PFB
+id: Q29017311; format Shockwave Flash, version 34
 id: Q29011347; format Shockwave Flash, version 5
-id: Q27979156; format ASCII art
+id: Q66134804; format Access Project file format
+id: Q29012190; format Shockwave Flash, version 26
+id: Q27923693; format DTED Cells Directory File
 id: Q684554; format Autorun.inf
-id: Q61777776; format Play SID Audio, version 1
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q29011358; format Shockwave Flash, version 7
+id: Q29011774; format Shockwave Flash, version 20
+id: Q29011361; format Shockwave Flash, version 8
+id: Q1047541; format Encapsulated PostScript
+id: Q66134564; format Photoshop DCS 1.0
+id: Q29017314; format Shockwave Flash, version 36
+id: Q16996920; format Windows Setup Information File
+id: Q28755628; format Exact Yearbook LST file
+id: Q336284; format MPEG-1
+id: Q28206894; format Portable Float Map
+id: Q29017306; format Shockwave Flash, version 32

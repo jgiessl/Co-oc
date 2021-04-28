@@ -12,8 +12,8 @@ number of files with known format: 13
 rate of files with known format: 1.0
 contained formats: 
 id: Q939636; format CorelDRAW Document
+id: Q942350; format QuickTime File Format
+id: Q28600764; format Electronic Arts MOV
 id: Q336284; format MPEG-1
 id: Q28018471; format MPEG-2 program stream
-id: Q28600764; format Electronic Arts MOV
-id: Q942350; format QuickTime File Format
 id: Q28018470; format MPEG-1 program stream

@@ -1,71 +1,71 @@
 39002037652659.json
 top ranked environments: 
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.5511068794595095
-environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.088896724118508
-environment_number: 9; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.7823548872180455
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.766475625384514
-environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.766475625384514
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.85406730340536
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.450543461726011
+environment_number: 3; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 2.305378641550391
+environment_number: 4; environment_name: Windows 95 + Visio Standard  5; score: 2.305378641550391
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.238413743664064
 
 number of files:  6603
 number of files with unknown format: 1936
 number of files with known format: 4667
 rate of files with known format: 0.7067999394214751
 contained formats: 
-id: Q47512572; format man page
-id: Q218170; format PostScript
-id: Q27979378; format VobSub index
-id: Q2627217; format Mach-O
-id: Q1076355; format Portable Executable
-id: Q1662484; format Information Presentation Facility
-id: Q10287816; format GZIP
-id: Q51837120; format Scitex Continuous Tone Bitmap
-id: Q28055391; format Printfox bitmap
-id: Q53756539; format git packfile index, version 1
-id: Q79241659; format Lotus Accessory
-id: Q777561; format BinHex
-id: Q29904539; format Statistical Analysis System output file
-id: Q2193155; format Java class file
-id: Q29904472; format ROOT
-id: Q28206390; format IRIS CMYK Front End Processor CT
-id: Q29209269; format Z
-id: Q28206109; format farbfeld
-id: Q28758103; format InstallShield Z
-id: Q99184084; format Atom web feed
-id: Q51916170; format Pagemaker TableEditor Graphics
-id: Q53756551; format git packfile index, version 2
-id: Q1343830; format Executable and Linkable Format
-id: Q27979410; format Binary Text
-id: Q28206147; format Freedom of Press Bitamp
-id: Q28600763; format Electronic Arts INF
-id: Q28755628; format Exact Yearbook LST file
-id: Q28205727; format AVS X image
-id: Q27967131; format CyberTracker module
-id: Q58335745; format Acrobat Catalog Cat File
-id: Q28756168; format FWKCS SRT file
-id: Q5322705; format Extended Common Object File Format
-id: Q8041715; format XCOFF
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q62625561; format Bash script
-id: Q1068805; format .properties
-id: Q58103465; format Adobe Font List
-id: Q29650301; format Pack
-id: Q75717634; format Corel Photo Paint User Defined Filter
 id: Q27960138; format SPPACK
-id: Q28206138; format Freedom of Press Info
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q1882400; format MacBinary
-id: Q75717796; format USRobotics firmware
-id: Q856364; format Common Object File Format
-id: Q9332294; format SubRip text file format
-id: Q7434105; format Scitex Continuous Tone
-id: Q28206328; format Img Software Set Red Component
-id: Q4545483; format X File Format
-id: Q28600412; format Attribute-Relation File Format
-id: Q34310996; format Security Catalog
-id: Q7671270; format TRANS.TBL
-id: Q921122; format Java archive
-id: Q684554; format Autorun.inf
-id: Q1141412; format INI file
+id: Q75717634; format Corel Photo Paint User Defined Filter
 id: Q279254; format a.out
+id: Q4045294; format New Executable
+id: Q10287816; format GZIP
+id: Q34310996; format Security Catalog
+id: Q53756551; format git packfile index, version 2
+id: Q66811836; format Inform source code file
+id: Q27979378; format VobSub index
+id: Q921122; format Java archive
+id: Q51837120; format Scitex Continuous Tone Bitmap
+id: Q28206109; format farbfeld
+id: Q28206138; format Freedom of Press Info
+id: Q28600412; format Attribute-Relation File Format
+id: Q29904539; format Statistical Analysis System output file
+id: Q7671270; format TRANS.TBL
+id: Q1662484; format Information Presentation Facility
+id: Q218170; format PostScript
+id: Q29904472; format ROOT
+id: Q28205727; format AVS X image
+id: Q28206147; format Freedom of Press Bitamp
+id: Q777561; format BinHex
+id: Q2627217; format Mach-O
+id: Q1882400; format MacBinary
+id: Q856364; format Common Object File Format
+id: Q29650301; format Pack
+id: Q62625561; format Bash script
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q58103465; format Adobe Font List
+id: Q28055391; format Printfox bitmap
+id: Q28756168; format FWKCS SRT file
+id: Q1343830; format Executable and Linkable Format
+id: Q99184084; format Atom web feed
+id: Q28758103; format InstallShield Z
+id: Q2193155; format Java class file
+id: Q47512572; format man page
+id: Q51916170; format Pagemaker TableEditor Graphics
+id: Q27967131; format CyberTracker module
+id: Q75717796; format USRobotics firmware
+id: Q9332294; format SubRip text file format
+id: Q1068805; format .properties
+id: Q5322705; format Extended Common Object File Format
+id: Q28206328; format Img Software Set Red Component
+id: Q1141412; format INI file
+id: Q27979410; format Binary Text
+id: Q684554; format Autorun.inf
+id: Q7434105; format Scitex Continuous Tone
+id: Q4545483; format X File Format
+id: Q29209269; format Z
+id: Q16996920; format Windows Setup Information File
+id: Q58335745; format Acrobat Catalog Cat File
+id: Q28755628; format Exact Yearbook LST file
+id: Q79241659; format Lotus Accessory
+id: Q28206390; format IRIS CMYK Front End Processor CT
+id: Q8041715; format XCOFF
+id: Q53756539; format git packfile index, version 1

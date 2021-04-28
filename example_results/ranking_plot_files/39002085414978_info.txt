@@ -1,7 +1,7 @@
 39002085414978.json
 top ranked environments: 
-environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 15.000499999999999
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 15.000499999999999
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 36.92777628808774
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 36.92777628808774
 
 number of files:  1
 number of files with unknown format: 0
@@ -9,7 +9,7 @@ number of files with known format: 1
 rate of files with known format: 1.0
 contained formats: 
 id: Q48004869; format Microsoft Access Database, version 95
+id: Q48021763; format Microsoft Access Database, version 2002
+id: Q48004607; format Microsoft Access Database, version 2
 id: Q48021588; format Microsoft Access Database, version 2000
 id: Q48005022; format Microsoft Access Database, version 95
-id: Q48004607; format Microsoft Access Database, version 2
-id: Q48021763; format Microsoft Access Database, version 2002

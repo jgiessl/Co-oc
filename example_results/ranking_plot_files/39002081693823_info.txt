@@ -1,48 +1,48 @@
 39002081693823.json
 top ranked environments: 
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.7590295109095035
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.0558470369418949
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.7725600092363515
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.7645437313904679
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.5404069518716578
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 3.4788433087522006
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.1563487638141083
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 2.008455595551871
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.8194702246163006
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.4729925530889811
 
 number of files:  613
 number of files with unknown format: 0
 number of files with known format: 613
 rate of files with known format: 1.0
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q6912474; format Mork
-id: Q1662484; format Information Presentation Facility
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q28758112; format Internet Explorer history file
-id: Q28205580; format OS/2 Icon
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q47233167; format LDR
-id: Q28049770; format DKBTrace scene description
-id: Q28755606; format Exact Yearbook DAT file
-id: Q32097740; format Fallout DAT
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q81526528; format MicroStation Resource data
-id: Q178051; format Portable Network Graphics
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
-id: Q32097899; format Fallout v2 DAT
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q28600763; format Electronic Arts INF
-id: Q81526664; format Palm Desktop DateBook
+id: Q27826469; format Cascading Style Sheets Level 3
 id: Q29650304; format PRT scene description
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q34747804; format Supaplex Level format
-id: Q16996920; format Windows Setup Information File
 id: Q66811836; format Inform source code file
 id: Q28205626; format Sun icon
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q28755606; format Exact Yearbook DAT file
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q32097899; format Fallout v2 DAT
+id: Q28207108; format The Print Shop Graphics file
 id: Q34746472; format STATISTICA Spreadsheet File
+id: Q729366; format ICO
+id: Q34747804; format Supaplex Level format
+id: Q1662484; format Information Presentation Facility
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q28758112; format Internet Explorer history file
+id: Q178051; format Portable Network Graphics
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q81526664; format Palm Desktop DateBook
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q6912474; format Mork
+id: Q99184084; format Atom web feed
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q28049770; format DKBTrace scene description
 id: Q28206771; format OS/2 Bitmap Array
+id: Q81526528; format MicroStation Resource data
+id: Q28205580; format OS/2 Icon
 id: Q684554; format Autorun.inf
-id: Q27826469; format Cascading Style Sheets Level 3
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q32097740; format Fallout DAT
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q16996920; format Windows Setup Information File
+id: Q47233167; format LDR
+id: Q28009496; format Zelda Solarus DX saved game

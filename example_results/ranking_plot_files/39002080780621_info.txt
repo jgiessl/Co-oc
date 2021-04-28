@@ -1,64 +1,64 @@
 39002080780621.json
 top ranked environments: 
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 9.219607701823499
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 6.240447400599847
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 5.006030460709143
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 4.723781006126332
-environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.349233879781422
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 49.63669502224569
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 35.416845900410856
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 31.88512493207371
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 31.33115188074172
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 20.080914293625778
 
 number of files:  449
 number of files with unknown format: 14
 number of files with known format: 435
 rate of files with known format: 0.9688195991091314
 contained formats: 
-id: Q1134089; format world file
-id: Q27487348; format Shapefile spatial index part 2
-id: Q59999470; format ESRI Spatial Index File
-id: Q95994246; format Agilent Microarray file format
-id: Q27826346; format Reduced resolution dataset file
-id: Q28205439; format Sony ARW
-id: Q51954585; format dBASE Database
-id: Q51753252; format AutoCAD Compiled Shape/Font File
-id: Q60628005; format FoxPro Database, version 2
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q27487130; format Shapefile dBASE table
-id: Q58006953; format TRIM Context Reference File
-id: Q51753051; format 3D Studio Shapes
-id: Q27487109; format Shapefile index file
-id: Q56827141; format SeqBox file
-id: Q48005022; format Microsoft Access Database, version 95
-id: Q27826340; format Auxiliary file, AUX variant
-id: Q51954521; format Microsoft FoxPro Database, version 2.6
-id: Q17092932; format JPEG-XT
-id: Q1952321; format Multi Picture Object
-id: Q99184084; format Atom web feed
-id: Q26329648; format JPEG File Interchange Format, version 1.0
-id: Q26385770; format Still Picture Interchange File Format
-id: Q28975875; format OOGL TLIST Projective file
-id: Q60628025; format FoxPro Database, version 2.5
-id: Q27487343; format Shapefile spatial index part 1
-id: Q3807693; format ASCII tab
 id: Q52834849; format dBASE for Windows database, version 5
-id: Q29465378; format UltraEdit project file
-id: Q48004607; format Microsoft Access Database, version 2
-id: Q48021588; format Microsoft Access Database, version 2000
-id: Q66134804; format Access Project file format
-id: Q61971919; format Microsoft Visual FoxPro Database Table File
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q27486884; format Shapefile main file
-id: Q27487424; format Shapefile projections definitions file
+id: Q3807693; format ASCII tab
+id: Q95994246; format Agilent Microarray file format
+id: Q60628005; format FoxPro Database, version 2
+id: Q51954521; format Microsoft FoxPro Database, version 2.6
+id: Q48005022; format Microsoft Access Database, version 95
 id: Q27823195; format Binary Terrain External Projection file
-id: Q28445577; format Advanced Authoring System
-id: Q28206262; format HSI JPEG
-id: Q66689327; format Access lock files
-id: Q28207085; format PrintMaster Graphics file
-id: Q27826389; format Proxy AUX file, AUX variant
-id: Q48004869; format Microsoft Access Database, version 95
 id: Q44933672; format dBASE IV
-id: Q28206497; format Lossless JPEG
-id: Q723030; format AsciiDoc
-id: Q48021763; format Microsoft Access Database, version 2002
-id: Q28206359; format Intergraph Raster
-id: Q27979156; format ASCII art
-id: Q1141412; format INI file
+id: Q1952321; format Multi Picture Object
+id: Q26329648; format JPEG File Interchange Format, version 1.0
 id: Q61971917; format FoxPro Database, version 2x
+id: Q48004869; format Microsoft Access Database, version 95
+id: Q27979156; format ASCII art
+id: Q48021763; format Microsoft Access Database, version 2002
+id: Q27487348; format Shapefile spatial index part 2
+id: Q28206359; format Intergraph Raster
+id: Q29465378; format UltraEdit project file
+id: Q58006953; format TRIM Context Reference File
+id: Q27487130; format Shapefile dBASE table
+id: Q723030; format AsciiDoc
+id: Q51753051; format 3D Studio Shapes
+id: Q27826389; format Proxy AUX file, AUX variant
+id: Q59999470; format ESRI Spatial Index File
+id: Q27487424; format Shapefile projections definitions file
+id: Q61971919; format Microsoft Visual FoxPro Database Table File
+id: Q56827141; format SeqBox file
+id: Q28206497; format Lossless JPEG
+id: Q60628025; format FoxPro Database, version 2.5
+id: Q28207085; format PrintMaster Graphics file
+id: Q99184084; format Atom web feed
+id: Q66689327; format Access lock files
+id: Q27487343; format Shapefile spatial index part 1
+id: Q27826340; format Auxiliary file, AUX variant
+id: Q28205439; format Sony ARW
+id: Q28445577; format Advanced Authoring System
+id: Q1141412; format INI file
+id: Q28206262; format HSI JPEG
+id: Q66134804; format Access Project file format
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q27486884; format Shapefile main file
+id: Q28975875; format OOGL TLIST Projective file
+id: Q51753252; format AutoCAD Compiled Shape/Font File
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1134089; format world file
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q17092932; format JPEG-XT
+id: Q26385770; format Still Picture Interchange File Format
+id: Q51954585; format dBASE Database
+id: Q27487109; format Shapefile index file
+id: Q27826346; format Reduced resolution dataset file

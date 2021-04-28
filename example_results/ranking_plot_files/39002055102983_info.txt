@@ -1,7 +1,7 @@
 39002055102983.json
 top ranked environments: 
-environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.3577757575757575
-environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.09110909090909092
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.4685687536563092
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.12315777729077322
 environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 environment_number: 1; environment_name: Windows 95 C (OSR 2.5) Base V2 + Microsoft Works Suite 99 13401; score: 0.0001
 environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.0001
@@ -11,26 +11,26 @@ number of files with unknown format: 114
 number of files with known format: 517
 rate of files with known format: 0.8193343898573693
 contained formats: 
-id: Q6912474; format Mork
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q28758112; format Internet Explorer history file
-id: Q28600764; format Electronic Arts MOV
-id: Q47233167; format LDR
-id: Q28049770; format DKBTrace scene description
+id: Q4045294; format New Executable
+id: Q29650304; format PRT scene description
 id: Q28755606; format Exact Yearbook DAT file
-id: Q29904539; format Statistical Analysis System output file
-id: Q32097740; format Fallout DAT
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q81526528; format MicroStation Resource data
 id: Q1144005; format WinHelp
 id: Q32097899; format Fallout v2 DAT
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q81526664; format Palm Desktop DateBook
-id: Q28755628; format Exact Yearbook LST file
-id: Q29650304; format PRT scene description
-id: Q942350; format QuickTime File Format
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q58103465; format Adobe Font List
+id: Q28207108; format The Print Shop Graphics file
+id: Q29904539; format Statistical Analysis System output file
 id: Q34747804; format Supaplex Level format
-id: Q4045294; format New Executable
+id: Q28758112; format Internet Explorer history file
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q81526664; format Palm Desktop DateBook
+id: Q6912474; format Mork
+id: Q58103465; format Adobe Font List
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q28049770; format DKBTrace scene description
+id: Q81526528; format MicroStation Resource data
+id: Q942350; format QuickTime File Format
+id: Q28600764; format Electronic Arts MOV
+id: Q32097740; format Fallout DAT
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q28755628; format Exact Yearbook LST file
+id: Q47233167; format LDR
+id: Q28009496; format Zelda Solarus DX saved game

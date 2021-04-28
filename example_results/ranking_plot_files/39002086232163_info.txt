@@ -11,22 +11,22 @@ number of files with unknown format: 1
 number of files with known format: 11
 rate of files with known format: 0.9166666666666666
 contained formats: 
-id: Q28344713; format Package File
-id: Q47512572; format man page
-id: Q1662484; format Information Presentation Facility
-id: Q28755621; format Exact Yearbook ID file
-id: Q28771319; format Microsoft Library
-id: Q6043826; format Intellifont
 id: Q27967091; format Funcom ISS
-id: Q28206147; format Freedom of Press Bitamp
-id: Q28600763; format Electronic Arts INF
-id: Q19599377; format AppleLink Package Compression Format
-id: Q29000498; format OrCAD library
+id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
 id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
 id: Q28206138; format Freedom of Press Info
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
+id: Q28344713; format Package File
+id: Q28771319; format Microsoft Library
+id: Q1662484; format Information Presentation Facility
+id: Q19599377; format AppleLink Package Compression Format
+id: Q28206147; format Freedom of Press Bitamp
+id: Q29000498; format OrCAD library
+id: Q28600763; format Electronic Arts INF
 id: Q27967388; format Adlib Tracker instrument
-id: Q684554; format Autorun.inf
+id: Q47512572; format man page
+id: Q28755621; format Exact Yearbook ID file
 id: Q1141412; format INI file
+id: Q684554; format Autorun.inf
+id: Q6043826; format Intellifont
+id: Q16996920; format Windows Setup Information File

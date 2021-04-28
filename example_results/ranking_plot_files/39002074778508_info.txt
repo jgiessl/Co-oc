@@ -1,157 +1,157 @@
 39002074778508.json
 top ranked environments: 
-environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 31.71872814751962
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 28.562446953079878
-environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 24.083875312401403
-environment_number: 23; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 19.91022995149906
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 17.574030703282368
+environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 179.42177449857044
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 166.36621368614323
+environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 142.06479339239925
+environment_number: 23; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 139.68037875060767
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 128.49462747636167
 
 number of files:  2995
 number of files with unknown format: 373
 number of files with known format: 2622
 rate of files with known format: 0.8754590984974958
 contained formats: 
-id: Q26211954; format ZIP archive file format, version 4.6
-id: Q59999653; format ESRI Arc/View Project
-id: Q59999470; format ESRI Spatial Index File
-id: Q27231651; format Tag Image File Format, version 5.0
-id: Q26211927; format ZIP archive file format, version 6.2.0
-id: Q28049770; format DKBTrace scene description
-id: Q2193155; format Java class file
-id: Q32097740; format Fallout DAT
-id: Q29944987; format Rich Text Format, version 0
-id: Q27231634; format Tag Image File Format, version 4.0
-id: Q17092932; format JPEG-XT
-id: Q26211965; format ZIP archive file format, version 2.5
-id: Q56827141; format SeqBox file
-id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
-id: Q5153426; format Common Log Format
-id: Q27526739; format Graphics Interchange Format, version 89a
-id: Q27866059; format Digital Negative, version 1.1
-id: Q61971919; format Microsoft Visual FoxPro Database Table File
-id: Q26211940; format ZIP archive file format, version 5.1
-id: Q27866063; format Digital Negative, version 1.4
-id: Q27526866; format Write for Windows Document, version 3.1
-id: Q66811836; format Inform source code file
-id: Q5448342; format File change log
-id: Q26211957; format ZIP archive file format, version 4.5
-id: Q29904540; format Statistical Analysis System log file
-id: Q29944783; format Rich Text Format, version 1.7
-id: Q28206771; format OS/2 Bitmap Array
-id: Q28206359; format Intergraph Raster
-id: Q684554; format Autorun.inf
-id: Q1952321; format Multi Picture Object
-id: Q61971917; format FoxPro Database, version 2x
-id: Q28207379; format TIFF for Fax eXtended
-id: Q27487348; format Shapefile spatial index part 2
-id: Q28205439; format Sony ARW
-id: Q6912474; format Mork
-id: Q26211936; format ZIP archive file format, version 5.2
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q217570; format Waveform Audio File Format
+id: Q95994246; format Agilent Microarray file format
 id: Q60628005; format FoxPro Database, version 2
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q26211978; format ZIP archive file format, version 1.1
-id: Q27487130; format Shapefile dBASE table
+id: Q3513566; format tab-separated values
 id: Q51954521; format Microsoft FoxPro Database, version 2.6
-id: Q81526528; format MicroStation Resource data
-id: Q28206109; format farbfeld
-id: Q729366; format ICO
-id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q28755606; format Exact Yearbook DAT file
 id: Q26211905; format ZIP archive file format, version 6.2.2
-id: Q29151645; format Research Articles in Simplified HTML
-id: Q28975875; format OOGL TLIST Projective file
-id: Q60615282; format Write for Windows Document, version 3
-id: Q81526664; format Palm Desktop DateBook
-id: Q27487343; format Shapefile spatial index part 1
-id: Q1072083; format Windows Metafile
-id: Q29944785; format Rich Text Format, version 1.8
-id: Q52834849; format dBASE for Windows database, version 5
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q48814895; format ESRI ArcView Project
-id: Q27487424; format Shapefile projections definitions file
-id: Q28207384; format TIFF/IT
-id: Q34747804; format Supaplex Level format
-id: Q44933672; format dBASE IV
+id: Q1952321; format Multi Picture Object
+id: Q28207108; format The Print Shop Graphics file
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q729366; format ICO
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q26211965; format ZIP archive file format, version 2.5
+id: Q28758112; format Internet Explorer history file
+id: Q26211954; format ZIP archive file format, version 4.6
+id: Q27526866; format Write for Windows Document, version 3.1
+id: Q26211977; format ZIP archive file format, version 2.0
+id: Q1888930; format Vector Markup Language
+id: Q1570391; format Uuencoding
+id: Q26211936; format ZIP archive file format, version 5.2
+id: Q2192; format Graphics Interchange Format
 id: Q28206497; format Lossless JPEG
-id: Q8811; format HyperText Markup Language
-id: Q2053; format HTML5
+id: Q99184084; format Atom web feed
+id: Q2193155; format Java class file
+id: Q28206771; format OS/2 Bitmap Array
+id: Q28206262; format HSI JPEG
+id: Q166074; format Extensible HyperText Markup Language
+id: Q59999653; format ESRI Arc/View Project
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q51753252; format AutoCAD Compiled Shape/Font File
+id: Q5153426; format Common Log Format
+id: Q28975875; format OOGL TLIST Projective file
+id: Q29944773; format Rich Text Format, version 1.1
+id: Q26211983; format ZIP archive file format, version 1.0
+id: Q51954585; format dBASE Database
+id: Q28786544; format Netscape bookmarks
+id: Q52834849; format dBASE for Windows database, version 5
+id: Q66811836; format Inform source code file
+id: Q26211915; format ZIP archive file format, version 6.2.1
+id: Q27526739; format Graphics Interchange Format, version 89a
+id: Q29151645; format Research Articles in Simplified HTML
+id: Q26211958; format ZIP archive file format, version 2.7
+id: Q29904540; format Statistical Analysis System log file
+id: Q27823195; format Binary Terrain External Projection file
+id: Q10394822; format ZIP archive file format, version 6.3.2
+id: Q44933672; format dBASE IV
+id: Q29944777; format Rich Text Format, version 1.3
+id: Q1072083; format Windows Metafile
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q27487348; format Shapefile spatial index part 2
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q58006953; format TRIM Context Reference File
+id: Q27487130; format Shapefile dBASE table
+id: Q27596243; format Windows Bitmap, version 3
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q59999470; format ESRI Spatial Index File
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q60615282; format Write for Windows Document, version 3
+id: Q26211927; format ZIP archive file format, version 6.2.0
+id: Q56827141; format SeqBox file
+id: Q28207085; format PrintMaster Graphics file
+id: Q27231651; format Tag Image File Format, version 5.0
+id: Q27866062; format Digital Negative, version 1.3
+id: Q29650305; format PSI-MI XML
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q16996920; format Windows Setup Information File
+id: Q28049770; format DKBTrace scene description
+id: Q27487109; format Shapefile index file
+id: Q28207379; format TIFF for Fax eXtended
+id: Q27231634; format Tag Image File Format, version 4.0
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q29650304; format PRT scene description
+id: Q28205626; format Sun icon
+id: Q1144005; format WinHelp
+id: Q29944776; format Rich Text Format, version 1.2
+id: Q61971917; format FoxPro Database, version 2x
+id: Q5448342; format File change log
+id: Q5532250; format General Transit Feed Specification
+id: Q17073241; format Opera Show Format
+id: Q28206359; format Intergraph Raster
+id: Q5421818; format Extended Log Format
+id: Q29465378; format UltraEdit project file
+id: Q81526664; format Palm Desktop DateBook
+id: Q51753051; format 3D Studio Shapes
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q27487424; format Shapefile projections definitions file
+id: Q6912474; format Mork
 id: Q28205771; format BigTIFF
 id: Q26211891; format ZIP archive file format, version 6.3.0
-id: Q26211958; format ZIP archive file format, version 2.7
-id: Q29000599; format Windows Shortcut
-id: Q1076355; format Portable Executable
-id: Q29944758; format Rich Text Format, version 1.0
-id: Q29650305; format PSI-MI XML
-id: Q95994246; format Agilent Microarray file format
-id: Q46118194; format Lotus Approach View File, version 97
-id: Q28758112; format Internet Explorer history file
-id: Q288405; format hOCR
-id: Q28755606; format Exact Yearbook DAT file
-id: Q26211977; format ZIP archive file format, version 2.0
-id: Q51753252; format AutoCAD Compiled Shape/Font File
-id: Q27231654; format Tag Image File Format, version 6.0
-id: Q51753051; format 3D Studio Shapes
-id: Q27487109; format Shapefile index file
-id: Q5532250; format General Transit Feed Specification
-id: Q27596243; format Windows Bitmap, version 3
-id: Q32097899; format Fallout v2 DAT
-id: Q26385770; format Still Picture Interchange File Format
-id: Q3807693; format ASCII tab
-id: Q29650304; format PRT scene description
-id: Q1888930; format Vector Markup Language
-id: Q1502796; format GeoTIFF
-id: Q27486884; format Shapefile main file
-id: Q27823195; format Binary Terrain External Projection file
-id: Q28207085; format PrintMaster Graphics file
-id: Q29944776; format Rich Text Format, version 1.2
-id: Q16996920; format Windows Setup Information File
-id: Q27866062; format Digital Negative, version 1.3
-id: Q26211948; format ZIP archive file format, version 5.0
-id: Q27979156; format ASCII art
-id: Q1141412; format INI file
-id: Q10394822; format ZIP archive file format, version 6.3.2
-id: Q28786544; format Netscape bookmarks
-id: Q1662484; format Information Presentation Facility
-id: Q17073241; format Opera Show Format
-id: Q26211983; format ZIP archive file format, version 1.0
-id: Q28205372; format Kodak TIFF
-id: Q28205580; format OS/2 Icon
-id: Q47233167; format LDR
-id: Q26211931; format ZIP archive file format, version 6.1.0
-id: Q51954585; format dBASE Database
-id: Q6753724; format MapInfo TAB format
-id: Q58006953; format TRIM Context Reference File
-id: Q1570391; format Uuencoding
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q7670377; format Tagged Image File Format/Electronic Photography
-id: Q29944780; format Rich Text Format, version 1.5
-id: Q1144005; format WinHelp
-id: Q99184084; format Atom web feed
-id: Q2192; format Graphics Interchange Format
-id: Q29944786; format Rich Text Format, version 1.9
-id: Q62626012; format HyperText Markup Language
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q5421818; format Extended Log Format
 id: Q60628025; format FoxPro Database, version 2.5
-id: Q673906; format Simple Standards-Based Slide Show System
-id: Q28600763; format Electronic Arts INF
-id: Q29944779; format Rich Text Format, version 1.4
-id: Q29465378; format UltraEdit project file
+id: Q29000599; format Windows Shortcut
+id: Q8811; format HyperText Markup Language
+id: Q1502796; format GeoTIFF
 id: Q26211874; format ZIP archive file format, version 6.3.1
+id: Q27487343; format Shapefile spatial index part 1
+id: Q28205439; format Sony ARW
+id: Q66134804; format Access Project file format
+id: Q29944987; format Rich Text Format, version 0
+id: Q27486884; format Shapefile main file
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q2053; format HTML5
+id: Q27866063; format Digital Negative, version 1.4
 id: Q50223812; format Bluetooth Snoop Packet Capture
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q28206262; format HSI JPEG
-id: Q26211975; format ZIP archive file format, version 2.1
-id: Q29944777; format Rich Text Format, version 1.3
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q723030; format AsciiDoc
-id: Q29944773; format Rich Text Format, version 1.1
-id: Q26211915; format ZIP archive file format, version 6.2.1
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q26211931; format ZIP archive file format, version 6.1.0
+id: Q26211940; format ZIP archive file format, version 5.1
+id: Q29944785; format Rich Text Format, version 1.8
+id: Q26211957; format ZIP archive file format, version 4.5
+id: Q28206109; format farbfeld
+id: Q48814895; format ESRI ArcView Project
+id: Q32097899; format Fallout v2 DAT
+id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
+id: Q34747804; format Supaplex Level format
+id: Q288405; format hOCR
 id: Q29944782; format Rich Text Format, version 1.6
-id: Q3513566; format tab-separated values
+id: Q27866059; format Digital Negative, version 1.1
+id: Q62626012; format HyperText Markup Language
+id: Q723030; format AsciiDoc
+id: Q217570; format Waveform Audio File Format
+id: Q27231654; format Tag Image File Format, version 6.0
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q61971919; format Microsoft Visual FoxPro Database Table File
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q26211978; format ZIP archive file format, version 1.1
+id: Q1141412; format INI file
+id: Q28205372; format Kodak TIFF
+id: Q81526528; format MicroStation Resource data
+id: Q46118194; format Lotus Approach View File, version 97
+id: Q32097740; format Fallout DAT
+id: Q17092932; format JPEG-XT
+id: Q26211975; format ZIP archive file format, version 2.1
+id: Q28207384; format TIFF/IT
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q26385770; format Still Picture Interchange File Format
+id: Q7670377; format Tagged Image File Format/Electronic Photography
+id: Q6753724; format MapInfo TAB format
+id: Q47233167; format LDR
+id: Q26211948; format ZIP archive file format, version 5.0

@@ -1,72 +1,72 @@
 39002059644956.json
 top ranked environments: 
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 54.992372482615096
-environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 38.31791895267867
-environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 34.89705000072039
-environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 31.253866821575183
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 26.035982758620758
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 196.2592143316671
+environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 170.11870731821483
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 151.10536621019787
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 139.66511778728275
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) - Base V2 + Microsoft Word 2000 + 6953; score: 117.40613971220812
 
 number of files:  15777
 number of files with unknown format: 0
 number of files with known format: 15777
 rate of files with known format: 1.0
 contained formats: 
-id: Q48782394; format Microsoft Word for MS-DOS Document, version 5.5
-id: Q28858044; format Word Binary File Format, version nFibNew=0x0112
-id: Q1076355; format Portable Executable
-id: Q29944758; format Rich Text Format, version 1.0
 id: Q51801746; format Stationery for Mac OS X
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q65595616; format Variant Call Format
+id: Q7915770; format Variant Call Format
+id: Q4045294; format New Executable
+id: Q65595930; format Variant Call Format
+id: Q66811836; format Inform source code file
+id: Q29944785; format Rich Text Format, version 1.8
+id: Q48782202; format Microsoft Word for MS-DOS Document, version 4
+id: Q48782394; format Microsoft Word for MS-DOS Document, version 5.5
+id: Q28858035; format Word Binary File Format, version nFib=0x00C1
+id: Q85621806; format PFS:First Choice Document 3
+id: Q28205626; format Sun icon
+id: Q28206109; format farbfeld
+id: Q29944776; format Rich Text Format, version 1.2
+id: Q29944777; format Rich Text Format, version 1.3
+id: Q729366; format ICO
+id: Q28858038; format Word Binary File Format, version nFib=0x00C2
 id: Q1662484; format Information Presentation Facility
 id: Q60628185; format Wordperfect Secondary File, version 5
-id: Q24834502; format PowerPoint Binary File Format
-id: Q85621726; format PFS:First Choice Document
-id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
-id: Q60000066; format Microsoft Office Owner File
-id: Q61641368; format Microsoft Word for Windows Document, version 2
-id: Q28205580; format OS/2 Icon
-id: Q48782238; format Microsoft Word for MS-DOS Document, version 5
-id: Q29944987; format Rich Text Format, version 0
-id: Q29944773; format Rich Text Format, version 1.1
-id: Q63061514; format Microsoft Word Document, version 97-2003
-id: Q85621806; format PFS:First Choice Document 3
-id: Q65595930; format Variant Call Format
-id: Q66439286; format DisplayWrite Document file format, version 5
-id: Q29944780; format Rich Text Format, version 1.5
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
-id: Q48915661; format Interleaf Document
-id: Q29944786; format Rich Text Format, version 1.9
-id: Q305941; format vCard
-id: Q28858042; format Word Binary File Format, version nFibNew=0x010C
-id: Q28600763; format Electronic Arts INF
-id: Q62664735; format Wordperfect Secondary File, version 5.1 and 5.2
-id: Q28858037; format Word Binary File Format, version nFib=0x00C0
-id: Q29944785; format Rich Text Format, version 1.8
-id: Q29944779; format Rich Text Format, version 1.4
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q7915770; format Variant Call Format
-id: Q61639409; format Microsoft Word for Windows Document, version 1
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q28858038; format Word Binary File Format, version nFib=0x00C2
-id: Q28858035; format Word Binary File Format, version nFib=0x00C1
-id: Q29944776; format Rich Text Format, version 1.2
-id: Q48782202; format Microsoft Word for MS-DOS Document, version 4
-id: Q29944777; format Rich Text Format, version 1.3
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q28858041; format Word Binary File Format, version nFibNew=0x0101
-id: Q28205626; format Sun icon
-id: Q63061396; format Microsoft Word Document
 id: Q29944782; format Rich Text Format, version 1.6
-id: Q29944783; format Rich Text Format, version 1.7
-id: Q48782098; format Microsoft Word for MS-DOS Document, version 3
-id: Q28206771; format OS/2 Bitmap Array
-id: Q28858039; format Word Binary File Format, version nFibNew=0x00D9
-id: Q686498; format doc
+id: Q63061514; format Microsoft Word Document, version 97-2003
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q60000066; format Microsoft Office Owner File
+id: Q85621726; format PFS:First Choice Document
+id: Q29944779; format Rich Text Format, version 1.4
 id: Q65595754; format Variant Call Format
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q686498; format doc
+id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
+id: Q66439286; format DisplayWrite Document file format, version 5
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q99184084; format Atom web feed
+id: Q61639409; format Microsoft Word for Windows Document, version 1
+id: Q28858037; format Word Binary File Format, version nFib=0x00C0
+id: Q48782238; format Microsoft Word for MS-DOS Document, version 5
+id: Q24834502; format PowerPoint Binary File Format
+id: Q65595616; format Variant Call Format
+id: Q28858042; format Word Binary File Format, version nFibNew=0x010C
+id: Q28206771; format OS/2 Bitmap Array
+id: Q61641368; format Microsoft Word for Windows Document, version 2
+id: Q305941; format vCard
+id: Q28858044; format Word Binary File Format, version nFibNew=0x0112
+id: Q66134804; format Access Project file format
+id: Q29944987; format Rich Text Format, version 0
+id: Q28858041; format Word Binary File Format, version nFibNew=0x0101
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q63061396; format Microsoft Word Document
+id: Q28205580; format OS/2 Icon
 id: Q684554; format Autorun.inf
+id: Q62664735; format Wordperfect Secondary File, version 5.1 and 5.2
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q29944773; format Rich Text Format, version 1.1
+id: Q16996920; format Windows Setup Information File
+id: Q48915661; format Interleaf Document
+id: Q48782098; format Microsoft Word for MS-DOS Document, version 3
+id: Q28858039; format Word Binary File Format, version nFibNew=0x00D9

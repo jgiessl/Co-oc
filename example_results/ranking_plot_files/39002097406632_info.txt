@@ -1,53 +1,53 @@
 39002097406632.json
 top ranked environments: 
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.9403709401709401
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.9336226781557142
-environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.77967652430956
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.4134276432670196
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.3461522981410815
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.205408458818391
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.5185144530308166
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 1.57230075475517
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 1.27300647549277
+environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.1100010375260354
 
 number of files:  2127
 number of files with unknown format: 152
 number of files with known format: 1975
 rate of files with known format: 0.9285378467324871
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q28757986; format IPS manifest
-id: Q1662484; format Information Presentation Facility
-id: Q28205507; format GlowIcons
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q28205475; format ZoomBrowser Ex thumbnail cache
-id: Q34284525; format Perl script
+id: Q27960107; format Berkeley/IRCAM/Carl Sound Format
 id: Q66310989; format Pantry Files
-id: Q15955723; format Python script
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q178051; format Portable Network Graphics
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q27979156; format ASCII art
-id: Q27596243; format Windows Bitmap, version 3
-id: Q28600763; format Electronic Arts INF
-id: Q479833; format ا تهكير لعبة ببجي
 id: Q3807693; format ASCII tab
 id: Q27826469; format Cascading Style Sheets Level 3
-id: Q28205479; format Amiga Workbench icon
-id: Q62625561; format Bash script
-id: Q27979388; format AAE sidecar format
-id: Q28445577; format Advanced Authoring System
-id: Q1068805; format .properties
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q28205548; format NewIcons
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q4045294; format New Executable
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q723030; format AsciiDoc
-id: Q28600412; format Attribute-Relation File Format
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q27960107; format Berkeley/IRCAM/Carl Sound Format
+id: Q66811836; format Inform source code file
 id: Q921122; format Java archive
+id: Q95994246; format Agilent Microarray file format
+id: Q15955723; format Python script
+id: Q479833; format ا تهكير لعبة ببجي
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q28600412; format Attribute-Relation File Format
+id: Q28205479; format Amiga Workbench icon
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q28205548; format NewIcons
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q178051; format Portable Network Graphics
+id: Q58006953; format TRIM Context Reference File
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q723030; format AsciiDoc
+id: Q27596243; format Windows Bitmap, version 3
+id: Q62625561; format Bash script
 id: Q98815369; format Microsoft Access Database Link
-id: Q684554; format Autorun.inf
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q28757986; format IPS manifest
+id: Q34284525; format Perl script
+id: Q99184084; format Atom web feed
+id: Q1068805; format .properties
+id: Q28205475; format ZoomBrowser Ex thumbnail cache
+id: Q28445577; format Advanced Authoring System
 id: Q1141412; format INI file
+id: Q28205507; format GlowIcons
+id: Q27979388; format AAE sidecar format
+id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q16996920; format Windows Setup Information File

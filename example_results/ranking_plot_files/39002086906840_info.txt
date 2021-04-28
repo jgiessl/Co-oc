@@ -1,33 +1,33 @@
 39002086906840.json
 top ranked environments: 
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.2649721092238733
-environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.4319789473684206
-environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.1160894736842104
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.9054631578947369
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.3160894736842105
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.881375555148999
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.1705006765421877
+environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 2.7412099251592283
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.2103907045295457
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.8365618299910534
 
 number of files:  21
 number of files with unknown format: 0
 number of files with known format: 21
 rate of files with known format: 1.0
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q28055391; format Printfox bitmap
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q99184084; format Atom web feed
-id: Q1343830; format Executable and Linkable Format
-id: Q27979410; format Binary Text
+id: Q27826469; format Cascading Style Sheets Level 3
 id: Q3807693; format ASCII tab
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q1882400; format MacBinary
 id: Q4045294; format New Executable
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q723030; format AsciiDoc
+id: Q95994246; format Agilent Microarray file format
+id: Q27826464; format Cascading Style Sheets Level 1
 id: Q34746472; format STATISTICA Spreadsheet File
 id: Q27979156; format ASCII art
-id: Q27826469; format Cascading Style Sheets Level 3
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q58006953; format TRIM Context Reference File
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q1882400; format MacBinary
+id: Q723030; format AsciiDoc
+id: Q1076355; format Portable Executable
+id: Q28055391; format Printfox bitmap
+id: Q1343830; format Executable and Linkable Format
+id: Q99184084; format Atom web feed
+id: Q27979410; format Binary Text
+id: Q66134804; format Access Project file format
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode

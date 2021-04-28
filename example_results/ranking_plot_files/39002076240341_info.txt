@@ -1,9 +1,9 @@
 39002076240341.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.8115804004214963
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.6387880436199851
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 0.15404615384615383
-environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 0.15404615384615383
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.0766179190689473
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.142400797935287
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 0.6990388462138933
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 0.6990388462138933
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 
 number of files:  1655
@@ -12,16 +12,16 @@ number of files with known format: 1655
 rate of files with known format: 1.0
 contained formats: 
 id: Q28600763; format Electronic Arts INF
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q3807693; format ASCII tab
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q66134804; format Access Project file format
-id: Q95994246; format Agilent Microarray file format
+id: Q27979156; format ASCII art
 id: Q1662484; format Information Presentation Facility
+id: Q66134804; format Access Project file format
+id: Q66811836; format Inform source code file
+id: Q684554; format Autorun.inf
+id: Q95994246; format Agilent Microarray file format
+id: Q99184084; format Atom web feed
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q16996920; format Windows Setup Information File
+id: Q58006953; format TRIM Context Reference File
 id: Q723030; format AsciiDoc
 id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q99184084; format Atom web feed
-id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf

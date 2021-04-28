@@ -1,31 +1,31 @@
 39002083034992.json
 top ranked environments: 
-environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.11804705882353
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.11804705882353
-environment_number: 0; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.3531411764705882
-environment_number: 1; environment_name: Windows 95 + Visio Standard  5; score: 0.3531411764705882
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.3531411764705882
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 4.401307603960289
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.401307603960289
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.6181786951180395
+environment_number: 0; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.4014752325328645
+environment_number: 1; environment_name: Windows 95 + Visio Standard  5; score: 0.4014752325328645
 
 number of files:  33
 number of files with unknown format: 17
 number of files with known format: 16
 rate of files with known format: 0.48484848484848486
 contained formats: 
-id: Q28551319; format Adobe Custom Kernel File
-id: Q59820830; format Corel Presentation Exchange File
 id: Q60615282; format Write for Windows Document, version 3
-id: Q1076355; format Portable Executable
-id: Q3807693; format ASCII tab
-id: Q4045294; format New Executable
-id: Q58006953; format TRIM Context Reference File
-id: Q95994246; format Agilent Microarray file format
-id: Q79241919; format ASCII Color Format
-id: Q723030; format AsciiDoc
 id: Q49243488; format License file
-id: Q18653981; format Standard Delay Format
-id: Q59820792; format Corel Presentation Exchange File
-id: Q1144005; format WinHelp
+id: Q3807693; format ASCII tab
 id: Q27979156; format ASCII art
+id: Q18653981; format Standard Delay Format
+id: Q4045294; format New Executable
+id: Q1076355; format Portable Executable
+id: Q28551319; format Adobe Custom Kernel File
+id: Q79241919; format ASCII Color Format
+id: Q59820792; format Corel Presentation Exchange File
+id: Q95994246; format Agilent Microarray file format
+id: Q59820830; format Corel Presentation Exchange File
+id: Q1144005; format WinHelp
+id: Q58006953; format TRIM Context Reference File
 id: Q27526866; format Write for Windows Document, version 3.1
+id: Q723030; format AsciiDoc
 id: Q27596243; format Windows Bitmap, version 3
 id: Q1141412; format INI file

@@ -1,74 +1,74 @@
 39002076670992.json
 top ranked environments: 
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.5741284018017674
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.1800223451468472
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.160694962491147
-environment_number: 10; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.6673421795943173
-environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.6214526315789477
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 5.885445046286404
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 5.594520757004216
+environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.714570209191393
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.663495251427657
+environment_number: 10; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 2.469722411252602
 
 number of files:  2131
 number of files with unknown format: 9
 number of files with known format: 2122
 rate of files with known format: 0.995776630689817
 contained formats: 
-id: Q10394822; format ZIP archive file format, version 6.3.2
-id: Q26211958; format ZIP archive file format, version 2.7
-id: Q26211954; format ZIP archive file format, version 4.6
 id: Q28786544; format Netscape bookmarks
-id: Q1076355; format Portable Executable
-id: Q1141412; format INI file
-id: Q95994246; format Agilent Microarray file format
-id: Q336284; format MPEG-1
-id: Q1662484; format Information Presentation Facility
-id: Q26211936; format ZIP archive file format, version 5.2
-id: Q26211983; format ZIP archive file format, version 1.0
-id: Q28600764; format Electronic Arts MOV
-id: Q5924007; format JavaScript
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q28205580; format OS/2 Icon
-id: Q26211931; format ZIP archive file format, version 6.1.0
-id: Q26211927; format ZIP archive file format, version 6.2.0
-id: Q26211977; format ZIP archive file format, version 2.0
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q26211978; format ZIP archive file format, version 1.1
-id: Q58006953; format TRIM Context Reference File
-id: Q5532250; format General Transit Feed Specification
-id: Q26211965; format ZIP archive file format, version 2.5
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
-id: Q26211905; format ZIP archive file format, version 6.2.2
-id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
-id: Q27596243; format Windows Bitmap, version 3
-id: Q62626012; format HyperText Markup Language
-id: Q194831; format Cabinet
-id: Q28600763; format Electronic Arts INF
-id: Q3807693; format ASCII tab
-id: Q42591; format MP3g
-id: Q26211874; format ZIP archive file format, version 6.3.1
-id: Q1888930; format Vector Markup Language
-id: Q26211940; format ZIP archive file format, version 5.1
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q942350; format QuickTime File Format
-id: Q28205588; format PaintShop Pro Browser Cache
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q26211975; format ZIP archive file format, version 2.1
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q26211957; format ZIP archive file format, version 4.5
-id: Q26211948; format ZIP archive file format, version 5.0
-id: Q27967388; format Adlib Tracker instrument
-id: Q8811; format HyperText Markup Language
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q723030; format AsciiDoc
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q2053; format HTML5
-id: Q28206771; format OS/2 Bitmap Array
-id: Q27979156; format ASCII art
-id: Q26211891; format ZIP archive file format, version 6.3.0
-id: Q26211915; format ZIP archive file format, version 6.2.1
-id: Q684554; format Autorun.inf
 id: Q27826469; format Cascading Style Sheets Level 3
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q26211940; format ZIP archive file format, version 5.1
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
+id: Q28205588; format PaintShop Pro Browser Cache
+id: Q26211915; format ZIP archive file format, version 6.2.1
+id: Q26211958; format ZIP archive file format, version 2.7
+id: Q26211957; format ZIP archive file format, version 4.5
+id: Q28205626; format Sun icon
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q10394822; format ZIP archive file format, version 6.3.2
+id: Q26211905; format ZIP archive file format, version 6.2.2
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
+id: Q729366; format ICO
+id: Q5532250; format General Transit Feed Specification
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q26211965; format ZIP archive file format, version 2.5
+id: Q62626012; format HyperText Markup Language
+id: Q58006953; format TRIM Context Reference File
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q26211954; format ZIP archive file format, version 4.6
+id: Q723030; format AsciiDoc
+id: Q27596243; format Windows Bitmap, version 3
+id: Q194831; format Cabinet
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q26211977; format ZIP archive file format, version 2.0
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q1888930; format Vector Markup Language
+id: Q26211936; format ZIP archive file format, version 5.2
+id: Q5924007; format JavaScript
+id: Q26211927; format ZIP archive file format, version 6.2.0
+id: Q42591; format MP3g
+id: Q26211891; format ZIP archive file format, version 6.3.0
+id: Q27967388; format Adlib Tracker instrument
+id: Q99184084; format Atom web feed
+id: Q8811; format HyperText Markup Language
+id: Q26211874; format ZIP archive file format, version 6.3.1
+id: Q26211978; format ZIP archive file format, version 1.1
+id: Q28206771; format OS/2 Bitmap Array
+id: Q1141412; format INI file
+id: Q166074; format Extensible HyperText Markup Language
+id: Q942350; format QuickTime File Format
+id: Q28600764; format Electronic Arts MOV
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26211975; format ZIP archive file format, version 2.1
+id: Q2053; format HTML5
+id: Q26211931; format ZIP archive file format, version 6.1.0
+id: Q16996920; format Windows Setup Information File
+id: Q26211983; format ZIP archive file format, version 1.0
+id: Q336284; format MPEG-1
+id: Q26211948; format ZIP archive file format, version 5.0

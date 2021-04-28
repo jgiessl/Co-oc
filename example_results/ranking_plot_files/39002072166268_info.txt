@@ -1,89 +1,89 @@
 39002072166268.json
 top ranked environments: 
-environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 5.297138088949281
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.2489512562843563
-environment_number: 4; environment_name: Windows 95 + Visio Standard  5; score: 1.711612027198671
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 1.630506734484383
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 1.630506734484383
+environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 14.639737701390375
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 7.385338452721644
+environment_number: 4; environment_name: Windows 95 + Visio Standard  5; score: 3.9764353027823653
+environment_number: 11; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 3.5014335388736715
+environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.4879936573640067
 
 number of files:  4379
 number of files with unknown format: 2634
 number of files with known format: 1745
 rate of files with known format: 0.39849280657684405
 contained formats: 
-id: Q29944088; format OpenOffice Writer, version 1.0
-id: Q10394822; format ZIP archive file format, version 6.3.2
-id: Q26211958; format ZIP archive file format, version 2.7
-id: Q85415853; format SureThing Project File
-id: Q26211954; format ZIP archive file format, version 4.6
-id: Q29944575; format OpenOffice Calc template, version 1.0
-id: Q29944206; format OpenOffice Draw template, version 1.0
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q26211936; format ZIP archive file format, version 5.2
-id: Q26211983; format ZIP archive file format, version 1.0
-id: Q10287816; format GZIP
 id: Q1887604; format X PixMap
-id: Q28055391; format Printfox bitmap
-id: Q28205507; format GlowIcons
-id: Q28205580; format OS/2 Icon
-id: Q26211931; format ZIP archive file format, version 6.1.0
-id: Q26211927; format ZIP archive file format, version 6.2.0
-id: Q26211977; format ZIP archive file format, version 2.0
-id: Q29904539; format Statistical Analysis System output file
-id: Q26211978; format ZIP archive file format, version 1.1
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q28205711; format STW
-id: Q5532250; format General Transit Feed Specification
-id: Q26211965; format ZIP archive file format, version 2.5
-id: Q178051; format Portable Network Graphics
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
-id: Q26211905; format ZIP archive file format, version 6.2.2
-id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
-id: Q29944082; format OpenOffice Draw, version 1.0
-id: Q29944334; format OpenOffice Impress template, version 1.0
-id: Q34746956; format STATISTICA In-place Database File
-id: Q89029185; format American Greetings Project 10-23
-id: Q27979156; format ASCII art
-id: Q1601835; format Standard Test Data Format
-id: Q27979410; format Binary Text
-id: Q1343830; format Executable and Linkable Format
-id: Q1228757; format Apple Disk Image
-id: Q50375294; format ESRI ArcScene Document
-id: Q28600763; format Electronic Arts INF
-id: Q28755628; format Exact Yearbook LST file
-id: Q1072083; format Windows Metafile
 id: Q3807693; format ASCII tab
-id: Q73675958; format 3M Printscape
-id: Q47524710; format Mach-O file format (32bit)
-id: Q26211874; format ZIP archive file format, version 6.3.1
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q26211940; format ZIP archive file format, version 5.1
-id: Q28205479; format Amiga Workbench icon
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q62625561; format Bash script
-id: Q29944551; format OpenOffice Calc, version 1.0
-id: Q26211975; format ZIP archive file format, version 2.1
-id: Q58103465; format Adobe Font List
-id: Q28205548; format NewIcons
-id: Q261907; format eXperimental Computing Facility
-id: Q29944393; format OpenOffice Writer template, version 1.0
-id: Q1882400; format MacBinary
-id: Q28205626; format Sun icon
 id: Q4045294; format New Executable
-id: Q26211957; format ZIP archive file format, version 4.5
-id: Q16996920; format Windows Setup Information File
-id: Q26211948; format ZIP archive file format, version 5.0
+id: Q10287816; format GZIP
+id: Q26211940; format ZIP archive file format, version 5.1
 id: Q66811836; format Inform source code file
-id: Q27967388; format Adlib Tracker instrument
-id: Q723030; format AsciiDoc
-id: Q28206771; format OS/2 Bitmap Array
-id: Q28205475; format ZoomBrowser Ex thumbnail cache
-id: Q26211891; format ZIP archive file format, version 6.3.0
+id: Q95994246; format Agilent Microarray file format
 id: Q26211915; format ZIP archive file format, version 6.2.1
+id: Q26211958; format ZIP archive file format, version 2.7
+id: Q26211957; format ZIP archive file format, version 4.5
+id: Q28205626; format Sun icon
+id: Q28206109; format farbfeld
+id: Q10394822; format ZIP archive file format, version 6.3.2
+id: Q26211905; format ZIP archive file format, version 6.2.2
+id: Q29944334; format OpenOffice Impress template, version 1.0
+id: Q50375294; format ESRI ArcScene Document
+id: Q28205479; format Amiga Workbench icon
+id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
+id: Q729366; format ICO
+id: Q29944088; format OpenOffice Writer, version 1.0
+id: Q1072083; format Windows Metafile
+id: Q29904539; format Statistical Analysis System output file
+id: Q5532250; format General Transit Feed Specification
+id: Q28205548; format NewIcons
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q26211965; format ZIP archive file format, version 2.5
+id: Q1228757; format Apple Disk Image
+id: Q178051; format Portable Network Graphics
+id: Q261907; format eXperimental Computing Facility
+id: Q58006953; format TRIM Context Reference File
+id: Q26211954; format ZIP archive file format, version 4.6
+id: Q723030; format AsciiDoc
+id: Q1882400; format MacBinary
+id: Q62625561; format Bash script
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q26211977; format ZIP archive file format, version 2.0
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q26211936; format ZIP archive file format, version 5.2
+id: Q26211927; format ZIP archive file format, version 6.2.0
+id: Q28205711; format STW
+id: Q1601835; format Standard Test Data Format
+id: Q58103465; format Adobe Font List
+id: Q28055391; format Printfox bitmap
+id: Q26211891; format ZIP archive file format, version 6.3.0
+id: Q29944393; format OpenOffice Writer template, version 1.0
+id: Q99184084; format Atom web feed
+id: Q1343830; format Executable and Linkable Format
+id: Q27967388; format Adlib Tracker instrument
+id: Q26211874; format ZIP archive file format, version 6.3.1
+id: Q28205475; format ZoomBrowser Ex thumbnail cache
+id: Q26211978; format ZIP archive file format, version 1.1
+id: Q29944082; format OpenOffice Draw, version 1.0
+id: Q28206771; format OS/2 Bitmap Array
+id: Q29944551; format OpenOffice Calc, version 1.0
+id: Q85415853; format SureThing Project File
+id: Q28205507; format GlowIcons
+id: Q29944206; format OpenOffice Draw template, version 1.0
+id: Q73675958; format 3M Printscape
+id: Q34746956; format STATISTICA In-place Database File
+id: Q66134804; format Access Project file format
+id: Q27979410; format Binary Text
+id: Q89029185; format American Greetings Project 10-23
+id: Q28205580; format OS/2 Icon
 id: Q684554; format Autorun.inf
+id: Q26211975; format ZIP archive file format, version 2.1
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q29944575; format OpenOffice Calc template, version 1.0
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q47524710; format Mach-O file format (32bit)
+id: Q26211931; format ZIP archive file format, version 6.1.0
+id: Q26211983; format ZIP archive file format, version 1.0
+id: Q16996920; format Windows Setup Information File
+id: Q28755628; format Exact Yearbook LST file
+id: Q26211948; format ZIP archive file format, version 5.0

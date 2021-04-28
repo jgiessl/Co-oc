@@ -12,5 +12,5 @@ number of files with known format: 1
 rate of files with known format: 1.0
 contained formats: 
 id: Q28206147; format Freedom of Press Bitamp
-id: Q47512572; format man page
 id: Q28206138; format Freedom of Press Info
+id: Q47512572; format man page

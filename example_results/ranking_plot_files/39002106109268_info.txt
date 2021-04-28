@@ -1,36 +1,36 @@
 39002106109268.json
 top ranked environments: 
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.6872408351003676
-environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 1.505322653282186
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.4244424242424242
-environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.27302727272727273
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.09110909090909092
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.6894799428898755
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.559825463032176
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 1.7529288314678604
+environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.961353047073648
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 0.6361017832768304
 
 number of files:  370
 number of files with unknown format: 0
 number of files with known format: 370
 rate of files with known format: 1.0
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q5924007; format JavaScript
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q28600763; format Electronic Arts INF
+id: Q27826469; format Cascading Style Sheets Level 3
 id: Q3807693; format ASCII tab
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q4045294; format New Executable
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q723030; format AsciiDoc
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
 id: Q34746472; format STATISTICA Spreadsheet File
 id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q58006953; format TRIM Context Reference File
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q723030; format AsciiDoc
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q5924007; format JavaScript
+id: Q99184084; format Atom web feed
 id: Q684554; format Autorun.inf
-id: Q27826469; format Cascading Style Sheets Level 3
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q16996920; format Windows Setup Information File

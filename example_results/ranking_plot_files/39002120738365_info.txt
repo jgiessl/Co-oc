@@ -1,7 +1,7 @@
 39002120738365.json
 top ranked environments: 
-environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 27.0209078431373
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 8.05308758169935
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 144.58071645557763
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 39.738862615604184
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 environment_number: 2; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
@@ -11,22 +11,22 @@ number of files with unknown format: 0
 number of files with known format: 47
 rate of files with known format: 1.0
 contained formats: 
-id: Q1662484; format Information Presentation Facility
-id: Q684554; format Autorun.inf
-id: Q26211320; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2011, with Microsoft extensions
-id: Q26211522; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2012, with Microsoft extensions
+id: Q26207818; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2012
+id: Q66811836; format Inform source code file
 id: Q26207802; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2012
-id: Q26207729; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2011
+id: Q3033641; format Office Open XML Wordprocessing Document, ECMA-376 1st Edition
+id: Q26211320; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2011, with Microsoft extensions
+id: Q26207979; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2008, with Microsoft extensions
+id: Q1662484; format Information Presentation Facility
+id: Q26211522; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2012, with Microsoft extensions
+id: Q26208225; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2008, with Microsoft extensions
 id: Q26207675; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2008
 id: Q28600763; format Electronic Arts INF
-id: Q26208225; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2008, with Microsoft extensions
-id: Q3033641; format Office Open XML Wordprocessing Document, ECMA-376 1st Edition
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q26207818; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2012
-id: Q26207786; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2011
-id: Q26207979; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2008, with Microsoft extensions
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q26205749; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2008
-id: Q26211506; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2011, with Microsoft extensions
+id: Q26207786; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2011
 id: Q26211533; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2012, with Microsoft extensions
+id: Q26207729; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2011
+id: Q26211506; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2011, with Microsoft extensions
+id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q16996920; format Windows Setup Information File

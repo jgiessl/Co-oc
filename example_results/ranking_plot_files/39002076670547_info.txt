@@ -1,7 +1,7 @@
 39002076670547.json
 top ranked environments: 
-environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 12.500600000000006
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 11.667166666666668
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 34.90524238187224
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 33.594442954754406
 environment_number: 0; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
 environment_number: 1; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
 environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
@@ -11,16 +11,16 @@ number of files with unknown format: 6
 number of files with known format: 899
 rate of files with known format: 0.9933701657458563
 contained formats: 
-id: Q217570; format Waveform Audio File Format
+id: Q1076355; format Portable Executable
 id: Q48004869; format Microsoft Access Database, version 95
 id: Q48021763; format Microsoft Access Database, version 2002
-id: Q1076355; format Portable Executable
 id: Q4045294; format New Executable
-id: Q48021588; format Microsoft Access Database, version 2000
 id: Q48004607; format Microsoft Access Database, version 2
-id: Q48005022; format Microsoft Access Database, version 95
-id: Q3176050; format SubStation Alpha
-id: Q1144005; format WinHelp
 id: Q28205588; format PaintShop Pro Browser Cache
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q1144005; format WinHelp
+id: Q3176050; format SubStation Alpha
 id: Q27596243; format Windows Bitmap, version 3
 id: Q28445577; format Advanced Authoring System
+id: Q217570; format Waveform Audio File Format

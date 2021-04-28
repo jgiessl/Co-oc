@@ -1,7 +1,7 @@
 39002085932559.json
 top ranked environments: 
-environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.7226880382775119
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.09110909090909092
+environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.9877255569249628
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.15483205077696566
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 0.0001
@@ -11,26 +11,26 @@ number of files with unknown format: 97
 number of files with known format: 119
 rate of files with known format: 0.5509259259259259
 contained formats: 
-id: Q1023647; format Microsoft Compiled HTML Help
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
 id: Q34312151; format Macromedia Director, uncompressed PC variant
-id: Q1076355; format Portable Executable
 id: Q95994246; format Agilent Microarray file format
 id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
+id: Q1023647; format Microsoft Compiled HTML Help
 id: Q29904539; format Statistical Analysis System output file
-id: Q28755621; format Exact Yearbook ID file
-id: Q217570; format Waveform Audio File Format
+id: Q27979156; format ASCII art
 id: Q58006953; format TRIM Context Reference File
-id: Q27923693; format DTED Cells Directory File
+id: Q28206135; format Fractint FRA
+id: Q723030; format AsciiDoc
+id: Q217570; format Waveform Audio File Format
+id: Q1076355; format Portable Executable
+id: Q58103465; format Adobe Font List
 id: Q99184084; format Atom web feed
+id: Q27925722; format DTED Level 1 Gazetteer Directory file
+id: Q28755621; format Exact Yearbook ID file
+id: Q1141412; format INI file
+id: Q27923693; format DTED Cells Directory File
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
 id: Q55394748; format ChemDraw file
 id: Q28755628; format Exact Yearbook LST file
-id: Q3807693; format ASCII tab
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
-id: Q27925722; format DTED Level 1 Gazetteer Directory file
-id: Q58103465; format Adobe Font List
-id: Q4045294; format New Executable
-id: Q723030; format AsciiDoc
-id: Q27979156; format ASCII art
-id: Q1141412; format INI file
-id: Q28206135; format Fractint FRA

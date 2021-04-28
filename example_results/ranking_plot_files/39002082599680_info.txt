@@ -1,40 +1,40 @@
 39002082599680.json
 top ranked environments: 
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.1544461538461537
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.7310692307692306
-environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.23106923076923078
-environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.23106923076923078
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.23106923076923078
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.503675152490056
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.0785149756275434
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.5458958311958187
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.5152696779895164
+environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.44744129462334997
 
 number of files:  289
 number of files with unknown format: 171
 number of files with known format: 118
 rate of files with known format: 0.4083044982698962
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q336284; format MPEG-1
-id: Q1662484; format Information Presentation Facility
-id: Q24834502; format PowerPoint Binary File Format
-id: Q58237034; format Adobe Multiple Master Metrics font file
-id: Q28018470; format MPEG-1 program stream
-id: Q29904539; format Statistical Analysis System output file
-id: Q217570; format Waveform Audio File Format
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q27578057; format Adobe Type 1 Printer Font Metrics
-id: Q28018471; format MPEG-2 program stream
-id: Q27596243; format Windows Bitmap, version 3
-id: Q2138624; format registry file
-id: Q28600763; format Electronic Arts INF
-id: Q28755628; format Exact Yearbook LST file
-id: Q6026738; format PFB
-id: Q58725633; format Adobe PostScript Font Metrics file
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q28445577; format Advanced Authoring System
-id: Q58103465; format Adobe Font List
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q4045294; format New Executable
-id: Q28206894; format Portable Float Map
-id: Q684554; format Autorun.inf
+id: Q66811836; format Inform source code file
+id: Q28018471; format MPEG-2 program stream
+id: Q28018470; format MPEG-1 program stream
+id: Q58237034; format Adobe Multiple Master Metrics font file
+id: Q29904539; format Statistical Analysis System output file
+id: Q1662484; format Information Presentation Facility
 id: Q61777776; format Play SID Audio, version 1
+id: Q58725633; format Adobe PostScript Font Metrics file
+id: Q27596243; format Windows Bitmap, version 3
+id: Q217570; format Waveform Audio File Format
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q58103465; format Adobe Font List
+id: Q27578057; format Adobe Type 1 Printer Font Metrics
+id: Q24834502; format PowerPoint Binary File Format
+id: Q28445577; format Advanced Authoring System
+id: Q2138624; format registry file
+id: Q6026738; format PFB
+id: Q66134804; format Access Project file format
+id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q16996920; format Windows Setup Information File
+id: Q28755628; format Exact Yearbook LST file
+id: Q336284; format MPEG-1
+id: Q28206894; format Portable Float Map

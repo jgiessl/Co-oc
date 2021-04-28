@@ -1,64 +1,64 @@
 39002104462297.json
 top ranked environments: 
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 7.016400523198937
-environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 6.184713133781656
-environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 6.184713133781656
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 5.49610052319894
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 5.49610052319894
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 22.041297636057735
+environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 20.215376235412403
+environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 20.215376235412403
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 19.609245966596344
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 19.609245966596344
 
 number of files:  5312
 number of files with unknown format: 150
 number of files with known format: 5162
 rate of files with known format: 0.9717620481927711
 contained formats: 
-id: Q10394822; format ZIP archive file format, version 6.3.2
-id: Q26211958; format ZIP archive file format, version 2.7
-id: Q1023647; format Microsoft Compiled HTML Help
-id: Q26211954; format ZIP archive file format, version 4.6
-id: Q28205883; format Desktop Color Separation
-id: Q95994246; format Agilent Microarray file format
-id: Q26211936; format ZIP archive file format, version 5.2
-id: Q26211983; format ZIP archive file format, version 1.0
+id: Q66310989; format Pantry Files
+id: Q27826469; format Cascading Style Sheets Level 3
+id: Q3807693; format ASCII tab
 id: Q10287816; format GZIP
-id: Q5924007; format JavaScript
+id: Q34310996; format Security Catalog
+id: Q26211940; format ZIP archive file format, version 5.1
+id: Q95994246; format Agilent Microarray file format
+id: Q26211915; format ZIP archive file format, version 6.2.1
+id: Q26211958; format ZIP archive file format, version 2.7
+id: Q26211957; format ZIP archive file format, version 4.5
+id: Q1023647; format Microsoft Compiled HTML Help
+id: Q28205626; format Sun icon
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q10394822; format ZIP archive file format, version 6.3.2
+id: Q26211905; format ZIP archive file format, version 6.2.2
+id: Q28206109; format farbfeld
+id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q729366; format ICO
+id: Q59714459; format Encapsulated PostScript File Format
+id: Q5532250; format General Transit Feed Specification
+id: Q27979156; format ASCII art
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q26211965; format ZIP archive file format, version 2.5
+id: Q48625328; format Encapsulated PostScript, v2
+id: Q58006953; format TRIM Context Reference File
 id: Q27826466; format Cascading Style Sheets Level 2
-id: Q28205580; format OS/2 Icon
-id: Q26211931; format ZIP archive file format, version 6.1.0
-id: Q26211927; format ZIP archive file format, version 6.2.0
+id: Q26211954; format ZIP archive file format, version 4.6
+id: Q723030; format AsciiDoc
+id: Q28205883; format Desktop Color Separation
+id: Q27526733; format Graphics Interchange Format, version 87a
 id: Q26211977; format ZIP archive file format, version 2.0
 id: Q34284525; format Perl script
-id: Q66310989; format Pantry Files
-id: Q66134564; format Photoshop DCS 1.0
-id: Q26211978; format ZIP archive file format, version 1.1
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q5532250; format General Transit Feed Specification
-id: Q26211965; format ZIP archive file format, version 2.5
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
-id: Q26211905; format ZIP archive file format, version 6.2.2
-id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
-id: Q1047541; format Encapsulated PostScript
-id: Q55394748; format ChemDraw file
-id: Q59714459; format Encapsulated PostScript File Format
-id: Q3807693; format ASCII tab
-id: Q58335745; format Acrobat Catalog Cat File
-id: Q26211874; format ZIP archive file format, version 6.3.1
-id: Q26211940; format ZIP archive file format, version 5.1
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q48625328; format Encapsulated PostScript, v2
-id: Q26211975; format ZIP archive file format, version 2.1
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q28205626; format Sun icon
-id: Q26211957; format ZIP archive file format, version 4.5
-id: Q26211948; format ZIP archive file format, version 5.0
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q723030; format AsciiDoc
-id: Q34310996; format Security Catalog
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q28206771; format OS/2 Bitmap Array
-id: Q27979156; format ASCII art
+id: Q26211936; format ZIP archive file format, version 5.2
+id: Q26211927; format ZIP archive file format, version 6.2.0
+id: Q5924007; format JavaScript
 id: Q26211891; format ZIP archive file format, version 6.3.0
-id: Q26211915; format ZIP archive file format, version 6.2.1
-id: Q27826469; format Cascading Style Sheets Level 3
+id: Q99184084; format Atom web feed
+id: Q26211874; format ZIP archive file format, version 6.3.1
+id: Q26211978; format ZIP archive file format, version 1.1
+id: Q28206771; format OS/2 Bitmap Array
+id: Q28205580; format OS/2 Icon
+id: Q26211975; format ZIP archive file format, version 2.1
+id: Q55394748; format ChemDraw file
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q1047541; format Encapsulated PostScript
+id: Q66134564; format Photoshop DCS 1.0
+id: Q26211931; format ZIP archive file format, version 6.1.0
+id: Q26211983; format ZIP archive file format, version 1.0
+id: Q58335745; format Acrobat Catalog Cat File
+id: Q26211948; format ZIP archive file format, version 5.0

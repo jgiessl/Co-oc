@@ -1,62 +1,62 @@
 39002067187196.json
 top ranked environments: 
-environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 14.802954782136613
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 13.630904504504443
-environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 11.683732432432393
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 11.683732432432393
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 3.771170270270274
+environment_number: 9; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 67.78316566802653
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 59.74587700630483
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 51.253370961538884
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 50.64307838314155
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 19.213205672930425
 
 number of files:  15
 number of files with unknown format: 1
 number of files with known format: 14
 rate of files with known format: 0.9333333333333333
 contained formats: 
-id: Q48782394; format Microsoft Word for MS-DOS Document, version 5.5
-id: Q28858044; format Word Binary File Format, version nFibNew=0x0112
-id: Q939636; format CorelDRAW Document
 id: Q51801746; format Stationery for Mac OS X
-id: Q28205883; format Desktop Color Separation
-id: Q28858032; format Microsoft Word Binary File Format
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
 id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q60628185; format Wordperfect Secondary File, version 5
-id: Q85621726; format PFS:First Choice Document
-id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
-id: Q60000066; format Microsoft Office Owner File
-id: Q61641368; format Microsoft Word for Windows Document, version 2
-id: Q28205580; format OS/2 Icon
-id: Q48782238; format Microsoft Word for MS-DOS Document, version 5
-id: Q66134564; format Photoshop DCS 1.0
-id: Q63061514; format Microsoft Word Document, version 97-2003
-id: Q58006953; format TRIM Context Reference File
+id: Q48782394; format Microsoft Word for MS-DOS Document, version 5.5
+id: Q28858035; format Word Binary File Format, version nFib=0x00C1
 id: Q85621806; format PFS:First Choice Document 3
-id: Q66439286; format DisplayWrite Document file format, version 5
+id: Q28205626; format Sun icon
+id: Q48782202; format Microsoft Word for MS-DOS Document, version 4
 id: Q729366; format ICO
-id: Q1047541; format Encapsulated PostScript
-id: Q48915661; format Interleaf Document
-id: Q28858042; format Word Binary File Format, version nFibNew=0x010C
 id: Q59714459; format Encapsulated PostScript File Format
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q28858038; format Word Binary File Format, version nFib=0x00C2
+id: Q60628185; format Wordperfect Secondary File, version 5
+id: Q63061514; format Microsoft Word Document, version 97-2003
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q60000066; format Microsoft Office Owner File
+id: Q85621726; format PFS:First Choice Document
+id: Q48625328; format Encapsulated PostScript, v2
+id: Q58006953; format TRIM Context Reference File
+id: Q27526866; format Write for Windows Document, version 3.1
+id: Q723030; format AsciiDoc
+id: Q28205883; format Desktop Color Separation
 id: Q28600763; format Electronic Arts INF
 id: Q60615282; format Write for Windows Document, version 3
-id: Q28858037; format Word Binary File Format, version nFib=0x00C0
-id: Q62664735; format Wordperfect Secondary File, version 5.1 and 5.2
-id: Q3807693; format ASCII tab
-id: Q61639409; format Microsoft Word for Windows Document, version 1
-id: Q27526866; format Write for Windows Document, version 3.1
-id: Q28858038; format Word Binary File Format, version nFib=0x00C2
-id: Q48625328; format Encapsulated PostScript, v2
-id: Q28858035; format Word Binary File Format, version nFib=0x00C1
-id: Q48782202; format Microsoft Word for MS-DOS Document, version 4
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q28205626; format Sun icon
-id: Q28858041; format Word Binary File Format, version nFibNew=0x0101
-id: Q4045294; format New Executable
-id: Q63061396; format Microsoft Word Document
-id: Q723030; format AsciiDoc
-id: Q48782098; format Microsoft Word for MS-DOS Document, version 3
-id: Q28206771; format OS/2 Bitmap Array
-id: Q28858039; format Word Binary File Format, version nFibNew=0x00D9
 id: Q686498; format doc
-id: Q27979156; format ASCII art
+id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
+id: Q66439286; format DisplayWrite Document file format, version 5
+id: Q61639409; format Microsoft Word for Windows Document, version 1
+id: Q48782238; format Microsoft Word for MS-DOS Document, version 5
+id: Q28858037; format Word Binary File Format, version nFib=0x00C0
+id: Q28858042; format Word Binary File Format, version nFibNew=0x010C
+id: Q28206771; format OS/2 Bitmap Array
+id: Q939636; format CorelDRAW Document
+id: Q28858044; format Word Binary File Format, version nFibNew=0x0112
+id: Q28858041; format Word Binary File Format, version nFibNew=0x0101
+id: Q28205580; format OS/2 Icon
+id: Q63061396; format Microsoft Word Document
 id: Q684554; format Autorun.inf
+id: Q62664735; format Wordperfect Secondary File, version 5.1 and 5.2
+id: Q48915661; format Interleaf Document
+id: Q1047541; format Encapsulated PostScript
+id: Q66134564; format Photoshop DCS 1.0
+id: Q16996920; format Windows Setup Information File
+id: Q61641368; format Microsoft Word for Windows Document, version 2
+id: Q48782098; format Microsoft Word for MS-DOS Document, version 3
+id: Q28858039; format Word Binary File Format, version nFibNew=0x00D9

@@ -1,6 +1,6 @@
 39002035924159.json
 top ranked environments: 
-environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.9092909090909091
+environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.17432842773836
 environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.0001
 
 number of files:  216
@@ -8,15 +8,15 @@ number of files with unknown format: 0
 number of files with known format: 216
 rate of files with known format: 1.0
 contained formats: 
-id: Q79241659; format Lotus Accessory
-id: Q217570; format Waveform Audio File Format
-id: Q3807693; format ASCII tab
 id: Q751800; format TrueType Font
+id: Q3807693; format ASCII tab
+id: Q27979156; format ASCII art
+id: Q58335687; format Asymetrix Toolbook File
 id: Q4045294; format New Executable
-id: Q58006953; format TRIM Context Reference File
 id: Q27967216; format SCC Blaffer NT instrument kit
 id: Q95994246; format Agilent Microarray file format
+id: Q79241659; format Lotus Accessory
+id: Q58006953; format TRIM Context Reference File
 id: Q723030; format AsciiDoc
-id: Q58335687; format Asymetrix Toolbook File
-id: Q27979156; format ASCII art
 id: Q1141412; format INI file
+id: Q217570; format Waveform Audio File Format

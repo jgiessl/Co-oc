@@ -1,47 +1,47 @@
 390020910000902.json
 top ranked environments: 
-environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 10.687640835100368
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 8.909690909090909
-environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.9321181818181817
-environment_number: 4; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.5861791996390661
-environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.43211818181818173
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 34.32093069477274
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 31.074280482895123
+environment_number: 3; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.7786027635199777
+environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.3232565531950482
+environment_number: 4; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.2848124914781265
 
 number of files:  2162
 number of files with unknown format: 10
 number of files with known format: 2152
 rate of files with known format: 0.9953746530989824
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q10287816; format GZIP
-id: Q5924007; format JavaScript
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q28205580; format OS/2 Icon
-id: Q777561; format BinHex
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q48005022; format Microsoft Access Database, version 95
-id: Q58006953; format TRIM Context Reference File
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
-id: Q28600763; format Electronic Arts INF
-id: Q3807693; format ASCII tab
-id: Q48021588; format Microsoft Access Database, version 2000
-id: Q48004607; format Microsoft Access Database, version 2
-id: Q66134804; format Access Project file format
-id: Q28445577; format Advanced Authoring System
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q48004869; format Microsoft Access Database, version 95
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q723030; format AsciiDoc
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q28206771; format OS/2 Bitmap Array
-id: Q48021763; format Microsoft Access Database, version 2002
-id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
 id: Q27826469; format Cascading Style Sheets Level 3
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q10287816; format GZIP
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
+id: Q28205626; format Sun icon
+id: Q48005022; format Microsoft Access Database, version 95
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q729366; format ICO
+id: Q48004869; format Microsoft Access Database, version 95
+id: Q48021763; format Microsoft Access Database, version 2002
+id: Q1662484; format Information Presentation Facility
+id: Q27979156; format ASCII art
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q777561; format BinHex
+id: Q58006953; format TRIM Context Reference File
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q723030; format AsciiDoc
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q5924007; format JavaScript
+id: Q99184084; format Atom web feed
+id: Q28445577; format Advanced Authoring System
+id: Q28206771; format OS/2 Bitmap Array
+id: Q66134804; format Access Project file format
+id: Q48004607; format Microsoft Access Database, version 2
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q48021588; format Microsoft Access Database, version 2000
+id: Q16996920; format Windows Setup Information File

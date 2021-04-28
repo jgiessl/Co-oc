@@ -1,6 +1,6 @@
 39002084872796.json
 top ranked environments: 
-environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 6.0001999999999995
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 6.1288579659611315
 environment_number: 1; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
 environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.0001
 environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 0.0001
@@ -11,5 +11,5 @@ number of files with unknown format: 1
 number of files with known format: 1
 rate of files with known format: 0.5
 contained formats: 
-id: Q66663053; format eSuite Presentations Graphics
 id: Q28055391; format Printfox bitmap
+id: Q66663053; format eSuite Presentations Graphics

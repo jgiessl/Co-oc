@@ -1,38 +1,38 @@
 39002059644980.json
 top ranked environments: 
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 15.24439002539861
-environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 13.467550216450192
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 13.39511152015631
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 9.660856692065304
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 7.205245454545457
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 62.308633448469365
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 56.05433367158148
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 46.87999776886158
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 35.84829145840505
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 35.658038619600454
 
 number of files:  689
 number of files with unknown format: 4
 number of files with known format: 685
 rate of files with known format: 0.9941944847605225
 contained formats: 
-id: Q28858068; format Binary Interchange File Format, version 8
-id: Q60886323; format Microsoft Excel 2000-2003 Workbook
-id: Q61641450; format WordPerfect for MS-DOS Document
-id: Q28205883; format Desktop Color Separation
-id: Q95994246; format Agilent Microarray file format
-id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
-id: Q60886160; format Microsoft Excel 97 Workbook
-id: Q66134564; format Photoshop DCS 1.0
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q28206109; format farbfeld
-id: Q28600734; format ESRI Arc/Info Export File
-id: Q99184084; format Atom web feed
-id: Q1047541; format Encapsulated PostScript
-id: Q60806257; format Microsoft Excel 4.0 Worksheet (xls)
-id: Q59714459; format Encapsulated PostScript File Format
 id: Q3807693; format ASCII tab
-id: Q47019464; format PageMaker Document file format, version 5
-id: Q60806040; format Microsoft Excel 3.0 Worksheet (xls)
+id: Q95994246; format Agilent Microarray file format
+id: Q28206109; format farbfeld
+id: Q59714459; format Encapsulated PostScript File Format
+id: Q60806257; format Microsoft Excel 4.0 Worksheet (xls)
 id: Q48551303; format Word Perfect for Windows Document file format
-id: Q52834888; format Microsoft Excel 2.x Worksheet
-id: Q48625328; format Encapsulated PostScript, v2
-id: Q60873199; format Excel 95 Workbook
-id: Q723030; format AsciiDoc
 id: Q27979156; format ASCII art
+id: Q47019464; format PageMaker Document file format, version 5
+id: Q28858068; format Binary Interchange File Format, version 8
+id: Q48625328; format Encapsulated PostScript, v2
+id: Q28600734; format ESRI Arc/Info Export File
+id: Q52834888; format Microsoft Excel 2.x Worksheet
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q28205883; format Desktop Color Separation
+id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
+id: Q99184084; format Atom web feed
+id: Q60806040; format Microsoft Excel 3.0 Worksheet (xls)
+id: Q61641450; format WordPerfect for MS-DOS Document
+id: Q60873199; format Excel 95 Workbook
+id: Q60886323; format Microsoft Excel 2000-2003 Workbook
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q1047541; format Encapsulated PostScript
+id: Q66134564; format Photoshop DCS 1.0
+id: Q60886160; format Microsoft Excel 97 Workbook

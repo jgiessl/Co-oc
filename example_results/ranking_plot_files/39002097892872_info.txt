@@ -1,42 +1,42 @@
 39002097892872.json
 top ranked environments: 
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 36.09158306914102
-environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 27.70550237908173
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 27.358306405909502
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 26.67637526485786
-environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 25.572392120195257
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 124.79384285040115
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 111.42119524417681
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 110.02622689016226
+environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 109.19011409623866
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 106.98170380326886
 
 number of files:  688
 number of files with unknown format: 0
 number of files with known format: 688
 rate of files with known format: 1.0
 contained formats: 
-id: Q29944758; format Rich Text Format, version 1.0
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q1662484; format Information Presentation Facility
-id: Q684554; format Autorun.inf
-id: Q5924007; format JavaScript
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q79241659; format Lotus Accessory
-id: Q29944987; format Rich Text Format, version 0
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q29944780; format Rich Text Format, version 1.5
+id: Q27826469; format Cascading Style Sheets Level 3
+id: Q66811836; format Inform source code file
+id: Q29944785; format Rich Text Format, version 1.8
 id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q29944776; format Rich Text Format, version 1.2
+id: Q29944777; format Rich Text Format, version 1.3
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q1662484; format Information Presentation Facility
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q29944782; format Rich Text Format, version 1.6
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q27826466; format Cascading Style Sheets Level 2
 id: Q29944786; format Rich Text Format, version 1.9
 id: Q28600763; format Electronic Arts INF
-id: Q29944779; format Rich Text Format, version 1.4
-id: Q29944785; format Rich Text Format, version 1.8
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q29944776; format Rich Text Format, version 1.2
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q29944777; format Rich Text Format, version 1.3
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q5924007; format JavaScript
 id: Q29944783; format Rich Text Format, version 1.7
-id: Q34746472; format STATISTICA Spreadsheet File
+id: Q99184084; format Atom web feed
+id: Q29944987; format Rich Text Format, version 0
+id: Q66134804; format Access Project file format
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1676669; format JPEG File Interchange Format, version 1.02
 id: Q29944773; format Rich Text Format, version 1.1
-id: Q29944782; format Rich Text Format, version 1.6
-id: Q27826469; format Cascading Style Sheets Level 3
+id: Q79241659; format Lotus Accessory
+id: Q16996920; format Windows Setup Information File

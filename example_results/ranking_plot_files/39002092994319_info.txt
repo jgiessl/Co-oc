@@ -1,38 +1,38 @@
 39002092994319.json
 top ranked environments: 
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 36.54468937841695
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 36.54468937841695
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 33.37939134790936
-environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 29.641968372445163
-environment_number: 1; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 29.586510094155194
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 130.0939277361875
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 130.0939277361875
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 129.67842601700667
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 121.82156848052516
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 113.17631196406474
 
 number of files:  728
 number of files with unknown format: 0
 number of files with known format: 728
 rate of files with known format: 1.0
 contained formats: 
-id: Q29944758; format Rich Text Format, version 1.0
-id: Q2623363; format ANSI art
-id: Q28205439; format Sony ARW
-id: Q63036114; format 8-bit ANSI Text
-id: Q29944987; format Rich Text Format, version 0
-id: Q29944773; format Rich Text Format, version 1.1
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q17092932; format JPEG-XT
-id: Q29944780; format Rich Text Format, version 1.5
-id: Q26329648; format JPEG File Interchange Format, version 1.0
-id: Q29944786; format Rich Text Format, version 1.9
-id: Q26385770; format Still Picture Interchange File Format
-id: Q29944779; format Rich Text Format, version 1.4
 id: Q29944785; format Rich Text Format, version 1.8
-id: Q66134804; format Access Project file format
-id: Q28206262; format HSI JPEG
-id: Q62619668; format 7-bit ANSI Text
+id: Q63036114; format 8-bit ANSI Text
+id: Q1952321; format Multi Picture Object
 id: Q29944776; format Rich Text Format, version 1.2
 id: Q29944777; format Rich Text Format, version 1.3
-id: Q27979391; format ANSI Animation
-id: Q28206497; format Lossless JPEG
-id: Q29944783; format Rich Text Format, version 1.7
-id: Q28206359; format Intergraph Raster
+id: Q26329648; format JPEG File Interchange Format, version 1.0
 id: Q29944782; format Rich Text Format, version 1.6
-id: Q1952321; format Multi Picture Object
+id: Q28206359; format Intergraph Raster
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q28206497; format Lossless JPEG
+id: Q27979391; format ANSI Animation
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q28205439; format Sony ARW
+id: Q62619668; format 7-bit ANSI Text
+id: Q28206262; format HSI JPEG
+id: Q29944987; format Rich Text Format, version 0
+id: Q66134804; format Access Project file format
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q17092932; format JPEG-XT
+id: Q29944773; format Rich Text Format, version 1.1
+id: Q26385770; format Still Picture Interchange File Format
+id: Q2623363; format ANSI art

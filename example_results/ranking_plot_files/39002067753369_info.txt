@@ -1,18 +1,18 @@
 39002067753369.json
 top ranked environments: 
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 9.000399999999999
-environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 7.500299999999999
-environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 7.500299999999999
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 7.500299999999999
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 7.500299999999999
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 12.910816100365725
+environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 11.268321064543555
+environment_number: 2; environment_name: Windows 95 + Visio Standard  5; score: 11.268321064543555
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 11.268321064543555
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 11.268321064543555
 
 number of files:  79
 number of files with unknown format: 0
 number of files with known format: 79
 rate of files with known format: 1.0
 contained formats: 
-id: Q27526739; format Graphics Interchange Format, version 89a
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q307271; format .DS_Store
-id: Q27526733; format Graphics Interchange Format, version 87a
 id: Q2192; format Graphics Interchange Format
+id: Q307271; format .DS_Store
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q27526739; format Graphics Interchange Format, version 89a
+id: Q27526733; format Graphics Interchange Format, version 87a

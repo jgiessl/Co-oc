@@ -1,40 +1,40 @@
 39002038474780.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 9.055845054945049
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 7.29750329670329
-environment_number: 10; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 4.0115890109890096
-environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + Adobe PhotoDeluxe 13079; score: 1.0882120879120878
-environment_number: 1; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 1.0882120879120878
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 32.27910508669883
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 25.239374387465126
+environment_number: 10; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 16.793772420291894
+environment_number: 1; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 4.986610446715622
+environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + Adobe PhotoDeluxe 13079; score: 4.816165825444825
 
 number of files:  2485
 number of files with unknown format: 0
 number of files with known format: 2485
 rate of files with known format: 1.0
 contained formats: 
-id: Q3928271; format RGBE image format
-id: Q1076355; format Portable Executable
-id: Q7119344; format PICtor PIC image format
-id: Q28770336; format Lotus 1-2-3 Chart
-id: Q28207293; format Softimage PIC
-id: Q28600764; format Electronic Arts MOV
-id: Q28205580; format OS/2 Icon
-id: Q28106166; format Psion PIC
-id: Q729366; format ICO
+id: Q4045294; format New Executable
 id: Q62561230; format Corel Presentation, version 3
-id: Q28106149; format PIC
-id: Q28207016; format Pixar picture
+id: Q28205626; format Sun icon
+id: Q7119344; format PICtor PIC image format
+id: Q729366; format ICO
 id: Q28206638; format MTV ray tracer bitmap
+id: Q28106166; format Psion PIC
+id: Q3928271; format RGBE image format
+id: Q28206876; format PCPaint PIC
+id: Q4836515; format BSAVE
+id: Q28205773; format BioRad confocal image
+id: Q28770336; format Lotus 1-2-3 Chart
+id: Q1076355; format Portable Executable
+id: Q48902661; format Harvard Graphics Presentation
+id: Q28207293; format Softimage PIC
+id: Q28207016; format Pixar picture
+id: Q2389386; format Interleaved Bitmap
+id: Q28206771; format OS/2 Bitmap Array
+id: Q1141412; format INI file
 id: Q28207503; format WinMiPS
 id: Q942350; format QuickTime File Format
+id: Q28600764; format Electronic Arts MOV
+id: Q28205580; format OS/2 Icon
 id: Q62561203; format Corel Presentation
-id: Q2389386; format Interleaved Bitmap
-id: Q28205773; format BioRad confocal image
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q48902661; format Harvard Graphics Presentation
-id: Q4836515; format BSAVE
-id: Q28206876; format PCPaint PIC
-id: Q28206771; format OS/2 Bitmap Array
 id: Q28206528; format MacPaint
-id: Q1141412; format INI file
 id: Q2044200; format PICT
+id: Q28106149; format PIC

@@ -1,8 +1,8 @@
 39002068051813.json
 top ranked environments: 
-environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.7870393157016058
-environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.8843428971863753
-environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.8207128205128205
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.085750339160271
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.0697494984043243
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.9703438354264655
 environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 0.0001
 environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.0001
 
@@ -11,17 +11,17 @@ number of files with unknown format: 0
 number of files with known format: 50
 rate of files with known format: 1.0
 contained formats: 
-id: Q28600763; format Electronic Arts INF
 id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
 id: Q3807693; format ASCII tab
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
 id: Q4045294; format New Executable
+id: Q66134804; format Access Project file format
+id: Q66811836; format Inform source code file
+id: Q684554; format Autorun.inf
+id: Q95994246; format Agilent Microarray file format
+id: Q24834502; format PowerPoint Binary File Format
 id: Q16996920; format Windows Setup Information File
 id: Q58006953; format TRIM Context Reference File
-id: Q66811836; format Inform source code file
-id: Q95994246; format Agilent Microarray file format
-id: Q66134804; format Access Project file format
-id: Q1662484; format Information Presentation Facility
-id: Q24834502; format PowerPoint Binary File Format
 id: Q723030; format AsciiDoc
-id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf

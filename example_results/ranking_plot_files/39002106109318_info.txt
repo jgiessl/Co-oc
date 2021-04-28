@@ -1,41 +1,41 @@
 39002106109318.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.0796650793650793
-environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.0225222222222223
-environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.022522222222222
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.4448444444444444
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.2225222222222222
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.7243125021961863
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.247954991629575
+environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 2.171584602905553
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.2187671705780647
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.4284131113816084
 
 number of files:  729
 number of files with unknown format: 2
 number of files with known format: 727
 rate of files with known format: 0.9972565157750343
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q52834540; format Paint Shop Pro Image, version 4
-id: Q95994246; format Agilent Microarray file format
-id: Q28206822; format PaintShop Pro image
-id: Q1662484; format Information Presentation Facility
-id: Q28055391; format Printfox bitmap
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q48623521; format Paint Shop Pro Image, version 3
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q52060012; format Paint Shop Pro Image, version 6
-id: Q1343830; format Executable and Linkable Format
-id: Q27979410; format Binary Text
-id: Q28600763; format Electronic Arts INF
 id: Q3807693; format ASCII tab
-id: Q52060199; format Paint Shop Pro Image, version 7
-id: Q48623760; format Paint Shop Pro Image, version 5
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q1882400; format MacBinary
-id: Q16996920; format Windows Setup Information File
+id: Q48623521; format Paint Shop Pro Image, version 3
 id: Q4045294; format New Executable
 id: Q66811836; format Inform source code file
-id: Q723030; format AsciiDoc
+id: Q95994246; format Agilent Microarray file format
+id: Q52060199; format Paint Shop Pro Image, version 7
+id: Q28206109; format farbfeld
 id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
+id: Q1662484; format Information Presentation Facility
+id: Q52060012; format Paint Shop Pro Image, version 6
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q52834540; format Paint Shop Pro Image, version 4
+id: Q58006953; format TRIM Context Reference File
+id: Q1882400; format MacBinary
+id: Q723030; format AsciiDoc
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q28055391; format Printfox bitmap
+id: Q1343830; format Executable and Linkable Format
+id: Q99184084; format Atom web feed
+id: Q48623760; format Paint Shop Pro Image, version 5
 id: Q1141412; format INI file
+id: Q27979410; format Binary Text
+id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q28206822; format PaintShop Pro image
+id: Q16996920; format Windows Setup Information File

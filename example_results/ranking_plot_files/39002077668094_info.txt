@@ -1,7 +1,7 @@
 39002077668094.json
 top ranked environments: 
-environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.0502
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.2502
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.3152375186474505
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.2816940826795398
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.0001
 environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
@@ -11,12 +11,12 @@ number of files with unknown format: 40
 number of files with known format: 10058
 rate of files with known format: 0.9960388195682314
 contained formats: 
-id: Q3807693; format ASCII tab
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q95994246; format Agilent Microarray file format
-id: Q1817318; format X BitMap
-id: Q723030; format AsciiDoc
 id: Q1193600; format Markdown
-id: Q28206109; format farbfeld
+id: Q3807693; format ASCII tab
 id: Q27979156; format ASCII art
+id: Q95994246; format Agilent Microarray file format
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q1817318; format X BitMap
+id: Q28206109; format farbfeld
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc

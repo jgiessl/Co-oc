@@ -1,23 +1,23 @@
 39002088731097.json
 top ranked environments: 
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.295440361971306
-environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.3942393939393938
-environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 1.1228089725052184
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.9496949494949495
-environment_number: 11; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.678264528060774
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 6.183822738256202
+environment_number: 16; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 3.818923447108665
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.7936427618530737
+environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 1.7450138373575832
+environment_number: 11; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.7624950943218909
 
 number of files:  298
 number of files with unknown format: 0
 number of files with known format: 298
 rate of files with known format: 1.0
 contained formats: 
+id: Q1888930; format Vector Markup Language
 id: Q28786544; format Netscape bookmarks
+id: Q66134804; format Access Project file format
 id: Q166074; format Extensible HyperText Markup Language
 id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q66134804; format Access Project file format
 id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q1888930; format Vector Markup Language
 id: Q8811; format HyperText Markup Language
-id: Q28206109; format farbfeld
 id: Q2053; format HTML5
+id: Q28206109; format farbfeld
 id: Q62626012; format HyperText Markup Language

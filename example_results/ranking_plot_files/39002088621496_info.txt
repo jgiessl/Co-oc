@@ -1,38 +1,38 @@
 39002088621496.json
 top ranked environments: 
-environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.5438782608695651
-environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.0221391304347824
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.25744637681159416
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 0.25744637681159416
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 0.25744637681159416
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 3.6141664434883882
+environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 2.5346265775729044
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.3537681205299439
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + AutoCAD 2005 11995; score: 0.3515099799889876
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Macromedia FLASH MX 2004; score: 0.3515099799889876
 
 number of files:  22
 number of files with unknown format: 1
 number of files with known format: 21
 rate of files with known format: 0.9545454545454546
 contained formats: 
-id: Q3928271; format RGBE image format
-id: Q1076355; format Portable Executable
-id: Q27473691; format BIL/BIP/BSQ Header File
 id: Q28758102; format InstallShield CAB
+id: Q4045294; format New Executable
+id: Q47455968; format SafeGuard Encrypted Virtual Disk
+id: Q66811836; format Inform source code file
+id: Q28205626; format Sun icon
+id: Q479833; format ا تهكير لعبة ببجي
+id: Q729366; format ICO
+id: Q27473691; format BIL/BIP/BSQ Header File
+id: Q3928271; format RGBE image format
 id: Q1662484; format Information Presentation Facility
+id: Q59961105; format InstallShield Compiled Rules File
+id: Q1882400; format MacBinary
+id: Q194831; format Cabinet
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
 id: Q28055391; format Printfox bitmap
+id: Q1343830; format Executable and Linkable Format
+id: Q28206771; format OS/2 Bitmap Array
+id: Q1141412; format INI file
+id: Q27979410; format Binary Text
 id: Q28206310; format Analyze HDR
 id: Q28205580; format OS/2 Icon
-id: Q729366; format ICO
-id: Q194831; format Cabinet
-id: Q1343830; format Executable and Linkable Format
-id: Q27979410; format Binary Text
-id: Q28600763; format Electronic Arts INF
-id: Q479833; format ا تهكير لعبة ببجي
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q59961105; format InstallShield Compiled Rules File
-id: Q47455968; format SafeGuard Encrypted Virtual Disk
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q28205626; format Sun icon
-id: Q1882400; format MacBinary
-id: Q28206771; format OS/2 Bitmap Array
 id: Q684554; format Autorun.inf
-id: Q1141412; format INI file
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q16996920; format Windows Setup Information File

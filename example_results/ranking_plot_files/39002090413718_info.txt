@@ -1,22 +1,22 @@
 39002090413718.json
 top ranked environments: 
-environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 7.5005
-environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 7.5005
-environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 7.5005
-environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 2.2503
-environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.2503
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 25.215877643335165
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 25.215877643335165
+environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 25.215877643335165
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 7.5649132930005525
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 7.5649132930005525
 
 number of files:  1024
 number of files with unknown format: 1023
 number of files with known format: 1
 rate of files with known format: 0.0009765625
 contained formats: 
-id: Q51954585; format dBASE Database
+id: Q52834849; format dBASE for Windows database, version 5
+id: Q61971919; format Microsoft Visual FoxPro Database Table File
 id: Q60628025; format FoxPro Database, version 2.5
 id: Q60628005; format FoxPro Database, version 2
-id: Q52834849; format dBASE for Windows database, version 5
-id: Q27487130; format Shapefile dBASE table
-id: Q61971919; format Microsoft Visual FoxPro Database Table File
-id: Q44933672; format dBASE IV
 id: Q51954521; format Microsoft FoxPro Database, version 2.6
+id: Q51954585; format dBASE Database
+id: Q44933672; format dBASE IV
+id: Q27487130; format Shapefile dBASE table
 id: Q61971917; format FoxPro Database, version 2x

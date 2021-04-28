@@ -1,8 +1,8 @@
 39002082682569.json
 top ranked environments: 
-environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.8738632183908045
-environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.7071965517241378
-environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.376857824933687
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.720347800092601
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.5465873002511796
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.0324673314346153
 environment_number: 2; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
 environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.0001
 
@@ -11,33 +11,33 @@ number of files with unknown format: 1
 number of files with known format: 114
 rate of files with known format: 0.991304347826087
 contained formats: 
-id: Q61777964; format Play SID Audio, version 2
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q27967214; format SBStudio module
-id: Q28205580; format OS/2 Icon
-id: Q58006953; format TRIM Context Reference File
-id: Q99184084; format Atom web feed
-id: Q729366; format ICO
-id: Q5153426; format Common Log Format
-id: Q194831; format Cabinet
-id: Q5421818; format Extended Log Format
-id: Q28600763; format Electronic Arts INF
-id: Q1422885; format MrSID
 id: Q3807693; format ASCII tab
-id: Q50223812; format Bluetooth Snoop Packet Capture
-id: Q66134804; format Access Project file format
-id: Q59962003; format ScanIt Document
-id: Q27966933; format SID
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q28205626; format Sun icon
 id: Q4045294; format New Executable
-id: Q5448342; format File change log
-id: Q723030; format AsciiDoc
+id: Q66811836; format Inform source code file
+id: Q61777964; format Play SID Audio, version 2
+id: Q95994246; format Agilent Microarray file format
+id: Q28205626; format Sun icon
 id: Q29904540; format Statistical Analysis System log file
-id: Q28206771; format OS/2 Bitmap Array
+id: Q59962003; format ScanIt Document
+id: Q729366; format ICO
+id: Q5448342; format File change log
+id: Q27967214; format SBStudio module
 id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
+id: Q1662484; format Information Presentation Facility
+id: Q5421818; format Extended Log Format
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q27966933; format SID
+id: Q194831; format Cabinet
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q99184084; format Atom web feed
+id: Q1422885; format MrSID
+id: Q28206771; format OS/2 Bitmap Array
 id: Q1141412; format INI file
+id: Q66134804; format Access Project file format
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q5153426; format Common Log Format
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q16996920; format Windows Setup Information File

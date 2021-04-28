@@ -1,6 +1,6 @@
 39002099460785.json
 top ranked environments: 
-environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.1335333333333333
+environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.3985708519807845
 
 number of files:  178
 number of files with unknown format: 175
@@ -8,9 +8,9 @@ number of files with known format: 3
 rate of files with known format: 0.016853932584269662
 contained formats: 
 id: Q3807693; format ASCII tab
-id: Q58006953; format TRIM Context Reference File
-id: Q95994246; format Agilent Microarray file format
-id: Q723030; format AsciiDoc
-id: Q28600412; format Attribute-Relation File Format
-id: Q99184084; format Atom web feed
 id: Q27979156; format ASCII art
+id: Q95994246; format Agilent Microarray file format
+id: Q99184084; format Atom web feed
+id: Q28600412; format Attribute-Relation File Format
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc

@@ -11,7 +11,7 @@ number of files with unknown format: 1
 number of files with known format: 5
 rate of files with known format: 0.8333333333333334
 contained formats: 
-id: Q4045294; format New Executable
-id: Q1258721; format NFO
-id: Q28205583; format OS/2 Pointer
 id: Q817650; format COM
+id: Q1258721; format NFO
+id: Q4045294; format New Executable
+id: Q28205583; format OS/2 Pointer

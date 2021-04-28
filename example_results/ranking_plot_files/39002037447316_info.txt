@@ -1,7 +1,7 @@
 39002037447316.json
 top ranked environments: 
-environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 8.706282352941177
-environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.9178470588235295
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit - Base V2 + TurboCAD Designer 2D 17.0 - 10173; score: 23.667188282248347
+environment_number: 1; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.1828845774709804
 environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + Adobe PhotoDeluxe 13079; score: 0.0001
 environment_number: 2; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.0001
 
@@ -10,21 +10,21 @@ number of files with unknown format: 13
 number of files with known format: 17
 rate of files with known format: 0.5666666666666667
 contained formats: 
-id: Q29000741; format WorldBuilder
 id: Q3807693; format ASCII tab
-id: Q4045294; format New Executable
-id: Q58335745; format Acrobat Catalog Cat File
-id: Q58335773; format Verity Collection Stop List
-id: Q58006953; format TRIM Context Reference File
-id: Q95994246; format Agilent Microarray file format
 id: Q49799747; format Adobe Portable Document Catalog Index File, version 3.2
-id: Q28206952; format PhotoDeluxe
-id: Q29000651; format WLD
+id: Q27979156; format ASCII art
+id: Q4045294; format New Executable
 id: Q34310996; format Security Catalog
+id: Q58335773; format Verity Collection Stop List
+id: Q28206952; format PhotoDeluxe
+id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
+id: Q95994246; format Agilent Microarray file format
+id: Q29000651; format WLD
+id: Q49798739; format Adobe Portable Document Catalog Index File, version 3
 id: Q49798508; format Adobe Portable Document Catalog Index File, version 2
+id: Q58335745; format Acrobat Catalog Cat File
+id: Q29000741; format WorldBuilder
+id: Q3509055; format STEP file
+id: Q58006953; format TRIM Context Reference File
 id: Q723030; format AsciiDoc
 id: Q59535034; format Stuffit Archive File
-id: Q27979156; format ASCII art
-id: Q49799499; format Adobe Portable Document Catalog Index File, version 3.1
-id: Q3509055; format STEP file
-id: Q49798739; format Adobe Portable Document Catalog Index File, version 3

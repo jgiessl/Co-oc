@@ -1,40 +1,40 @@
 39002101417245.json
 top ranked environments: 
-environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 77.00260000000078
-environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 45.017384615384614
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 21.56139999999999
-environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 21.56139999999999
-environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 18.48129999999999
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 376.3274771604913
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 226.11694323343522
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 138.69401328135658
+environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 138.69401328135658
+environment_number: 0; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 130.22787534246575
 
 number of files:  1671
 number of files with unknown format: 0
 number of files with known format: 1671
 rate of files with known format: 1.0
 contained formats: 
+id: Q26207818; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2012
+id: Q26207986; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2008, with Microsoft extensions
+id: Q26205771; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2008
+id: Q26211536; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2012, with Microsoft extensions
+id: Q26207802; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2012
+id: Q26211528; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2012, with Microsoft extensions
+id: Q3033641; format Office Open XML Wordprocessing Document, ECMA-376 1st Edition
+id: Q26207792; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2011
+id: Q26207979; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2008, with Microsoft extensions
 id: Q26211320; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2011, with Microsoft extensions
 id: Q26211522; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2012, with Microsoft extensions
-id: Q26207734; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2011
-id: Q26207821; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2012
-id: Q26208253; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2008, with Microsoft extensions
-id: Q26207802; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2012
 id: Q26211338; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2011, with Microsoft extensions
-id: Q26207729; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2011
-id: Q26207712; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2008
+id: Q26207821; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2012
 id: Q3570403; format Office Open XML Spreadsheet Document, ECMA-376 1st Edition
-id: Q26211536; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2012, with Microsoft extensions
-id: Q26207675; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2008
 id: Q26208225; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2008, with Microsoft extensions
-id: Q42591; format MP3g
-id: Q3033641; format Office Open XML Wordprocessing Document, ECMA-376 1st Edition
-id: Q26211510; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2011, with Microsoft extensions
-id: Q26207818; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2012
+id: Q26207675; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2008
+id: Q26207712; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2008
 id: Q26207808; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2012
-id: Q26207986; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2008, with Microsoft extensions
-id: Q26207786; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2011
-id: Q26207979; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2008, with Microsoft extensions
+id: Q42591; format MP3g
 id: Q26205749; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2008
-id: Q26207792; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2011
-id: Q26205771; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2008
-id: Q26211506; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2011, with Microsoft extensions
-id: Q26211528; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2012, with Microsoft extensions
+id: Q26211510; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2011, with Microsoft extensions
+id: Q26207786; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2011
+id: Q26207729; format Office Open XML Wordprocessing Document, Transitional, ISO/IEC 29500:2011
 id: Q26211533; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2012, with Microsoft extensions
+id: Q26211506; format Office Open XML Wordprocessing Document, Strict, ISO/IEC 29500:2011, with Microsoft extensions
+id: Q26208253; format Office Open XML Spreadsheet Document, Strict, ISO/IEC 29500:2008, with Microsoft extensions
+id: Q26207734; format Office Open XML Spreadsheet Document, Transitional, ISO/IEC 29500:2011

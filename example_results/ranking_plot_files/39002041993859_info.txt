@@ -1,8 +1,8 @@
 39002041993859.json
 top ranked environments: 
-environment_number: 1; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 15.739362091503287
-environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit Base V1 + AutoCAD LT 2006 - 5788; score: 15.739362091503287
-environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.1178470588235294
+environment_number: 1; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 35.2447430807259
+environment_number: 3; environment_name: Windows XP Professional 2002 SP3 32 Bit Base V1 + AutoCAD LT 2006 - 5788; score: 35.2447430807259
+environment_number: 0; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.3828845774709806
 environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.0001
 environment_number: 4; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2  + Family Tree Maker 2009 Essentials; score: 0.0001
 
@@ -11,21 +11,21 @@ number of files with unknown format: 159
 number of files with known format: 10
 rate of files with known format: 0.05917159763313609
 contained formats: 
-id: Q1343830; format Executable and Linkable Format
-id: Q59492181; format Statistical Analysis System Catalog (Windows)
-id: Q47512572; format man page
-id: Q3807693; format ASCII tab
-id: Q59492197; format Statistical Analysis System Catalog (Unix)
-id: Q29904547; format Statistical Analysis System catalog
-id: Q95994246; format Agilent Microarray file format
-id: Q58006953; format TRIM Context Reference File
-id: Q47486880; format Statistical Analysis System Catalog (Unix)
-id: Q47486934; format Statistical Analysis System Catalog (Unix)
-id: Q47486887; format Statistical Analysis System Catalog (Windows)
 id: Q723030; format AsciiDoc
-id: Q47486873; format Statistical Analysis System Catalog (Windows)
-id: Q28206625; format MSX BASIC graphics
 id: Q47486893; format Statistical Analysis System Catalog (Unix)
+id: Q3807693; format ASCII tab
 id: Q27979156; format ASCII art
-id: Q47486901; format Statistical Analysis System Catalog (Windows)
+id: Q28206625; format MSX BASIC graphics
+id: Q29904547; format Statistical Analysis System catalog
+id: Q47486873; format Statistical Analysis System Catalog (Windows)
+id: Q47486934; format Statistical Analysis System Catalog (Unix)
 id: Q28009482; format SimCity 2000 Saved City
+id: Q1343830; format Executable and Linkable Format
+id: Q47486901; format Statistical Analysis System Catalog (Windows)
+id: Q95994246; format Agilent Microarray file format
+id: Q47512572; format man page
+id: Q47486880; format Statistical Analysis System Catalog (Unix)
+id: Q59492181; format Statistical Analysis System Catalog (Windows)
+id: Q59492197; format Statistical Analysis System Catalog (Unix)
+id: Q58006953; format TRIM Context Reference File
+id: Q47486887; format Statistical Analysis System Catalog (Windows)

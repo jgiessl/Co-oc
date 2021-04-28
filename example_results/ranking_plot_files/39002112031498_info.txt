@@ -1,142 +1,142 @@
 39002112031498.json
 top ranked environments: 
-environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 79.5939546014471
-environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 7.272228226321407
-environment_number: 13; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 5.4662013759965005
-environment_number: 10; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 4.931203272057286
-environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.30532156094397
+environment_number: 19; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 409.7567379065756
+environment_number: 13; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 28.27525956979368
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 28.188896005169145
+environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 21.70397892613216
+environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 21.70397892613216
 
 number of files:  2883
 number of files with unknown format: 381
 number of files with known format: 2502
 rate of files with known format: 0.8678459937565036
 contained formats: 
-id: Q34287064; format Professor Calhoon quiz file
-id: Q28206957; format PhotoParade slideshow
-id: Q26085319; format Portable Document Format, version 1.6
-id: Q1165116; format Perl module
-id: Q26543628; format Portable Document Format/Archive, version 1 Basic
-id: Q28055391; format Printfox bitmap
-id: Q67124713; format Print Artist postcard file format
-id: Q5924007; format JavaScript
-id: Q26085339; format Portable Document Format, version 1.0
-id: Q27979516; format Manga Studio Page
-id: Q29650311; format POV-Ray scene description
 id: Q66310989; format Pantry Files
-id: Q51034969; format Paradox Database Table format, version 3
-id: Q47498736; format Adobe Illustrator file format, version 14
-id: Q55721671; format AmiraMesh 3D ASCII 2.0 file format
-id: Q51837224; format Paradox Database Table, version 7
-id: Q59653966; format MySQL Table Definition Format
-id: Q66439261; format WordPerfect Merge Forms file format
-id: Q27487544; format Shapefile codepage file
-id: Q47498745; format Adobe Illustrator file format, version 15
-id: Q42332; format Portable Document Format
-id: Q47246032; format PowerVR Object Data
-id: Q47498565; format Adobe Illustrator file format, version 13
-id: Q29946810; format Portable Document Format/Exchange 2:2003
-id: Q66811836; format Inform source code file
-id: Q29946883; format Portable Document Format/Exchange 4p
-id: Q26085336; format Portable Document Format, version 1.1
-id: Q28206771; format OS/2 Bitmap Array
-id: Q684554; format Autorun.inf
-id: Q935809; format comma-separated values
-id: Q60339399; format Open Project File
-id: Q29946845; format Portable Document Format/Exchange 3:2003
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q26085317; format Portable Document Format, version 1.7
-id: Q34284525; format Perl script
-id: Q26085333; format Portable Document Format, version 1.2
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q360194; format Adobe Type 1 ASCII Font Metrics
-id: Q28206109; format farbfeld
-id: Q29946134; format Portable Document Format/Variable Data and Transactional Printing, multi-file exchange variant
-id: Q28771319; format Microsoft Library
-id: Q729366; format ICO
-id: Q51035340; format Paradox Database Table, version 5
-id: Q29151645; format Research Articles in Simplified HTML
-id: Q89029185; format American Greetings Project 10-23
-id: Q28919168; format GHS Part Maker
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q26545877; format Portable Document Format/Archive, version 2 Accessible
-id: Q55721702; format AmiraMesh 3D Binary 2.0 file format
-id: Q8811; format HyperText Markup Language
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q2053; format HTML5
-id: Q47498749; format Adobe Illustrator file format, version 16
-id: Q29946121; format Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant
-id: Q29946692; format Portable Document Format/Exchange 1:1999
-id: Q29946141; format Portable Document Format/Variable Data and Transactional Printing, streamed delivery variant
-id: Q55721640; format AmiraMesh ASCII file format
-id: Q218170; format PostScript
-id: Q930281; format Windows thumbnail cache
-id: Q26541013; format Portable Document Format/Archive, version 1 Accessible
-id: Q29946937; format Portable Document Format/Exchange 5pg
-id: Q1076355; format Portable Executable
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q95994246; format Agilent Microarray file format
-id: Q5533911; format GeoPDF
-id: Q47498538; format Adobe Illustrator file format, version 9
-id: Q29946771; format Portable Document Format/Exchange 1a:2003
-id: Q288405; format hOCR
-id: Q29946829; format Portable Document Format/Exchange 3:2002
-id: Q2043942; format Portable Document Format for Engineering
-id: Q55429627; format Portable Document Format, version 2.0
-id: Q29946726; format Portable Document Format/Exchange 1a:2001
-id: Q51839192; format PHP Script Page
-id: Q26547917; format Portable Document Format/Archive, version 3 Accessible
-id: Q3807693; format ASCII tab
-id: Q26546575; format Portable Document Format/Archive, version 2 Basic
-id: Q28600476; format DOS device driver
-id: Q1888930; format Vector Markup Language
-id: Q29946898; format Portable Document Format/Exchange 5g
-id: Q29000498; format OrCAD library
-id: Q29946914; format Portable Document Format/Exchange 5n
-id: Q26547266; format Portable Document Format/Archive, version 2 Unicode
-id: Q29946866; format Portable Document Format/Exchange 4
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q16996920; format Windows Setup Information File
-id: Q26548590; format Portable Document Format/Archive, version 3 Basic
-id: Q47498555; format Adobe Illustrator file format, version 12
-id: Q27979156; format ASCII art
 id: Q27826469; format Cascading Style Sheets Level 3
-id: Q1141412; format INI file
-id: Q4042979; format Linear Executable
-id: Q51035227; format Paradox Database Table, version 4
-id: Q34284437; format Pascal script
-id: Q28786544; format Netscape bookmarks
-id: Q1662484; format Information Presentation Facility
-id: Q17073241; format Opera Show Format
+id: Q55429627; format Portable Document Format, version 2.0
+id: Q95994246; format Agilent Microarray file format
 id: Q1192568; format .sys
-id: Q26085326; format Portable Document Format, version 1.4
-id: Q26085330; format Portable Document Format, version 1.3
+id: Q26545877; format Portable Document Format/Archive, version 2 Accessible
+id: Q729366; format ICO
+id: Q47498547; format Adobe Illustrator file format, version 10
+id: Q26541013; format Portable Document Format/Archive, version 1 Accessible
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q26085336; format Portable Document Format, version 1.1
+id: Q28600476; format DOS device driver
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q26085339; format Portable Document Format, version 1.0
+id: Q29000498; format OrCAD library
+id: Q29946726; format Portable Document Format/Exchange 1a:2001
+id: Q1888930; format Vector Markup Language
+id: Q62625630; format Structured Query Language script
+id: Q26085333; format Portable Document Format, version 1.2
+id: Q29946937; format Portable Document Format/Exchange 5pg
+id: Q930281; format Windows thumbnail cache
+id: Q99184084; format Atom web feed
+id: Q51035340; format Paradox Database Table, version 5
+id: Q67124713; format Print Artist postcard file format
+id: Q28207044; format PM
+id: Q28206771; format OS/2 Bitmap Array
+id: Q34287064; format Professor Calhoon quiz file
+id: Q166074; format Extensible HyperText Markup Language
 id: Q47498552; format Adobe Illustrator file format, version 11
 id: Q28205580; format OS/2 Icon
-id: Q34285652; format Perl Common Gateway Interface script
-id: Q58006953; format TRIM Context Reference File
-id: Q28600454; format DB (Watcom-SQL)
-id: Q99184084; format Atom web feed
+id: Q684554; format Autorun.inf
+id: Q47498749; format Adobe Illustrator file format, version 16
 id: Q6043826; format Intellifont
-id: Q28600453; format SQLite database file format
-id: Q29946713; format Portable Document Format/Exchange 1:2001
-id: Q2138624; format registry file
-id: Q62626012; format HyperText Markup Language
-id: Q47455565; format Windows Portable Executable file format, 64-bit
-id: Q47455466; format Windows Portable Executable file format, 32-bit
-id: Q673906; format Simple Standards-Based Slide Show System
-id: Q28600435; format Consolidated.db
-id: Q28600763; format Electronic Arts INF
-id: Q47498547; format Adobe Illustrator file format, version 10
-id: Q55721708; format AmiraMesh Binary Little Endian 2.1 file format
-id: Q62625630; format Structured Query Language script
-id: Q28207044; format PM
-id: Q55721705; format AmiraMesh 3D Binary Little Endian 2.0 file format
 id: Q26085322; format Portable Document Format, version 1.5
-id: Q28205626; format Sun icon
+id: Q55721708; format AmiraMesh Binary Little Endian 2.1 file format
+id: Q26085330; format Portable Document Format, version 1.3
+id: Q29946692; format Portable Document Format/Exchange 1:1999
+id: Q34285652; format Perl Common Gateway Interface script
+id: Q28786544; format Netscape bookmarks
+id: Q29946141; format Portable Document Format/Variable Data and Transactional Printing, streamed delivery variant
+id: Q47455565; format Windows Portable Executable file format, 64-bit
+id: Q66811836; format Inform source code file
+id: Q29151645; format Research Articles in Simplified HTML
+id: Q47498538; format Adobe Illustrator file format, version 9
+id: Q29946810; format Portable Document Format/Exchange 2:2003
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q26548590; format Portable Document Format/Archive, version 3 Basic
+id: Q47246032; format PowerVR Object Data
+id: Q935809; format comma-separated values
+id: Q55721702; format AmiraMesh 3D Binary 2.0 file format
+id: Q218170; format PostScript
+id: Q34284437; format Pascal script
+id: Q58006953; format TRIM Context Reference File
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q1165116; format Perl module
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q28055391; format Printfox bitmap
+id: Q60339399; format Open Project File
+id: Q59653966; format MySQL Table Definition Format
+id: Q26543628; format Portable Document Format/Archive, version 1 Basic
+id: Q2138624; format registry file
+id: Q29946898; format Portable Document Format/Exchange 5g
+id: Q47498565; format Adobe Illustrator file format, version 13
+id: Q47455466; format Windows Portable Executable file format, 32-bit
+id: Q55721705; format AmiraMesh 3D Binary Little Endian 2.0 file format
+id: Q29946914; format Portable Document Format/Exchange 5n
+id: Q16996920; format Windows Setup Information File
+id: Q26085319; format Portable Document Format, version 1.6
+id: Q2043942; format Portable Document Format for Engineering
+id: Q3807693; format ASCII tab
 id: Q4045294; format New Executable
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q723030; format AsciiDoc
+id: Q28919168; format GHS Part Maker
+id: Q29946829; format Portable Document Format/Exchange 3:2002
+id: Q28205626; format Sun icon
+id: Q29946866; format Portable Document Format/Exchange 4
+id: Q28600435; format Consolidated.db
 id: Q28600412; format Attribute-Relation File Format
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q28771319; format Microsoft Library
+id: Q29650311; format POV-Ray scene description
+id: Q26085317; format Portable Document Format, version 1.7
+id: Q47498745; format Adobe Illustrator file format, version 15
+id: Q55721640; format AmiraMesh ASCII file format
+id: Q17073241; format Opera Show Format
+id: Q47498736; format Adobe Illustrator file format, version 14
+id: Q51839192; format PHP Script Page
+id: Q29946883; format Portable Document Format/Exchange 4p
+id: Q51034969; format Paradox Database Table format, version 3
+id: Q5924007; format JavaScript
+id: Q29946121; format Portable Document Format/Variable Data and Transactional Printing, single-file exchange variant
+id: Q47498555; format Adobe Illustrator file format, version 12
+id: Q8811; format HyperText Markup Language
+id: Q27487544; format Shapefile codepage file
+id: Q55721671; format AmiraMesh 3D ASCII 2.0 file format
+id: Q28600454; format DB (Watcom-SQL)
+id: Q28206957; format PhotoParade slideshow
+id: Q66134804; format Access Project file format
+id: Q29946845; format Portable Document Format/Exchange 3:2003
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q26085326; format Portable Document Format, version 1.4
+id: Q2053; format HTML5
+id: Q5533911; format GeoPDF
+id: Q360194; format Adobe Type 1 ASCII Font Metrics
 id: Q28206381; format VisualBasic form
+id: Q27979516; format Manga Studio Page
+id: Q29946134; format Portable Document Format/Variable Data and Transactional Printing, multi-file exchange variant
+id: Q29946713; format Portable Document Format/Exchange 1:2001
+id: Q26547917; format Portable Document Format/Archive, version 3 Accessible
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q66439261; format WordPerfect Merge Forms file format
+id: Q4042979; format Linear Executable
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q288405; format hOCR
+id: Q26546575; format Portable Document Format/Archive, version 2 Basic
+id: Q62626012; format HyperText Markup Language
+id: Q723030; format AsciiDoc
+id: Q26547266; format Portable Document Format/Archive, version 2 Unicode
+id: Q34284525; format Perl script
+id: Q29946771; format Portable Document Format/Exchange 1a:2003
+id: Q28600453; format SQLite database file format
+id: Q42332; format Portable Document Format
+id: Q1141412; format INI file
+id: Q89029185; format American Greetings Project 10-23
+id: Q51035227; format Paradox Database Table, version 4
+id: Q51837224; format Paradox Database Table, version 7

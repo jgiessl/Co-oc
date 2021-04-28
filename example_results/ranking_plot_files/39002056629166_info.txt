@@ -1,67 +1,67 @@
 39002056629166.json
 top ranked environments: 
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.3618455432566323
-environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.9158701864724703
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 0.6703913810902796
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 0.6703913810902796
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.03793584905660377
+environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 5.568785395579232
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.285768702962695
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 1.215384073458019
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 1.215384073458019
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.2855420272422781
 
 number of files:  229
 number of files with unknown format: 0
 number of files with known format: 229
 rate of files with known format: 1.0
 contained formats: 
-id: Q10394822; format ZIP archive file format, version 6.3.2
-id: Q26211958; format ZIP archive file format, version 2.7
-id: Q26211954; format ZIP archive file format, version 4.6
-id: Q1076355; format Portable Executable
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q95994246; format Agilent Microarray file format
-id: Q6912474; format Mork
-id: Q26211936; format ZIP archive file format, version 5.2
-id: Q26211983; format ZIP archive file format, version 1.0
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q28758112; format Internet Explorer history file
-id: Q26211931; format ZIP archive file format, version 6.1.0
-id: Q47233167; format LDR
-id: Q26211927; format ZIP archive file format, version 6.2.0
-id: Q26211977; format ZIP archive file format, version 2.0
-id: Q28049770; format DKBTrace scene description
-id: Q28755606; format Exact Yearbook DAT file
-id: Q2193155; format Java class file
-id: Q921122; format Java archive
-id: Q32097740; format Fallout DAT
-id: Q217570; format Waveform Audio File Format
-id: Q26211978; format ZIP archive file format, version 1.1
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q5532250; format General Transit Feed Specification
-id: Q26211965; format ZIP archive file format, version 2.5
-id: Q49243071; format Java language source code file
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q81526528; format MicroStation Resource data
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q26211905; format ZIP archive file format, version 6.2.2
-id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
-id: Q32097899; format Fallout v2 DAT
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q81526664; format Palm Desktop DateBook
 id: Q3807693; format ASCII tab
-id: Q26211874; format ZIP archive file format, version 6.3.1
-id: Q29650304; format PRT scene description
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q26211940; format ZIP archive file format, version 5.1
-id: Q672985; format Sun Microsystems audio file
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q26211975; format ZIP archive file format, version 2.1
-id: Q34747804; format Supaplex Level format
 id: Q4045294; format New Executable
-id: Q26211957; format ZIP archive file format, version 4.5
-id: Q26211948; format ZIP archive file format, version 5.0
-id: Q723030; format AsciiDoc
-id: Q27979156; format ASCII art
-id: Q26211891; format ZIP archive file format, version 6.3.0
+id: Q29650304; format PRT scene description
+id: Q26211940; format ZIP archive file format, version 5.1
+id: Q921122; format Java archive
+id: Q95994246; format Agilent Microarray file format
 id: Q26211915; format ZIP archive file format, version 6.2.1
+id: Q26211958; format ZIP archive file format, version 2.7
+id: Q26211957; format ZIP archive file format, version 4.5
+id: Q28755606; format Exact Yearbook DAT file
+id: Q28206109; format farbfeld
+id: Q10394822; format ZIP archive file format, version 6.3.2
+id: Q26211905; format ZIP archive file format, version 6.2.2
+id: Q32097899; format Fallout v2 DAT
+id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
+id: Q28207108; format The Print Shop Graphics file
+id: Q5532250; format General Transit Feed Specification
+id: Q34747804; format Supaplex Level format
+id: Q27979156; format ASCII art
+id: Q26211965; format ZIP archive file format, version 2.5
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q28758112; format Internet Explorer history file
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q58006953; format TRIM Context Reference File
+id: Q26211954; format ZIP archive file format, version 4.6
+id: Q723030; format AsciiDoc
+id: Q81526664; format Palm Desktop DateBook
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q26211977; format ZIP archive file format, version 2.0
+id: Q1076355; format Portable Executable
+id: Q217570; format Waveform Audio File Format
+id: Q26211936; format ZIP archive file format, version 5.2
+id: Q26211927; format ZIP archive file format, version 6.2.0
+id: Q6912474; format Mork
+id: Q26211891; format ZIP archive file format, version 6.3.0
+id: Q99184084; format Atom web feed
+id: Q2193155; format Java class file
+id: Q26211874; format ZIP archive file format, version 6.3.1
+id: Q49243071; format Java language source code file
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q26211978; format ZIP archive file format, version 1.1
+id: Q28049770; format DKBTrace scene description
+id: Q672985; format Sun Microsystems audio file
+id: Q81526528; format MicroStation Resource data
+id: Q26211975; format ZIP archive file format, version 2.1
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q32097740; format Fallout DAT
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26211931; format ZIP archive file format, version 6.1.0
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q26211983; format ZIP archive file format, version 1.0
+id: Q47233167; format LDR
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q26211948; format ZIP archive file format, version 5.0

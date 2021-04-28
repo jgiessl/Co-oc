@@ -11,14 +11,14 @@ number of files with unknown format: 1
 number of files with known format: 10
 rate of files with known format: 0.9090909090909091
 contained formats: 
-id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
-id: Q6043826; format Intellifont
-id: Q28755621; format Exact Yearbook ID file
-id: Q29650301; format Pack
 id: Q4045294; format New Executable
+id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
 id: Q27967388; format Adlib Tracker instrument
-id: Q29209269; format Z
 id: Q29000498; format OrCAD library
 id: Q28758103; format InstallShield Z
-id: Q28771319; format Microsoft Library
+id: Q6043826; format Intellifont
+id: Q29209269; format Z
+id: Q28755621; format Exact Yearbook ID file
+id: Q29650301; format Pack
 id: Q1141412; format INI file
+id: Q28771319; format Microsoft Library

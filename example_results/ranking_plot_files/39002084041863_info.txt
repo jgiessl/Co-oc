@@ -1,32 +1,32 @@
 39002084041863.json
 top ranked environments: 
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.2384952380952345
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.9050619047619048
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.8336333333333334
-environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.6827396825396825
-environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 0.6827396825396825
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.84075587093932
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.272163855325947
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.3841710341473221
+environment_number: 9; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.143547376140997
+environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.7236962955790194
 
 number of files:  31
 number of files with unknown format: 0
 number of files with known format: 31
 rate of files with known format: 1.0
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q1662484; format Information Presentation Facility
-id: Q47538977; format AutoCAD Template Menu File
-id: Q28205580; format OS/2 Icon
-id: Q217570; format Waveform Audio File Format
-id: Q65533032; format Menu file format
-id: Q1144005; format WinHelp
-id: Q729366; format ICO
-id: Q27596243; format Windows Bitmap, version 3
-id: Q28600763; format Electronic Arts INF
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q16996920; format Windows Setup Information File
+id: Q4045294; format New Executable
 id: Q66811836; format Inform source code file
 id: Q28205626; format Sun icon
-id: Q4045294; format New Executable
+id: Q1144005; format WinHelp
+id: Q729366; format ICO
+id: Q1662484; format Information Presentation Facility
+id: Q27596243; format Windows Bitmap, version 3
+id: Q217570; format Waveform Audio File Format
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q65533032; format Menu file format
+id: Q47538977; format AutoCAD Template Menu File
 id: Q28206771; format OS/2 Bitmap Array
-id: Q684554; format Autorun.inf
 id: Q1141412; format INI file
+id: Q66134804; format Access Project file format
+id: Q28205580; format OS/2 Icon
+id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q16996920; format Windows Setup Information File

@@ -1,53 +1,53 @@
 39002086234706.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.9564827542135953
-environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.27370427350427345
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) Base V2 + Microsoft Works Suite 99 13401; score: 0.27370427350427345
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.27370427350427345
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.15414615384615382
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 5.009165252320903
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.461105472639902
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) Base V2 + Microsoft Works Suite 99 13401; score: 0.461105472639902
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.461105472639902
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.30524112616164717
 
 number of files:  3904
 number of files with unknown format: 7
 number of files with known format: 3897
 rate of files with known format: 0.9982069672131147
 contained formats: 
+id: Q3807693; format ASCII tab
+id: Q53756551; format git packfile index, version 2
 id: Q27979378; format VobSub index
-id: Q1076355; format Portable Executable
-id: Q29000609; format Java Card CAP
+id: Q4045294; format New Executable
+id: Q29650304; format PRT scene description
 id: Q95994246; format Agilent Microarray file format
-id: Q6912474; format Mork
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q28600764; format Electronic Arts MOV
-id: Q28758112; format Internet Explorer history file
-id: Q53756539; format git packfile index, version 1
-id: Q47233167; format LDR
-id: Q81413027; format Capella sheet data file
-id: Q28049770; format DKBTrace scene description
 id: Q28755606; format Exact Yearbook DAT file
-id: Q32097740; format Fallout DAT
-id: Q58006953; format TRIM Context Reference File
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q47245245; format Microsoft Network Monitor Packet Capture, version 1
-id: Q81526528; format MicroStation Resource data
 id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q51916170; format Pagemaker TableEditor Graphics
 id: Q1144005; format WinHelp
 id: Q32097899; format Fallout v2 DAT
-id: Q27596243; format Windows Bitmap, version 3
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q53756551; format git packfile index, version 2
-id: Q81526664; format Palm Desktop DateBook
-id: Q3807693; format ASCII tab
-id: Q29650304; format PRT scene description
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q942350; format QuickTime File Format
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q47245444; format Microsoft Network Monitor Packet Capture
-id: Q34747804; format Supaplex Level format
-id: Q4045294; format New Executable
-id: Q723030; format AsciiDoc
+id: Q28207108; format The Print Shop Graphics file
+id: Q29000609; format Java Card CAP
 id: Q7671270; format TRANS.TBL
+id: Q34747804; format Supaplex Level format
 id: Q27979156; format ASCII art
+id: Q81413027; format Capella sheet data file
+id: Q28758112; format Internet Explorer history file
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q81526664; format Palm Desktop DateBook
+id: Q27596243; format Windows Bitmap, version 3
+id: Q47245444; format Microsoft Network Monitor Packet Capture
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q1076355; format Portable Executable
+id: Q6912474; format Mork
+id: Q99184084; format Atom web feed
+id: Q51916170; format Pagemaker TableEditor Graphics
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q28049770; format DKBTrace scene description
+id: Q47245245; format Microsoft Network Monitor Packet Capture, version 1
 id: Q50604600; format Phase One Raw Image
+id: Q81526528; format MicroStation Resource data
+id: Q942350; format QuickTime File Format
+id: Q28600764; format Electronic Arts MOV
+id: Q32097740; format Fallout DAT
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q47233167; format LDR
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q53756539; format git packfile index, version 1

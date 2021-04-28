@@ -8,16 +8,16 @@ number of files with unknown format: 5
 number of files with known format: 1148
 rate of files with known format: 0.9956634865568084
 contained formats: 
-id: Q28771225; format MAX (3ds Max)
-id: Q28975875; format OOGL TLIST Projective file
+id: Q27925703; format DTED Level 0 Maximum Terrain Elevation Value File
 id: Q27487424; format Shapefile projections definitions file
-id: Q29465378; format UltraEdit project file
+id: Q28206548; format MAKIchan Graphics MAX
+id: Q28975875; format OOGL TLIST Projective file
 id: Q86996249; format PaperPort MAX 3-4
+id: Q86996065; format PaperPort MAX 5-7
+id: Q27823195; format Binary Terrain External Projection file
+id: Q29465378; format UltraEdit project file
+id: Q28771225; format MAX (3ds Max)
 id: Q29651047; format PaperPort
 id: Q28205439; format Sony ARW
-id: Q86996065; format PaperPort MAX 5-7
-id: Q27925703; format DTED Level 0 Maximum Terrain Elevation Value File
-id: Q28206548; format MAKIchan Graphics MAX
-id: Q27823195; format Binary Terrain External Projection file
 id: Q1141412; format INI file
 id: Q86995619; format PaperPort MAX 8-12

@@ -1,36 +1,36 @@
 39002073438732.json
 top ranked environments: 
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 28.637863636363686
-environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 24.819581818181863
-environment_number: 10; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 24.819581818181863
-environment_number: 11; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 21.27402727272731
-environment_number: 1; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 18.00120000000003
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 112.43129236964846
+environment_number: 10; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 107.84768056359137
+environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 106.46156242394304
+environment_number: 11; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 102.25590246754689
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) - Base V2 + Microsoft Word 2000 + 6953; score: 98.12239318934984
 
 number of files:  81
 number of files with unknown format: 14
 number of files with known format: 67
 rate of files with known format: 0.8271604938271605
 contained formats: 
-id: Q29944758; format Rich Text Format, version 1.0
-id: Q1076355; format Portable Executable
-id: Q61641450; format WordPerfect for MS-DOS Document
-id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
-id: Q28205583; format OS/2 Pointer
-id: Q29944987; format Rich Text Format, version 0
-id: Q29944780; format Rich Text Format, version 1.5
+id: Q4045294; format New Executable
+id: Q48809727; format dBASE Text Memo
+id: Q29944785; format Rich Text Format, version 1.8
 id: Q28206109; format farbfeld
 id: Q1144005; format WinHelp
-id: Q29944786; format Rich Text Format, version 1.9
-id: Q27596243; format Windows Bitmap, version 3
-id: Q2138624; format registry file
-id: Q29944779; format Rich Text Format, version 1.4
-id: Q29944785; format Rich Text Format, version 1.8
-id: Q48551303; format Word Perfect for Windows Document file format
-id: Q48809727; format dBASE Text Memo
 id: Q29944776; format Rich Text Format, version 1.2
-id: Q47539061; format AutoCAD dbConnect Template Set
 id: Q29944777; format Rich Text Format, version 1.3
-id: Q4045294; format New Executable
-id: Q29944783; format Rich Text Format, version 1.7
-id: Q29944773; format Rich Text Format, version 1.1
+id: Q47539061; format AutoCAD dbConnect Template Set
+id: Q48551303; format Word Perfect for Windows Document file format
 id: Q29944782; format Rich Text Format, version 1.6
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q27596243; format Windows Bitmap, version 3
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q1076355; format Portable Executable
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q28205583; format OS/2 Pointer
+id: Q61641450; format WordPerfect for MS-DOS Document
+id: Q2138624; format registry file
+id: Q29944987; format Rich Text Format, version 0
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q29944773; format Rich Text Format, version 1.1

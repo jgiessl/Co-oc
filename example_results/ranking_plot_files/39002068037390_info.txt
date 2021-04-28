@@ -1,42 +1,42 @@
 39002068037390.json
 top ranked environments: 
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.985908833595197
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.888102221925652
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.4155449140419805
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.2289714285714284
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.740622179434244
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 9.523630507192873
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.4330018979035
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.21638344199057
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 3.3296246932191647
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.924157206727817
 
 number of files:  285
 number of files with unknown format: 8
 number of files with known format: 277
 rate of files with known format: 0.9719298245614035
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q939636; format CorelDRAW Document
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
 id: Q95994246; format Agilent Microarray file format
 id: Q76142694; format VisualBasic Project
-id: Q1662484; format Information Presentation Facility
-id: Q28205580; format OS/2 Icon
-id: Q29904539; format Statistical Analysis System output file
-id: Q217570; format Waveform Audio File Format
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q59653966; format MySQL Table Definition Format
+id: Q28205626; format Sun icon
 id: Q66439261; format WordPerfect Merge Forms file format
 id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
 id: Q729366; format ICO
-id: Q27596243; format Windows Bitmap, version 3
-id: Q28600763; format Electronic Arts INF
-id: Q28755628; format Exact Yearbook LST file
-id: Q3807693; format ASCII tab
-id: Q58103465; format Adobe Font List
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q28205626; format Sun icon
-id: Q4045294; format New Executable
-id: Q723030; format AsciiDoc
-id: Q28206771; format OS/2 Bitmap Array
+id: Q29904539; format Statistical Analysis System output file
 id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q27596243; format Windows Bitmap, version 3
+id: Q217570; format Waveform Audio File Format
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q58103465; format Adobe Font List
+id: Q99184084; format Atom web feed
+id: Q59653966; format MySQL Table Definition Format
+id: Q28206771; format OS/2 Bitmap Array
+id: Q939636; format CorelDRAW Document
+id: Q28205580; format OS/2 Icon
 id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q16996920; format Windows Setup Information File
 id: Q28206381; format VisualBasic form
+id: Q28755628; format Exact Yearbook LST file

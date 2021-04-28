@@ -1,7 +1,7 @@
 39002099461320.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 2.753241176470589
-environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.11784705882352942
+environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.843819500311557
+environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.21964930663289828
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 environment_number: 2; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
@@ -11,21 +11,21 @@ number of files with unknown format: 14
 number of files with known format: 439
 rate of files with known format: 0.9690949227373068
 contained formats: 
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q34312151; format Macromedia Director, uncompressed PC variant
-id: Q27925722; format DTED Level 1 Gazetteer Directory file
-id: Q5448342; format File change log
-id: Q50223812; format Bluetooth Snoop Packet Capture
-id: Q28206135; format Fractint FRA
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q29904540; format Statistical Analysis System log file
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q28206109; format farbfeld
-id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
-id: Q99184084; format Atom web feed
-id: Q27923693; format DTED Cells Directory File
-id: Q27826466; format Cascading Style Sheets Level 2
 id: Q27826469; format Cascading Style Sheets Level 3
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q27923693; format DTED Cells Directory File
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
 id: Q5153426; format Common Log Format
+id: Q99184084; format Atom web feed
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q34312361; format Macromedia Director, uncompressed Macintosh variant
+id: Q34312151; format Macromedia Director, uncompressed PC variant
+id: Q29904540; format Statistical Analysis System log file
+id: Q50223812; format Bluetooth Snoop Packet Capture
 id: Q5421818; format Extended Log Format
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q28206109; format farbfeld
+id: Q27925722; format DTED Level 1 Gazetteer Directory file
+id: Q28206135; format Fractint FRA
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q5448342; format File change log

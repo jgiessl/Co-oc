@@ -1,25 +1,25 @@
 AU5.json
 top ranked environments: 
-environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 6.618681818181819
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 6.618681818181819
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 5.891309090909092
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) Base V2 + Microsoft Works Suite 99 13401; score: 5.891309090909092
-environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 5.891309090909092
+environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 12.453998903940265
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 12.453998903940265
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 11.68819549689889
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) Base V2 + Microsoft Works Suite 99 13401; score: 11.68819549689889
+environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 11.68819549689889
 
 number of files:  5570
 number of files with unknown format: 1
 number of files with known format: 5569
 rate of files with known format: 0.9998204667863555
 contained formats: 
-id: Q935809; format comma-separated values
-id: Q28205824; format CgBI
-id: Q27229642; format Portable Network Graphics, version 1.2
 id: Q3807693; format ASCII tab
-id: Q58006953; format TRIM Context Reference File
+id: Q27979156; format ASCII art
+id: Q935809; format comma-separated values
 id: Q95994246; format Agilent Microarray file format
 id: Q27229608; format Portable Network Graphics, version 1.1
-id: Q723030; format AsciiDoc
-id: Q178051; format Portable Network Graphics
-id: Q27979156; format ASCII art
-id: Q27229565; format Portable Network Graphics, version 1.0
 id: Q433224; format APNG
+id: Q178051; format Portable Network Graphics
+id: Q58006953; format TRIM Context Reference File
+id: Q28205824; format CgBI
+id: Q723030; format AsciiDoc
+id: Q27229565; format Portable Network Graphics, version 1.0
+id: Q27229642; format Portable Network Graphics, version 1.2

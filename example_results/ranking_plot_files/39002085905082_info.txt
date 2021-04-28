@@ -1,33 +1,33 @@
 39002085905082.json
 top ranked environments: 
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 35.5803473684212
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 30.21182631578958
-environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 28.94856842105271
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 28.94856842105271
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 28.94856842105271
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 122.68474940377854
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 113.5182494474726
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 111.29304165432714
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 111.29304165432714
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 111.29304165432714
 
 number of files:  82
 number of files with unknown format: 1
 number of files with known format: 81
 rate of files with known format: 0.9878048780487805
 contained formats: 
-id: Q29944758; format Rich Text Format, version 1.0
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q1662484; format Information Presentation Facility
-id: Q684554; format Autorun.inf
-id: Q29944987; format Rich Text Format, version 0
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q29944780; format Rich Text Format, version 1.5
-id: Q99184084; format Atom web feed
-id: Q29944786; format Rich Text Format, version 1.9
-id: Q28600763; format Electronic Arts INF
-id: Q29944779; format Rich Text Format, version 1.4
+id: Q66811836; format Inform source code file
 id: Q29944785; format Rich Text Format, version 1.8
-id: Q66134804; format Access Project file format
 id: Q29944776; format Rich Text Format, version 1.2
 id: Q29944777; format Rich Text Format, version 1.3
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q29944783; format Rich Text Format, version 1.7
-id: Q29944773; format Rich Text Format, version 1.1
+id: Q1662484; format Information Presentation Facility
 id: Q29944782; format Rich Text Format, version 1.6
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q29944779; format Rich Text Format, version 1.4
+id: Q28600763; format Electronic Arts INF
+id: Q29944786; format Rich Text Format, version 1.9
+id: Q29944780; format Rich Text Format, version 1.5
+id: Q29944783; format Rich Text Format, version 1.7
+id: Q99184084; format Atom web feed
+id: Q66134804; format Access Project file format
+id: Q29944987; format Rich Text Format, version 0
+id: Q29944758; format Rich Text Format, version 1.0
+id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q29944773; format Rich Text Format, version 1.1
+id: Q16996920; format Windows Setup Information File

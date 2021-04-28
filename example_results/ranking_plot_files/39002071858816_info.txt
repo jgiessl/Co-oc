@@ -1,49 +1,49 @@
 39002071858816.json
 top ranked environments: 
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.7579294548092403
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.5785512605042017
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.48751804511278196
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.4070226890756302
-environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.29263697478991596
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.9367840517229338
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.8147664960043441
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.2301043280711779
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.0610421038916107
+environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.3985124661122625
 
 number of files:  127
 number of files with unknown format: 53
 number of files with known format: 74
 rate of files with known format: 0.5826771653543307
 contained formats: 
-id: Q28344713; format Package File
-id: Q2276274; format System.map
-id: Q1076355; format Portable Executable
-id: Q939636; format CorelDRAW Document
+id: Q3807693; format ASCII tab
+id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
 id: Q67377613; format CaseWare 2005 Compressed file
 id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q28771288; format Mapsforge Binary Map
-id: Q29904539; format Statistical Analysis System output file
-id: Q28755621; format Exact Yearbook ID file
-id: Q58006953; format TRIM Context Reference File
-id: Q64858274; format Corel Presentations Master file format
-id: Q29209269; format Z
-id: Q29167914; format PCRaster Map
-id: Q28009488; format Tibia map file
-id: Q28758103; format InstallShield Z
-id: Q28771319; format Microsoft Library
-id: Q6043826; format Intellifont
-id: Q27596243; format Windows Bitmap, version 3
-id: Q28600763; format Electronic Arts INF
-id: Q28755628; format Exact Yearbook LST file
-id: Q3807693; format ASCII tab
-id: Q19599377; format AppleLink Package Compression Format
-id: Q66134804; format Access Project file format
-id: Q29000498; format OrCAD library
 id: Q28347555; format IBM Audio Visual Connection (AVC) Still Video Image
-id: Q58103465; format Adobe Font List
-id: Q29650301; format Pack
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
-id: Q27967388; format Adlib Tracker instrument
-id: Q723030; format AsciiDoc
+id: Q28344713; format Package File
+id: Q29904539; format Statistical Analysis System output file
+id: Q28771319; format Microsoft Library
 id: Q27979156; format ASCII art
-id: Q684554; format Autorun.inf
+id: Q1662484; format Information Presentation Facility
+id: Q19599377; format AppleLink Package Compression Format
+id: Q29167914; format PCRaster Map
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q29650301; format Pack
+id: Q27596243; format Windows Bitmap, version 3
+id: Q29000498; format OrCAD library
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q58103465; format Adobe Font List
+id: Q27967388; format Adlib Tracker instrument
+id: Q28758103; format InstallShield Z
+id: Q28009488; format Tibia map file
+id: Q28755621; format Exact Yearbook ID file
 id: Q1141412; format INI file
+id: Q2276274; format System.map
+id: Q939636; format CorelDRAW Document
+id: Q66134804; format Access Project file format
+id: Q684554; format Autorun.inf
+id: Q6043826; format Intellifont
+id: Q29209269; format Z
+id: Q16996920; format Windows Setup Information File
+id: Q28755628; format Exact Yearbook LST file
+id: Q64858274; format Corel Presentations Master file format
+id: Q28771288; format Mapsforge Binary Map

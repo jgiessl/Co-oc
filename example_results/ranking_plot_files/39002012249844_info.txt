@@ -1,52 +1,52 @@
 39002012249844.json
 top ranked environments: 
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 14.437277162038429
-environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 11.495636842105272
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 9.836087719298254
-environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 7.495636842105267
-environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 6.70596315789474
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 36.049821323780144
+environment_number: 2; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 35.58436816351311
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 34.136831652183844
+environment_number: 7; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 25.077776509142698
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 24.706187909390547
 
 number of files:  96
 number of files with unknown format: 0
 number of files with known format: 96
 rate of files with known format: 1.0
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q28205883; format Desktop Color Separation
-id: Q1662484; format Information Presentation Facility
-id: Q10287816; format GZIP
-id: Q28055391; format Printfox bitmap
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q66134564; format Photoshop DCS 1.0
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q17092932; format JPEG-XT
-id: Q1952321; format Multi Picture Object
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q26329648; format JPEG File Interchange Format, version 1.0
-id: Q1047541; format Encapsulated PostScript
-id: Q5153426; format Common Log Format
-id: Q5421818; format Extended Log Format
-id: Q1343830; format Executable and Linkable Format
-id: Q27979410; format Binary Text
-id: Q59714459; format Encapsulated PostScript File Format
-id: Q26385770; format Still Picture Interchange File Format
-id: Q28600763; format Electronic Arts INF
-id: Q50223812; format Bluetooth Snoop Packet Capture
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q48625328; format Encapsulated PostScript, v2
-id: Q28206262; format HSI JPEG
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q1882400; format MacBinary
-id: Q16996920; format Windows Setup Information File
-id: Q4045294; format New Executable
-id: Q5448342; format File change log
-id: Q66811836; format Inform source code file
-id: Q28206497; format Lossless JPEG
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q29904540; format Statistical Analysis System log file
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q28206359; format Intergraph Raster
-id: Q684554; format Autorun.inf
 id: Q27826469; format Cascading Style Sheets Level 3
+id: Q4045294; format New Executable
+id: Q10287816; format GZIP
+id: Q66811836; format Inform source code file
+id: Q29904540; format Statistical Analysis System log file
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q1952321; format Multi Picture Object
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q26329648; format JPEG File Interchange Format, version 1.0
+id: Q59714459; format Encapsulated PostScript File Format
+id: Q5448342; format File change log
+id: Q1662484; format Information Presentation Facility
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q28206359; format Intergraph Raster
+id: Q48625328; format Encapsulated PostScript, v2
+id: Q5421818; format Extended Log Format
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q1882400; format MacBinary
+id: Q28205883; format Desktop Color Separation
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q28206497; format Lossless JPEG
+id: Q28055391; format Printfox bitmap
+id: Q1343830; format Executable and Linkable Format
+id: Q99184084; format Atom web feed
+id: Q28206262; format HSI JPEG
+id: Q27979410; format Binary Text
+id: Q684554; format Autorun.inf
+id: Q5153426; format Common Log Format
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q17092932; format JPEG-XT
+id: Q1047541; format Encapsulated PostScript
+id: Q66134564; format Photoshop DCS 1.0
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q26385770; format Still Picture Interchange File Format
+id: Q16996920; format Windows Setup Information File

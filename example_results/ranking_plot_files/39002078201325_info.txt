@@ -1,7 +1,7 @@
 39002078201325.json
 top ranked environments: 
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.3740734478532142
-environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.9295290034087698
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.6444427922796656
+environment_number: 1; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 1.0959088992907167
 environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.0001
 environment_number: 2; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
 environment_number: 3; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
@@ -11,13 +11,13 @@ number of files with unknown format: 666
 number of files with known format: 234
 rate of files with known format: 0.26
 contained formats: 
-id: Q1343830; format Executable and Linkable Format
-id: Q34284437; format Pascal script
 id: Q218170; format PostScript
-id: Q47524710; format Mach-O file format (32bit)
-id: Q28205883; format Desktop Color Separation
 id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q28206109; format farbfeld
+id: Q1343830; format Executable and Linkable Format
 id: Q28206359; format Intergraph Raster
+id: Q47524710; format Mach-O file format (32bit)
 id: Q96143857; format SurferGrid format
+id: Q28206109; format farbfeld
+id: Q34284437; format Pascal script
+id: Q28205883; format Desktop Color Separation
 id: Q29650311; format POV-Ray scene description

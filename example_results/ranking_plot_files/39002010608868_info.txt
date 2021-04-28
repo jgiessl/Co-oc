@@ -1,35 +1,35 @@
 39002010608868.json
 top ranked environments: 
-environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 9.695838095238093
-environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.571828571428571
-environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.571828571428571
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 4.286014285714286
-environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.0860142857142856
+environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 14.662823390177785
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 6.6612642847874275
+environment_number: 8; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 6.491038966179549
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 6.168625801000969
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.932498867416082
 
 number of files:  34
 number of files with unknown format: 5
 number of files with known format: 29
 rate of files with known format: 0.8529411764705882
 contained formats: 
-id: Q51334664; format Microsoft Powerpoint Presentation, version 4
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q24834502; format PowerPoint Binary File Format
-id: Q61718355; format Microsoft PowerPoint for Macintosh, version 4
-id: Q28205580; format OS/2 Icon
-id: Q58006953; format TRIM Context Reference File
-id: Q729366; format ICO
-id: Q28600763; format Electronic Arts INF
 id: Q3807693; format ASCII tab
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q28445577; format Advanced Authoring System
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
 id: Q28205626; format Sun icon
-id: Q51717333; format Microsoft Powerpoint Presentation, version 95
-id: Q723030; format AsciiDoc
-id: Q28206771; format OS/2 Bitmap Array
+id: Q729366; format ICO
 id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q51334664; format Microsoft Powerpoint Presentation, version 4
+id: Q61718355; format Microsoft PowerPoint for Macintosh, version 4
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q28600763; format Electronic Arts INF
+id: Q1076355; format Portable Executable
+id: Q24834502; format PowerPoint Binary File Format
+id: Q28206771; format OS/2 Bitmap Array
+id: Q28445577; format Advanced Authoring System
+id: Q28205580; format OS/2 Icon
 id: Q684554; format Autorun.inf
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q16996920; format Windows Setup Information File
+id: Q51717333; format Microsoft Powerpoint Presentation, version 95

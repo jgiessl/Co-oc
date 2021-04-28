@@ -1,8 +1,8 @@
 39002079513645.json
 top ranked environments: 
-environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.6540461538461538
-environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.46183846153846153
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.15404615384615383
+environment_number: 2; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 1.3096556603470821
+environment_number: 6; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.6244389778105685
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.22250874548211286
 environment_number: 0; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
 environment_number: 1; environment_name: Windows 95 + Visio Standard  5; score: 0.0001
 
@@ -12,16 +12,16 @@ number of files with known format: 107
 rate of files with known format: 1.0
 contained formats: 
 id: Q28600763; format Electronic Arts INF
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q28205626; format Sun icon
-id: Q28205580; format OS/2 Icon
-id: Q336284; format MPEG-1
 id: Q1662484; format Information Presentation Facility
+id: Q28205580; format OS/2 Icon
+id: Q66811836; format Inform source code file
+id: Q684554; format Autorun.inf
 id: Q307271; format .DS_Store
+id: Q28205626; format Sun icon
 id: Q178051; format Portable Network Graphics
-id: Q28206771; format OS/2 Bitmap Array
+id: Q16996920; format Windows Setup Information File
 id: Q729366; format ICO
 id: Q28018471; format MPEG-2 program stream
-id: Q684554; format Autorun.inf
+id: Q336284; format MPEG-1
 id: Q28018470; format MPEG-1 program stream
+id: Q28206771; format OS/2 Bitmap Array

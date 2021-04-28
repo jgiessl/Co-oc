@@ -1,8 +1,8 @@
 39002074599029.json
 top ranked environments: 
-environment_number: 4; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 0.5335333333333333
-environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.13353333333333334
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.13353333333333334
+environment_number: 4; environment_name: Windows 98 SE (Second Edition) Base V2 + Microsoft Office 97 Professional Edition + Matlab Student 5.0; score: 1.3030743243179024
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.48869203722725096
+environment_number: 3; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.2353355811427022
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 
@@ -12,18 +12,18 @@ number of files with known format: 165
 rate of files with known format: 1.0
 contained formats: 
 id: Q28975650; format Recon Mesh
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q28771220; format MAT-file, Level 5, version 7
-id: Q28771221; format MAT-file, Level 5, version 7.3
-id: Q28771107; format MAT-file, Level 4
-id: Q28205883; format Desktop Color Separation
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q15938816; format MATLAB M-File
-id: Q28206109; format farbfeld
-id: Q28770728; format MAT-file, Level 5, version 6
-id: Q99184084; format Atom web feed
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q27826466; format Cascading Style Sheets Level 2
 id: Q27826469; format Cascading Style Sheets Level 3
+id: Q15938816; format MATLAB M-File
+id: Q66134804; format Access Project file format
+id: Q28771221; format MAT-file, Level 5, version 7.3
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q28771107; format MAT-file, Level 4
+id: Q28771220; format MAT-file, Level 5, version 7
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q99184084; format Atom web feed
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q28205883; format Desktop Color Separation
+id: Q28770728; format MAT-file, Level 5, version 6

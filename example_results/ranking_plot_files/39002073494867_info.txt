@@ -1,8 +1,8 @@
 39002073494867.json
 top ranked environments: 
-environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.6631925924750736
-environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 0.32975925914174026
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 0.32975925914174026
+environment_number: 7; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 1.397005482145717
+environment_number: 5; environment_name: Windows XP Professional 2002 SP3 32 Bit + Micorsoft Office Publisher 2003 13091; score: 0.8747519515094797
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Home and Student 6994; score: 0.8747519515094797
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 2000 Professional - Base V1 + Visio Professional - 975; score: 0.0001
 
@@ -11,16 +11,16 @@ number of files with unknown format: 0
 number of files with known format: 3551
 rate of files with known format: 1.0
 contained formats: 
-id: Q217570; format Waveform Audio File Format
 id: Q28600763; format Electronic Arts INF
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q1076355; format Portable Executable
-id: Q4045294; format New Executable
-id: Q1676669; format JPEG File Interchange Format, version 1.02
 id: Q751800; format TrueType Font
 id: Q1662484; format Information Presentation Facility
-id: Q28206109; format farbfeld
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q99184084; format Atom web feed
+id: Q4045294; format New Executable
+id: Q66811836; format Inform source code file
 id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q99184084; format Atom web feed
+id: Q28206109; format farbfeld
+id: Q16996920; format Windows Setup Information File
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q217570; format Waveform Audio File Format

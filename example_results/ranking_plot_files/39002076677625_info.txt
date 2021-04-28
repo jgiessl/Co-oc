@@ -1,29 +1,29 @@
 39002076677625.json
 top ranked environments: 
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.0566102564102564
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.13353333333333334
-environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.13353333333333334
-environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.13353333333333334
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.13353333333333334
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 3.321647775057707
+environment_number: 10; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.9441653780729106
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.31706836062690635
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 0.31706836062690635
+environment_number: 7; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.15148850674302478
 
 number of files:  6074
 number of files with unknown format: 1057
 number of files with known format: 5017
 rate of files with known format: 0.8259795851168916
 contained formats: 
-id: Q47245444; format Microsoft Network Monitor Packet Capture
-id: Q81413027; format Capella sheet data file
-id: Q87066063; format LEADTools Lead 1Bit Compressed Image
 id: Q3807693; format ASCII tab
+id: Q27979156; format ASCII art
+id: Q66134804; format Access Project file format
+id: Q95994246; format Agilent Microarray file format
 id: Q87066066; format LEADToolsCompressed Image
+id: Q81413027; format Capella sheet data file
+id: Q27596243; format Windows Bitmap, version 3
+id: Q28206359; format Intergraph Raster
+id: Q87066063; format LEADTools Lead 1Bit Compressed Image
 id: Q1676669; format JPEG File Interchange Format, version 1.02
 id: Q58006953; format TRIM Context Reference File
-id: Q66134804; format Access Project file format
-id: Q29000609; format Java Card CAP
-id: Q95994246; format Agilent Microarray file format
-id: Q47245245; format Microsoft Network Monitor Packet Capture, version 1
 id: Q723030; format AsciiDoc
-id: Q28206359; format Intergraph Raster
-id: Q27979156; format ASCII art
-id: Q27596243; format Windows Bitmap, version 3
+id: Q29000609; format Java Card CAP
+id: Q47245245; format Microsoft Network Monitor Packet Capture, version 1
+id: Q47245444; format Microsoft Network Monitor Packet Capture
 id: Q50604600; format Phase One Raw Image

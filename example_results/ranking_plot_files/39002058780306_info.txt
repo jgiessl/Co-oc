@@ -1,7 +1,7 @@
 39002058780306.json
 top ranked environments: 
-environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.0670666666666673
-environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 0.4446444444444444
+environment_number: 6; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.649938696546546
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 2.7096819630918954
 environment_number: 0; environment_name: Windows XP Professional 2002 SP3 32 Bit + Adobe Acrobat 8 Professional; score: 0.0001
 environment_number: 1; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.0001
 environment_number: 3; environment_name: Windows 98 SE Base - V2 + Color Scanner IS33ODC (for SCSI & IEEE1394) Scanner Drivers & Utilities 12956; score: 0.0001
@@ -11,22 +11,22 @@ number of files with unknown format: 0
 number of files with known format: 589
 rate of files with known format: 1.0
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q1662484; format Information Presentation Facility
-id: Q58006953; format TRIM Context Reference File
-id: Q5153426; format Common Log Format
-id: Q5421818; format Extended Log Format
-id: Q28600763; format Electronic Arts INF
 id: Q3807693; format ASCII tab
-id: Q50223812; format Bluetooth Snoop Packet Capture
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
 id: Q4045294; format New Executable
-id: Q5448342; format File change log
-id: Q723030; format AsciiDoc
+id: Q66811836; format Inform source code file
+id: Q95994246; format Agilent Microarray file format
 id: Q29904540; format Statistical Analysis System log file
+id: Q5448342; format File change log
 id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q5421818; format Extended Log Format
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q66134804; format Access Project file format
 id: Q684554; format Autorun.inf
+id: Q5153426; format Common Log Format
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q50223812; format Bluetooth Snoop Packet Capture
+id: Q16996920; format Windows Setup Information File

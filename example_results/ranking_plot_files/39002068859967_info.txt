@@ -1,211 +1,211 @@
 39002068859967.json
 top ranked environments: 
-environment_number: 21; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 20.883075735934877
-environment_number: 27; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 13.963461245009732
-environment_number: 12; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 12.610837897420483
-environment_number: 1; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 9.316831029639422
-environment_number: 23; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 8.393573433008301
+environment_number: 21; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 92.08752649558885
+environment_number: 12; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 70.2420712556926
+environment_number: 27; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 64.60065440121144
+environment_number: 1; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 49.74875731993344
+environment_number: 23; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 37.79603302607397
 
 number of files:  9884
 number of files with unknown format: 1124
 number of files with known format: 8760
 rate of files with known format: 0.8862808579522461
 contained formats: 
-id: Q28206671; format Portable Bitmap, text variant
-id: Q26211954; format ZIP archive file format, version 4.6
-id: Q1165116; format Perl module
-id: Q28757986; format IPS manifest
-id: Q85621726; format PFS:First Choice Document
-id: Q79241659; format Lotus Accessory
-id: Q62522682; format SPARQL update
-id: Q28049770; format DKBTrace scene description
-id: Q901031; format device independent file format
-id: Q26211927; format ZIP archive file format, version 6.2.0
 id: Q66310989; format Pantry Files
-id: Q32097740; format Fallout DAT
-id: Q66134564; format Photoshop DCS 1.0
-id: Q26211965; format ZIP archive file format, version 2.5
-id: Q28771302; format Matlab figure
-id: Q28009488; format Tibia map file
-id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
-id: Q29651210; format Personal Storage Table, ANSI 1997-2002 variant
-id: Q59714459; format Encapsulated PostScript File Format
-id: Q62664735; format Wordperfect Secondary File, version 5.1 and 5.2
-id: Q1952708; format FILE_ID.DIZ
-id: Q6717333; format Mathematical Programming System
-id: Q27526739; format Graphics Interchange Format, version 89a
-id: Q26211940; format ZIP archive file format, version 5.1
-id: Q28757747; format GEM bitmap font
-id: Q62625561; format Bash script
-id: Q66004695; format ImageStyler File
-id: Q28858035; format Word Binary File Format, version nFib=0x00C1
-id: Q27826389; format Proxy AUX file, AUX variant
-id: Q5301; format TeX
-id: Q53844499; format BibTeX style file
-id: Q50308790; format DirectMusic Style File Format
-id: Q66811836; format Inform source code file
-id: Q26211957; format ZIP archive file format, version 4.5
-id: Q63061396; format Microsoft Word Document
-id: Q27967085; format Jason Page
-id: Q29000485; format 010 Editor Binary Template
-id: Q686498; format doc
-id: Q28206359; format Intergraph Raster
-id: Q684554; format Autorun.inf
-id: Q47538631; format AutoCAD Custom Dictionary
-id: Q87066063; format LEADTools Lead 1Bit Compressed Image
-id: Q47512572; format man page
-id: Q2276274; format System.map
-id: Q51801746; format Stationery for Mac OS X
-id: Q28205883; format Desktop Color Separation
-id: Q34742774; format Softdisk Family Tree 2 Place Name Data
-id: Q6912474; format Mork
-id: Q28206513; format LSS16
-id: Q60628185; format Wordperfect Secondary File, version 5
-id: Q55594103; format CAChe MolStruct CSF
-id: Q26211936; format ZIP archive file format, version 5.2
-id: Q28771288; format Mapsforge Binary Map
-id: Q28206679; format Portable Bitmap, binary variant
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q60000066; format Microsoft Office Owner File
-id: Q61641368; format Microsoft Word for Windows Document, version 2
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q27925705; format DTED Readme file
-id: Q34284525; format Perl script
-id: Q48782238; format Microsoft Word for MS-DOS Document, version 5
-id: Q59537246; format Microsoft OneNote file format
-id: Q166074; format Extensible HyperText Markup Language
-id: Q26211978; format ZIP archive file format, version 1.1
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q27826340; format Auxiliary file, AUX variant
-id: Q81526528; format MicroStation Resource data
-id: Q178051; format Portable Network Graphics
-id: Q28206109; format farbfeld
-id: Q29167914; format PCRaster Map
-id: Q28106114; format GRASP font
-id: Q26211905; format ZIP archive file format, version 6.2.2
-id: Q1047541; format Encapsulated PostScript
-id: Q29151645; format Research Articles in Simplified HTML
-id: Q27996219; format Eudora Mailbox Table of Contents
-id: Q89029185; format American Greetings Project 10-23
-id: Q28858042; format Word Binary File Format, version nFibNew=0x010C
-id: Q81526664; format Palm Desktop DateBook
-id: Q28858037; format Word Binary File Format, version nFib=0x00C0
-id: Q28919168; format GHS Part Maker
-id: Q47524710; format Mach-O file format (32bit)
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q29651228; format Personal Storage Table, Unicode 2003-2007 variant
-id: Q85513175; format Cindex Document, version 2
-id: Q28205479; format Amiga Workbench icon
-id: Q940967; format Musepack
-id: Q27959886; format Cubase song
-id: Q34747804; format Supaplex Level format
-id: Q48782202; format Microsoft Word for MS-DOS Document, version 4
-id: Q6717026; format MOI
-id: Q28206138; format Freedom of Press Info
-id: Q29000745; format MultiGen Flight
-id: Q8811; format HyperText Markup Language
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q2053; format HTML5
-id: Q26211891; format ZIP archive file format, version 6.3.0
-id: Q98815369; format Microsoft Access Database Link
-id: Q60414423; format TAP (Commodore 64)
-id: Q26211958; format ZIP archive file format, version 2.7
-id: Q48782394; format Microsoft Word for MS-DOS Document, version 5.5
-id: Q218170; format PostScript
-id: Q28858044; format Word Binary File Format, version nFibNew=0x0112
-id: Q1076355; format Portable Executable
-id: Q29650305; format PSI-MI XML
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q95994246; format Agilent Microarray file format
-id: Q28758112; format Internet Explorer history file
-id: Q28205507; format GlowIcons
-id: Q288405; format hOCR
-id: Q28777682; format Mm
-id: Q66662117; format Lotus Ami Pro Styles
-id: Q28755606; format Exact Yearbook DAT file
-id: Q26211977; format ZIP archive file format, version 2.0
-id: Q5532250; format General Transit Feed Specification
-id: Q28975873; format OOGL LIST file
-id: Q32097899; format Fallout v2 DAT
-id: Q1343830; format Executable and Linkable Format
-id: Q3563777; format MicroDVD
-id: Q479833; format ا تهكير لعبة ببجي
-id: Q3807693; format ASCII tab
-id: Q27823191; format Binary Terrain, version 1.0
-id: Q29650304; format PRT scene description
-id: Q1888930; format Vector Markup Language
-id: Q28207359; format TAP
-id: Q61639409; format Microsoft Word for Windows Document, version 1
-id: Q87066066; format LEADToolsCompressed Image
-id: Q28445577; format Advanced Authoring System
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q28206343; format ImgStar
-id: Q27823194; format Binary Terrain, version 1.2
-id: Q16996920; format Windows Setup Information File
-id: Q28975900; format Control surface geometry file
-id: Q28858041; format Word Binary File Format, version nFibNew=0x0101
-id: Q26211948; format ZIP archive file format, version 5.0
-id: Q27967140; format Digitrakker instrument
-id: Q27823201; format Binary Terrain, version 1.3
-id: Q27979156; format ASCII art
-id: Q1141412; format INI file
 id: Q27826469; format Cascading Style Sheets Level 3
-id: Q10394822; format ZIP archive file format, version 6.3.2
-id: Q27823193; format Binary Terrain, version 1.1
-id: Q34284437; format Pascal script
-id: Q28786544; format Netscape bookmarks
-id: Q1480633; format Personal Storage Table
-id: Q1662484; format Information Presentation Facility
-id: Q17073241; format Opera Show Format
-id: Q26211983; format ZIP archive file format, version 1.0
 id: Q10287816; format GZIP
-id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
-id: Q25378623; format Font-File Format
-id: Q47233167; format LDR
-id: Q26211931; format ZIP archive file format, version 6.1.0
-id: Q34748140; format TAP
-id: Q1381134; format MapInfo Interchange Format
-id: Q6753724; format MapInfo TAB format
-id: Q63061514; format Microsoft Word Document, version 97-2003
-id: Q58006953; format TRIM Context Reference File
-id: Q85621806; format PFS:First Choice Document 3
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q66439286; format DisplayWrite Document file format, version 5
-id: Q27473250; format Raster Product Format Table of Contents File
-id: Q99184084; format Atom web feed
-id: Q1144005; format WinHelp
-id: Q2192; format Graphics Interchange Format
-id: Q48915661; format Interleaf Document
-id: Q29000603; format Windows Registry policy file
-id: Q62626012; format HyperText Markup Language
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q28756261; format FIG
-id: Q673906; format Simple Standards-Based Slide Show System
-id: Q28206147; format Freedom of Press Bitamp
-id: Q28600763; format Electronic Arts INF
-id: Q26211874; format ZIP archive file format, version 6.3.1
-id: Q52063393; format TeX Binary File
-id: Q27979377; format VobSub subtitle
-id: Q27526733; format Graphics Interchange Format, version 87a
-id: Q28858038; format Word Binary File Format, version nFib=0x00C2
-id: Q27979388; format AAE sidecar format
-id: Q48625328; format Encapsulated PostScript, v2
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q28207044; format PM
-id: Q26211975; format ZIP archive file format, version 2.1
-id: Q28205548; format NewIcons
-id: Q27967113; format AProSys module
-id: Q4045294; format New Executable
-id: Q1817318; format X BitMap
-id: Q27967388; format Adlib Tracker instrument
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q723030; format AsciiDoc
-id: Q28600412; format Attribute-Relation File Format
-id: Q48782098; format Microsoft Word for MS-DOS Document, version 3
-id: Q28858039; format Word Binary File Format, version nFibNew=0x00D9
-id: Q28205475; format ZoomBrowser Ex thumbnail cache
-id: Q26211915; format ZIP archive file format, version 6.2.1
+id: Q95994246; format Agilent Microarray file format
+id: Q48782394; format Microsoft Word for MS-DOS Document, version 5.5
 id: Q3513566; format tab-separated values
+id: Q28755606; format Exact Yearbook DAT file
+id: Q940967; format Musepack
+id: Q26211905; format ZIP archive file format, version 6.2.2
+id: Q28207108; format The Print Shop Graphics file
+id: Q28771302; format Matlab figure
+id: Q27925705; format DTED Readme file
+id: Q28206679; format Portable Bitmap, binary variant
+id: Q27979156; format ASCII art
+id: Q1662484; format Information Presentation Facility
+id: Q28858038; format Word Binary File Format, version nFib=0x00C2
+id: Q26211965; format ZIP archive file format, version 2.5
+id: Q27823201; format Binary Terrain, version 1.3
+id: Q1817318; format X BitMap
+id: Q87066063; format LEADTools Lead 1Bit Compressed Image
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q28758112; format Internet Explorer history file
+id: Q28206147; format Freedom of Press Bitamp
+id: Q25378623; format Font-File Format
+id: Q28777682; format Mm
+id: Q29167914; format PCRaster Map
+id: Q34742774; format Softdisk Family Tree 2 Place Name Data
+id: Q26211954; format ZIP archive file format, version 4.6
+id: Q28205883; format Desktop Color Separation
+id: Q27823191; format Binary Terrain, version 1.0
+id: Q26211977; format ZIP archive file format, version 2.0
+id: Q1888930; format Vector Markup Language
+id: Q26211936; format ZIP archive file format, version 5.2
+id: Q2192; format Graphics Interchange Format
+id: Q27967085; format Jason Page
+id: Q686498; format doc
+id: Q99184084; format Atom web feed
+id: Q61639409; format Microsoft Word for Windows Document, version 1
+id: Q6717333; format Mathematical Programming System
+id: Q28009488; format Tibia map file
+id: Q28207044; format PM
+id: Q28205507; format GlowIcons
+id: Q166074; format Extensible HyperText Markup Language
+id: Q28858041; format Word Binary File Format, version nFibNew=0x0101
+id: Q684554; format Autorun.inf
+id: Q62664735; format Wordperfect Secondary File, version 5.1 and 5.2
+id: Q66134564; format Photoshop DCS 1.0
+id: Q26211983; format ZIP archive file format, version 1.0
+id: Q29651228; format Personal Storage Table, Unicode 2003-2007 variant
+id: Q51801746; format Stationery for Mac OS X
+id: Q28786544; format Netscape bookmarks
+id: Q28206513; format LSS16
+id: Q66811836; format Inform source code file
+id: Q26211915; format ZIP archive file format, version 6.2.1
+id: Q26211958; format ZIP archive file format, version 2.7
+id: Q29151645; format Research Articles in Simplified HTML
+id: Q479833; format ا تهكير لعبة ببجي
+id: Q28975900; format Control surface geometry file
+id: Q27526739; format Graphics Interchange Format, version 89a
+id: Q10394822; format ZIP archive file format, version 6.3.2
+id: Q28205479; format Amiga Workbench icon
+id: Q673906; format Simple Standards-Based Slide Show System
+id: Q218170; format PostScript
+id: Q55594103; format CAChe MolStruct CSF
 id: Q28206265; format HSI Raw
+id: Q85621726; format PFS:First Choice Document
+id: Q34284437; format Pascal script
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q58006953; format TRIM Context Reference File
+id: Q1165116; format Perl module
+id: Q34748140; format TAP
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q6717026; format MOI
+id: Q27526733; format Graphics Interchange Format, version 87a
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
+id: Q53844499; format BibTeX style file
+id: Q26211927; format ZIP archive file format, version 6.2.0
+id: Q27823194; format Binary Terrain, version 1.2
+id: Q1343830; format Executable and Linkable Format
+id: Q28858037; format Word Binary File Format, version nFib=0x00C0
+id: Q66662117; format Lotus Ami Pro Styles
+id: Q27967140; format Digitrakker instrument
+id: Q28858042; format Word Binary File Format, version nFibNew=0x010C
+id: Q28445577; format Advanced Authoring System
+id: Q29650305; format PSI-MI XML
+id: Q2276274; format System.map
+id: Q5301; format TeX
+id: Q28858044; format Word Binary File Format, version nFibNew=0x0112
+id: Q66004695; format ImageStyler File
+id: Q3563777; format MicroDVD
+id: Q27979388; format AAE sidecar format
+id: Q29000485; format 010 Editor Binary Template
+id: Q28106114; format GRASP font
+id: Q47524710; format Mach-O file format (32bit)
+id: Q1480633; format Personal Storage Table
+id: Q79241659; format Lotus Accessory
+id: Q16996920; format Windows Setup Information File
+id: Q28049770; format DKBTrace scene description
+id: Q48782098; format Microsoft Word for MS-DOS Document, version 3
+id: Q27996219; format Eudora Mailbox Table of Contents
+id: Q28858039; format Word Binary File Format, version nFibNew=0x00D9
+id: Q3807693; format ASCII tab
+id: Q85513175; format Cindex Document, version 2
+id: Q4045294; format New Executable
+id: Q29650304; format PRT scene description
+id: Q28919168; format GHS Part Maker
+id: Q59537246; format Microsoft OneNote file format
+id: Q52063393; format TeX Binary File
+id: Q28858035; format Word Binary File Format, version nFib=0x00C1
+id: Q28206138; format Freedom of Press Info
+id: Q28600412; format Attribute-Relation File Format
+id: Q1144005; format WinHelp
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q59714459; format Encapsulated PostScript File Format
+id: Q5532250; format General Transit Feed Specification
+id: Q28206343; format ImgStar
+id: Q63061514; format Microsoft Word Document, version 97-2003
+id: Q28206359; format Intergraph Raster
+id: Q17073241; format Opera Show Format
+id: Q901031; format device independent file format
+id: Q178051; format Portable Network Graphics
+id: Q50308790; format DirectMusic Style File Format
+id: Q81526664; format Palm Desktop DateBook
+id: Q28757986; format IPS manifest
+id: Q6912474; format Mork
+id: Q26211891; format ZIP archive file format, version 6.3.0
+id: Q8811; format HyperText Markup Language
+id: Q26211874; format ZIP archive file format, version 6.3.1
+id: Q28205475; format ZoomBrowser Ex thumbnail cache
+id: Q27967113; format AProSys module
+id: Q66134804; format Access Project file format
+id: Q27823193; format Binary Terrain, version 1.1
+id: Q63061396; format Microsoft Word Document
+id: Q28757747; format GEM bitmap font
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q2053; format HTML5
+id: Q1047541; format Encapsulated PostScript
+id: Q28206671; format Portable Bitmap, text variant
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q26211931; format ZIP archive file format, version 6.1.0
+id: Q26211940; format ZIP archive file format, version 5.1
+id: Q60414423; format TAP (Commodore 64)
+id: Q48782202; format Microsoft Word for MS-DOS Document, version 4
+id: Q85621806; format PFS:First Choice Document 3
+id: Q27473250; format Raster Product Format Table of Contents File
+id: Q26211957; format ZIP archive file format, version 4.5
+id: Q28206109; format farbfeld
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q62522682; format SPARQL update
+id: Q32097899; format Fallout v2 DAT
+id: Q28975873; format OOGL LIST file
+id: Q26211840; format ZIP archive file format, ISO/IEC 21320–1:2015
+id: Q29000603; format Windows Registry policy file
+id: Q28207359; format TAP
+id: Q28205548; format NewIcons
+id: Q34747804; format Supaplex Level format
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q288405; format hOCR
+id: Q29651210; format Personal Storage Table, ANSI 1997-2002 variant
+id: Q60628185; format Wordperfect Secondary File, version 5
+id: Q60000066; format Microsoft Office Owner File
+id: Q48625328; format Encapsulated PostScript, v2
+id: Q62626012; format HyperText Markup Language
+id: Q723030; format AsciiDoc
+id: Q27826389; format Proxy AUX file, AUX variant
+id: Q62625561; format Bash script
+id: Q29000745; format MultiGen Flight
+id: Q98815369; format Microsoft Access Database Link
+id: Q34284525; format Perl script
+id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
+id: Q66439286; format DisplayWrite Document file format, version 5
+id: Q27967388; format Adlib Tracker instrument
+id: Q48782238; format Microsoft Word for MS-DOS Document, version 5
+id: Q28756261; format FIG
+id: Q47512572; format man page
+id: Q27826340; format Auxiliary file, AUX variant
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q27959886; format Cubase song
+id: Q26211978; format ZIP archive file format, version 1.1
+id: Q1141412; format INI file
+id: Q47538631; format AutoCAD Custom Dictionary
+id: Q81526528; format MicroStation Resource data
+id: Q89029185; format American Greetings Project 10-23
+id: Q32097740; format Fallout DAT
+id: Q26211975; format ZIP archive file format, version 2.1
+id: Q48915661; format Interleaf Document
+id: Q1952708; format FILE_ID.DIZ
+id: Q87066066; format LEADToolsCompressed Image
+id: Q27979377; format VobSub subtitle
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q6753724; format MapInfo TAB format
+id: Q1381134; format MapInfo Interchange Format
+id: Q47233167; format LDR
+id: Q61641368; format Microsoft Word for Windows Document, version 2
+id: Q28771288; format Mapsforge Binary Map
+id: Q26211948; format ZIP archive file format, version 5.0

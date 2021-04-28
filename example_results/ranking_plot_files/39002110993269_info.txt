@@ -1,10 +1,10 @@
 39002110993269.json
 top ranked environments: 
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 4.545854545454545
-environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 3.164236363636363
-environment_number: 11; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.9095909090909082
-environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.709590909090909
-environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.5458545454545455
+environment_number: 5; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 7.046616182730109
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 5.054848078161331
+environment_number: 15; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 4.21878429395371
+environment_number: 11; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 3.4471968169509157
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 0.9842399045552072
 
 number of files:  318
 number of files with unknown format: 92
@@ -12,25 +12,25 @@ number of files with known format: 226
 rate of files with known format: 0.710691823899371
 contained formats: 
 id: Q28786544; format Netscape bookmarks
-id: Q1662484; format Information Presentation Facility
-id: Q28055391; format Printfox bitmap
-id: Q27826466; format Cascading Style Sheets Level 2
-id: Q166074; format Extensible HyperText Markup Language
-id: Q178051; format Portable Network Graphics
-id: Q99184084; format Atom web feed
-id: Q62626012; format HyperText Markup Language
-id: Q1343830; format Executable and Linkable Format
-id: Q27979410; format Binary Text
-id: Q28600763; format Electronic Arts INF
-id: Q66134804; format Access Project file format
-id: Q1888930; format Vector Markup Language
-id: Q27826464; format Cascading Style Sheets Level 1
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q1882400; format MacBinary
-id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
-id: Q8811; format HyperText Markup Language
-id: Q34746472; format STATISTICA Spreadsheet File
-id: Q2053; format HTML5
-id: Q684554; format Autorun.inf
 id: Q27826469; format Cascading Style Sheets Level 3
+id: Q66811836; format Inform source code file
+id: Q27826464; format Cascading Style Sheets Level 1
+id: Q34746472; format STATISTICA Spreadsheet File
+id: Q1662484; format Information Presentation Facility
+id: Q27826468; format Cascading Style Sheets Level 2 Revision 1
+id: Q178051; format Portable Network Graphics
+id: Q62626012; format HyperText Markup Language
+id: Q27826466; format Cascading Style Sheets Level 2
+id: Q1882400; format MacBinary
+id: Q28600763; format Electronic Arts INF
+id: Q1888930; format Vector Markup Language
+id: Q28055391; format Printfox bitmap
+id: Q1343830; format Executable and Linkable Format
+id: Q99184084; format Atom web feed
+id: Q8811; format HyperText Markup Language
+id: Q27979410; format Binary Text
+id: Q166074; format Extensible HyperText Markup Language
+id: Q66134804; format Access Project file format
+id: Q684554; format Autorun.inf
+id: Q2053; format HTML5
+id: Q16996920; format Windows Setup Information File

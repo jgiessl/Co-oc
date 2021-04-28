@@ -1,57 +1,57 @@
 39002097927348.json
 top ranked environments: 
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.4333159212880147
-environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 0.6013733452593918
-environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 0.43331592128801416
-environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.43331592128801416
-environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 0.2005577817531306
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 5.485998419395322
+environment_number: 3; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.1246501918554603
+environment_number: 8; environment_name: Windows 98 Second Edition (SE) Base V2 + Adobe Dynamic Media & Web Solutions 13054; score: 1.7799888678155333
+environment_number: 11; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 0.8991444784062319
+environment_number: 4; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 0.6590611566852115
 
 number of files:  83
 number of files with unknown format: 6
 number of files with known format: 77
 rate of files with known format: 0.927710843373494
 contained formats: 
-id: Q1076355; format Portable Executable
-id: Q95994246; format Agilent Microarray file format
-id: Q28758102; format InstallShield CAB
-id: Q6912474; format Mork
-id: Q81526237; format MapInfo MapBasic tabular DataBase
-id: Q28207108; format The Print Shop Graphics file
-id: Q28758112; format Internet Explorer history file
-id: Q28055391; format Printfox bitmap
-id: Q5924007; format JavaScript
-id: Q58237034; format Adobe Multiple Master Metrics font file
-id: Q47233167; format LDR
-id: Q29904539; format Statistical Analysis System output file
-id: Q28049770; format DKBTrace scene description
-id: Q28755606; format Exact Yearbook DAT file
-id: Q32097740; format Fallout DAT
-id: Q58006953; format TRIM Context Reference File
-id: Q1601331; format Transport-Neutral Encapsulation Format
-id: Q27578057; format Adobe Type 1 Printer Font Metrics
-id: Q81526528; format MicroStation Resource data
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q32097899; format Fallout v2 DAT
-id: Q28009496; format Zelda Solarus DX saved game
-id: Q194831; format Cabinet
-id: Q1343830; format Executable and Linkable Format
-id: Q27979410; format Binary Text
-id: Q48106551; format DataFlex Query Tag Name
-id: Q81526664; format Palm Desktop DateBook
-id: Q28755628; format Exact Yearbook LST file
 id: Q3807693; format ASCII tab
-id: Q6026738; format PFB
-id: Q58725633; format Adobe PostScript Font Metrics file
-id: Q29650304; format PRT scene description
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q66439259; format WordPerfect Merge Data file format
-id: Q58103465; format Adobe Font List
-id: Q34747804; format Supaplex Level format
-id: Q1882400; format MacBinary
+id: Q28758102; format InstallShield CAB
 id: Q4045294; format New Executable
-id: Q28206894; format Portable Float Map
-id: Q27967388; format Adlib Tracker instrument
-id: Q723030; format AsciiDoc
+id: Q29650304; format PRT scene description
+id: Q95994246; format Agilent Microarray file format
+id: Q28755606; format Exact Yearbook DAT file
+id: Q28206109; format farbfeld
+id: Q32097899; format Fallout v2 DAT
+id: Q28207108; format The Print Shop Graphics file
+id: Q58237034; format Adobe Multiple Master Metrics font file
+id: Q29904539; format Statistical Analysis System output file
+id: Q34747804; format Supaplex Level format
 id: Q27979156; format ASCII art
+id: Q58725633; format Adobe PostScript Font Metrics file
+id: Q28758112; format Internet Explorer history file
+id: Q1601331; format Transport-Neutral Encapsulation Format
+id: Q58006953; format TRIM Context Reference File
+id: Q1882400; format MacBinary
+id: Q723030; format AsciiDoc
+id: Q81526664; format Palm Desktop DateBook
+id: Q194831; format Cabinet
+id: Q1076355; format Portable Executable
+id: Q5924007; format JavaScript
+id: Q6912474; format Mork
+id: Q58103465; format Adobe Font List
+id: Q27578057; format Adobe Type 1 Printer Font Metrics
+id: Q28055391; format Printfox bitmap
+id: Q27967388; format Adlib Tracker instrument
+id: Q1343830; format Executable and Linkable Format
+id: Q99184084; format Atom web feed
+id: Q81526237; format MapInfo MapBasic tabular DataBase
+id: Q48106551; format DataFlex Query Tag Name
+id: Q28049770; format DKBTrace scene description
+id: Q6026738; format PFB
 id: Q1141412; format INI file
+id: Q27979410; format Binary Text
+id: Q81526528; format MicroStation Resource data
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q32097740; format Fallout DAT
+id: Q66439259; format WordPerfect Merge Data file format
+id: Q28755628; format Exact Yearbook LST file
+id: Q47233167; format LDR
+id: Q28009496; format Zelda Solarus DX saved game
+id: Q28206894; format Portable Float Map

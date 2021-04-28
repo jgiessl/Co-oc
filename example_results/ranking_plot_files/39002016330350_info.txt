@@ -1,66 +1,66 @@
 39002016330350.json
 top ranked environments: 
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 16.767827512474792
-environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 7.830770329670348
-environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 6.407093906093917
-environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 5.125775124875129
-environment_number: 2; environment_name: Windows 95 C (OSR 2.5) - Base V2 + Microsoft Word 2000 + 6953; score: 2.761604883109726
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 74.28525068993434
+environment_number: 9; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 46.677820287544336
+environment_number: 12; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 38.13647934207853
+environment_number: 0; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 30.455931489215214
+environment_number: 2; environment_name: Windows 95 C (OSR 2.5) - Base V2 + Microsoft Word 2000 + 6953; score: 14.227801505324292
 
 number of files:  102
 number of files with unknown format: 3
 number of files with known format: 99
 rate of files with known format: 0.9705882352941176
 contained formats: 
-id: Q4042979; format Linear Executable
-id: Q28205933; format Doodle! uncompressed image
-id: Q48782394; format Microsoft Word for MS-DOS Document, version 5.5
-id: Q28858044; format Word Binary File Format, version nFibNew=0x0112
-id: Q27979378; format VobSub index
-id: Q1076355; format Portable Executable
 id: Q51801746; format Stationery for Mac OS X
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q61641450; format WordPerfect for MS-DOS Document
-id: Q95994246; format Agilent Microarray file format
-id: Q60628185; format Wordperfect Secondary File, version 5
-id: Q1192568; format .sys
-id: Q85621726; format PFS:First Choice Document
-id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
-id: Q60000066; format Microsoft Office Owner File
-id: Q61641368; format Microsoft Word for Windows Document, version 2
-id: Q53756539; format git packfile index, version 1
-id: Q28205580; format OS/2 Icon
-id: Q29904539; format Statistical Analysis System output file
-id: Q48782238; format Microsoft Word for MS-DOS Document, version 5
-id: Q63061514; format Microsoft Word Document, version 97-2003
-id: Q58006953; format TRIM Context Reference File
-id: Q85621806; format PFS:First Choice Document 3
-id: Q66439286; format DisplayWrite Document file format, version 5
-id: Q729366; format ICO
-id: Q48915661; format Interleaf Document
-id: Q29904535; format Statistical Analysis System program
-id: Q47455565; format Windows Portable Executable file format, 64-bit
+id: Q3807693; format ASCII tab
 id: Q53756551; format git packfile index, version 2
-id: Q47455466; format Windows Portable Executable file format, 32-bit
-id: Q28858042; format Word Binary File Format, version nFibNew=0x010C
+id: Q27979378; format VobSub index
+id: Q4045294; format New Executable
+id: Q47455565; format Windows Portable Executable file format, 64-bit
+id: Q95994246; format Agilent Microarray file format
+id: Q48782394; format Microsoft Word for MS-DOS Document, version 5.5
+id: Q28858035; format Word Binary File Format, version nFib=0x00C1
+id: Q85621806; format PFS:First Choice Document 3
+id: Q48782202; format Microsoft Word for MS-DOS Document, version 4
+id: Q28205626; format Sun icon
 id: Q479833; format ا تهكير لعبة ببجي
+id: Q1192568; format .sys
+id: Q729366; format ICO
+id: Q29904539; format Statistical Analysis System output file
+id: Q48551303; format Word Perfect for Windows Document file format
+id: Q27979156; format ASCII art
+id: Q28858038; format Word Binary File Format, version nFib=0x00C2
+id: Q4042979; format Linear Executable
+id: Q28600476; format DOS device driver
+id: Q60628185; format Wordperfect Secondary File, version 5
+id: Q63061514; format Microsoft Word Document, version 97-2003
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q60000066; format Microsoft Office Owner File
+id: Q85621726; format PFS:First Choice Document
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q28205933; format Doodle! uncompressed image
+id: Q1076355; format Portable Executable
+id: Q686498; format doc
+id: Q58103465; format Adobe Font List
+id: Q62664770; format WordPerfect for MS-DOS/Windows Document file format, version 6
+id: Q66439286; format DisplayWrite Document file format, version 5
+id: Q61639409; format Microsoft Word for Windows Document, version 1
+id: Q48782238; format Microsoft Word for MS-DOS Document, version 5
+id: Q28858037; format Word Binary File Format, version nFib=0x00C0
+id: Q61641450; format WordPerfect for MS-DOS Document
+id: Q28858042; format Word Binary File Format, version nFibNew=0x010C
+id: Q28206771; format OS/2 Bitmap Array
+id: Q61641368; format Microsoft Word for Windows Document, version 2
+id: Q28858044; format Word Binary File Format, version nFibNew=0x0112
+id: Q28858041; format Word Binary File Format, version nFibNew=0x0101
+id: Q63061396; format Microsoft Word Document
+id: Q47455466; format Windows Portable Executable file format, 32-bit
+id: Q28205580; format OS/2 Icon
 id: Q62664735; format Wordperfect Secondary File, version 5.1 and 5.2
 id: Q28755628; format Exact Yearbook LST file
-id: Q28858037; format Word Binary File Format, version nFib=0x00C0
-id: Q3807693; format ASCII tab
-id: Q28600476; format DOS device driver
-id: Q48551303; format Word Perfect for Windows Document file format
-id: Q61639409; format Microsoft Word for Windows Document, version 1
-id: Q28858038; format Word Binary File Format, version nFib=0x00C2
-id: Q28858035; format Word Binary File Format, version nFib=0x00C1
-id: Q58103465; format Adobe Font List
-id: Q48782202; format Microsoft Word for MS-DOS Document, version 4
-id: Q4045294; format New Executable
-id: Q28858041; format Word Binary File Format, version nFibNew=0x0101
-id: Q28205626; format Sun icon
-id: Q63061396; format Microsoft Word Document
-id: Q723030; format AsciiDoc
+id: Q48915661; format Interleaf Document
+id: Q29904535; format Statistical Analysis System program
 id: Q48782098; format Microsoft Word for MS-DOS Document, version 3
-id: Q28206771; format OS/2 Bitmap Array
+id: Q53756539; format git packfile index, version 1
 id: Q28858039; format Word Binary File Format, version nFibNew=0x00D9
-id: Q686498; format doc
-id: Q27979156; format ASCII art

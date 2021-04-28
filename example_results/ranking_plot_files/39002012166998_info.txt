@@ -1,10 +1,10 @@
 39002012166998.json
 top ranked environments: 
-environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 13.800873665402507
-environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 1.6858541637974747
-environment_number: 11; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 1.3520483516483515
-environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.0224780219780216
-environment_number: 1; environment_name: Windows 98 Second Edition (SE) + Adobe Illustrator 9.0; score: 0.9448824576259356
+environment_number: 17; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 18.88851694791682
+environment_number: 11; environment_name: Windows 95 C (OSR 2.5) + WordPerfect Office 2000 13147; score: 4.223355458556197
+environment_number: 18; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 3.592064419859025
+environment_number: 6; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 2.4025416573002873
+environment_number: 20; environment_name: Windows XP Professional 2002 SP3 32-bit - Base V2 + Complete Office Productivity Suite for Windows 9805; score: 2.2432144444804583
 
 number of files:  575
 number of files with unknown format: 0
@@ -12,31 +12,31 @@ number of files with known format: 575
 rate of files with known format: 1.0
 contained formats: 
 id: Q28786544; format Netscape bookmarks
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q95994246; format Agilent Microarray file format
-id: Q28205439; format Sony ARW
-id: Q336284; format MPEG-1
-id: Q10287816; format GZIP
-id: Q28600764; format Electronic Arts MOV
-id: Q28018470; format MPEG-1 program stream
-id: Q217570; format Waveform Audio File Format
-id: Q166074; format Extensible HyperText Markup Language
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q58006953; format TRIM Context Reference File
-id: Q28206109; format farbfeld
-id: Q99184084; format Atom web feed
-id: Q28018471; format MPEG-2 program stream
-id: Q62626012; format HyperText Markup Language
-id: Q61901831; format Peak Graphical Waveform File
-id: Q1569639; format Interchange File Format
-id: Q1072083; format Windows Metafile
 id: Q3807693; format ASCII tab
-id: Q66134804; format Access Project file format
-id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
-id: Q1888930; format Vector Markup Language
-id: Q942350; format QuickTime File Format
-id: Q29650316; format Packed Font File Format
-id: Q8811; format HyperText Markup Language
-id: Q723030; format AsciiDoc
-id: Q2053; format HTML5
+id: Q10287816; format GZIP
+id: Q95994246; format Agilent Microarray file format
+id: Q28206109; format farbfeld
+id: Q28018471; format MPEG-2 program stream
+id: Q28018470; format MPEG-1 program stream
+id: Q1072083; format Windows Metafile
+id: Q61901831; format Peak Graphical Waveform File
 id: Q27979156; format ASCII art
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q62626012; format HyperText Markup Language
+id: Q58006953; format TRIM Context Reference File
+id: Q723030; format AsciiDoc
+id: Q1569639; format Interchange File Format
+id: Q1888930; format Vector Markup Language
+id: Q217570; format Waveform Audio File Format
+id: Q99184084; format Atom web feed
+id: Q8811; format HyperText Markup Language
+id: Q28205439; format Sony ARW
+id: Q29650316; format Packed Font File Format
+id: Q166074; format Extensible HyperText Markup Language
+id: Q66134804; format Access Project file format
+id: Q942350; format QuickTime File Format
+id: Q28600764; format Electronic Arts MOV
+id: Q26549229; format Portable Document Format/Archive, version 3 Unicode
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q2053; format HTML5
+id: Q336284; format MPEG-1

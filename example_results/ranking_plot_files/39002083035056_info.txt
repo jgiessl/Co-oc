@@ -11,10 +11,10 @@ number of files with unknown format: 22
 number of files with known format: 44
 rate of files with known format: 0.6666666666666666
 contained formats: 
-id: Q27979378; format VobSub index
 id: Q751800; format TrueType Font
 id: Q4045294; format New Executable
-id: Q27596243; format Windows Bitmap, version 3
-id: Q1144005; format WinHelp
-id: Q53756539; format git packfile index, version 1
 id: Q53756551; format git packfile index, version 2
+id: Q27979378; format VobSub index
+id: Q1144005; format WinHelp
+id: Q27596243; format Windows Bitmap, version 3
+id: Q53756539; format git packfile index, version 1

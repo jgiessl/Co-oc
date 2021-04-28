@@ -1,44 +1,44 @@
 39002077941996.json
 top ranked environments: 
-environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 4.15867734714901
-environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 3.187919714731881
-environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 1.874549994271882
-environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 1.491309090909091
-environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.40019999999999994
+environment_number: 4; environment_name: Windows 95 + Corel WordPerfect Suite 7; score: 13.663680195053855
+environment_number: 13; environment_name: Windows XP Professional 2002 SP3 32 Bit + Microsoft Office Ultimate 2007 6995; score: 12.878998149075489
+environment_number: 5; environment_name: Windows 95 C (OSR 2.5) + Lotus SmartSuite Millennium Edition 12636; score: 10.099388510460615
+environment_number: 14; environment_name: Windows XP Professional 2002 SP3 32 Bit + WordPerfect Office 11 12811; score: 2.8352462436747814
+environment_number: 6; environment_name: Windows 95 C (OSR 2.5) + Microsoft Office 2000 Premium 13167; score: 0.583735027293573
 
 number of files:  1812
 number of files with unknown format: 49
 number of files with known format: 1763
 rate of files with known format: 0.9729580573951435
 contained formats: 
-id: Q4042979; format Linear Executable
-id: Q51035227; format Paradox Database Table, version 4
-id: Q930281; format Windows thumbnail cache
-id: Q1076355; format Portable Executable
-id: Q939636; format CorelDRAW Document
-id: Q28858032; format Microsoft Word Binary File Format
-id: Q336284; format MPEG-1
-id: Q1662484; format Information Presentation Facility
-id: Q79241659; format Lotus Accessory
+id: Q4045294; format New Executable
+id: Q47455565; format Windows Portable Executable file format, 64-bit
+id: Q66811836; format Inform source code file
+id: Q28600435; format Consolidated.db
+id: Q28018471; format MPEG-2 program stream
 id: Q28018470; format MPEG-1 program stream
+id: Q1662484; format Information Presentation Facility
+id: Q4042979; format Linear Executable
+id: Q28858032; format Microsoft Word Binary File Format
+id: Q27596243; format Windows Bitmap, version 3
 id: Q217570; format Waveform Audio File Format
-id: Q51034969; format Paradox Database Table format, version 3
+id: Q1076355; format Portable Executable
+id: Q28600763; format Electronic Arts INF
 id: Q751800; format TrueType Font
-id: Q1676669; format JPEG File Interchange Format, version 1.02
-id: Q51837224; format Paradox Database Table, version 7
-id: Q28600454; format DB (Watcom-SQL)
-id: Q51035340; format Paradox Database Table, version 5
+id: Q51034969; format Paradox Database Table format, version 3
+id: Q930281; format Windows thumbnail cache
 id: Q99184084; format Atom web feed
 id: Q28600453; format SQLite database file format
-id: Q28018471; format MPEG-2 program stream
-id: Q27596243; format Windows Bitmap, version 3
-id: Q47455565; format Windows Portable Executable file format, 64-bit
-id: Q47455466; format Windows Portable Executable file format, 32-bit
-id: Q28600435; format Consolidated.db
-id: Q28600763; format Electronic Arts INF
-id: Q380319; format dynamic-link library
+id: Q51035340; format Paradox Database Table, version 5
 id: Q1882110; format DOS MZ executable
-id: Q16996920; format Windows Setup Information File
-id: Q66811836; format Inform source code file
-id: Q4045294; format New Executable
+id: Q380319; format dynamic-link library
+id: Q28600454; format DB (Watcom-SQL)
+id: Q939636; format CorelDRAW Document
+id: Q47455466; format Windows Portable Executable file format, 32-bit
 id: Q684554; format Autorun.inf
+id: Q1676669; format JPEG File Interchange Format, version 1.02
+id: Q51035227; format Paradox Database Table, version 4
+id: Q51837224; format Paradox Database Table, version 7
+id: Q79241659; format Lotus Accessory
+id: Q16996920; format Windows Setup Information File
+id: Q336284; format MPEG-1
