@@ -3,7 +3,6 @@ from matcher import *
 import json
 from environment_process import *
 from ast import literal_eval as mt
-import multiprocessing as mp
 from training import Mode
 
 
@@ -39,6 +38,9 @@ class Calculator:
 
         self.offset = 0
 
+        self.k = 0
+        self.b = 0
+
         self.matcher = Matcher()
 
         self.readable_formats_of_environment_puid = {}
@@ -52,6 +54,20 @@ class Calculator:
         self.global_co_occurrence_matrix_puid = {}
 
         self.global_co_occurrence_matrix_dir_puid = {}
+
+        self.df_map = {}
+
+        self.df_map_puid = {}
+
+        self.number_objects = 0
+        self.document_lengths = []
+
+        self.number_objects_puid = 0
+        self.document_lengths_puid = []
+        self.avdl = 0
+        self.avdl_puid = 0
+        self.idf_map = {}
+        self.idf_map_puid = {}
 
     def load_format_id_map(self):
         sep = os.sep
@@ -193,6 +209,62 @@ class Calculator:
                 key = mt(keys)
                 self.global_co_occurrence_matrix_puid[key] = value
 
+    def load_df_maps(self):
+        sep = os.sep
+        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+        file = 'df_map.json'
+        file2 = 'lengths.json'
+        with open(os.path.join(path, file), 'r+', encoding='utf8',
+                  errors='ignore') as json_file:
+            data = json.load(json_file)
+            for keys, value in data.items():
+                self.df_map[int(keys)] = value
+
+        with open(os.path.join(path, file2), 'r+', encoding='utf8',
+                  errors='ignore') as json_file:
+            data2 = json.load(json_file)
+            self.number_objects = data2['number_objects']
+            self.document_lengths = data2['document_lengths']
+
+    def load_df_maps_puid(self):
+        sep = os.sep
+        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+        file = 'df_map_puid.json'
+        file2 = 'lengths.json'
+        with open(os.path.join(path, file), 'r+', encoding='utf8',
+                  errors='ignore') as json_file:
+            data = json.load(json_file)
+            for keys, value in data.items():
+                self.df_map_puid[int(keys)] = value
+
+        with open(os.path.join(path, file2), 'r+', encoding='utf8',
+                  errors='ignore') as json_file:
+            data2 = json.load(json_file)
+            self.number_objects_puid = data2['number_objects_puid']
+            self.document_lengths_puid = data2['document_lengths_puid']
+
+    def calculate_idf_map(self):
+        for key, value in self.df_map.items():
+            self.idf_map[key] = self.number_objects / (value + 1)
+
+    def calculate_avdl(self):
+        counter = len(self.document_lengths)
+        summ = 0
+        for x in self.document_lengths:
+            summ += x
+        self.avdl = summ / counter
+
+    def calculate_idf_map_puid(self):
+        for key, value in self.df_map_puid.items():
+            self.idf_map_puid[key] = self.number_objects_puid / (value + 1)
+
+    def calculate_avdl_puid(self):
+        counter = len(self.document_lengths_puid)
+        summ = 0
+        for x in self.document_lengths_puid:
+            summ += x
+        self.avdl_puid = summ / counter
+
     def setup(self, mode):
         sep = os.sep
         data = self.get_parameters(os.path.dirname(os.path.abspath(__file__)) + sep + 'data', "config.json")
@@ -201,6 +273,8 @@ class Calculator:
         self.l = data["local"]
         self.ldir = data["local_dir"]
         self.offset = data["offset"]
+        self.k = data["bm25_k"]
+        self.b = data["bm25_b"]
         if mode == Mode.pronom:
             self.load_format_id_map_puid()
             self.op.formatIdMap_puid = self.formatIdMap_puid
@@ -209,6 +283,9 @@ class Calculator:
             self.load_environment_id_map()
             self.read_readable_formats_from_file_puid(self.formatIdMap_puid)
             self.load_normalized_matrices_puid()
+
+            self.load_df_maps_puid()
+
             self.matcher.readable_formats_of_environment_puid = self.readable_formats_of_environment_puid
         else:
             self.load_format_id_map()
@@ -218,6 +295,9 @@ class Calculator:
             self.load_environment_id_map()
             self.read_readable_formats_from_file(self.formatIdMap)
             self.load_normalized_matrices()
+
+            self.load_df_maps()
+
             self.matcher.readable_formats_of_environment = self.readable_formats_of_environment
 
     def setup_complete(self):
@@ -228,6 +308,8 @@ class Calculator:
         self.l = data["local"]
         self.ldir = data["local_dir"]
         self.offset = data["offset"]
+        self.k = data["bm25_k"]
+        self.b = data["bm25_b"]
 
         self.load_format_id_map_puid()
         self.load_format_id_map()
@@ -248,6 +330,9 @@ class Calculator:
         self.load_normalized_matrices_puid()
         self.load_normalized_matrices()
 
+        self.load_df_maps()
+        self.load_df_maps_puid()
+
         self.matcher.readable_formats_of_environment_puid = self.readable_formats_of_environment_puid
         self.matcher.readable_formats_of_environment = self.readable_formats_of_environment
 
@@ -261,6 +346,9 @@ class Calculator:
                 self.global_co_occurrence_matrix_dir_puid, mode)
             processed_matrix =\
                 self.g * global_co_occurrence_matrix_csc_puid + self.gdir * global_co_occurrence_matrix_dir_csc_puid
+
+            self.calculate_idf_map_puid()
+            self.calculate_avdl_puid()
         else:
             global_co_occurrence_matrix_csc = self.op.create_csc_matrix_from_dict(self.global_co_occurrence_matrix,
                                                                                   mode)
@@ -268,6 +356,8 @@ class Calculator:
                 self.global_co_occurrence_matrix_dir, mode)
             processed_matrix =\
                 self.g * global_co_occurrence_matrix_csc + self.gdir * global_co_occurrence_matrix_dir_csc
+            self.calculate_idf_map()
+            self.calculate_avdl()
 
 
         # formatting matrix for partial addition
@@ -280,6 +370,7 @@ class Calculator:
 
         # here calc start
         self.op.process_data_object(path_to_object, filename)
+        self.op.process_data_object_tf(path_to_object, filename)
 
         if mode == Mode.pronom:
             # summing matrices describing the current data-object
@@ -289,6 +380,10 @@ class Calculator:
             off = self.op.create_diagonal_matrix(mode)
             # summing the bias matrices and the matrices describing the current data-object
             mat = self.op.partial_add(matrix, processed_matrix_formatted, mode) + self.offset * off
+
+            tf_res_tuple = self.op.process_data_object_tf(path_to_object, filename)
+            tf_map = tf_res_tuple[1]
+            dl = tf_res_tuple[2]
         else:
             # summing matrices describing the current data-object
             matrix = self.ldir * self.op.calculate_relative_weight_matrix(self.op.create_csc_matrix_from_dict(
@@ -298,24 +393,36 @@ class Calculator:
             # summing the bias matrices and the matrices describing the current data-object
             mat = self.op.partial_add(matrix, processed_matrix_formatted, mode) + self.offset * off
 
+            tf_res_tuple = self.op.process_data_object_tf(path_to_object, filename)
+            tf_map = tf_res_tuple[0]
+            dl = tf_res_tuple[2]
+
 
         # make rankings
         if mode == Mode.pronom:
             result = self.matcher.rank_environments_for_object_puid(mat, self.environmentIdMap)
+
+            result_tf_idf = self.matcher.rank_environments_tf_idf_puid(tf_map, self.idf_map, self.avdl, dl, self.k,
+                                                                       self.b, self.environmentIdMap)
             # getting additoinal information and formatting the output
             number_files = self.op.stats_puid[filename][0]
             number_unknown_files = self.op.stats_puid[filename][1]
             formats = self.op.stats_puid[filename][2]
             allknown = self.matcher.check_for_all_known_formats_puid(off, self.environmentIdMap)
-            res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown)
+            res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown,
+                                     result_tf_idf)
         else:
             result = self.matcher.rank_environments_for_object(mat, self.environmentIdMap)
+
+            result_tf_idf = self.matcher.rank_environments_tf_idf(tf_map, self.idf_map, self.avdl, dl, self.k, self.b,
+                                                                  self.environmentIdMap)
             # getting additoinal information and formatting the output
             number_files = self.op.stats[filename][0]
             number_unknown_files = self.op.stats[filename][1]
             formats = self.op.stats[filename][2]
             allknown = self.matcher.check_for_all_known_formats(off, self.environmentIdMap)
-            res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown)
+            res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown,
+                                     result_tf_idf)
 
         dumping_results(res)
         # reset local storage
@@ -359,6 +466,11 @@ class Calculator:
         for x in pmf_puid:
             processed_matrix_formatted_puid[(x[0], x[1])] = x[2]
 
+        self.calculate_idf_map()
+        self.calculate_idf_map_puid()
+        self.calculate_avdl()
+        self.calculate_avdl_puid()
+
         for filename in os.listdir(path_to_object):
             mode = check_mode(path_to_object, filename)
             if mode is None:
@@ -373,6 +485,10 @@ class Calculator:
                 off = self.op.create_diagonal_matrix(mode)
                 # summing the bias matrices and the matrices describing the current data-object
                 mat = self.op.partial_add(matrix, processed_matrix_formatted, mode) + self.offset * off
+
+                tf_res_tuple = self.op.process_data_object_tf(path_to_object, filename)
+                tf_map = tf_res_tuple[0]
+                dl = tf_res_tuple[2]
             else:
                 # summing matrices describing the current data-object
                 matrix = self.ldir * self.op.calculate_relative_weight_matrix(self.op.create_csc_matrix_from_dict(
@@ -382,23 +498,35 @@ class Calculator:
                 # summing the bias matrices and the matrices describing the current data-object
                 mat = self.op.partial_add(matrix, processed_matrix_formatted_puid, mode) + self.offset * off
 
+                tf_res_tuple = self.op.process_data_object_tf(path_to_object, filename)
+                tf_map = tf_res_tuple[1]
+                dl = tf_res_tuple[2]
+
             # make rankings
             if mode == Mode.pronom:
                 result = self.matcher.rank_environments_for_object_puid(mat, self.environmentIdMap)
+                result_tf_idf = self.matcher.rank_environments_tf_idf(tf_map, self.idf_map, self.avdl, dl, self.k,
+                                                                      self.b,
+                                                                      self.environmentIdMap)
                 # getting additional information and formatting the output
                 number_files = self.op.stats_puid[filename][0]
                 number_unknown_files = self.op.stats_puid[filename][1]
                 formats = self.op.stats_puid[filename][2]
                 allknown = self.matcher.check_for_all_known_formats_puid(off, self.environmentIdMap)
-                res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown)
+                res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown,
+                                         result_tf_idf)
             else:
                 result = self.matcher.rank_environments_for_object(mat, self.environmentIdMap)
+                result_tf_idf = self.matcher.rank_environments_tf_idf(tf_map, self.idf_map, self.avdl, dl, self.k,
+                                                                      self.b,
+                                                                      self.environmentIdMap)
                 # getting additoinal information and formatting the output
                 number_files = self.op.stats[filename][0]
                 number_unknown_files = self.op.stats[filename][1]
                 formats = self.op.stats[filename][2]
                 allknown = self.matcher.check_for_all_known_formats(off, self.environmentIdMap)
-                res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown)
+                res = self.format_result(filename, number_files, number_unknown_files, formats, result, allknown,
+                                         result_tf_idf)
             dumping_results(res)
             # reset local storage
             self.op.lCOM.clear()
@@ -424,7 +552,7 @@ class Calculator:
             return data
 
     @staticmethod
-    def format_result(filename, number_files, number_unknown_files, formats, ranking, allknown):
+    def format_result(filename, number_files, number_unknown_files, formats, ranking, allknown, ranking_tf_idf):
         result = dict()
         result["filename"] = filename
         result["number_files"] = number_files
@@ -433,6 +561,8 @@ class Calculator:
         for x in ranking:
             result[x[0]] = dict()
             result[x[0]]["co-oc"] = x[1]
+        for x in ranking_tf_idf:
+            result[x[0]]["tf-idf"] = x[1]
         for x in allknown.items():
             result[x[0]]["AllKnownFormatsReadable"] = x[1]
             if x[1] == False:

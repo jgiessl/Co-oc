@@ -58,6 +58,18 @@ class ObjectTrainProcessor:
         # stores the format ids (Integer) of the current data object
         # self.formats_of_current_data = set()
 
+        # format frequencies in the objects
+        self.df_map = {}
+        self.df_map_puid = {}
+
+        # number of files in the objects
+        self.document_lengths = []
+        self.document_lengths_puid = []
+
+        # number of objects in the training set
+        self.number_objects = 0
+        self.number_objects_puid = 0
+
     def add_to_COM(self, id_1, id_2, matrix_type, mode):
         """
         Helper function for building the matrices which store the frequencies of the format co-occurrences
@@ -100,7 +112,6 @@ class ObjectTrainProcessor:
             self.formatIdMap[file_format] = self.formatIdCounter
             self.formatIdMap_reverse[self.formatIdCounter] = file_format
             self.formatIdCounter += 1
-
 
     def add_format_id_puid(self, file_format):
         """
@@ -147,7 +158,6 @@ class ObjectTrainProcessor:
         """
         Gets the directory of the data object which contains the given file
         :param filepath: Path/To/the/File/In/Object
-        :param filename: Name of the File
         :return: Directory of file in a data object
         """
         temp = filepath.replace("\\", "/")
@@ -434,6 +444,136 @@ class ObjectTrainProcessor:
                 key = mt(keys)
                 self.gCOM_puid[key] = value
 
+    def pre_process_data_objects_idf(self, path_to_objects):
+        """
+        Function which processes all the data objects in a given location
+        and counts the occurrences of file formats in data objects
+        - for the calculation of the idf values of the formats
+        :param path_to_objects: Path/To/Objects
+        """
+        for filename in os.listdir(path_to_objects):
+            with open(os.path.join(path_to_objects, filename), 'r', encoding='utf8',
+                      errors='ignore') as f:
+                try:
+                    data = json.load(f)
+                except JSONDecodeError:
+                    print('### Could not decode Jason {0}'.format(filename))
+                    continue
+                files = data["files"]
+                if len(files) == 0:
+                    print("### Siegfried-output of {0} doesn't have any files".format(filename))
+                    continue
+                if len(data["identifiers"]) > 1:
+                    print("program currently cannot handle multiple identifiers at the same time.")
+                    continue
+                elif len(data["identifiers"]) < 1:
+                    print("no identifiers are specified in siegfried output.")
+                    continue
+                else:
+                    if data["identifiers"][0]["name"] == "wikidata":
+                        mode = Mode.wikidata
+                    elif data["identifiers"][0]["name"] == "pronom":
+                        mode = Mode.pronom
+                    else:
+                        print("program can only handle the wikidata and the pronom identifiers")
+                        continue
+                if mode == Mode.pronom:
+                    self.number_objects_puid += 1
+                else:
+                    self.number_objects += 1
+                format_set = set()
+                format_set_puid = set()
+                document_length = 0
+                # parsing and sorting of the files
+                for x in files:
+                    possible_formats = x["matches"]
+                    document_length += 1
+                    for y in possible_formats:
+                        if y["id"] == 'UNKNOWN':
+                            continue
+                        if mode == Mode.pronom:
+                            if y['id'] not in self.formatIdMap_puid:
+                                self.add_format_id_puid(y["id"])
+                            format_set_puid.add(self.formatIdMap_puid[y['id']])
+                        else:
+                            if y['id'] not in self.formatIdMap:
+                                self.add_format_id(y["id"])
+                            format_set.add(self.formatIdMap[y['id']])
+                for x in format_set:
+                    if x not in self.df_map:
+                        self.df_map[x] = 1
+                    else:
+                        self.df_map[x] += 1
+                for y in format_set_puid:
+                    if y not in self.df_map_puid:
+                        self.df_map_puid[y] = 1
+                    else:
+                        self.df_map_puid[y] += 1
+                if mode == Mode.pronom:
+                    self.document_lengths_puid.append(document_length)
+                else:
+                    self.document_lengths.append(document_length)
+
+    def load_df_maps(self):
+        sep = os.sep
+        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+        file = 'df_map.json'
+        file1 = 'df_map_puid.json'
+        file2 = 'lengths.json'
+        with open(os.path.join(path, file), 'r+', encoding='utf8',
+                  errors='ignore') as json_file:
+            data = json.load(json_file)
+            for keys, value in data.items():
+                self.df_map[int(keys)] = value
+
+        with open(os.path.join(path, file1), 'r+', encoding='utf8',
+                  errors='ignore') as json_file:
+            data1 = json.load(json_file)
+            for keys, value in data1.items():
+                self.df_map_puid[int(keys)] = value
+
+        with open(os.path.join(path, file2), 'r+', encoding='utf8',
+                  errors='ignore') as json_file:
+            data2 = json.load(json_file)
+            self.number_objects = data2['number_objects']
+            self.number_objects_puid = data2['number_objects_puid']
+            self.document_lengths = data2['document_lengths']
+            self.document_lengths_puid = data2['document_lengths_puid']
+
+    def save_df_values(self, mode):
+        """
+        Saves the values needed for calculation of tf-idf-values
+        :param mode: Mode of the program, i.e. does program run using PUID or Wikidata-ID
+        """
+        sep = os.sep
+        path = os.path.dirname(os.path.abspath(__file__)) + sep + 'data' + sep + 'training_data'
+        if mode == Mode.pronom:
+            file = 'df_map_puid.json'
+            with open(os.path.join(path, file), 'w+', encoding='utf8',
+                      errors='ignore') as json_file:
+                json.dump(self.df_map_puid, json_file)
+        else:
+            file = 'df_map.json'
+            with open(os.path.join(path, file), 'w+', encoding='utf8',
+                      errors='ignore') as json_file:
+                json.dump(self.df_map, json_file)
+
+        file2 = 'lengths.json'
+        serialize = dict()
+        serialize['number_objects'] = self.number_objects
+        serialize['number_objects_puid'] = self.number_objects_puid
+        serialize['document_lengths'] = self.document_lengths
+        serialize['document_lengths_puid'] = self.document_lengths_puid
+        with open(os.path.join(path, file2), 'w+', encoding='utf8',
+                  errors='ignore') as json_file:
+            json.dump(serialize, json_file)
+
+    def train_idf_necessary_values(self, path, mode):
+        self.load_format_id_map()
+        self.load_df_maps()
+        self.pre_process_data_objects_idf(path)
+        self.save_df_values(mode)
+
 
 class MatrixType(Enum):
     global_mat = 1
@@ -475,15 +615,19 @@ def main(argv):
                 # loading old data
                 otp.load_format_id_map()
                 otp.load_counting_matrices()
+                otp.load_df_maps()
 
                 # training
                 otp.pre_process_data_objects(path_to_objects)
+                otp.pre_process_data_objects_idf(path_to_objects)
 
                 # saving new training data
                 otp.save_format_id_map_to_files(Mode.wikidata)
                 otp.save_format_id_map_to_files(Mode.pronom)
                 otp.save_counting_matrices(Mode.wikidata)
                 otp.save_counting_matrices(Mode.pronom)
+                otp.save_df_values(Mode.pronom)
+                otp.save_df_values(Mode.wikidata)
 
                 if otp.wiki_changed:
                     object_matrix = otp.calculate_relative_weight_matrix(otp.create_csc_matrix_from_dict(
@@ -508,6 +652,7 @@ def main(argv):
 
                 otp.load_format_id_map()
                 otp.pre_process_data_objects(path_to_objects)
+                otp.pre_process_data_objects_idf(path_to_objects)
 
                 # saving new training data
                 if otp.pronom_changed:
@@ -517,8 +662,10 @@ def main(argv):
 
                 if otp.pronom_changed:
                     otp.save_counting_matrices(Mode.pronom)
+                    otp.save_df_values(Mode.pronom)
                 if otp.wiki_changed:
                     otp.save_counting_matrices(Mode.wikidata)
+                    otp.save_df_values(Mode.wikidata)
 
                 if otp.wiki_changed:
                     object_matrix = otp.calculate_relative_weight_matrix(otp.create_csc_matrix_from_dict(
@@ -558,6 +705,8 @@ def usage():
 
 
 if __name__ == "__main__":
+    otp = ObjectTrainProcessor()
+    # otp.train_idf_necessary_values(sys.argv[1])
     main(sys.argv)
 
 

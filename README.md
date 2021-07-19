@@ -2,6 +2,15 @@
 The co-oc-tool provides five 'tools'. The 'main tool' takes the siegfried output of a data-object
 in JSON format (the by siegfried used identifier has to be pronom xor wikidata) as input (or a folder of such siegfried outputs)  
 and recommends(ranks) an environment from a set of environments known to the tool.  
+The ranking results for are returned as JSON-file with the following structure:  
+{"filename": name of the digital object,  
+ "number_files": number of files in the object,  
+ "number_unknown_files": number of files where the format could not be determined,  
+ "formats": [[Wikidata Id, Name of the format], ...],  
+ "name of environment": {"co-oc": Co-occurrence score of the environment for the object,  
+ "tf-idf": BM25-model score of the environment for the object,  
+ "AllKnownFormatsReadable": bool,  
+ "AllFormatsReadable": bool}}  
 The 'training tool' takes a folder of 'siegfried- JSONs' as specified above to train the
 decision model (used in the' main tool').  
 The 'environment tool' is for managing the environments the 'main tool' knows.  

@@ -1,6 +1,7 @@
 import copy
 import time
 
+
 class Matcher:
 
     def __init__(self):
@@ -112,6 +113,102 @@ class Matcher:
 
         return d
 
+    def calculate_tf_idf_overlap(self, environmentId, tf_map, idf_map, avdl, dl, k, b):
+        """
+        Calculates the weight of the overlap between environment and data object based on
+        the tf-idf values of the formats
+        :param environmentId: Id of the environment
+        :param tf_map: Map which stores the tf values of the formats for a given data object
+        :param idf_map: idf_map: Map which stores the idf values for each format
+        :param avdl: Average document length -> Average number of files in a data object
+        :param dl: Document length -> Number of files in data object
+        :param k: Control parameter
+        :param b: Control parameter
+        :return: Weight of the overlap (Score of the environment in respect to a data object)
+        """
+        tmp = copy.deepcopy(self.readable_formats_of_environment[environmentId])
+        summ = 0
+        s = set()
+        while len(tmp) > 0:
+            s.add(tmp.pop())
+        for formats in s:
+            if formats in tf_map:
+                summ += Matcher.bm25_formula(tf_map[formats], idf_map[formats], dl, avdl, k, b)
+        return summ
+
+    @staticmethod
+    def bm25_formula(tf, idf, dl, avdl, k, b):
+        """
+        Calculates the relevance of a format
+        :param tf: Term frequency
+        :param idf: Inverse document frequency
+        :param dl: Document length -> Number of files in data object
+        :param avdl: Average document length -> Average number of files in a data object
+        :param k: Control parameter
+        :param b: Control parameter
+        :return: Score based on the Okapi Bm25 formula
+        """
+        tf_ = (tf * (k + 1)) / (k * (1 - b + b * (dl / avdl)) + tf)
+        return tf_ * idf
+
+    def rank_environments_tf_idf(self, tf_map, idf_map, avdl, dl, k, b, environmentIdMap):
+        """
+        Ranks all possible Environments according to tf-idf values of the formats
+        which are shared by the data object and the environments
+        :param tf_map: Map which stores the tf values of the formats for a given data object
+        :param idf_map: Map which stores the idf values for each format
+        :param avdl: Average document length -> Average number of files in a data object
+        :param dl: Document length -> Number of files in data object
+        :param k: Control parameter
+        :param b: Control parameter
+        :return: Sorted list of the likely environments
+        """
+        tmp = []
+        for item in environmentIdMap.items():
+            overlap = self.calculate_tf_idf_overlap(item[1], tf_map, idf_map, avdl, dl, k, b)
+            tmp.append((item[0], overlap))
+        return tmp
+
+    def calculate_tf_idf_overlap_puid(self, environmentId, tf_map, idf_map, avdl, dl, k, b):
+        """
+        Calculates the weight of the overlap between environment and data object based on
+        the tf-idf values of the formats
+        :param environmentId: Id of the environment
+        :param tf_map: Map which stores the tf values of the formats for a given data object
+        :param idf_map: idf_map: Map which stores the idf values for each format
+        :param avdl: Average document length -> Average number of files in a data object
+        :param dl: Document length -> Number of files in data object
+        :param k: Control parameter
+        :param b: Control parameter
+        :return: Weight of the overlap (Score of the environment in respect to a data object)
+        """
+        tmp = copy.deepcopy(self.readable_formats_of_environment_puid[environmentId])
+        summ = 0
+        s = set()
+        while len(tmp) > 0:
+            s.add(tmp.pop())
+        for formats in s:
+            if formats in tf_map:
+                summ += Matcher.bm25_formula(tf_map[formats], idf_map[formats], dl, avdl, k, b)
+        return summ
+
+    def rank_environments_tf_idf_puid(self, tf_map, idf_map, avdl, dl, k, b, environmentIdMap):
+        """
+        Ranks all possible Environments according to tf-idf values of the formats
+        which are shared by the data object and the environments
+        :param tf_map: Map which stores the tf values of the formats for a given data object
+        :param idf_map: Map which stores the idf values for each format
+        :param avdl: Average document length -> Average number of files in a data object
+        :param dl: Document length -> Number of files in data object
+        :param k: Control parameter
+        :param b: Control parameter
+        :return: Sorted list of the likely environments
+        """
+        tmp = []
+        for item in environmentIdMap.items():
+            overlap = self.calculate_tf_idf_overlap_puid(item[1], tf_map, idf_map, avdl, dl, k, b)
+            tmp.append((item[0], overlap))
+        return tmp
 
 
 

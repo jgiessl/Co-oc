@@ -177,7 +177,6 @@ class ObjectProcessor:
         x = sp.csc_matrix((vals, (rows, cols)), shape=(dim, dim))
         return x
 
-
     @staticmethod
     def get_file_format_combinations(list_of_sets):
         """
@@ -223,7 +222,6 @@ class ObjectProcessor:
             else:
                 data.append(i[2])
         return sp.csc_matrix((data, (rows, cols)), shape=(dim, dim))
-
 
     def process_data_object(self, path, filename):
         """
@@ -325,6 +323,66 @@ class ObjectProcessor:
             for x in object_format_combinations:
                 for y in x:
                     self.add_to_COM(y[0], y[1], MatrixType.local_mat, mode)
+
+    def process_data_object_tf(self, path, filename):
+        """
+        Function which processes a specific data object and builds the matrix
+        representing the format co-occurrences of the object
+        :param path: Path/To/Objects
+        :param filename: Name of the Object
+        """
+        with open(os.path.join(path, filename), 'r', encoding='utf8',
+                  errors='ignore') as f:
+            try:
+                data = json.load(f)
+            except JSONDecodeError:
+                return
+            files = data["files"]
+            if len(files) == 0:
+                return
+
+            if len(data["identifiers"]) > 1:
+                print("program currently cannot handle multiple identifiers at the same time.")
+                return
+            elif len(data["identifiers"]) < 1:
+                print("no identifiers are specified in siegfried output.")
+                return
+            else:
+                if data["identifiers"][0]["name"] == "wikidata":
+                    mode = Mode.wikidata
+                elif data["identifiers"][0]["name"] == "pronom":
+                    mode = Mode.pronom
+                else:
+                    print("program can only handle the wikidata and the pronom identifiers")
+                    return
+
+            tf_map = {}
+            tf_map_puid = {}
+            document_length = 0
+            # parsing and sorting of the files
+            for x in files:
+                possible_formats = x["matches"]
+                document_length += 1
+                for y in possible_formats:
+                    if y["id"] == 'UNKNOWN':
+                        continue
+                    if mode == Mode.pronom:
+                        if y['id'] not in self.formatIdMap_puid:
+                            self.add_format_id_puid(y["id"])
+                        if self.formatIdMap_puid[y['id']] not in tf_map_puid:
+                            tf_map_puid[self.formatIdMap_puid[y['id']]] = 1
+                        else:
+                            tf_map_puid[self.formatIdMap_puid[y['id']]] += 1
+                    else:
+                        if y['id'] not in self.formatIdMap:
+                            self.add_format_id(y["id"])
+                        if self.formatIdMap[y['id']] not in tf_map:
+                            tf_map[self.formatIdMap[y['id']]] = 1
+                        else:
+                            tf_map[self.formatIdMap[y['id']]] += 1
+        return tf_map, tf_map_puid, document_length
+
+
 
 
 
